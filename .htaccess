@@ -1,0 +1,11 @@
+# Prevent Prying Eyes from Viewing Directory Contents
+Options All -Indexes
+
+# Handle Error 404 with a Special Page
+ErrorDocument 404 /404.php
+
+# Restrict Portions of the Site (Once Running)
+#AuthType Basic
+#AuthName "restricted area"
+#AuthUserFile/usr/local/var/www/html/.htpasses
+#require valid-user
