@@ -96,6 +96,22 @@
 		</div>
 
 		<hr>
+		<!-- Event Coordinator -->
+		<div class="row">
+			<div class="col-md-3">
+				<div class="officer-cropped"
+					style="background-image: url('/images/Officers/Event_Beatriz_Vallarino.jpg')">
+				</div>
+			</div>
+			<div class="col-md-9">
+				<h3>Beatriz Vallarino</h3>
+				<h4>Event Coordinator</h4>
+				<p>Beatriz is a Sophomore pursuing a major in Electrical Engineering and a minor in German. She joined Purdue IEEE during her first semester at Purdue which was Spring 2015. Since then, she has held the position of Event Coordinator. Before coming to the United States, she was part of IEEE Technological University of Panama where she first was introduced to the IEEE community. Apart from engineering, Bea enjoys meeting new people, learning about different cultures, and reading.</p>
+				<p><em>Committee Involvement</em>: <a href="/committees/aerialrobotics/">Aerial Robotics</a></p>
+			</div>
+		</div>
+
+		<hr>
 		<!-- Committee Chair #1 -->
 		<div class="row">
 			<div class="col-md-3">
@@ -145,7 +161,7 @@
 		</div>
 
 		<hr>
-		<!-- Committee Chair #4 -->
+		<!-- Committee Chair #3 -->
 		<div class="row">
 			<div class="col-md-3">
 				<div class="officer-cropped"
@@ -161,7 +177,7 @@
 		</div>
 
 		<hr>
-		<!-- Committee Chair #5 -->
+		<!-- Committee Chair #4 -->
 		<div class="row">
 			<div class="col-md-3">
 				<div class="officer-cropped"
@@ -177,7 +193,7 @@
 		</div>
 
 		<hr>
-		<!-- Committee Chair #6 -->
+		<!-- Committee Chair #5 -->
 		<div class="row">
 			<div class="col-md-3">
 				<div class="officer-cropped"
