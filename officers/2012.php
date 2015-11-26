@@ -53,13 +53,14 @@
 		<div class="row">
 			<div class="col-md-3">
 				<div class="officer-cropped"
-					style="background-image: url('/images/Officers/Treas_Daniel.jpg')">
+					style="background-image: url('/images/Officers/Treas_Daniel_Klass.jpg')">
 				</div>
 			</div>
 			<div class="col-md-9">
 				<h3>Daniel Klass</h3>
 				<h4>Treasurer</h4>
-				<p></p>
+				<p>Daniel is a Senior in Industrial Engineering with minors in Electrical and Computer Engineering and Statistics. After graduation, he started working at Texas Instruments in Richardson, TX. His main areas of interest are operations research and data science. The semiconductor industry provides quite the challenge with non-linear processes, unlike nearly all other industries, with one exception being website traffic flow. Python + Pandas development comprise his main area of expertise.</p>
+				<p><em>Personal Statement</em>: One of my passions in life is making the world a better, more efficient place to advance our quality of life. Before the modern steam engine, human achievement was tied to population... essentially how much we could lift over our head. Following the steam engine's invention, we often let the machines do the heavy lifting and life became less tedious. I believe computing does the same thing for our minds that steam engines did for our bodies; it frees them to do what matters most: changing the world.</p>
 				<!-- <p><em>Committee Involvement</em>:</p> -->
 			</div>
 		</div>
