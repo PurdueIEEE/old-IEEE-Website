@@ -155,7 +155,7 @@
 			<div class="col-md-9">
 				<h3>John Courtney</h3>
 				<h4>Racing Committee Chair</h4>
-				<p></p>
+				<p>John Courtney is a Junior in Mechanical Engineering. Prior to joining Purdue IEEE, he was actively involved in the Purdue EPICS (Engineering Projects in Community Service) Program. He joined Purdue IEEE in Fall 2013 where he played the role of Electrical Lead for the Racing Committee. He is now Captain of the Racing Committee. John is strongly interested in motorsports and the automotive industry. His other interests include going rock climbing, travelling, and fishing.</p>
 				<p><em>Committee Involvement</em>: <a href="/committees/racing/">Racing</a></a></p>
 			</div>
 		</div>
