@@ -200,7 +200,11 @@
 				</div>
 				
     			<p class="text-justify">Seth Baklor and a small, yet dedicated group of four other students founded the team in 2008. Despite it being the first year, the team finished 5th in the Explorer class in Buzzards Bay, MA. ROV <em>Osprey</em> was a submarine rescue vehicle.</p>
-    			<p class="text-center"> <img src="/committees/rov/images/Osprey.jpg" alt="ROV Osprey" style="width:80%"></p>
+    			<p class="text-center"> <img src="/committees/rov/images/Osprey.jpg" alt="ROV Osprey" style="width:80%"></p><br>
+    			
+    			<h3 class="text-center"><em>2008: </em>ROV<em> Sugrak</em></h3>
+    			<p class="text-justify">Seth Baklor, Joe Pellettiere, and Dustin Mitchell met before the formation of the committee itself to create a practice vehicle. Intended as a learning platform for the fledgling team, ROV <em>Sugrak</em>, with her simple manipulator and PVC frame, was never finished.</p>
+    			<p class="text-center"> <img src="/committees/rov/images/Sugrak.jpg" alt="ROV Sugrak" style="width:80%"></p>
             </div>
 			
 	    </div> 
