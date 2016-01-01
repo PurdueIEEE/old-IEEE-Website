@@ -1,5 +1,5 @@
 <?php 
-    $title = 'IEEE ROV- History';
+    $title = 'IEEE ROV - History';
     include '../../../header.php';
 ?>
 
@@ -43,9 +43,9 @@
 
 	        <!-- Content Column -->
 	    	<div class="col-md-7 text-dark col-md-offset-1">
-                <h1 class="text-center">ROV Team History:</h1><br>
+                <h1 class="text-center">ROV Team History</h1><br>
 
-                <h3 class="text-center"><em>2015 - 2016: X8</em></h3>
+                <h3 class="text-center"><em>2015 - 2016: ROV X8</em></h3>
                 <p class="text-justify">This is the current season. The mission will take place in Houston, TX at NASA's Neutral Buoyancy Lab June 23 - 25, 2016. With almost all veteran members returning the team is eagerly preparing for the challenge of exploring Jupiter's moon, Europa, and revisiting the Gulf of Mexico!</p><br>
 
 
@@ -62,9 +62,13 @@
 					</div>
 				</div>
 				
-    			<p class="text-justify">The team faced its third change in captancy with Kyle Rakos taking over along with many new team members. The dedicated 
-    			group of 20 students finished 15th out of 42 registered teams in St. John's, NL, Canada. The team is eager to use what they 
-    			learned to finish in the top 5 next year.</p>
+				<div class="row">
+					<div class="col-md-12 text-dark">
+						<p class="text-center"><a href="/committees/rov/history/cerulean.php">Press Releases</a></p>
+					</div>
+				</div>
+				
+    			<p class="text-justify">The team faced its third change in captancy with Kyle Rakos taking over. The many new team members designed this polar oilfield service vehicle. The dedicated group of 20 students finished 15th out of 42 registered teams in St. John's, NL, Canada. The team is eager to use what they learned to finish in the top 5 next year.</p>
     			<p class="text-center"> <img src="/committees/rov/images/ROV_Cerulean.jpg" alt="ROV Cerulean" style="width:80%"></p><br>
 			
  
@@ -72,6 +76,12 @@
     			<div class="row">
 					<div class="col-md-12 text-dark">
 						<p class="text-center"><a href="https://www.facebook.com/media/set/?set=a.725757954152443.1073741851.576379772423596&type=3">Season Pictures</a></p>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-12 text-dark">
+						<p class="text-center"><a href="/committees/rov/history/x6.php">Press Releases</a></p>
 					</div>
 				</div>
 				
@@ -88,6 +98,12 @@
 					</div>
 					<div class="col-md-4 text-dark">
 						<p class="text-center"><a href="https://drive.google.com/file/d/0B4fhEqCNKuhBYWZIRkZheDJxTmM">Team Poster</a></p>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-12 text-dark">
+						<p class="text-center"><a href="/committees/rov/history/modeln.php">Press Releases</a></p>
 					</div>
 				</div>
 				
@@ -108,6 +124,12 @@
 					</div>
 				</div>
 				
+				<div class="row">
+					<div class="col-md-12 text-dark">
+						<p class="text-center"><a href="/committees/rov/history/potatos.php">Press Releases</a></p>
+					</div>
+				</div>
+				
     			<p class="text-justify">The Purdue Offshore Tanker Assessment and Tactical Operations Submersible finished 2nd Place in Orlando, FL. Seth Baklor was one of sixteen team members that made this shipwreck study and fuel oil extraction vehicle.</p>
     			<p class="text-center"> <img src="/committees/rov/images/PotaTOS.jpg" alt="ROV PotaTOS" style="width:80%"></p><br>
     			
@@ -122,6 +144,12 @@
 					</div>
 					<div class="col-md-4 text-dark">
 						<p class="text-center"><a href="https://drive.google.com/file/d/0B4fhEqCNKuhBakVlczhBV2x1NEU">Team Poster</a></p>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-12 text-dark">
+						<p class="text-center"><a href="/committees/rov/history/hybris.php">Press Releases</a></p>
 					</div>
 				</div>
 				
@@ -142,6 +170,12 @@
 					</div>
 				</div>
 				
+				<div class="row">
+					<div class="col-md-12 text-dark">
+						<p class="text-center"><a href="/committees/rov/history/competence.php">Press Releases</a></p>
+					</div>
+				</div>
+				
     			<p class="text-justify">The eight team members, including Captain Seth Baklor, finished 4th in the Explorer class in Hilo, HI. ROV <em>Competence</em> was a volcanic seamount exploration vehicle.</p>
     			<p class="text-center"> <img src="/committees/rov/images/Competence.jpg" alt="ROV Competence" style="width:80%"></p><br>
     			
@@ -156,6 +190,12 @@
 					</div>
 					<div class="col-md-4 text-dark">
 						<p class="text-center"><a href="https://drive.google.com/file/d/0B4fhEqCNKuhBN2tFN2RqWXpFNmM">Team Poster</a></p>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-12 text-dark">
+						<p class="text-center"><a href="/committees/rov/history/osprey.php">Press Releases</a></p>
 					</div>
 				</div>
 				
