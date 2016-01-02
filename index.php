@@ -97,7 +97,7 @@
 							</span>
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">Aerial Robotics</h4>
+							<h4 class="media-heading"><a href="/committees/partieee/">Aerial Robotics</a></h4>
 							<p>Aerial Robotics Team creates an unmanned aerial system (UAS) to compete in AUVSI SUAS Competition. The end goal is to develop an autonomous system complete with a Ground Control Station (GCS). They are looking for members to help design the airframe, develop autopilot and image processing algorithms, and design electrical hardware such as flight controllers and other PCBs.</p><br>
 						</div>
 					</div>
@@ -113,7 +113,7 @@
 							</span>
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">Computer Society</h4>
+							<h4 class="media-heading"><a href="/committees/csociety/">Computer Society</a></h4>
 							<p>The IEEE Computer Society. They recently reunited with Purdue IEEE. They hold education sessions, do small projects, and provide web services for many different organizations on campus. Their site is at csociety.org. Check there for updates! </p><br>
 						</div>
 					</div>
@@ -130,7 +130,7 @@
 							</span>
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">EMBS</h4>
+							<h4 class="media-heading"><a href="/committees/embs/">EMBS</a></h4>
 							<p>The IEEE EMBS (Engineering in Medicine and Biology Society) focuses on the development and application of engineering concepts and methods to provide new solutions to biological, medical, and healthcare problems while also providing its members the ability to learn skills and gain experience beneficial throughout the rest of their careers.</p>
 						</div>
 					</div>
@@ -145,7 +145,7 @@
 							</span>
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">Learning Committee</h4>
+							<h4 class="media-heading"><a href="/committees/learning/">Learning Committee</a></h4>
 							<p>The Learning Commitee is made to help prospective and current members of the Purdue IEEE branch get experience they need to develop their project-oriented skills that are crucial in both their academic and professional careers. This involves many different events, projects, and different levels of outreach to help expand IEEE's collection of skilled members.</p><br>
 						</div>
 					</div>
@@ -162,7 +162,7 @@
 							</span>
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">Racing</h4>
+							<h4 class="media-heading"><a href="/committees/racing/">Racing</a></h4>
 							<p>Racing builds an electric go-kart to compete in evGrandPrix at Purdue and at the Indy Motor Speedway. They are looking for members to redesign some systems, help get sponsors for new batteries, further improve safety features, and investigate more efficient motors.</p><br>
 						</div>
 					</div>
@@ -177,7 +177,7 @@
 							</span>
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">Rocket Team</h4>
+							<h4 class="media-heading"><a href="/committees/rocket/">Rocket Team</a></h4>
 							<p>Our goal is to further space flight technology through designing, testing, and implementing systems to achieve orbit for small satellite platforms at an affordable price. This multi-disciplinary team is focused on utilizing Faculty and Industry resources to provide the first formal Purdue design, build, test rocket team.</p><br>
 						</div>
 					</div>
@@ -194,7 +194,7 @@
 							</span>
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">ROV</h4>
+							<h4 class="media-heading"><a href="/committees/rov/">ROV</a></h4>
 							<p>ROV (Remotely Operated underwater Vehicle) designs and builds an ROV to compete in the MATE (Marine Advanced Technology Education) International ROV Competition each year. They are looking for members to model designs in 3D, restore old vehicles, and assemble next year's vehicle.</p><br>
 						</div>
 					</div>
