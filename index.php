@@ -177,7 +177,7 @@
 							</span>
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading"><a href="/committees/rocket/">Rocket Team</a></h4>
+							<h4 class="media-heading"><a href="/committees/orbital/">Orbital Committee</a></h4>
 							<p>Our goal is to further space flight technology through designing, testing, and implementing systems to achieve orbit for small satellite platforms at an affordable price. This multi-disciplinary team is focused on utilizing Faculty and Industry resources to provide the first formal Purdue design, build, test rocket team.</p><br>
 						</div>
 					</div>

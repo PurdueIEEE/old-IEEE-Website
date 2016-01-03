@@ -86,7 +86,7 @@
 								<a href="/committees/rov/">ROV</a>
 							</li>
 							<li>
-								<a href="/committees/rocket/">Rocket</a>
+								<a href="/committees/orbital/">Orbital</a>
 							</li>
 						</ul>
 					</li>

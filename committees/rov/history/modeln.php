@@ -38,7 +38,7 @@
                         <ul><a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki</a> </ul>
                     </ul>
                     </div>  
-                    <a href="/committees/rocket/" class="list-group-item">Rocket</a>
+                    <a href="/committees/orbital/" class="list-group-item">Orbital</a>
                 </div>
             </div>
             
