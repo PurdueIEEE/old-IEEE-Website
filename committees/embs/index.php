@@ -28,7 +28,7 @@
 					<a href="/committees/learning/" class="list-group-item">Learning Committee</a>
 					<a href="/committees/racing/" class="list-group-item">Racing</a>
 					<a href="/committees/rov/" class="list-group-item">Remotely Operated underwater Vehicle</a>
-					<a href="/committees/rocket/" class="list-group-item">Rocket</a>
+					<a href="/committees/orbital/" class="list-group-item">Orbital</a>
 				</div>
 			</div>
 

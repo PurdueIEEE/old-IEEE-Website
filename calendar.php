@@ -23,7 +23,7 @@
 					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #CF5D5D; color: white; text-align: center;">Aerial Robotics</div>
 					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #55D4C3; color: white; text-align: center;">Computer Society</div>
 					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #DB8A1D; color: white; text-align: center;">Learning</div>
-					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #891DDB; color: white; text-align: center;">Rocket Team</div>
+					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #891DDB; color: white; text-align: center;">Orbital</div>
 					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #E8CB4F; color: white; text-align: center;">ROV</div>
 					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #2196F3; color: white; text-align: center;">EMBS</div>
 				</div>
