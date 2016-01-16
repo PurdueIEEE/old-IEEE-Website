@@ -1,2 +1,2 @@
-<h4>Thanks for a great semester!</h4>
-<p>Good luck on your final projects and exams! See you next semester.</p>
+<h4>Our Spring callout is January 20th!</h4>
+<p>Meet us at 6:30pm in EE 117, and we'll have free Subway!</p>

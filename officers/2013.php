@@ -44,7 +44,7 @@
 				<h3>Flor Albornoz</h3>
 				<h4>Vice President and Conference Committee Chair (Spring 2014)</h4>
 				<p>Flor is a Sophomore in Electrical Engineering. Flor became part of IEEE in Fall 2012 by joining the ROV Committee. She's currently part of the Electrical Team in the ROV Committee and hopes to experience the learning opportunities other IEEE committees provide. Flor has learned a vast amount being part of IEEE and is certain that it will help her chose the right area of interest in her career. As Vice President, Flor works with the President in keeping up the awareness of IEEE, improve relations in the community, and organizing the IEEE and its committees.</p>
-				<p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
+				<p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a>, Conference</p>
 			</div>
 		</div>
 
