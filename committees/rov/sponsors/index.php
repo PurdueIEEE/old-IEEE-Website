@@ -27,6 +27,7 @@
 					<a href="/committees/csociety/" class="list-group-item">Computer Society</a>
 					<a href="/committees/embs/" class="list-group-item">Engineering in Medicine and Biology Society</a>
 					<a href="/committees/learning/" class="list-group-item">Learning Committee</a>
+					<a href="/committees/orbital/" class="list-group-item">Orbital</a>
 					<a href="/committees/racing/" class="list-group-item">Racing</a>
 					<a href="/committees/rov" class="list-group-item">Remotely Operated underwater Vehicle</a>
 					<div id="rov" class="panel-collapse collapse in">
@@ -37,7 +38,6 @@
 						<ul><a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki</a> </ul>
 					</ul>
 					</div>  
-					<a href="/committees/orbital/" class="list-group-item">Orbital</a>
 				</div>
 			</div>
 
