@@ -80,13 +80,13 @@
 								<a href="/committees/learning/">Learning Committee</a>
 							</li>
 							<li>
+								<a href="/committees/orbital/">Orbital</a>
+							</li>
+							<li>
 								<a href="/committees/racing/">Racing</a>
 							</li>
 							<li>
 								<a href="/committees/rov/">ROV</a>
-							</li>
-							<li>
-								<a href="/committees/orbital/">Orbital</a>
 							</li>
 						</ul>
 					</li>
