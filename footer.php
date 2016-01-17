@@ -14,12 +14,17 @@
 	<!-- Bootstrap Core JavaScript -->
 	<script src="/js/bootstrap.min.js"></script>
 
+	<?php if ($carousel) { 
+	//Activate the carousel on the main page only ?>
+	
 	<!-- Script to Activate the Carousel -->
 	<script>
 	$('.carousel').carousel({
 		interval: 5000 //changes the speed
 	})
 	</script>
+
+	<?php } ?>
 
 
 	<script>

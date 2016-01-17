@@ -1,5 +1,8 @@
 <?php 
 	$title = 'Purdue IEEE';
+
+	//Output js in footer to load carousel
+	$carousel = true;
 	include 'header.php';
 ?>
 
