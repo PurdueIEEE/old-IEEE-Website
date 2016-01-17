@@ -1,15 +1,15 @@
 <?php 
-	$title = 'Signup - Purdue IEEE';
+	$title = 'Join Mailing Lists - Purdue IEEE';
 	include 'header.php';
 ?>
 
 	<!-- Page Heading/Breadcrumbs -->
 	<div class="row">
 		<div class="col-lg-12">
-			<h1 class="page-header">About</h1>
+			<h1 class="page-header">Join Mailing Lists</h1>
 			<ol class="breadcrumb">
 				<li><a href="/">Home</a></li>
-				<li class="active">About</li>
+				<li class="active">Join Mailing Lists</li>
 			</ol>
 		</div>
 	</div>
@@ -18,7 +18,7 @@
 	<div class="well">
 		<div class="row">
 			<div class="col-lg-12 text-dark">
-				<h1 class="text-center">Sign up for IEEE Mailing Lists</h1>
+				<h1 class="text-center">Join IEEE Mailing Lists</h1>
 
 				<div class="col-md-8 col-md-offset-2 text-dark" id="content">
 				<form id="signup-form" action="signup_post.php" title="" method="post" style="font-size: 18px">
