@@ -175,9 +175,24 @@
 				<p><em>Committee Involvement</em>: <a href="/committees/embs/">EMBS</a></a></p>
 			</div>
 		</div>
+		
+		<!-- Committee Chair #3 -->
+		<div class="row">
+			<div class="col-md-3">
+				<div class="officer-cropped"
+					style="background-image: url('/images/Officers/Dane_Rudy.jpg')">
+				</div>
+			</div>
+			<div class="col-md-9">
+				<h3>Dane Rudy</h3>
+				<h4>Orbital Committee Chair</h4>
+				<p>Dane Rudy is a Junior from Hudson, Wisconsin majoring in Mechanical Engineering and minoring in Global Engineering Studies. He joined IEEE as a member of ROV in the Spring of 2015. Dane is passionate about the space industry and this has led him to founding IEEE Orbital. As Project Manager for IEEE Orbital, he is in charge of motivating and managing the team both logistically and technically. He is an Eagle Scout and in his free time he enjoys rock climbing, backpacking, sailing, and playing soccer. Dane is scheduled to graduate Spring 2017.</p>
+				<p><em>Committee Involvement</em>: <a href="/committees/orbital/">Orbital</a></p>
+			</div>
+		</div>
 
 		<hr>
-		<!-- Committee Chair #3 -->
+		<!-- Committee Chair #4 -->
 		<div class="row">
 			<div class="col-md-3">
 				<div class="officer-cropped"
@@ -193,7 +208,7 @@
 		</div>
 
 		<hr>
-		<!-- Committee Chair #4 -->
+		<!-- Committee Chair #5 -->
 		<div class="row">
 			<div class="col-md-3">
 				<div class="officer-cropped"
@@ -209,20 +224,7 @@
 		</div>
 
 		<hr>
-		<!-- Committee Chair #5 -->
-		<div class="row">
-			<div class="col-md-3">
-				<div class="officer-cropped"
-					style="background-image: url('/images/Officers/Dane_Rudy.jpg')">
-				</div>
-			</div>
-			<div class="col-md-9">
-				<h3>Dane Rudy</h3>
-				<h4>Orbital Committee Chair</h4>
-				<p>Dane Rudy is a Junior from Hudson, Wisconsin majoring in Mechanical Engineering and minoring in Global Engineering Studies. He joined IEEE as a member of ROV in the Spring of 2015. Dane is passionate about the space industry and this has led him to founding IEEE Orbital. As Project Manager for IEEE Orbital, he is in charge of motivating and managing the team both logistically and technically. He is an Eagle Scout and in his free time he enjoys rock climbing, backpacking, sailing, and playing soccer. Dane is scheduled to graduate Spring 2017.</p>
-				<p><em>Committee Involvement</em>: <a href="/committees/orbital/">Orbital</a></p>
-			</div>
-		</div>
+		
 
 
 		<hr>
