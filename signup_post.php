@@ -13,7 +13,7 @@
 
 	$names = array(
 		"announcements" => "IEEE Announcements",
-		"aerial" => "PARTIEEE",
+		"aerial" => "Aerial Robotics",
 		"csociety" => "IEEE Computer Society",
 		"embs" => "Engineering Medicine and Biology Society",
 		"learning" => "Learning Committee",
