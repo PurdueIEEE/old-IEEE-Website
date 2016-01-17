@@ -26,7 +26,7 @@
 					<input type="email" id="email" name="email" class="form-control"><br>
 	
 					<label>Mailing Lists to Subscribe to:</label>
-					<div class="checkbox">
+					<div class="checkbox" style="margin-top: 0">
 						<label><input type="checkbox" name="list[]" value="announcements">IEEE Announcements</label><br>
 						<label><input type="checkbox" name="list[]" value="aerial">PARTIEEE</label><br>
 						<label><input type="checkbox" name="list[]" value="csociety">IEEE Computer Society</label><br>
