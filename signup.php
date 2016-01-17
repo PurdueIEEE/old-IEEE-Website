@@ -84,6 +84,9 @@
 						$('input:checked').each(function(){
 							$(this).removeAttr("checked");
 						})
+						
+						$("#content > .alert-info").remove();
+						$("#content > .alert-danger").remove();
 
 						$('#email').focus();
 					}

@@ -1,6 +1,6 @@
 <?php
 	
-	$mailing_lists = [
+	$mailing_lists = array(
 		"announcements" => "https://lists.csociety.org/subscribe/ieee-announcements",
 		"aerial" => "https://lists.csociety.org/subscribe/ieee-aerialrobotics",
 		"csociety" => "https://lists.csociety.org/subscribe/csociety-announce",
@@ -9,9 +9,9 @@
 		"orbital" => "https://lists.csociety.org/subscribe/ieee-rocket",
 		"racing" => "https://lists.csociety.org/subscribe/ieee-grandprix",
 		"rov" => "https://lists.csociety.org/subscribe/ieee-rov"
-	];
+	);
 
-	$names = [
+	$names = array(
 		"announcements" => "IEEE Announcements",
 		"aerial" => "PARTIEEE",
 		"csociety" => "IEEE Computer Society",
@@ -20,7 +20,7 @@
 		"orbital" => "Purdue Orbital",
 		"racing" => "Racing",
 		"rov" => "Remotely Operated underwater Vehicle"
-	];
+	);
 
 	$email = preg_replace('/[^a-z0-9@_+.-]/i', '_', $_POST['email']);
 	$list = $_POST['list'];
