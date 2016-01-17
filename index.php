@@ -22,7 +22,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<div class="fill" style="background-image:url('/images/aerial.png');"></div>
+						<div class="fill" style="background-image:url('/images/aerial.jpg');"></div>
 						<div class="carousel-caption">
 							<h2>Aerial Robotics</h2>
 						</div>
