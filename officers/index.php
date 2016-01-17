@@ -48,7 +48,7 @@
 		</div>
 
 		<hr>
-		<!-- Treasurer -->
+		<!-- Treasurer-Fall -->
 		<div class="row">
 			<div class="col-md-3">
 				<div class="officer-cropped"
@@ -57,9 +57,25 @@
 			</div>
 			<div class="col-md-9">
 				<h3>John Lee</h3>
-				<h4>Learning Committee Chair</h4>
+				<h4>Learning Committee Chair, Treasurer (Fall 2015)</h4>
 				<p>John is a Senior in Computer Engineering. Since his arrival in IEEE during the Fall of 2013, John has moved up from among the different organizations within IEEE. From heading a project on a Portal turret (perpetually in progress) to becoming the previous Treasurer and a software developer for the ROV Committee, John has developed and continues to develop knowledge regarding the inner workings of the organization. This includes managing all of the funds within each committee. John currently is focusing on rebuilding the Learning Committee, an old committee that had been disbanded five years prior but was brought back so that younger students could develop the skills necessary to feel confident contributing to larger-scale project. He is scheduled to graduate in May 2016.</p>
 				<p><em>Committee Involvement</em>: <a href="/committees/learning/">Learning</a>, <a href="/committees/csociety/">Computer Society</a>, <a href="committees/rov/">ROV</a></p>
+			</div>
+		</div>
+
+		<hr>
+		<!-- Treasurer-Spring -->
+		<div class="row">
+			<div class="col-md-3">
+				<div class="officer-cropped"
+					style="background-image: url('/images/Officers/Teal_Dowd.jpg')">
+				</div>
+			</div>
+			<div class="col-md-9">
+				<h3>Teal Dowd</h3>
+				<h4>Treasurer (Spring 2016)</h4>
+				<p>Teal Dowd is a Sophomore in Mechanical engineering. Since the beginning of high school he has loved and been on robotics team. Starting with the FIRST robotics program, he is now one of the predominant design and manufacturing members on the Purdue ROV team. He also works for the Artisan Fabrication Laboratory machine shop, where he mentors students in safe and proper tool use ranging from CNC mills and lathes to hand tools. His goal is to work (and intern) for an aerospace company or robotics lab. Also with a cursory personal interest in personal finance, he is now taking on the role of IEEE Treasurer and is hoping to streamline and expedite the reimbursement process.</p>
+				<p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
 			</div>
 		</div>
 
@@ -208,21 +224,6 @@
 			</div>
 		</div>
 
-		<hr>
-		<!-- Committee Chair #6 -->
-		<div class="row">
-			<div class="col-md-3">
-				<div class="officer-cropped"
-					style="background-image: url('/images/Officers/Teal_Dowd.jpg')">
-				</div>
-			</div>
-			<div class="col-md-9">
-				<h3>Teal Dowd</h3>
-				<h4>Treasurer</h4>
-				<p>Teal Dowd is a Sophomore in Mechanical engineering. Since the beginning of high school he has loved and been on robotics team. Starting with the FIRST robotics program, he is now one of the predominant design and manufacturing members on the Purdue ROV team. He also works for the Artisan Fabrication Laboratory machine shop, where he mentors students in safe and proper tool use ranging from CNC mills and lathes to hand tools. His goal is to work (and intern) for an aerospace company or robotics lab. Also with a cursory personal interest in personal finance, he is now taking on the role of IEEE Treasurer and is hoping to streamline and expedite the reimbursement process.</p>
-				<p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
-			</div>
-		</div>
 
 		<hr>
 		<!--- Pagination -->
