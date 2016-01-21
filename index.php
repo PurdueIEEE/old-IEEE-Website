@@ -1,5 +1,8 @@
 <?php 
 	$title = 'Purdue IEEE';
+
+	//Output js in footer to load carousel
+	$carousel = true;
 	include 'header.php';
 ?>
 
@@ -19,7 +22,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<div class="fill" style="background-image:url('/images/aerial.png');"></div>
+						<div class="fill" style="background-image:url('/images/aerial.jpg');"></div>
 						<div class="carousel-caption">
 							<h2>Aerial Robotics</h2>
 						</div>

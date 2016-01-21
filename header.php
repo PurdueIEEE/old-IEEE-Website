@@ -93,6 +93,9 @@
 					<li>
 						<a href="/officers/">Officers</a>
 					</li>
+					<li>
+						<a href="/signup.php">Join Mailing Lists</a>
+					</li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->

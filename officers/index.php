@@ -48,7 +48,7 @@
 		</div>
 
 		<hr>
-		<!-- Treasurer -->
+		<!-- Treasurer-Fall -->
 		<div class="row">
 			<div class="col-md-3">
 				<div class="officer-cropped"
@@ -57,9 +57,25 @@
 			</div>
 			<div class="col-md-9">
 				<h3>John Lee</h3>
-				<h4>Learning Committee Chair</h4>
+				<h4>Learning Committee Chair, Treasurer (Fall 2015)</h4>
 				<p>John is a Senior in Computer Engineering. Since his arrival in IEEE during the Fall of 2013, John has moved up from among the different organizations within IEEE. From heading a project on a Portal turret (perpetually in progress) to becoming the previous Treasurer and a software developer for the ROV Committee, John has developed and continues to develop knowledge regarding the inner workings of the organization. This includes managing all of the funds within each committee. John currently is focusing on rebuilding the Learning Committee, an old committee that had been disbanded five years prior but was brought back so that younger students could develop the skills necessary to feel confident contributing to larger-scale project. He is scheduled to graduate in May 2016.</p>
 				<p><em>Committee Involvement</em>: <a href="/committees/learning/">Learning</a>, <a href="/committees/csociety/">Computer Society</a>, <a href="committees/rov/">ROV</a></p>
+			</div>
+		</div>
+
+		<hr>
+		<!-- Treasurer-Spring -->
+		<div class="row">
+			<div class="col-md-3">
+				<div class="officer-cropped"
+					style="background-image: url('/images/Officers/Teal_Dowd.jpg')">
+				</div>
+			</div>
+			<div class="col-md-9">
+				<h3>Teal Dowd</h3>
+				<h4>Treasurer (Spring 2016)</h4>
+				<p>Teal Dowd is a Sophomore in Mechanical engineering. Since the beginning of high school he has loved and been on robotics team. Starting with the FIRST robotics program, he is now one of the predominant design and manufacturing members on the Purdue ROV team. He also works for the Artisan Fabrication Laboratory machine shop, where he mentors students in safe and proper tool use ranging from CNC mills and lathes to hand tools. His goal is to work (and intern) for an aerospace company or robotics lab. Also with a cursory personal interest in personal finance, he is now taking on the role of IEEE Treasurer and is hoping to streamline and expedite the reimbursement process.</p>
+				<p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
 			</div>
 		</div>
 
@@ -159,41 +175,8 @@
 				<p><em>Committee Involvement</em>: <a href="/committees/embs/">EMBS</a></a></p>
 			</div>
 		</div>
-
-		<hr>
+		
 		<!-- Committee Chair #3 -->
-		<div class="row">
-			<div class="col-md-3">
-				<div class="officer-cropped"
-					style="background-image: url('/images/Officers/Racing_John.jpg')">
-				</div>
-			</div>
-			<div class="col-md-9">
-				<h3>John Courtney</h3>
-				<h4>Racing Committee Chair</h4>
-				<p>John Courtney is a Senior in Mechanical Engineering. Prior to joining Purdue IEEE, he was actively involved in the Purdue EPICS (Engineering Projects in Community Service) Program. He joined Purdue IEEE in Fall 2013 where he played the role of Electrical Lead for the Racing Committee. Since Fall 2014, he has worked as Captain of the Racing Committee. John is strongly interested in motorsports and the automotive industry. His other interests include going rock climbing, travelling, and fishing.</p>
-				<p><em>Committee Involvement</em>: <a href="/committees/racing/">Racing</a></a></p>
-			</div>
-		</div>
-
-		<hr>
-		<!-- Committee Chair #4 -->
-		<div class="row">
-			<div class="col-md-3">
-				<div class="officer-cropped"
-					style="background-image: url('/images/Officers/Kyle.jpg')">
-				</div>
-			</div>
-			<div class="col-md-9">
-				<h3>Kyle Rakos</h3>
-				<h4>Remotely Operated underwater Vehicle (ROV) Committee Chair</h4>
-				<p>Kyle Rakos is a Junior in Computer Engineering. He joined IEEE at the beginning of his freshman year by taking on the role of Sponsorship Coordinator of the Purdue IEEE ROV Team. His technical and administrative passions continue to grow as he took on role of the Industrial Relations Head of IEEE and Captain of the ROV team. During these roles he interacts with companies on behalf of IEEE and organizes the ROV team in the MATE International ROV Competition. Feeling the desire to improve upon his 15th Place finish the previous season, he is devoting all his time to being the Team Captain for ROV. He also enjoys playing sports and is interested in space.</p>
-				<p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a>, <a href="/committees/orbital/">Orbital</a></p>
-			</div>
-		</div>
-
-		<hr>
-		<!-- Committee Chair #5 -->
 		<div class="row">
 			<div class="col-md-3">
 				<div class="officer-cropped"
@@ -209,20 +192,40 @@
 		</div>
 
 		<hr>
-		<!-- Committee Chair #6 -->
+		<!-- Committee Chair #4 -->
 		<div class="row">
 			<div class="col-md-3">
 				<div class="officer-cropped"
-					style="background-image: url('/images/Officers/Teal_Dowd.jpg')">
+					style="background-image: url('/images/Officers/Racing_John.jpg')">
 				</div>
 			</div>
 			<div class="col-md-9">
-				<h3>Teal Dowd</h3>
-				<h4>Treasurer</h4>
-				<p>Teal Dowd is a Sophomore in Mechanical engineering. Since the beginning of high school he has loved and been on robotics team. Starting with the FIRST robotics program, he is now one of the predominant design and manufacturing members on the Purdue ROV team. He also works for the Artisan Fabrication Laboratory machine shop, where he mentors students in safe and proper tool use ranging from CNC mills and lathes to hand tools. His goal is to work (and intern) for an aerospace company or robotics lab. Also with a cursory personal interest in personal finance, he is now taking on the role of IEEE Treasurer and is hoping to streamline and expedite the reimbursement process.</p>
-				<p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
+				<h3>John Courtney</h3>
+				<h4>Racing Committee Chair</h4>
+				<p>John Courtney is a Senior in Mechanical Engineering. Prior to joining Purdue IEEE, he was actively involved in the Purdue EPICS (Engineering Projects in Community Service) Program. He joined Purdue IEEE in Fall 2013 where he played the role of Electrical Lead for the Racing Committee. Since Fall 2014, he has worked as Captain of the Racing Committee. John is strongly interested in motorsports and the automotive industry. His other interests include going rock climbing, travelling, and fishing.</p>
+				<p><em>Committee Involvement</em>: <a href="/committees/racing/">Racing</a></a></p>
 			</div>
 		</div>
+
+		<hr>
+		<!-- Committee Chair #5 -->
+		<div class="row">
+			<div class="col-md-3">
+				<div class="officer-cropped"
+					style="background-image: url('/images/Officers/Kyle.jpg')">
+				</div>
+			</div>
+			<div class="col-md-9">
+				<h3>Kyle Rakos</h3>
+				<h4>Remotely Operated underwater Vehicle (ROV) Committee Chair</h4>
+				<p>Kyle Rakos is a Junior in Computer Engineering. He joined IEEE at the beginning of his freshman year by taking on the role of Sponsorship Coordinator of the Purdue IEEE ROV Team. His technical and administrative passions continue to grow as he took on role of the Industrial Relations Head of IEEE and Captain of the ROV team. During these roles he interacts with companies on behalf of IEEE and organizes the ROV team in the MATE International ROV Competition. Feeling the desire to improve upon his 15th Place finish the previous season, he is devoting all his time to being the Team Captain for ROV. He also enjoys playing sports and is interested in space.</p>
+				<p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a>, <a href="/committees/orbital/">Orbital</a></p>
+			</div>
+		</div>
+
+		<hr>
+		
+
 
 		<hr>
 		<!--- Pagination -->
