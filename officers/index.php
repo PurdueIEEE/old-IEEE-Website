@@ -74,7 +74,7 @@
 			<div class="col-md-9">
 				<h3>Teal Dowd</h3>
 				<h4>Treasurer (Spring 2016)</h4>
-				<p>Teal Dowd is a Sophomore in Mechanical engineering. Since the beginning of high school he has loved and been on robotics team. Starting with the FIRST robotics program, he is now one of the predominant design and manufacturing members on the Purdue ROV team. He also works for the Artisan Fabrication Laboratory machine shop, where he mentors students in safe and proper tool use ranging from CNC mills and lathes to hand tools. His goal is to work (and intern) for an aerospace company or robotics lab. Also with a cursory personal interest in personal finance, he is now taking on the role of IEEE Treasurer and is hoping to streamline and expedite the reimbursement process.</p>
+				<p>Teal Dowd is a Sophomore in Mechanical Engineering. Since the beginning of high school he has loved and been on robotics teams. Starting with the FIRST Robotics program, he is now one of the predominant design and manufacturing members on the Purdue ROV team. He also works for the Artisan Fabrication Laboratory machine shop, where he mentors students in safe and proper tool use ranging from CNC mills and lathes to hand tools. His goal is to work (and intern) for an aerospace company or robotics lab. Also with a cursory personal interest in personal finance, he is now taking on the role of IEEE Treasurer and is hoping to streamline and expedite the reimbursement process.</p>
 				<p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
 			</div>
 		</div>

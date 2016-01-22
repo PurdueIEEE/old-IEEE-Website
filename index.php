@@ -7,9 +7,14 @@
 ?>
 
 	<div class="row">
-		<div class="col-lg-12">
+		<div class="col-md-6">
 			<h2 class="page-header">Purdue IEEE</h2>
 		</div>
+		<div class="col-md-6">
+			<img class="img-responsive" src="/images/Brand/ieee-mb-black.png" alt="IEEE">
+		</div>
+	</div>
+	<div class="row">
 		<div class="col-lg-12">
 			<!-- Header Carousel -->
 			<header id="myCarousel" class="carousel slide">
@@ -74,7 +79,6 @@
 
 	<div class="well text-dark">
 		<div class="row">
-
 			<div class="col-md-12">
 				<div class="media">
 					<div class="pull-left">
