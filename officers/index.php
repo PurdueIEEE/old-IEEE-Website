@@ -224,6 +224,22 @@
 		</div>
 
 		<hr>
+		<!-- Committee Chair #6 -->
+		<div class="row">
+			<div class="col-md-3">
+				<div class="officer-cropped"
+					style="background-image: url('/images/Officers/Sanay_Shah.jpg')">
+				</div>
+			</div>
+			<div class="col-md-9">
+				<h3>Sanay Shah</h3>
+				<h4>Interim Remotely Operated underwater Vehicle (ROV) Committee Chair</h4>
+				<p>Sanay Shah is a sophomore in Industrial Engineering. He joined IEEE at the beginning of his freshman year by taking on the role of Mechanical team member of the Purdue IEEE ROV Team. His technical and administrative passions continue to grow as he became the Manufacturing Advisory Board on the Mechanical Team and Captain of the ROV team for the spring 2016. During these roles he has an advisory role in all manufacturing decisions on the Mechanical Team and organizes the ROV team in the MATE International ROV Competition. Feeling the desire to improve upon his 15th Place finish the previous season, he is devoting all his time to being the Team Captain for ROV. He has had internships at RSS Grinders & Automation as a machinist operating manual and CNC machinery. He also enjoys playing and watching sports and is a huge fan of The Chicago Blackhawks.</p>
+				<p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
+			</div>
+		</div>
+
+		<hr>
 		
 
 

@@ -11,7 +11,7 @@
 			<h2 class="page-header">Purdue IEEE</h2>
 		</div>
 		<div class="col-md-6">
-			<img class="img-responsive" src="/images/Brand/ieee-mb-black.png" alt="IEEE">
+			<img class="img-responsive pull-right" src="/images/Brand/ieee-mb-black.png" alt="IEEE">
 		</div>
 	</div>
 	<div class="row">
