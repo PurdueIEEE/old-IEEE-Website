@@ -64,7 +64,7 @@
 				
 				<p class="text-justify">The team is eagerly preparing for the 2015 - 2016 competition at NASA's Neutral Buyouncy Lab in Houston, Texas from 
 				June 23 - 25, 2016. For more current and past information view the links to the left or 
-				contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>.</p><br>
+				contact <a href="mailto:shah196@purdue.edu">Sanay Shah</a>.</p><br>
 				
 				<p class="text-center"><img src="/committees/rov/images/ROVCeruleanRender.jpg" alt="ROV Cerulean" style="width:90%"></p>
 				
