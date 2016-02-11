@@ -81,7 +81,7 @@
 					<table class="table">
 						<tbody>
 							<tr>
-								<td>Vincent Zhang</td>
+								<td>Wen Shen Mow</td>
 								<td>Austin White</td>
 								<td>Nick Molo</td>
 								<td>Luke McBee</td>
@@ -90,7 +90,7 @@
 							</tr>
 							<tr>
 								<td>Rodolfo Leiva</td>
-								<td>Nick</td>
+								<td>Nick Loffredo</td>
 								<td>Jakob Andren</td>
 								<td>Jeff Geiss</td>
 								<td>Alan Han</td>
@@ -143,15 +143,17 @@
 						<td>Ben Maxfield</td>
 						<td>Jason King</td>
 						<td>Ryan McBee</td>
+						<td>Joel Copi</td>
 						<td>Vyaas Shankar</td>
 					</tr>
 					<tr>
+						<td></td>
 						<td>Oksana Makarova</td>
 						<td>Ajay Kumar</td>
 						<td>Mikey Reeves</td>
+						<td>Nathan Glotzbach</td>
 						<td>Yuqin Duan</td>
 						<td>Brandon Stewart</td>
-						<td></td>
 					</tr>
 					</tbody>
 				</table>
