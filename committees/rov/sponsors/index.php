@@ -45,7 +45,7 @@
 			<div class="col-md-7 text-dark col-md-offset-1">
 				<h2>Sponsors</h2>
 				<p>Without the help of our generous sponsors, the ROV team would be unable to compete. We are very thankful for their support. </p>
-				<p>If you are interested in supporting the team at various levels please contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>.</p><br>
+				<p>If you are interested in supporting the team at various levels please contact <a href="mailto:shah196@purdue.edu">Sanay Shah</a>.</p><br>
 				<div class="row">
 					<div class="col-md-4 text-center">
 						<a href="https://engineering.purdue.edu/INSGC" target="_blank"><img src="/committees/rov/images/INSGC.png" alt="Indiana Space Grant Consortium" style="width:100%"></a>

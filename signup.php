@@ -27,7 +27,7 @@
 	
 					<label>Mailing Lists to Subscribe to:</label>
 					<div class="checkbox" style="margin-top: 0">
-						<label><input type="checkbox" name="list[]" value="announcements">IEEE Announcements</label><br>
+						<label><input type="checkbox" name="list[]" checked="true" value="announcements">IEEE Announcements</label><br>
 						<label><input type="checkbox" name="list[]" value="aerial">Aerial Robotics</label><br>
 						<label><input type="checkbox" name="list[]" value="csociety">IEEE Computer Society</label><br>
 						<label><input type="checkbox" name="list[]" value="embs">Engineering in Medicine and Biology Society</label><br>
