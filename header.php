@@ -96,6 +96,9 @@
 					<li>
 						<a href="/signup.php">Join Mailing Lists</a>
 					</li>
+					<li>
+						<a href="/about.php">About</a>
+					</li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
