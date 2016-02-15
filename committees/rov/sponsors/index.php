@@ -63,7 +63,7 @@
 						<a href="https://engineering.purdue.edu/Engr" target="_blank"><img src="/committees/rov/images/Engineering.png" alt="Purdue College of Engineering" style="width:100%"></a>
 					</div>
 					<div class="col-md-4 text-center">
-						<a href="http://www.cadsoftusa.com" target="_blank"><img src="/committees/rov/images/eagle.png" alt="Cadsoft" style="width:100%"></a>
+						<a href="http://www.cadsoftusa.com/" target="_blank"><img src="/committees/rov/images/eagle.png" alt="Cadsoft" style="width:100%"></a>
 					</div>
 					<div class="col-md-4 text-center">
 						<a href="http://www.bechtel.com/" target="_blank"><img src="/committees/rov/images/Bechtel.png" alt="Bechtel" style="width:100%"></a>
@@ -71,8 +71,14 @@
 				</div>
 			
 				<div class="row" style="margin-top: 20px">
-					<div class="col-md-offset-4 col-md-4 text-center">
+					<div class="col-md-4 text-center">
 						<a href="http://www.netgear.com/" target="_blank"><img src="/committees/rov/images/Netgear.png" alt="Netgear" style="width:100%"></a>
+					</div>
+					<div class="col-md-4 text-center">
+						<a href="http://www.binder-world.com/us/Company" target="_blank"><img src="/committees/rov/images/Binder.png" alt="Binder" style="width:100%"></a>
+					</div>
+					<div class="col-md-4 text-center">
+						<a href="http://www.digikey.com/" target="_blank"><img src="/committees/rov/images/DigiKey.png" alt="DigiKey" style="width:100%"></a>
 					</div>
 				</div>
 			</div>
