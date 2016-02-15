@@ -81,28 +81,29 @@
 					<table class="table">
 						<tbody>
 							<tr>
-								<td>Wen Shen Mow</td>
-								<td>Austin White</td>
-								<td>Nick Molo</td>
-								<td>Luke McBee</td>
-								<td>Dimcho Karakashev</td>
-								<td></td>
+								<td class='text-center'>Rodolfo<br>Leiva</td>
+								<td class='text-center'>Wen Shen<br>Mow</td>
+								<td class='text-center'>Austin<br>White</td>
+								<td class='text-center'>Nick<br>Molo</td>
+								<td class='text-center'>Luke<br>McBee</td>
+								<td class='text-center'>Dimcho<br>Karakashev</td>
 							</tr>
 							<tr>
-								<td>Rodolfo Leiva</td>
-								<td>Nick Loffredo</td>
-								<td>Jakob Andren</td>
-								<td>Jeff Geiss</td>
-								<td>Alan Han</td>
-								<td>Paul Swartz</td>
+
+								<td class='text-center'>Nick<br>Loffredo</td>
+								<td class='text-center'>Jakob<br>Andren</td>
+								<td class='text-center'>Jeff<br>Geiss</td>
+								<td class='text-center'>Alan<br>Han</td>
+								<td class='text-center'>Qiyue<br>Liang</td>
+								<td class='text-center'>Paul<br>Swartz</td>
 							</tr>
 							<tr>
-								<td>Charles Li</td>
-								<td>Carolyn Lewelling</td>
-								<td>Bayley Clausen</td>
-								<td>Erin</td>
-								<td></td>
-								<td></td>
+								<td class='text-center'></td>
+								<td class='text-center'>Charles<br>Li</td>
+								<td class='text-center'>Carolyn<br>Lewelling</td>
+								<td class='text-center'>Bayley<br>Clausen</td>
+								<td class='text-center'>Xinyi<br>Jiang</td>
+								<td class='text-center'></td>
 							</tr>
 							</tbody>
 						</table>
@@ -113,21 +114,21 @@
 				<table class="table">
 					<tbody>
 						<tr>
-							<td>Amandeep Singh</td>
-							<td>Tom Lorence</td>
-							<td>Teal Dowdt</td>
-							<td>Dan Schillizzi</td>
-							<td>Joshua Berg</td>
-							<td>Alex Ruffino</td>
-							<td>Rohit Srivastava</td>
+							<td class='text-center'>Amandeep<br>Singh</td>
+							<td class='text-center'>Tom<br>Lorenc</td>
+							<td class='text-center'>Teal<br>Dowd</td>
+							<td class='text-center'>Dan<br>Schillizzi</td>
+							<td class='text-center'>Joshua<br>Berg</td>
+							<td class='text-center'>Alex<br>Ruffino</td>
+							<td class='text-center'>Rohit<br>Srivastava</td>
 						</tr>
 						<tr>
-							<td>Sanay Shah</td>
-							<td>Jared Borg</td>
-							<td>Mckenzie White</td>
-							<td>Joe Pejril</td>
-							<td>Sophia Duan</td>
-							<td>Scott Giammatteo</td>
+							<td class='text-center'>Sanay<br>Shah</td>
+							<td class='text-center'>Jared<br>Borg</td>
+							<td class='text-center'>Mckenzie<br>White</td>
+							<td class='text-center'>Joe<br>Pejril</td>
+							<td class='text-center'>Yuqin<br>Duan</td>
+							<td class='text-center'>Scott<br>Giammatteo</td>
 							<td></td>
 						</tr>
 						</tbody>
@@ -138,22 +139,22 @@
 				<table class="table">
 				<tbody>
 					<tr>
-						<td>Adam Kranz</td>
-						<td>Matt Molo</td>
-						<td>Ben Maxfield</td>
-						<td>Jason King</td>
-						<td>Ryan McBee</td>
-						<td>Joel Copi</td>
-						<td>Vyaas Shankar</td>
+						<td class='text-center'>Adam<br>Kranz</td>
+						<td class='text-center'>Matt<br>Molo</td>
+						<td class='text-center'>Ben<br>Maxfield</td>
+						<td class='text-center'>Jason<br>King</td>
+						<td class='text-center'>Ryan<br>McBee</td>
+						<td class='text-center'>Joel<br>Copi</td>
+						<td class='text-center'>Vyaas<br>Shankar</td>
 					</tr>
 					<tr>
-						<td></td>
-						<td>Oksana Makarova</td>
-						<td>Ajay Kumar</td>
-						<td>Mikey Reeves</td>
-						<td>Nathan Glotzbach</td>
-						<td>Yuqin Duan</td>
-						<td>Brandon Stewart</td>
+						<td class='text-center'></td>
+						<td class='text-center'>Oksana<br>Makarova</td>
+						<td class='text-center'>Ajay<br>Gopakumar</td>
+						<td class='text-center'>Mikey<br>Reeves</td>
+						<td class='text-center'>Nathan<br>Glotzbach</td>
+						<td class='text-center'>Yuqin<br>Duan</td>
+						<td class='text-center'>Brandon<br>Stewart</td>
 					</tr>
 					</tbody>
 				</table>
@@ -163,25 +164,28 @@
 				<table class="table">
 					<tbody>
 						<tr>
-							<td>Joshua Berg <br><em>Mechanical Team Lead</em></td>
-							<td>Matt Molo<br><em>Software Team Lead</em></td>
-							<td>Alex Ruffino<br><em>Sponsorship Coordinator</em></td>
-							<td>Luke McBee<br><em>Electrical Team Lead</em></td>
-							<td>Kyle Rakos<br><em>Team Captain (first semester)</em></td>
+							<td class='text-center'>Joshua Berg <br><em>Mechanical Team Lead</em></td>
+							<td class='text-center'>Matt Molo<br><em>Software Team Lead</em></td>
+							<td class='text-center'>Alex Ruffino<br><em>Sponsorship Coordinator</em></td>
+							<td class='text-center'>Luke McBee<br><em>Electrical Team Lead</em></td>
+							<td class='text-center'>Kyle Rakos<br><em>Team Captain (first semester)</em></td>
 						</tr>
 						<tr>
-							<td>Sanay Shah<br><em>Team Captain (second semester)</em></td>
-							<td></td>
-							<td>Henry Shi<br><em>Technical Writer</em></td>
-							<td></td>
-							<td>Carolyn Lewelling<br><em>Lead Sponsorship Coordinator</em></td>
+							<td class='text-center'>Sanay Shah<br><em>Team Captain (second semester)</em></td>
+							<td class='text-center'></td>
+							<td class='text-center'>Henry Shi<br><em>Technical Writer</em></td>
+							<td class='text-center'></td>
+							<td class='text-center'>Carolyn Lewelling<br><em>Lead Sponsorship Coordinator</em></td>
 						</tr>
 						</tbody>
 					</table>
 
 					<h4 class="text-center">Not Pictured</h4>
-					<p class="text-center">Richard Shen</p>
-					<p class="text-center">Charlie Su</p><br>
+					<p class="text-center">Yaodong Shen</p>
+					<p class="text-center">Charlie Su</p>
+					<p class="text-center">Katie Lothrop</p>
+					<p class="text-center">Alex Gebhardt</p>
+					<p class="text-center">Zeinab Mourad</p><br>
 
 				<p class="text-center"><a href="https://www.facebook.com/purdueieeerov"><i class="fa fa-facebook-square fa-4x"></i></a></p>
 			</div>
