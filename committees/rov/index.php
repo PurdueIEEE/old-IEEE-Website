@@ -77,112 +77,115 @@
 
 				<h4 class="text-center">Electrical Team</h4>
 				<p class="text-center"> <img src="/committees/rov/images/electricalteam2015.jpg" alt="2015 - 2016 Electrical Team" style="width:100%"></p><br>
+				<div class='text-center'>
+						<table class="table">
+							<tbody>
+								<tr>
+									<td>Rodolfo<br>Leiva</td>
+									<td>Wen Shen<br>Mow</td>
+									<td>Austin<br>White</td>
+									<td>Nick<br>Molo</td>
+									<td>Luke<br>McBee</td>
+									<td>Dimcho<br>Karakashev</td>
+								</tr>
+								<tr>
 
+									<td>Nick<br>Loffredo</td>
+									<td>Jakob<br>Andren</td>
+									<td>Jeff<br>Geiss</td>
+									<td>Alan<br>Han</td>
+									<td>Qiyue<br>Liang</td>
+									<td>Paul<br>Swartz</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>Charles<br>Li</td>
+									<td>Carolyn<br>Lewelling</td>
+									<td>Bayley<br>Clausen</td>
+									<td>Xinyi<br>Jiang</td>
+									<td></td>
+								</tr>
+								</tbody>
+							</table>
+
+					<h4 class="text-center">Mechanical Team</h4>
+					<p class="text-center"> <img src="/committees/rov/images/mechanicalteam2015.jpg" alt="2015 - 2016 Mechanical Team" style="width:100%"></p><br>
 					<table class="table">
 						<tbody>
 							<tr>
-								<td>Wen Shen Mow</td>
-								<td>Austin White</td>
-								<td>Nick Molo</td>
-								<td>Luke McBee</td>
-								<td>Dimcho Karakashev</td>
-								<td></td>
+								<td>Amandeep<br>Singh</td>
+								<td>Tom<br>Lorenc</td>
+								<td>Teal<br>Dowd</td>
+								<td>Dan<br>Schillizzi</td>
+								<td>Joshua<br>Berg</td>
+								<td>Alex<br>Ruffino</td>
+								<td>Rohit<br>Srivastava</td>
 							</tr>
 							<tr>
-								<td>Rodolfo Leiva</td>
-								<td>Nick Loffredo</td>
-								<td>Jakob Andren</td>
-								<td>Jeff Geiss</td>
-								<td>Alan Han</td>
-								<td>Paul Swartz</td>
-							</tr>
-							<tr>
-								<td>Charles Li</td>
-								<td>Carolyn Lewelling</td>
-								<td>Bayley Clausen</td>
-								<td>Erin</td>
-								<td></td>
+								<td>Sanay<br>Shah</td>
+								<td>Jared<br>Borg</td>
+								<td>Mckenzie<br>White</td>
+								<td>Joe<br>Pejril</td>
+								<td>Yuqin<br>Duan</td>
+								<td>Scott<br>Giammatteo</td>
 								<td></td>
 							</tr>
 							</tbody>
 						</table>
 
-
-				<h4 class="text-center">Mechanical Team</h4>
-				<p class="text-center"> <img src="/committees/rov/images/mechanicalteam2015.jpg" alt="2015 - 2016 Mechanical Team" style="width:100%"></p><br>
-				<table class="table">
+					<h4 class="text-center">Software Team</h4>
+					<p class="text-center"> <img src="/committees/rov/images/softwareteam2015.jpg" alt="2015 - 2016 Software Team" style="width:100%"></p><br>
+					<table class="table">
 					<tbody>
 						<tr>
-							<td>Amandeep Singh</td>
-							<td>Tom Lorence</td>
-							<td>Teal Dowdt</td>
-							<td>Dan Schillizzi</td>
-							<td>Joshua Berg</td>
-							<td>Alex Ruffino</td>
-							<td>Rohit Srivastava</td>
+							<td>Adam<br>Kranz</td>
+							<td>Matt<br>Molo</td>
+							<td>Ben<br>Maxfield</td>
+							<td>Jason<br>King</td>
+							<td>Ryan<br>McBee</td>
+							<td>Joel<br>Copi</td>
+							<td>Vyaas<br>Shankar</td>
 						</tr>
 						<tr>
-							<td>Sanay Shah</td>
-							<td>Jared Borg</td>
-							<td>Mckenzie White</td>
-							<td>Joe Pejril</td>
-							<td>Sophia Duan</td>
-							<td>Scott Giammatteo</td>
+							<td>Oksana<br>Makarova</td>
+							<td>Ajay<br>Gopakumar</td>
+							<td>Mikey<br>Reeves</td>
+							<td>Nathan<br>Glotzbach</td>
+							<td>Yuqin<br>Duan</td>
+							<td>Brandon<br>Stewart</td>
 							<td></td>
 						</tr>
 						</tbody>
 					</table>
 
-				<h4 class="text-center">Software Team</h4>
-				<p class="text-center"> <img src="/committees/rov/images/softwareteam2015.jpg" alt="2015 - 2016 Software Team" style="width:100%"></p><br>
-				<table class="table">
-				<tbody>
-					<tr>
-						<td>Adam Kranz</td>
-						<td>Matt Molo</td>
-						<td>Ben Maxfield</td>
-						<td>Jason King</td>
-						<td>Ryan McBee</td>
-						<td>Joel Copi</td>
-						<td>Vyaas Shankar</td>
-					</tr>
-					<tr>
-						<td></td>
-						<td>Oksana Makarova</td>
-						<td>Ajay Kumar</td>
-						<td>Mikey Reeves</td>
-						<td>Nathan Glotzbach</td>
-						<td>Yuqin Duan</td>
-						<td>Brandon Stewart</td>
-					</tr>
-					</tbody>
-				</table>
+					<h4 class="text-center">Administrative Team</h4>
+					<p class="text-center"> <img src="/committees/rov/images/administrativeteam2015.jpg" alt="2015 - 2016 Administrative Team" style="width:100%"></p><br>
+					<table class="table">
+						<tbody>
+							<tr>
+								<td>Joshua Berg <br><em>Mechanical Team Lead</em></td>
+								<td>Matt Molo<br><em>Software Team Lead</em></td>
+								<td>Alex Ruffino<br><em>Sponsorship Coordinator</em></td>
+								<td>Luke McBee<br><em>Electrical Team Lead</em></td>
+								<td>Kyle Rakos<br><em>Team Captain (first semester)</em></td>
+							</tr>
+							<tr>
+								<td>Sanay Shah<br><em>Team Captain (second semester)</em></td>
+								<td></td>
+								<td>Henry Shi<br><em>Technical Writer</em></td>
+								<td></td>
+								<td>Carolyn Lewelling<br><em>Lead Sponsorship Coordinator</em></td>
+							</tr>
+							</tbody>
+						</table>
 
-				<h4 class="text-center">Administrative Team</h4>
-				<p class="text-center"> <img src="/committees/rov/images/administrativeteam2015.jpg" alt="2015 - 2016 Administrative Team" style="width:100%"></p><br>
-				<table class="table">
-					<tbody>
-						<tr>
-							<td>Joshua Berg <br><em>Mechanical Team Lead</em></td>
-							<td>Matt Molo<br><em>Software Team Lead</em></td>
-							<td>Alex Ruffino<br><em>Sponsorship Coordinator</em></td>
-							<td>Luke McBee<br><em>Electrical Team Lead</em></td>
-							<td>Kyle Rakos<br><em>Team Captain (first semester)</em></td>
-						</tr>
-						<tr>
-							<td>Sanay Shah<br><em>Team Captain (second semester)</em></td>
-							<td></td>
-							<td>Henry Shi<br><em>Technical Writer</em></td>
-							<td></td>
-							<td>Carolyn Lewelling<br><em>Lead Sponsorship Coordinator</em></td>
-						</tr>
-						</tbody>
-					</table>
-
-					<h4 class="text-center">Not Pictured</h4>
-					<p class="text-center">Richard Shen</p>
-					<p class="text-center">Charlie Su</p><br>
-
+						<h4>Not Pictured</h4>
+						<p>Yaodong Shen</p>
+						<p>Charlie Su</p>
+						<p>Katie Lothrop</p>
+						<p>Alex Gebhardt</p>
+						<p>Zeinab Mourad</p><br>
+				</div>
 				<p class="text-center"><a href="https://www.facebook.com/purdueieeerov"><i class="fa fa-facebook-square fa-4x"></i></a></p>
 			</div>
 
