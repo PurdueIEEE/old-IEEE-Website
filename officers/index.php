@@ -123,7 +123,7 @@
 				<h3>Beatriz Vallarino</h3>
 				<h4>Event Coordinator</h4>
 				<p>Beatriz is a Sophomore pursuing a major in Electrical Engineering and a minor in German. She joined Purdue IEEE during her first semester at Purdue which was Spring 2015. Since then, she has held the position of Event Coordinator. Before coming to the United States, she was part of IEEE Technological University of Panama where she first was introduced to the IEEE community. Apart from engineering, Bea enjoys meeting new people, learning about different cultures, and reading.</p>
-				<p><em>Committee Involvement</em>: <a href="/committees/aerialrobotics/">Aerial Robotics</a></p>
+				<p><em>Committee Involvement</em>: <a href="/committees/partieee/">Aerial Robotics</a></p>
 			</div>
 		</div>
 
