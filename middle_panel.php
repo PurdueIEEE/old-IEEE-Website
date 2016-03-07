@@ -1,3 +1,2 @@
-<h4>Our first General Assembly is February 16th!</h4>
-<p><b>Industry Night with Intel</b></p>
-<p>Meet us at 5:30pm in RHPH 172, and we'll have free sandwiches!</p>
+<h4>Trivia and Committee Updates</h4>
+<p>Meet us Tuesday, March 8th at 6:30pm in ARMS 1010 for committee updates and trivia night!</p>
