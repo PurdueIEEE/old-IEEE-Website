@@ -81,6 +81,12 @@
 						<a href="http://www.digikey.com/" target="_blank"><img src="/committees/rov/images/DigiKey.png" alt="DigiKey" style="width:100%"></a>
 					</div>
 				</div>
+			
+				<div class="row" style="margin-top: 20px">
+					<div class="col-md-4 text-center">
+						<a href="http://wabashpower.com" target="_blank"><img src="/committees/rov/images/WabashPower.png" alt="Wavasg Power Equipment" style="width:100%"></a>
+					</div>
+				</div>
 			</div>
 			
 		</div> 
