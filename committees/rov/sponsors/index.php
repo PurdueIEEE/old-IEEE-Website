@@ -67,7 +67,7 @@ include '../../../header.php';
 					<a href="https://engineering.purdue.edu/Engr" target="_blank"><img src="/committees/rov/images/Engineering.png" alt="Purdue College of Engineering" style="width:100%"></a>
 				</div>
 				<div class="col-md-4 text-center">
-
+					<a href="http://www.solidworks.com/" target="_blank"><img src="/committees/rov/images/solidworks.jpg" alt="SolidWorks" style="width:100%"></a>
 				</div>
 				<div class="col-md-4 text-center">
 					<a href="http://www.cadsoftusa.com/" target="_blank"><img src="/committees/rov/images/eagle.png" alt="Cadsoft" style="width:100%"></a>
@@ -81,7 +81,7 @@ include '../../../header.php';
 
 				</div>
 				<div class="col-md-4 text-center">
-					<h4> <a href = "http://www.rssgrinders.com/"> RSS Grinders and Automation Inc.</a></h4>
+					<a href="http://www.rssgrinders.com/" target="_blank"><img src="/committees/rov/images/rss.JPG" alt="RSS Grinders and Automation" style="width:100%"></a>
 				</div>
 				<div class="col-md-4 text-center">
 

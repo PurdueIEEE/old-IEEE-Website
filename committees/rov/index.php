@@ -64,11 +64,26 @@
 
 				<p class="text-justify">The team is eagerly preparing for the 2015 - 2016 competition at NASA's Neutral Buyouncy Lab in Houston, Texas from
 				June 23 - 25, 2016. For more current and past information view the links to the left or
-				contact <a href="mailto:shah196@purdue.edu">Sanay Shah</a>.</p><br>
+				contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>.</p><br>
 
 				<h2 class="text-center">Current Season</h2>
 				<p class="text-justify">This is the current season. The mission will take place in Houston, TX at NASA's Neutral Buoyancy Lab June 23 - 25, 2016. With almost all veteran members returning the team is eagerly preparing for the challenge of exploring Jupiter's moon, Europa, and revisiting the Gulf of Mexico!</p>
 				<br>
+
+				<div class="row">
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="files/2016SpecSheet.pdf">Spec Sheet</a></p>
+					</div>
+					<div class="col-md-4 text-dark">
+						
+					</div>
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="https://youtu.be/TiiTarcIZzM">Qualifying Video</a></p>
+					</div>
+				</div>
+				<br>
+
+				
 
 				<h4 class="text-center">2015 - 2016 Full Team Picture</h4>
 				<p class="text-center"> <img src="/committees/rov/images/fullrovteam2015.jpg" alt="2015 - 2016 Team" style="width:100%"></p><br>
