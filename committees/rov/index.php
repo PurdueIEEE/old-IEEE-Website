@@ -42,8 +42,34 @@
 
 			<!-- Content Column -->
 			<div class="col-md-7 text-dark col-md-offset-1">
-				<h2 class="text-center">ROV Team</h2>
+				<h2 class="text-center">Latest Update</h2>
+				<p class="text-justify">Purdue ROV recently compted in Houston, TX from June 22 - 25, 2016 at NASA's Neutral Buoyancy Lab!
+				Thanks for all who supported our team at the competition and throughout the year! We had a wonderful technical presentation, an 
+				excellent poster, and great technical documentation. We had some electronics issues during the mission runs but were still able to earn some 
+				points through effective team coordination. We are awiting our final score but hope to be in the top 15.
+				</p><p>View the links below for more info on our competition!</p>
+				
+				<br>
+					<div class="row">
+					<div class="col-md-3 text-dark">
+						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReN2FlcVI0NWJ0Ymc">Technical Documentation</a></p>
+					</div>
+					<div class="col-md-3 text-dark">
+						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReN1BOdjlBcVNxa0U">Spec Sheet</a></p>
+						
+					</div>
+					<div class="col-md-3 text-dark">
+						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7RedG9FUm5PWlpuU0k">More Pictures</a></p>
+					</div>
+					<div class="col-md-3 text-dark">
+						<p class="text-center"><a href="https://youtu.be/TiiTarcIZzM">Qualifying Video</a></p>
+					</div>
 
+				</div>
+				<br>
+
+				<h2 class="text-center">About The ROV Team</h2>
+				
 				<p class="text-justify">The Remotely Operated underwater Vehicle (ROV) team was founded as a committee within Purdue IEEE Student
 				Organization in 2008 with a small but dedicated group of five students. Today, the team's mission is to foster
 				technical and professional skills of its members by designing, constructing, and testing an innovative
@@ -62,28 +88,12 @@
 				during the year, the team aims to inspire future generations to enter STEM (Science, Technology, Engineering,
 				and Mathematics) fields.</p>
 
-				<p class="text-justify">The team is eagerly preparing for the 2015 - 2016 competition at NASA's Neutral Buyouncy Lab in Houston, Texas from
-				June 23 - 25, 2016. For more current and past information view the links to the left or
+				<p class="text-justify">For more current and past information view the links to the left or
 				contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>.</p><br>
 
-				<h2 class="text-center">Current Season</h2>
-				<p class="text-justify">This is the current season. The mission will take place in Houston, TX at NASA's Neutral Buoyancy Lab June 23 - 25, 2016. With almost all veteran members returning the team is eagerly preparing for the challenge of exploring Jupiter's moon, Europa, and revisiting the Gulf of Mexico!</p>
+				<h2 class="text-center">2015 - 2016 Team Pictures</h2>
 				<br>
 
-				<div class="row">
-					<div class="col-md-4 text-dark">
-						<p class="text-center"><a href="files/2016SpecSheet.pdf">Spec Sheet</a></p>
-					</div>
-					<div class="col-md-4 text-dark">
-						
-					</div>
-					<div class="col-md-4 text-dark">
-						<p class="text-center"><a href="https://youtu.be/TiiTarcIZzM">Qualifying Video</a></p>
-					</div>
-				</div>
-				<br>
-
-				
 
 				<h4 class="text-center">2015 - 2016 Full Team Picture</h4>
 				<p class="text-center"> <img src="/committees/rov/images/fullrovteam2015.jpg" alt="2015 - 2016 Team" style="width:100%"></p><br>
