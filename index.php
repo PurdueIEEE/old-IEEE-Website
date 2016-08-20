@@ -66,6 +66,26 @@
         </div>
     </div>
 
+    <!-- Upcoming Event List -->
+    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
+    <div class="row">
+        <div class="col-lg-12">
+            <h2 class="page-header">Upcoming Events</h2>
+        </div>
+    </div>
+
+    <div class="well text-dark">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="media">
+                    <div class="media-body">
+                        <?php include 'events.html' ?>
+                    </div>
+                </div>
+            </div>
+    </div>
+    </div>
+
     <!-- Committeee List -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
@@ -97,22 +117,6 @@
                         <div class="pull-left">
                             <span class="fa-stack fa-2x">
                                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-fighter-jet fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/partieee/">Aerial Robotics</a></h4>
-                            <p>Aerial Robotics Team creates an unmanned aerial system (UAS) to compete in AUVSI SUAS Competition. The end goal is to develop an autonomous system complete with a Ground Control Station (GCS). They are looking for members to help design the airframe, develop autopilot and image processing algorithms, and design electrical hardware such as flight controllers and other PCBs.</p><br>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-md-6">
-                    <div class="media">
-                        <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
                                 <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                             </span>
                         </div>
@@ -122,9 +126,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="col-md-12">
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
@@ -139,24 +141,24 @@
                         </div>
                     </div>
                 </div>
+            </div>
 
+            <div class="col-md-12">
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
                             <span class="fa-stack fa-2x">
                                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-fighter-jet fa-stack-1x fa-inverse"></i>
                             </span>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/learning/">Learning Committee</a></h4>
-                            <p>The Learning Commitee is made to help prospective and current members of the Purdue IEEE branch get experience they need to develop their project-oriented skills that are crucial in both their academic and professional careers. This involves many different events, projects, and different levels of outreach to help expand IEEE's collection of skilled members.</p><br>
+                            <h4 class="media-heading"><a href="/committees/partieee/">PARTIEEE</a></h4>
+                            <p>Purdue Aerial Robotics Team IEEE creates an unmanned aerial system (UAS) to compete in AUVSI SUAS Competition. The end goal is to develop an autonomous system complete with a Ground Control Station (GCS). They are looking for members to help design the airframe, develop autopilot and image processing algorithms, and design electrical hardware such as flight controllers and other PCBs.</p><br>
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="col-md-12">
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
@@ -166,12 +168,14 @@
                             </span>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/orbital/">Orbital Committee</a></h4>
+                            <h4 class="media-heading"><a href="/committees/orbital/">Purdue Orbital</a></h4>
                             <p>Our goal is to further space flight technology through designing, testing, and implementing systems to achieve orbit for small satellite platforms at an affordable price. This multi-disciplinary team is focused on utilizing Faculty and Industry resources to provide the first formal Purdue design, build, test rocket team.</p><br>
                         </div>
                     </div>
                 </div>
+            </div>
 
+            <div class="col-md-12">
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
@@ -186,9 +190,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="col-md-12">
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
@@ -203,10 +205,6 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="col-md-6">
-                    <!-- Empty block for next committee -->
-                </div>
             </div>
 
         </div>
@@ -216,7 +214,7 @@
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">News and Information</h2>
+            <h2 class="page-header">Information</h2>
         </div>
         <div class="col-md-4 col-sm-6">
             <div class="panel panel-default text-center text-dark">
@@ -238,11 +236,12 @@
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-newspaper-o fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-comments-o fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="panel-body">
-                    <?php include 'middle_panel.php'; ?>
+                    <h4>Want to chat or have questions?</h4>
+                    <p><a href="https://purdueieee.slack.com/signup">Join us on Slack!</a><br>Chat with us in the #ieee channel!</p>
                 </div>
             </div>
         </div>
