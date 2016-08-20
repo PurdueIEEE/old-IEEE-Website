@@ -587,6 +587,7 @@
                         <li><p>In acknowledgement of the former status of the Computer Society as an independent student organization, the Purdue University-West Lafayette Student Branch Chapter of IEEE Computer Society shall not be disbanded. </p></li>
                         <li><p>The above clause does not automatically apply to any other Student Branch Chapters.</p></li>
                     </ul>
+                </div>
             </div>
         </div>
     </div>
