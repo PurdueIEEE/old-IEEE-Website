@@ -52,13 +52,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/')">
+                    style="background-image: url('/images/officers/Bobby_Zhang.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Bobby Zhang</h3>
                 <h4>Treasurer</h4>
-                <p></p>
+                <p>Bobby is a Sophomore in Computer Science and Mathematics with a minor in Statistics. He joined Purdue IEEE as a member of Learning Community in Spring of 2016. He likes to challenge himself so as to know and break the limit. Passionate about IT industry, especially Artificial Intelligence and Web Development, he plans to pursue Machine Intelligence and Systems Programming tracks in Computer Science. He also hopes to apply the programming knowledge on Engineering fields. With interest in data and finance, he is now undertaking the role of IEEE Treasurer, expecting to simplify the reimbursement process and the account documents with the help of a newly developed system.</p>
                 <p><em>Committee Involvement</em>: <a href="/committees/learning/">Learning</a></p>
             </div>
         </div>
@@ -100,13 +100,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/')">
+                    style="background-image: url('/images/officers/Sophia_Duan.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Sophia (Yuqin) Duan</h3>
                 <h4>Learning Committee Head</h4>
-                <p></p>
+                <p>Sophia is a Sophomore pursuing a major in Electrical Engineering and minor in Computer Science and Mathematics. She studied classical ballet and traditional dances in her hometown of Beijing, China. Apart from being Learning Head, she is also a member of the ROV Software and Mechanical Teams. Without having much technical knowledge before joining Purdue IEEE, Sophia tried her best to learn new things and experience a new culture in her freshman year and wants to help more international students get involved. She loves laughing and hopes her smile will always bring positive energy to others. Sophia’s hobbies also include playing the piano and violin, running, and reading.</p>
                 <p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
             </div>
         </div>
@@ -116,13 +116,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/')">
+                    style="background-image: url('/images/officers/Rodolfo_Levia.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Rodolfo Levia</h3>
                 <h4>Social Committee Head</h4>
-                <p></p>
+                <p>Rodolfo is a Senior in Electrical Engineering. He joined Purdue IEEE in the Fall of 2014 to be part of the ROV team. He attributes the IEEE Purdue Chapter as his main source of technical knowledge and is still learning a lot from the organization to this day. Rodolfo is very excited to prepare social activities to unite students within IEEE and all fields of engineering and careers. In his free time, Rodolfo likes discovering new music, watching movies and hanging out with his friends. He’s always looking for new, fun activities he can put together for the organization, so if you have any send them his way.</p>
                 <p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
             </div>
         </div>
