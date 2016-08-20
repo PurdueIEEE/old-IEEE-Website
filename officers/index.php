@@ -169,7 +169,7 @@
             </div>
             <div class="col-md-9">
                 <h3>Michael Malachowski</h3>
-                <h4>Purdue Aerial Robotics Team IEEE Caption</h4>
+                <h4>Purdue Aerial Robotics Team IEEE Captain</h4>
                 <p></p>
                 <p><em>Committee Involvement</em>: <a href="/committees/partieee/">PARTIEEE</a></p>
             </div>
