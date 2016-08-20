@@ -173,7 +173,7 @@
 
                     <p><strong>Article V - Officers and Duties</strong></p>
 
-                    <p>SECTION 1.** **List of Voting Executive Committee Members</p>
+                    <p>SECTION 1. List of Voting Executive Committee Members</p>
 
                     <ul>
                         <li><p>President</p></li>
