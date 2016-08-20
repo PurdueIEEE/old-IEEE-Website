@@ -434,7 +434,7 @@
                         <li>Nonpayment of local dues by the date voted on by the members may result in suspension of membership in the local Student Branch, but will not result in suspension of membership at the international professional organization level.</li>
                     </ul>
 
-                    <p>**Article IX - ****Cornerstones**** ****Committees**** **</p>
+                    <p><strong>Article IX - Cornerstones Committees</strong></p>
 
                     <p>SECTION 1. Designation</p>
 
