@@ -74,7 +74,7 @@
             <div class="col-md-9">
                 <h3>Brandon Stewart</h3>
                 <h4>Secretary</h4>
-                <p></p>
+                <p>Brandon is a Sophomore in Computer Science. He joined IEEE in the Fall of 2015 on the ROV Team. He plans to pursue the Systems Programming and Computer Graphics and Visualization tracks in Computer Science. In his free time, he enjoys running, programming, and watching movies. As Secretary, he plans to promote stronger communication among teams and will focus on ensuring members are informed of IEEE events.</p>
                 <p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
             </div>
         </div>
