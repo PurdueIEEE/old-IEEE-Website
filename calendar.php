@@ -41,15 +41,15 @@
                     <div class="calendar-box" style="background-color: #E8CB4F;">ROV</div>
                 </div>
                 <?php
-                    $calendar_sources = [
-                        ['color' => '2952A3', 'src' => 'd5lo1ojucvmelsk9a54kndq1g8@group.calendar.google.com'], #IEEE Calendar
-                        ['color' => '1B887A', 'src' => 'mmi9atsgvigdbhnsf783vtlcv8@group.calendar.google.com'], #Computer Society
-                        ['color' => '2196F3', 'src' => 'embspurdue@gmail.com'], #EMBS
-                        ['color' => '5229A3', 'src' => 'thcak7c7b8d7m6up2u5dd13odg@group.calendar.google.com'], #Orbital
-                        ['color' => 'A32929', 'src' => 'h8nk778rgq4idlspuf4uevfs84@group.calendar.google.com'], #PARTIEEE
-                        ['color' => 'AB8B00', 'src' => 'ce7l4e2pdhq23tqf3353pfmfp8@group.calendar.google.com'], #ROV 2015-2016
-                        ['color' => 'AB8B00', 'src' => '87uv0bmrpiok3ghluf0v4fs5ag@group.calendar.google.com'] #ROV 2016-2017
-                    ];
+                    $calendar_sources = array(
+                        array('color' => '2952A3', 'src' => 'd5lo1ojucvmelsk9a54kndq1g8@group.calendar.google.com'), #IEEE Calendar
+                        array('color' => '1B887A', 'src' => 'mmi9atsgvigdbhnsf783vtlcv8@group.calendar.google.com'), #Computer Society
+                        array('color' => '2196F3', 'src' => 'embspurdue@gmail.com'), #EMBS
+                        array('color' => '5229A3', 'src' => 'thcak7c7b8d7m6up2u5dd13odg@group.calendar.google.com'), #Orbital
+                        array('color' => 'A32929', 'src' => 'h8nk778rgq4idlspuf4uevfs84@group.calendar.google.com'), #PARTIEEE
+                        array('color' => 'AB8B00', 'src' => 'ce7l4e2pdhq23tqf3353pfmfp8@group.calendar.google.com'), #ROV 2015-2016
+                        array('color' => 'AB8B00', 'src' => '87uv0bmrpiok3ghluf0v4fs5ag@group.calendar.google.com') #ROV 2016-2017
+                    );
 
                     $list = "";
                     foreach ($calendar_sources as $cal) {

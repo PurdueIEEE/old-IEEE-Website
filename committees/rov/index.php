@@ -44,11 +44,11 @@
             <div class="col-md-7 text-dark col-md-offset-1">
                 <h2 class="text-center">Latest Update</h2>
                 <p class="text-justify">Purdue ROV recently compted in Houston, TX from June 22 - 25, 2016 at NASA's Neutral Buoyancy Lab!
-                Thanks for all who supported our team at the competition and throughout the year! We had a wonderful technical presentation, an 
-                excellent poster, and great technical documentation. We had some electronics issues during the mission runs but were still able to earn some 
+                Thanks for all who supported our team at the competition and throughout the year! We had a wonderful technical presentation, an
+                excellent poster, and great technical documentation. We had some electronics issues during the mission runs but were still able to earn some
                 points through effective team coordination. We are awiting our final score but hope to be in the top 15.
                 </p><p>View the links below for more info on our competition!</p>
-                
+
                 <br>
                     <div class="row">
                     <div class="col-md-3 text-dark">
@@ -56,7 +56,7 @@
                     </div>
                     <div class="col-md-3 text-dark">
                         <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReN1BOdjlBcVNxa0U">Spec Sheet</a></p>
-                        
+
                     </div>
                     <div class="col-md-3 text-dark">
                         <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7RedG9FUm5PWlpuU0k">More Pictures</a></p>
@@ -69,7 +69,7 @@
                 <br>
 
                 <h2 class="text-center">About The ROV Team</h2>
-                
+
                 <p class="text-justify">The Remotely Operated underwater Vehicle (ROV) team was founded as a committee within Purdue IEEE Student
                 Organization in 2008 with a small but dedicated group of five students. Today, the team's mission is to foster
                 technical and professional skills of its members by designing, constructing, and testing an innovative
@@ -205,6 +205,7 @@
                         </table>
 
                         <h4>Not Pictured</h4>
+                        <p>Sam Deghuee</p>
                         <p>Yaodong Shen</p>
                         <p>Charlie Su</p>
                         <p>Katie Lothrop</p>
