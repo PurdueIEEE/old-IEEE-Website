@@ -170,7 +170,7 @@
             <div class="col-md-9">
                 <h3>Michael Malachowski</h3>
                 <h4>Purdue Aerial Robotics Team IEEE Captain</h4>
-                <p></p>
+                <p>Michael is a Senior in Electrical Engineering. He joined the Purdue IEEE Aerial Robotics Team in the Fall of 2014, eventually taking on the role of electrical team lead, and is currently the Aerial Robotics team captain. He is passionate about designing and working with embedded systems, and is adamant about leading the team in designing a fully custom UAS solution. In his free time he enjoys playing video games, target shooting, and programming.</p>
                 <p><em>Committee Involvement</em>: <a href="/committees/partieee/">PARTIEEE</a></p>
             </div>
         </div>
