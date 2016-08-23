@@ -99,6 +99,9 @@
                     <li>
                         <a href="/about.php">About</a>
                     </li>
+                    <li>
+                        <a href="/dues.php">Dues</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
