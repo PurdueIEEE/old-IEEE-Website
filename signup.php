@@ -31,7 +31,6 @@
                         <label><input type="checkbox" name="list[]" value="aerial">Aerial Robotics</label><br>
                         <label><input type="checkbox" name="list[]" value="csociety">IEEE Computer Society</label><br>
                         <label><input type="checkbox" name="list[]" value="embs">Engineering in Medicine and Biology Society</label><br>
-                        <label><input type="checkbox" name="list[]" value="learning">Learning Committee</label><br>
                         <label><input type="checkbox" name="list[]" value="orbital">Purdue Orbital</label><br>
                         <label><input type="checkbox" name="list[]" value="racing">Racing</label><br>
                         <label><input type="checkbox" name="list[]" value="rov">Remotely Operated underwater Vehicle (ROV)</label><br>
