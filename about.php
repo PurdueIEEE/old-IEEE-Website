@@ -23,7 +23,11 @@
 
                 <p>For more details about our operation, please see our <a href="constitution.php">constitution</a>. If you are a Purdue student wanting to join our organization, please join <a href="signup.php">our mailing list</a>.</p>
 
-                <p><a href="https://www.facebook.com/groups/purdueieee/"><i class="fa fa-facebook-square fa-2x"></i></a> <a href="https://www.linkedin.com/grp/home?gid=6648253"><i class="fa fa-linkedin-square fa-2x"></i></a></p>
+                <p>
+                    <a href="https://www.facebook.com/groups/purdueieee/"><i class="fa fa-facebook-square fa-2x"></i></a>
+                    <a href="https://twitter.com/purdueieee"><i class="fa fa-twitter-square fa-2x"></i></a>
+                    <a href="https://www.linkedin.com/grp/home?gid=6648253"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                </p>
             </div>
         </div>
     </div>
