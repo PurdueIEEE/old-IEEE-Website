@@ -77,9 +77,6 @@
                                 <a href="/committees/embs/">EMBS</a>
                             </li>
                             <li>
-                                <a href="/committees/learning/">Learning Committee</a>
-                            </li>
-                            <li>
                                 <a href="http://www.purdueorbital.com/">Orbital</a>
                             </li>
                             <li>
