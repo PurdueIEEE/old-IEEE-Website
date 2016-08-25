@@ -80,7 +80,7 @@
                                 <a href="/committees/learning/">Learning Committee</a>
                             </li>
                             <li>
-                                <a href="/committees/orbital/">Orbital</a>
+                                <a href="http://www.purdueorbital.com/">Orbital</a>
                             </li>
                             <li>
                                 <a href="/committees/racing/">Racing</a>
