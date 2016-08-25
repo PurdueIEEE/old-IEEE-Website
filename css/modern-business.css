@@ -29,6 +29,7 @@ body {
 header.carousel {
     height: 525px;
     width: 100%;
+    box-shadow: 1px 1px 10px #000000;
 }
 
 header.carousel .item,
