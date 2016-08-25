@@ -70,7 +70,7 @@
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">Join IEEE!</h2>
+            <h2 class="page-header">Join IEEE:</h2>
         </div>
     </div>
 
@@ -90,7 +90,7 @@
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">What we have to offer</h2>
+            <h2 class="page-header">What we have to offer:</h2>
         </div>
     </div>
 
@@ -214,7 +214,7 @@
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">Information</h2>
+            <h2 class="page-header">Information:</h2>
         </div>
         <div class="col-md-4 col-sm-6">
             <div class="panel panel-default text-center text-dark">
