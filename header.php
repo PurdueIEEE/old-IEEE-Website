@@ -56,10 +56,10 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="/calendar.php">Calendar</a>
+                        <a href="/about.php">About</a>
                     </li>
                     <li>
-                        <a href="/constitution.php">Constitution</a>
+                        <a href="/calendar.php">Calendar</a>
                     </li>
                     <li class="dropdown">
                         <a href="/committees/" class="dropdown-toggle" data-toggle="dropdown">Committees<b class="caret"></b></a>
@@ -91,16 +91,16 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="/officers/">Officers</a>
+                        <a href="/dues.php">Dues</a>
                     </li>
                     <li>
                         <a href="/signup.php">Join Mailing Lists</a>
                     </li>
                     <li>
-                        <a href="/about.php">About</a>
+                        <a href="/officers/">Officers</a>
                     </li>
                     <li>
-                        <a href="/dues.php">Dues</a>
+                        <a href="/constitution.php">Constitution</a>
                     </li>
                 </ul>
             </div>
