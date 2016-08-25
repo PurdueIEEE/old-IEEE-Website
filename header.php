@@ -31,8 +31,7 @@
     <![endif]-->
 
     <!--favicon link-->
-    <link rel="SHORTCUT ICON" href="https://www.ieee.org/ucm/groups/webassets/@ieee/@web/@org/documents/images/ieee_favicon.ico">
-    <link rel="icon" type="image/vnd.microsoft.icon" href="https://www.ieee.org/ucm/groups/webassets/@ieee/@web/@org/documents/images/ieee_favicon.ico">
+    <link rel="SHORTCUT ICON" href="/favicon.ico">
     <link rel="apple-touch-icon" href="https://www.ieee.org/ucm/groups/webassets/@ieee/@web/@org/documents/images/ieee_apple_touch_icon.png">
 
 </head>
