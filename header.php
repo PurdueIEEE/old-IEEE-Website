@@ -76,6 +76,9 @@
                                 <a href="/committees/embs/">EMBS</a>
                             </li>
                             <li>
+                            	<a href="/committees/mtts/">MTT-S</a>
+                            </li>
+                            <li>
                                 <a href="http://www.purdueorbital.com/">Orbital</a>
                             </li>
                             <li>

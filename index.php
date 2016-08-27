@@ -145,6 +145,21 @@
 
             <div class="col-md-12">
                 <div class="col-md-6">
+                	<div class="media">
+                		<div class="pull-left">
+                			<span class="fa-stack fa-2x">
+                				<i class="fa fa-circle fa-stack-2x text-primary"></i>
+                				<i class="fa fa-signal fa-stack-1x fa-inverse"></i>
+                			</span>
+                		</div>
+                		<div class="media-body">
+                			<h4 class="media-heading"><a href="/committees/mtts/">MTT-S</a></h4>
+                			<p>IEEE MTT-S (Microwave Theory & Techniques Society) holds events to further the understanding and applications of microwave circuits. The growth of communications around us relies on the continued development of high-frequency technologies that students here develop.</p><br>
+                		</div>
+                	</div>
+                </div>
+                
+                <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
                             <span class="fa-stack fa-2x">
@@ -158,7 +173,9 @@
                         </div>
                     </div>
                 </div>
+            </div>
 
+            <div class="col-md-12">
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
@@ -173,9 +190,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="col-md-12">
+                
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
@@ -190,7 +205,9 @@
                         </div>
                     </div>
                 </div>
-
+            </div>
+            
+            <div class="col-md-12">
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
@@ -205,7 +222,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+			</div>
 
         </div>
     </div>
