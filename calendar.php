@@ -1,37 +1,76 @@
 <?php 
-	$title = 'Calendar - Purdue IEEE';
-	include 'header.php';
+    $title = 'Calendar - Purdue IEEE';
+    include 'header.php';
 ?>
 
-	<!-- Page Heading/Breadcrumbs -->
-	<div class="row">
-		<div class="col-lg-12">
-			<h1 class="page-header">Calendar</h1>
-			<ol class="breadcrumb">
-				<li><a href="/">Home</a></li>
-				<li class="active">Calendar</li>
-			</ol>
-		</div>
-	</div>
-	<!-- /.row -->
+    <!-- Page Heading/Breadcrumbs -->
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Calendar</h1>
+            <ol class="breadcrumb">
+                <li><a href="/">Home</a></li>
+                <li class="active">Calendar</li>
+            </ol>
+        </div>
+    </div>
+    <!-- /.row -->
 
-	<div class="well">
-		<div class="row">
-			<div class="col-lg-12 text-center">
-				<div style="margin: 10px auto; width: 850px; height: 20px; font-weight: 600">
-					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #547AC4; color: white; text-align: center;">IEEE Events</div>
-					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #CF5D5D; color: white; text-align: center;">Aerial Robotics</div>
-					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #55D4C3; color: white; text-align: center;">Computer Society</div>
-					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #DB8A1D; color: white; text-align: center;">Learning</div>
-					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #891DDB; color: white; text-align: center;">Rocket Team</div>
-					<div style="float: left; height: 20px; width: 130px; margin: 0 5px; background-color: #E8CB4F; color: white; text-align: center;">ROV</div>
-				</div>
-				<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=750&amp;wkst=1&amp;bgcolor=%23F5F5F5&#10;&amp;src=d5lo1ojucvmelsk9a54kndq1g8%40group.calendar.google.com&amp;color=%232952A3&#10;&amp;src=h8nk778rgq4idlspuf4uevfs84%40group.calendar.google.com&amp;color=%23A32929&#10;&amp;src=ivb3d3hectmmra336tvtjkjepg%40group.calendar.google.com&amp;color=%23BE6D00&#10;&amp;src=mmi9atsgvigdbhnsf783vtlcv8%40group.calendar.google.com&amp;color=%231B887A&#10;&amp;src=thcak7c7b8d7m6up2u5dd13odg%40group.calendar.google.com&amp;color=%235229A3&amp;src=ce7l4e2pdhq23tqf3353pfmfp8%40group.calendar.google.com&amp;color=%23AB8B00&#10;&amp;ctz=America%2FNew_York" style=" border-width:0" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
-				<p>
-					<span style="font-weight: 600; padding-left: 10px;"><a href="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=650&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=d5lo1ojucvmelsk9a54kndq1g8%40group.calendar.google.com&amp;color=%232952A3&#10;&amp;src=h8nk778rgq4idlspuf4uevfs84%40group.calendar.google.com&amp;color=%23A32929&#10;&amp;src=ivb3d3hectmmra336tvtjkjepg%40group.calendar.google.com&amp;color=%23BE6D00&#10;&amp;src=mmi9atsgvigdbhnsf783vtlcv8%40group.calendar.google.com&amp;color=%231B887A&#10;&amp;src=thcak7c7b8d7m6up2u5dd13odg%40group.calendar.google.com&amp;color=%235229A3&amp;src=ce7l4e2pdhq23tqf3353pfmfp8%40group.calendar.google.com&amp;color=%23AB8B00&#10;&amp;ctz=America%2FNew_York" target="_blank">Bigger View</a></span>
-				</p>
-			</div>
-		</div>
-	</div>
+    <style>
+        .calendar-box {
+            float: left;
+            height: 20px;
+            width: 140px;
+            margin: 0 5px;
+            background-color: #547AC4;
+            color: white;
+            text-align: center;
+        }
+    </style>
+
+    <div class="well">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div style="margin: 10px auto; width: 450px; height: 20px; font-weight: 600">
+                    <div class="calendar-box" style="background-color: #547AC4;">IEEE Events</div>
+                    <div class="calendar-box" style="background-color: #55D4C3;">Computer Society</div>
+                    <div class="calendar-box" style="background-color: #2196F3;">EMBS</div>
+                </div>
+                <div style="margin: 10px auto; width: 600px; height: 20px; font-weight: 600">
+                    <div class="calendar-box" style="background-color: #0D7813;">MTT-S</div>
+                    <div class="calendar-box" style="background-color: #891DDB;">Orbital</div>
+                    <div class="calendar-box" style="background-color: #CF5D5D;">PARTIEEE</div>
+                    <div class="calendar-box" style="background-color: #E8CB4F;">ROV</div>
+                </div>
+                <?php
+                    $calendar_sources = array(
+                        array('color' => '2952A3', 'src' => 'd5lo1ojucvmelsk9a54kndq1g8@group.calendar.google.com'), #IEEE Calendar
+                        array('color' => '1B887A', 'src' => 'mmi9atsgvigdbhnsf783vtlcv8@group.calendar.google.com'), #Computer Society
+                        array('color' => '2196F3', 'src' => 'embspurdue@gmail.com'), #EMBS
+                        array('color' => '0D7813', 'src' => 'edv88gqt4b1v7fs6b6gi2bd8f8@group.calendar.google.com'), #MTT-S
+                        array('color' => '5229A3', 'src' => 'thcak7c7b8d7m6up2u5dd13odg@group.calendar.google.com'), #Orbital
+                        array('color' => 'A32929', 'src' => 'h8nk778rgq4idlspuf4uevfs84@group.calendar.google.com'), #PARTIEEE
+                        array('color' => 'AB8B00', 'src' => 'ce7l4e2pdhq23tqf3353pfmfp8@group.calendar.google.com'), #ROV 2015-2016
+                        array('color' => 'AB8B00', 'src' => '87uv0bmrpiok3ghluf0v4fs5ag@group.calendar.google.com') #ROV 2016-2017
+                    );
+
+                    $list = "";
+                    foreach ($calendar_sources as $cal) {
+                        $src = $cal['src'];
+                        $color = $cal['color'];
+                        $url_encode = "src=".$src."&amp;color=%23".$color."&#10;&amp;";
+                        $list .= $url_encode;
+                    }
+
+                    $iframe = "https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=750&amp;wkst=1&amp;bgcolor=%23F5F5F5&#10;&amp;".$list."ctz=America%2FNew_York";
+                    $link = "https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=650&amp;wkst=1&amp;bgcolor=%23ffffff&amp;".$list."ctz=America%2FNew_York";
+
+                ?>
+                    <iframe src="<?php echo $iframe ?>" style=" border-width:0" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
+                <p>
+                    <span style="font-weight: 600; padding-left: 10px;"><a href="<?php echo $link?>" target="_blank">Bigger View</a></span>
+                </p>
+            </div>
+        </div>
+    </div>
 
 <?php include 'footer.php'; ?>
