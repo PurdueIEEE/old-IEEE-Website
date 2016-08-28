@@ -90,7 +90,7 @@
             <div class="col-md-9">
                 <h3>Yash Nain</h3>
                 <h4>Professional Committee Head</h4>
-                <p></p>
+                <p>Yash is a junior in Multidisciplinary Engineering. He joined IEEE in the fall of 2014 to work on the Aerial Robotics committee. He hopes to combine his engineering knowledge with a business background. As professional head, he hopes to work with companies, professionals, and members to ensure that everyone gets the best deal they can, while also hoping to integrate better opportunities for education whenever possible. In his free time, he is a movie buff and enjoys cooking, playing and watching sports, and playing video games.</p>
                 <p><em>Committee Involvement</em>: <a href="/committees/partieee/">PARTIEEE</a></p>
             </div>
         </div>
