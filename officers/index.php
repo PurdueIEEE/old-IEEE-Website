@@ -186,7 +186,7 @@
                 <h3>Dane Rudy</h3>
                 <h4>Purdue Orbital Chair</h4>
                 <p>Dane Rudy is a Senior from Hudson, Wisconsin majoring in Mechanical Engineering and minoring in Global Engineering Studies. He joined IEEE as a member of ROV in the Spring of 2015. Dane is passionate about the space industry and this has led him to founding IEEE Orbital. As Project Manager for IEEE Orbital, he is in charge of motivating and managing the team both logistically and technically. He is an Eagle Scout and in his free time he enjoys rock climbing, backpacking, sailing, and playing soccer. Dane is scheduled to graduate Spring 2017.</p>
-                <p><em>Committee Involvement</em>: <a href="http://www.purdueorbital.com/">Orbital</a></p>
+                <p><em>Committee Involvement</em>: <a href="http://www.purdueorbital.com/">Orbital<i class="fa fa-external-link" style="margin-left: 5px;"></i></a></p>
             </div>
         </div>
 
@@ -218,7 +218,7 @@
                 <h3>Kyle Rakos</h3>
                 <h4>Remotely Operated underwater Vehicle (ROV) Captain</h4>
                 <p>Kyle Rakos is a Senior in Computer Engineering. He joined IEEE at the beginning of his freshman year by taking on the role of Sponsorship Coordinator of the Purdue IEEE ROV Team. His technical and administrative passions continue to grow as he took on role of the Industrial Relations Head of IEEE and Captain of the ROV team. During these roles he interacts with companies on behalf of IEEE and organizes the ROV team in the MATE International ROV Competition. Feeling the desire to improve upon his 15th Place finish the previous season, he is devoting all his time to being the Team Captain for ROV. He also enjoys playing sports and is interested in space.</p>
-                <p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a>, <a href="http://www.purdueorbital.com/">Orbital</a></p>
+                <p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a>, <a href="http://www.purdueorbital.com/">Orbital</a><i class="fa fa-external-link" style="margin-left: 5px;"></i></p>
             </div>
         </div>
 
