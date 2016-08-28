@@ -115,7 +115,7 @@ include '../../../header.php';
 
                 <div class="row" style="margin-top: 20px">
                     <div class="col-md-4 text-center">
-                        <a href="http://wabashpower.com" target="_blank"><img src="/committees/rov/images/WabashPower.png" alt="Wabash Power Equipment" style="width:100%"></a>
+                        <a href="http://wabashpower.com" target="_blank"><img src="/committees/rov/images/WabashPower.jpg" alt="Wabash Power Equipment" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
                         <a href="http://www.binder-world.com/us/Company" target="_blank"><img src="/committees/rov/images/Binder.png" alt="Binder" style="width:100%"></a>
