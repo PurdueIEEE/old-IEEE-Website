@@ -66,7 +66,7 @@ include '../../../header.php';
                     <a href="https://engineering.purdue.edu/Engr" target="_blank"><img src="/committees/rov/images/Engineering.png" alt="Purdue College of Engineering" style="width:100%"></a>
                 </div>
                 <div class="col-md-4 text-center">
-                    <a href="http://www.solidworks.com/" target="_blank"><img src="/committees/rov/images/solidworks.jpg" alt="SolidWorks" style="width:100%"></a>
+                    <a href="http://www.solidworks.com/" target="_blank"><img src="/committees/rov/images/solidworks.png" alt="SolidWorks" style="width:100%"></a>
                 </div>
                 <div class="col-md-4 text-center">
                     <a href="http://www.cadsoftusa.com/" target="_blank"><img src="/committees/rov/images/eagle.png" alt="Cadsoft" style="width:100%"></a>
@@ -80,7 +80,7 @@ include '../../../header.php';
 
                 </div>
                 <div class="col-md-4 text-center">
-                    <a href="http://www.rssgrinders.com/" target="_blank"><img src="/committees/rov/images/rss.JPG" alt="RSS Grinders and Automation" style="width:100%"></a>
+                    <a href="http://www.rssgrinders.com/" target="_blank"><img src="/committees/rov/images/rss.png" alt="RSS Grinders and Automation" style="width:100%"></a>
                 </div>
                 <div class="col-md-4 text-center">
 
@@ -94,10 +94,10 @@ include '../../../header.php';
                     <a href="http://www.bechtel.com/" target="_blank"><img src="/committees/rov/images/Bechtel.png" alt="Bechtel" style="width:100%">
                     </div>
                     <div class="col-md-4 text-center">
-                        <a href="http://bv.com/" target="_blank"><img src="/committees/rov/images/blackandveatch.jpg" alt="Black and Veatch" style="width:100%"></a>
+                        <a href="http://bv.com/" target="_blank"><img src="/committees/rov/images/blackandveatch.png" alt="Black and Veatch" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
-                        <a href="http://www.eastman.com/Pages/Home.aspx" target="_blank"><img src="/committees/rov/images/eastman.jpg" alt="Eastman Chemical" style="width:100%"></a>
+                        <a href="http://www.eastman.com/Pages/Home.aspx" target="_blank"><img src="/committees/rov/images/eastman.png" alt="Eastman Chemical" style="width:100%"></a>
                     </div>
                 </div>
 
@@ -106,7 +106,7 @@ include '../../../header.php';
                         <a href="http://www.digikey.com/" target="_blank"><img src="/committees/rov/images/DigiKey.png" alt="DigiKey" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
-                        <a href="http://www.cis-ieee.org/" target="_blank"><img src="/committees/rov/images/ieee.jpg" alt="CIS IEEE" style="width:100%"></a>
+                        <a href="http://www.cis-ieee.org/" target="_blank"><img src="/committees/rov/images/ieee.png" alt="CIS IEEE" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
                         <a href="http://www.northropgrumman.com/Pages/default.aspx" target="_blank"><img src="/committees/rov/images/northrop.png" alt="Northrop Grumman" style="width:100%"></a>
@@ -115,7 +115,7 @@ include '../../../header.php';
 
                 <div class="row" style="margin-top: 20px">
                     <div class="col-md-4 text-center">
-                        <a href="http://wabashpower.com" target="_blank"><img src="/committees/rov/images/WabashPower.jpg" alt="Wabash Power Equipment" style="width:100%"></a>
+                        <a href="http://wabashpower.com" target="_blank"><img src="/committees/rov/images/WabashPower.png" alt="Wabash Power Equipment" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
                         <a href="http://www.binder-world.com/us/Company" target="_blank"><img src="/committees/rov/images/Binder.png" alt="Binder" style="width:100%"></a>
