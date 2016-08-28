@@ -154,7 +154,7 @@
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/committees/mtts/">MTT-S</a></h4>
-                            <p>IEEE MTT-S (Microwave Theory & Techniques Society) holds events to further the understanding and applications of microwave circuits. The growth of communications around us relies on the continued development of high-frequency technologies that students here develop.</p><br>
+                            <p>IEEE MTT-S (Microwave Theory &amp; Techniques Society) holds events to further the understanding and applications of microwave circuits. The growth of communications around us relies on the continued development of high-frequency technologies that students here develop.</p><br>
                         </div>
                     </div>
                 </div>

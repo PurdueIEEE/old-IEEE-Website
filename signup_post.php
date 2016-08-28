@@ -16,7 +16,7 @@
         "aerial" => "Aerial Robotics",
         "csociety" => "IEEE Computer Society",
         "embs" => "Engineering Medicine and Biology Society",
-        "mtts" => "Microwave Theory & Techniques Society",
+        "mtts" => "Microwave Theory &amp; Techniques Society",
         "orbital" => "Purdue Orbital",
         "racing" => "Racing",
         "rov" => "Remotely Operated underwater Vehicle"
