@@ -23,9 +23,9 @@
             <div class="col-md-3">
                 <div class="list-group">
                     <a href="/committees/partieee/" class="list-group-item">Aerial Robotics</a>
-                    <a href="/committees/csociety/" class="list-group-item active">Computer Society</a>
+                    <a href="/committees/csociety/" class="list-group-item">Computer Society</a>
                     <a href="/committees/embs/" class="list-group-item">Engineering in Medicine and Biology Society</a>
-                    <a href="/committees/mtts/" class="list-group-item">Microwave Theory &amp; Techniques Society</a>
+                    <a href="/committees/mtts/" class="list-group-item active">Microwave Theory &amp; Techniques Society</a>
                     <a href="http://www.purdueorbital.com/" class="list-group-item">Orbital<i class="fa fa-external-link" style="margin-left: 5px;"></i></a>
                     <a href="/committees/racing/" class="list-group-item">Racing</a>
                     <a href="/committees/rov/" class="list-group-item">Remotely Operated underwater Vehicle</a>
