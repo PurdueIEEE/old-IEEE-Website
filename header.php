@@ -31,8 +31,7 @@
     <![endif]-->
 
     <!--favicon link-->
-    <link rel="SHORTCUT ICON" href="https://www.ieee.org/ucm/groups/webassets/@ieee/@web/@org/documents/images/ieee_favicon.ico">
-    <link rel="icon" type="image/vnd.microsoft.icon" href="https://www.ieee.org/ucm/groups/webassets/@ieee/@web/@org/documents/images/ieee_favicon.ico">
+    <link rel="SHORTCUT ICON" href="/favicon.ico">
     <link rel="apple-touch-icon" href="https://www.ieee.org/ucm/groups/webassets/@ieee/@web/@org/documents/images/ieee_apple_touch_icon.png">
 
 </head>
@@ -56,10 +55,10 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="/calendar.php">Calendar</a>
+                        <a href="/about.php">About</a>
                     </li>
                     <li>
-                        <a href="/constitution.php">Constitution</a>
+                        <a href="/calendar.php">Calendar</a>
                     </li>
                     <li class="dropdown">
                         <a href="/committees/" class="dropdown-toggle" data-toggle="dropdown">Committees<b class="caret"></b></a>
@@ -77,10 +76,10 @@
                                 <a href="/committees/embs/">EMBS</a>
                             </li>
                             <li>
-                                <a href="/committees/learning/">Learning Committee</a>
+                                <a href="/committees/mtts/">MTT-S</a>
                             </li>
                             <li>
-                                <a href="/committees/orbital/">Orbital</a>
+                                <a href="http://www.purdueorbital.com/">Orbital<i class="fa fa-external-link" style="margin-left: 5px;"></i></a>
                             </li>
                             <li>
                                 <a href="/committees/racing/">Racing</a>
@@ -91,16 +90,16 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="/officers/">Officers</a>
+                        <a href="/dues.php">Dues</a>
                     </li>
                     <li>
                         <a href="/signup.php">Join Mailing Lists</a>
                     </li>
                     <li>
-                        <a href="/about.php">About</a>
+                        <a href="/officers/">Officers</a>
                     </li>
                     <li>
-                        <a href="/dues.php">Dues</a>
+                        <a href="/constitution.php">Constitution</a>
                     </li>
                 </ul>
             </div>

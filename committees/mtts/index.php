@@ -1,5 +1,5 @@
-<?php
-    $title = 'IEEE Learning Committee';
+<?php 
+    $title = 'IEEE MTT-S';
     include '../../header.php';
 ?>
 
@@ -10,7 +10,7 @@
             <ol class="breadcrumb">
                 <li><a href="/">Home</a></li>
                 <li><a href="/committees/">Committees</a></li>
-                <li class="active">Learning Committee</li>
+                <li class="active">MTT-S</li>
             </ol>
         </div>
     </div>
@@ -25,8 +25,7 @@
                     <a href="/committees/partieee/" class="list-group-item">Aerial Robotics</a>
                     <a href="/committees/csociety/" class="list-group-item">Computer Society</a>
                     <a href="/committees/embs/" class="list-group-item">Engineering in Medicine and Biology Society</a>
-                    <a href="/committees/learning/" class="list-group-item active">Learning Committee</a>
-                    <a href="/committees/mtts/" class="list-group-item">Microwave Theory &amp; Techniques Society</a>
+                    <a href="/committees/mtts/" class="list-group-item active">Microwave Theory &amp; Techniques Society</a>
                     <a href="http://www.purdueorbital.com/" class="list-group-item">Orbital<i class="fa fa-external-link" style="margin-left: 5px;"></i></a>
                     <a href="/committees/racing/" class="list-group-item">Racing</a>
                     <a href="/committees/rov/" class="list-group-item">Remotely Operated underwater Vehicle</a>
@@ -35,14 +34,12 @@
 
             <!-- Content Column -->
             <div class="col-md-7 text-dark col-md-offset-1">
-                <h2>Learning Committee</h2>
-                <p class="text-center"><img src="/committees/learning/images/learning_header.png" alt="Learning Committee" style="width:90%"></p>
-                <p>The IEEE Learning Committee is dedicated to teaching any member the basics in Software, Hardware, and Mechanical concepts. These concepts vary from soldering, PCB design, JavaScript and Arduino Wiring programming, and 3D CAD modeling for 3D printing. The committee is structured in lessons that students participate in. Each lesson builds towards a final product that encompasses most if not all of the core skills that they will be learning.</p>
-                <p>Contact <a href="mailto:lee1509@purdue.edu">John Lee</a><br>If you’re interested in getting started at any time, let the committee head, John Lee, know via email.</p>
-                <p>Anyone can join at any time!</p>
+                <h2>Microwave Theory &amp; Techniques Society</h2>
+                <p>The mission of Purdue IEEE MTT-S is to explore microwave technology through events that highlight the background and applications of high-frequency technology. The events that Purdue IEEE MTT-S holds cater to the needs of both undergraduate and graduate students. The members of this committee host outreach activities to educate others about the opportunities and benefits of microwaves in communication and radar. The large range of experience levels present give a variety of perspectives in this field and allow for mentorship relations to form for the professional development of all members. Between seminars, roundtable discussions, and demonstrations, the members of MTT-S eagerly support the community that came out of Purdue University’s groundbreaking research in radio frequency and microwave engineering.</p>
+                <p>Send email to <a href="mailto:mtt-s-info@purdueieee.org">mtt-s-info@purdueieee.org</a> for more information.</p>
             </div>
-        </div>
+        </div> 
     </div>
-    <!-- /.well -->
+    <!-- /.well -->  
 
 <?php include '../../footer.php'; ?>

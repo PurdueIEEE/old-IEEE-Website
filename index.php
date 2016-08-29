@@ -1,4 +1,4 @@
-<?php 
+<?php
     $title = 'Purdue IEEE';
 
     //Output js in footer to load carousel
@@ -70,7 +70,7 @@
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">Upcoming Events</h2>
+            <h2 class="page-header">Join IEEE:</h2>
         </div>
     </div>
 
@@ -90,7 +90,7 @@
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">What we have to offer</h2>
+            <h2 class="page-header">What we have to offer:</h2>
         </div>
     </div>
 
@@ -149,12 +149,12 @@
                         <div class="pull-left">
                             <span class="fa-stack fa-2x">
                                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-fighter-jet fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-signal fa-stack-1x fa-inverse"></i>
                             </span>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/partieee/">PARTIEEE</a></h4>
-                            <p>Purdue Aerial Robotics Team IEEE creates an unmanned aerial system (UAS) to compete in AUVSI SUAS Competition. The end goal is to develop an autonomous system complete with a Ground Control Station (GCS). They are looking for members to help design the airframe, develop autopilot and image processing algorithms, and design electrical hardware such as flight controllers and other PCBs.</p><br>
+                            <h4 class="media-heading"><a href="/committees/mtts/">MTT-S</a></h4>
+                            <p>IEEE MTT-S (Microwave Theory &amp; Techniques Society) holds events to further the understanding and applications of microwave circuits. The growth of communications around us relies on the continued development of high-frequency technologies that students here develop.</p><br>
                         </div>
                     </div>
                 </div>
@@ -164,18 +164,33 @@
                         <div class="pull-left">
                             <span class="fa-stack fa-2x">
                                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-rocket fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-fighter-jet fa-stack-1x fa-inverse"></i>
                             </span>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/orbital/">Purdue Orbital</a></h4>
-                            <p>Our goal is to further space flight technology through designing, testing, and implementing systems to achieve orbit for small satellite platforms at an affordable price. This multi-disciplinary team is focused on utilizing Faculty and Industry resources to provide the first formal Purdue design, build, test rocket team.</p><br>
+                            <h4 class="media-heading"><a href="/committees/partieee/">PARTIEEE</a></h4>
+                            <p>Purdue Aerial Robotics Team IEEE creates an unmanned aerial system (UAS) to compete in AUVSI SUAS Competition. The end goal is to develop an autonomous system complete with a Ground Control Station (GCS). They are looking for members to help design the airframe, develop autopilot and image processing algorithms, and design electrical hardware such as flight controllers and other PCBs.</p><br>
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="col-md-12">
+                <div class="col-md-6">
+                    <div class="media">
+                        <div class="pull-left">
+                            <span class="fa-stack fa-2x">
+                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                <i class="fa fa-rocket fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading"><a href="http://www.purdueorbital.com">Purdue Orbital <i class="fa fa-external-link" style="margin-left: 5px;"></i></a></h4>
+                            <p>Our goal is to further space flight technology through designing, testing, and implementing systems to achieve orbit for small satellite platforms at an affordable price. This multi-disciplinary team is focused on utilizing Faculty and Industry resources to provide the first formal Purdue design, build, test rocket team.</p><br>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
@@ -190,7 +205,9 @@
                         </div>
                     </div>
                 </div>
+            </div>
 
+            <div class="col-md-12">
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
@@ -214,7 +231,7 @@
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">Information</h2>
+            <h2 class="page-header">Information:</h2>
         </div>
         <div class="col-md-4 col-sm-6">
             <div class="panel panel-default text-center text-dark">
