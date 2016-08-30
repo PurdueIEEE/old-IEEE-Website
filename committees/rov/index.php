@@ -42,11 +42,18 @@
 
             <!-- Content Column -->
             <div class="col-md-7 text-dark col-md-offset-1">
-                <h2 class="text-center">Latest Update</h2>
-                <p class="text-justify">Purdue ROV recently compted in Houston, TX from June 22 - 25, 2016 at NASA's Neutral Buoyancy Lab!
+
+        <h2 class="text-center">2016 - 2017 Season</h2>
+        <p> Interested in joining the team this year? Come to our first meeting on Wednesday, August 31 at 5:30pm in Hampton 1144! 
+        We have lots of exciting plans for this year and hope to finish first in 2017! You will be asked to fill out 
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPntz4UBPkGUmPngaLSoxhe6kaNKxhHUveHme7nMFi-du0HQ/viewform">this brief application to join</a></p>
+
+                <h2 class="text-center">2015 - 2016 Results</h2>
+                <p class="text-justify">Purdue ROV competed in Houston, TX from June 22 - 25, 2016 at NASA's Neutral Buoyancy Lab!
                 Thanks for all who supported our team at the competition and throughout the year! We had a wonderful technical presentation, an
-                excellent poster, and great technical documentation. We had some electronics issues during the mission runs but were still able to earn some
-                points through effective team coordination. We are awiting our final score but hope to be in the top 15.
+                excellent poster, and great technical documentation. We had some electronics issues during the mission runs but were still able to place 13th
+        internationally! Additionally, Kyle Rakos was awarded with the Flying Fish award for his passion and demonstrated leadership in the field! 
+        We will soon add more details under Past Seasons and Pictures!
                 </p><p>View the links below for more info on our competition!</p>
 
                 <br>
