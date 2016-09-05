@@ -18,6 +18,12 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
+                        <div class="fill" style="background-image:url('/images/ieee_callout.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>IEEE Callout: Fall 2016</h2>
+                        </div>
+                    </div>
+                    <div class="item">
                         <div class="fill" style="background-image:url('/images/ieee.jpg');"></div>
                         <div class="carousel-caption">
                             <h2>IEEE</h2>
