@@ -41,7 +41,7 @@
                 <ul>
                     <li>Luke McBee: lmcbee@purdue.edu</li>
                     <li>Carolyn Lewlling: clewelli@purdue.edu</li>
-                    <li>Rodolfo Levia: rleiva@purdue.edu</li>
+                    <li>Rodolfo Leiva: rleiva@purdue.edu</li>
                 </ul>
 
 
