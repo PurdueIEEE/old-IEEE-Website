@@ -1,6 +1,6 @@
 <?php 
     $title = 'Learning - Purdue IEEE';
-    include 'header.php';
+    include '../header.php';
 ?>
 
     <!-- Page Heading/Breadcrumbs -->
@@ -45,9 +45,6 @@
                 </ul>
 
 
-
-
-
                 <h2>SolidWorks Training Session</h2>
                 <p>Learn the basics of 3D modeling with one of the most widely utilized software’s in industry, SolidWorks! This introductory series will cover basic parametric modeling with a focus on best practices so that you can create better, more robust models. The training session is split into three parts, with the first session being held this Wednesday, in Physics 022 at 6:30 PM. Additional details below:</p>
                 <ul>
@@ -72,4 +69,4 @@
         </div>
     </div>
 
-<?php include 'footer.php'; ?>
+<?php include '../footer.php'; ?>
