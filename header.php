@@ -93,6 +93,9 @@
                         <a href="/dues.php">Dues</a>
                     </li>
                     <li>
+                    <a href="/learning/">Learning Workshops</a>
+                    </li>
+                    <li>
                         <a href="/signup.php">Join Mailing Lists</a>
                     </li>
                     <li>
