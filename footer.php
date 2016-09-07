@@ -2,7 +2,12 @@
     <footer>
         <div class="row">
             <div class="col-lg-12">
-                <p>Copyright &copy; Purdue IEEE <?php echo date("Y") ?></p>
+                <p>Copyright &copy; Purdue IEEE
+                    <?php
+                        date_default_timezone_set("UTC");
+                        echo date("Y");
+                    ?>
+                </p>
             </div>
         </div>
     </footer>
