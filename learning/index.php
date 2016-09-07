@@ -59,11 +59,11 @@
                 <p><strong>Contact for additional questions and help:</strong></p>
                 <p>Officer Hours: After each lesson, there will be open office hours for questions and help on the past lesson.</p>
                 <ul>
-                    <li>Joshua Berg: berg30@purdue.edu (1:30 - 2:20 PM MWF)</li>
-                    <li>Sanay Shah: shah196@purdue.edu (10:30 - 11:30 AM MWF)</li>
-                    <li>Alex Ruffino: aruffino@purdue.edu (11:30 - 12:30 PM F)</li>
-                    <li>Sophia Duan: duan35@purdue.edu (12:30 - 1:20 PM TR)</li>
-                    <li>Joe Pejril: jpejril@purdue.edu</li>
+                    <li>Joshua Berg: berg30@purdue.edu (1:30 - 2:20 PM MWF) EE 014</li>
+                    <li>Sanay Shah: shah196@purdue.edu (10:30 - 11:30 AM MF) EE 014</li>
+                    <li>Alex Ruffino: aruffino@purdue.edu (11:30 - 12:30 PM F) EE 014</li>
+                    <li>Sophia Duan: duan35@purdue.edu (12:30 - 1:20 PM TR) EE 014</li>
+                    <li>Joe Pejril: jpejril@purdue.edu (10:30 - 11:20 AM TR) EE 014</li>
                 </ul>
             </div>
         </div>
