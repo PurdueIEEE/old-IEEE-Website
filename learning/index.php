@@ -65,6 +65,50 @@
                     <li>Sophia Duan: duan35@purdue.edu (12:30 - 1:20 PM TR) EE 014</li>
                     <li>Joe Pejril: jpejril@purdue.edu (10:30 - 11:20 AM TR) EE 014</li>
                 </ul>
+
+
+                <h2>Introduction to Planes</h2>
+                <p>This training session will introduce people to the basics of aerodynamics, common terminology, and basic configurations of planes and their pros and cons. In addition, a brief overview of RC systems is given. We will use the Aerial Robotic's kit planes and custom plane as reference. It will be an open session, so anyone is welcome to come. No prior knowledge is required.</p>
+                <ul>
+                    <li>Saturday, September 10th in ARMS 1021 from 1:30 to 3:30 PM (Additional time is allotted for questions)</li>
+                </ul>
+                <p><strong>Contact for additional questions and help:</strong></p>
+                <ul>
+                    <li>Yash Nain: ynain@purdue.edu</li>
+                    <li>Michael Malachowski: mmalacho@purdue.edu</li>
+                    <li>Joey Williamson: will1361@purdue.edu</li>
+                </ul>
+
+
+                <h2>CATIA Training Session</h2>
+                <p>This training session will provide a basic overview of CATIA, a CAD software often used in the automotive, aerospace, and other heavy industries. We will delve into the basics of the software, so that members can become familiar with the software and gain a greater understanding of CAD in general. No prior knowledge is necessary. A few take-home projects will be given.</p>
+                <ul>
+                    <li>Lesson 1: Tuesday, September 13 in SC G046 from 7:30 to 9:30 PM</li>
+                    <li>Lesson 2: Sunday, September 18 in SC G046 from 7:30 to 9:30 PM</li>
+                    <li>Lesson 3: Thursday, September 22 in SC G046 from 7:30 to 9:30 PM</li>
+                </ul>
+                <p><strong>Contact for additional questions and help:</strong></p>
+                <ul>
+                    <li>Yash Nain: ynain@purdue.edu</li>
+                    <li>Michael Malachowski: mmalacho@purdue.edu</li>
+                    <li>Joey Williamson: will1361@purdue.edu</li>
+                    <li>Robert McIntyre: mcintyr2@purdue.edu</li>
+                    <li>Ajay Kumar: ajayk@purdue.edu</li>
+                </ul>
+                <p>Yash will remain for an extra hour to answer any questions, and will hold officer hours every Friday from 10:00 A.M. to 1:00 P.M. He will not be available for the last session.</p>
+
+
+                <h2>Git + GitHUb</h2>
+                <p>This session will cover the basics of using git and GitHub. Git is a version control software that makes saving your old code and reverting changes much easier. GitHub is a remote location to store your code and collaborate with other people through merging and code reviews. The session will cover only command line tools, so familiarity with the command line is helpful.</p>
+                <ul>
+                    <li>Tuesday, September 13 in Phys 114 from 6:30 to 8:30 PM</li>
+                </ul>
+                <p><strong>Contact for additional questions and help:</strong></p>
+                <ul>
+                    <li>Matt Molo: mmolo@purdue.edu</li>
+                    <li>Tim Vincent: tv@purdue.edu</li>
+                </ul>
+                <p>Matt will have office hours for additional help on the following Thursday, from 11:30 to 1:20 PM in EE 014.</p>
             </div>
         </div>
     </div>
