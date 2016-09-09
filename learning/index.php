@@ -98,7 +98,7 @@
                 <p>Yash will remain for an extra hour to answer any questions, and will hold officer hours every Friday from 10:00 A.M. to 1:00 P.M. He will not be available for the last session.</p>
 
 
-                <h2>Git + GitHUb</h2>
+                <h2>Git + GitHub</h2>
                 <p>This session will cover the basics of using git and GitHub. Git is a version control software that makes saving your old code and reverting changes much easier. GitHub is a remote location to store your code and collaborate with other people through merging and code reviews. The session will cover only command line tools, so familiarity with the command line is helpful.</p>
                 <ul>
                     <li>Tuesday, September 13 in Phys 114 from 6:30 to 8:30 PM</li>
