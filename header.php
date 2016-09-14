@@ -66,6 +66,17 @@
                             <li>
                                 <a href="/committees/">About Committees</a>
                             </li>
+                            <hr />
+                            <li>
+                                <a href="/learning/">Learning</a>
+                            </li>
+                            <li>
+                                <a href="/professional/">Professional</a>
+                            </li>
+                            <li>
+                                <a href="/social/">Social</a>
+                            </li>
+                            <hr />
                             <li>
                                 <a href="/committees/partieee/">Aerial Robotics</a>
                             </li>
@@ -91,9 +102,6 @@
                     </li>
                     <li>
                         <a href="/dues.php">Dues</a>
-                    </li>
-                    <li>
-                    <a href="/learning/">Learning Workshops</a>
                     </li>
                     <li>
                         <a href="/signup.php">Join Mailing Lists</a>
