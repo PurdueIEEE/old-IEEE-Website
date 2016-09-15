@@ -45,11 +45,33 @@
             <div class="col-md-7 text-dark col-md-offset-1">
                 <h1 class="text-center">ROV Team History</h1><br>
 
-                <h3 class="text-center"><em>2015 - 2016: ROV X8</em></h3>
-                <p class="text-justify">This is the current season. The mission will take place in Houston, TX at NASA's Neutral Buoyancy Lab June 23 - 25, 2016. With almost all veteran members returning the team is eagerly preparing for the challenge of exploring Jupiter's moon, Europa, and revisiting the Gulf of Mexico!</p><br>
+                <h3 class="text-center">2015 - 2016: ROV <em>Maelstrom</em></h3>
+                <div class="row">
+                    <div class="col-md-3 text-dark">
+                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReN2FlcVI0NWJ0Ymc">Tech Report</a></p>
+                    </div>
+                    <div class="col-md-3 text-dark">
+                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReN1BOdjlBcVNxa0U">Spec Sheet</a></p>
 
+                    </div>
+                    <div class="col-md-3 text-dark">
+                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7RedG9FUm5PWlpuU0k">Pictures</a></p>
+                    </div>
+                    <div class="col-md-3 text-dark">
+                        <p class="text-center"><a href="https://youtu.be/TiiTarcIZzM">Qualifying Video</a></p>
+                    </div>
 
-                <h3 class="text-center"><em>2014 - 2015: </em>ROV<em> Cerulean</em></h3>
+                </div>
+
+                <p class="text-justify">Purdue ROV competed in Houston, TX from June 23 - 25 at NASA's Neutral Buoyancy Lab! The team reached its largest size yet at 42 members
+                    with Kyle Rakos captaining the team first semester and for the competition while Sanay Shah took over for the second semester. At the international competition
+                    we had a wonderful technical presentation, an excellent poster, and great technical documentation. We had some electronics issues during the mission runs but were
+                    still able to place 13th internationally! Additionally, Kyle Rakos was awarded with the Flying Fish award for his passion and demonstrated leadership in the field! 
+                <p class="text-center"> <img src="/committees/rov/images/ROVMaelstrom.jpg" alt="ROV Cerulean" style="width:80%"></p><br>
+                <br>
+                
+
+                <h3 class="text-center">2014 - 2015: ROV<em> Cerulean</em></h3>
                 <div class="row">
                     <div class="col-md-4 text-dark">
                         <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZmVRRFl0N0Njcms">Season Pictures</a></p>
@@ -72,7 +94,7 @@
                 <p class="text-center"> <img src="/committees/rov/images/ROV_Cerulean.jpg" alt="ROV Cerulean" style="width:80%"></p><br>
 
 
-                <h3 class="text-center"><em>2013 - 2014: ROV X6</em></h3>
+                <h3 class="text-center">2013 - 2014: ROV <em>X6</em></h3>
                 <div class="row">
                     <div class="col-md-12 text-dark">
                         <p class="text-center"><a href="https://www.facebook.com/media/set/?set=a.725757954152443.1073741851.576379772423596&type=3">Season Pictures</a></p>
@@ -88,7 +110,7 @@
                 <p class="text-justify">This was the first year in the team's history that they failed to qualify for the international competition. The marine sanctuary vehicle designed to identify shipwrecks and study marine ecology could not be built. Plagued with thruster issues throughout the season, the team still managed to construct a prototype vehicle and train members on both electrical and mechanical design. The prototype vehicle, affectionately dubbed ROV <em>Incompetence</em>, would be improved upon for future practice missions in order to prepare for next season.</p>
                 <p class="text-center"> <img src="/committees/rov/images/X6.jpg" alt="ROV X6" style="width:80%"></p><br>
 
-                <h3 class="text-center"><em>2012 - 2013: </em>ROV<em> Model N</em></h3>
+                <h3 class="text-center">2012 - 2013: ROV<em> Model N</em></h3>
                 <div class="row">
                     <div class="col-md-4 text-dark">
                         <p class="text-center"><a href="https://www.facebook.com/media/set/?set=a.580117015383205.1073741839.576379772423596&type=3">Season Pictures</a></p>
@@ -111,7 +133,7 @@
                 <p class="text-center"> <img src="/committees/rov/images/ModelN.jpg" alt="ROV Model N" style="width:80%"></p><br>
 
 
-                <h3 class="text-center"><em>2011 - 2012: </em>ROV<em> PotaTOS</em></h3>
+                <h3 class="text-center">2011 - 2012: ROV<em> PotaTOS</em></h3>
                 <div class="row">
                     <div class="col-md-4 text-dark">
                         <p class="text-center"><a href="https://www.facebook.com/media/set/?set=a.580101682051405.1073741838.576379772423596&type=3">Season Pictures</a></p>
@@ -134,7 +156,7 @@
                 <p class="text-center"> <img src="/committees/rov/images/PotaTOS.jpg" alt="ROV PotaTOS" style="width:80%"></p><br>
 
 
-                <h3 class="text-center"><em>2010 - 2011: </em>ROV<em> Hybris</em></h3>
+                <h3 class="text-center">2010 - 2011: ROV<em> Hybris</em></h3>
                 <div class="row">
                     <div class="col-md-4 text-dark">
                         <p class="text-center"><a href="https://www.facebook.com/media/set/?set=a.580044268723813.1073741836.576379772423596&type=3">Season Pictures</a></p>
@@ -157,7 +179,7 @@
                 <p class="text-center"> <img src="/committees/rov/images/Hybris.jpg" alt="ROV Hybris" style="width:80%"></p><br>
 
 
-                <h3 class="text-center"><em>2009 - 2010: </em>ROV<em> Competence</em></h3>
+                <h3 class="text-center">2009 - 2010: ROV<em> Competence</em></h3>
                 <div class="row">
                     <div class="col-md-4 text-dark">
                         <p class="text-center"><a href="https://www.facebook.com/media/set/?set=a.580022102059363.1073741834.576379772423596&type=3">Season Pictures</a></p>
@@ -180,7 +202,7 @@
                 <p class="text-center"> <img src="/committees/rov/images/Competence.jpg" alt="ROV Competence" style="width:80%"></p><br>
 
 
-                <h3 class="text-center"><em>2008 - 2009: </em>ROV<em> Osprey</em></h3>
+                <h3 class="text-center">2008 - 2009: ROV<em> Osprey</em></h3>
                 <div class="row">
                     <div class="col-md-4 text-dark">
                         <p class="text-center"><a href="https://www.facebook.com/media/set/?set=a.580015398726700.1073741831.576379772423596&type=3">Season Pictures</a></p>
@@ -202,7 +224,7 @@
                 <p class="text-justify">Seth Baklor and a small, yet dedicated group of four other students founded the team in 2008. Despite it being the first year, the team finished 5th in the Explorer class in Buzzards Bay, MA. ROV <em>Osprey</em> was a submarine rescue vehicle.</p>
                 <p class="text-center"> <img src="/committees/rov/images/Osprey.jpg" alt="ROV Osprey" style="width:80%"></p><br>
 
-                <h3 class="text-center"><em>2008: </em>ROV<em> Sugrak</em></h3>
+                <h3 class="text-center">2008: ROV<em> Sugrak</em></h3>
                 <p class="text-justify">Seth Baklor, Joe Pellettiere, and Dustin Mitchell met before the formation of the committee itself to create a practice vehicle. Intended as a learning platform for the fledgling team, ROV <em>Sugrak</em>, with her simple manipulator and PVC frame, was never finished.</p>
                 <p class="text-center"> <img src="/committees/rov/images/Sugrak.jpg" alt="ROV Sugrak" style="width:80%"></p>
             </div>
