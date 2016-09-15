@@ -116,11 +116,11 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Rodolfo_Levia.jpg')">
+                    style="background-image: url('/images/officers/Rodolfo_Leiva.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
-                <h3>Rodolfo Levia</h3>
+                <h3>Rodolfo Leiva</h3>
                 <h4>Social Committee Head</h4>
                 <p>Rodolfo is a Senior in Electrical Engineering. He joined Purdue IEEE in the Fall of 2014 to be part of the ROV team. He attributes the IEEE Purdue Chapter as his main source of technical knowledge and is still learning a lot from the organization to this day. Rodolfo is very excited to prepare social activities to unite students within IEEE and all fields of engineering and careers. In his free time, Rodolfo likes discovering new music, watching movies and hanging out with his friends. He’s always looking for new, fun activities he can put together for the organization, so if you have any send them his way.</p>
                 <p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
