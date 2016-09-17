@@ -187,12 +187,12 @@
                         <div class="pull-left">
                             <span class="fa-stack fa-2x">
                                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-rocket fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-gears fa-stack-1x fa-inverse"></i>
                             </span>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="http://www.purdueorbital.com">Purdue Orbital <i class="fa fa-external-link" style="margin-left: 5px;"></i></a></h4>
-                            <p>Our goal is to further space flight technology through designing, testing, and implementing systems to achieve orbit for small satellite platforms at an affordable price. This multi-disciplinary team is focused on utilizing Faculty and Industry resources to provide the first formal Purdue design, build, test rocket team.</p><br>
+                            <h4 class="media-heading"><a href="/committees/rov/">ROV</a></h4>
+                            <p>ROV (Remotely Operated underwater Vehicle) designs and builds an ROV to compete in the MATE (Marine Advanced Technology Education) International ROV Competition each year. They are looking for members to model designs in 3D, restore old vehicles, and assemble next year's vehicle.</p><br>
                         </div>
                     </div>
                 </div>
@@ -208,23 +208,6 @@
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/committees/racing/">Racing</a></h4>
                             <p>Racing builds an electric go-kart to compete in evGrandPrix at Purdue and at the Indy Motor Speedway. They are looking for members to redesign some systems, help get sponsors for new batteries, further improve safety features, and investigate more efficient motors.</p><br>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-12">
-                <div class="col-md-6">
-                    <div class="media">
-                        <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-gears fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/rov/">ROV</a></h4>
-                            <p>ROV (Remotely Operated underwater Vehicle) designs and builds an ROV to compete in the MATE (Marine Advanced Technology Education) International ROV Competition each year. They are looking for members to model designs in 3D, restore old vehicles, and assemble next year's vehicle.</p><br>
                         </div>
                     </div>
                 </div>

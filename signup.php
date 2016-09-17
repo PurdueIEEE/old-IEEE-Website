@@ -32,7 +32,6 @@
                         <label><input type="checkbox" name="list[]" value="csociety">IEEE Computer Society</label><br>
                         <label><input type="checkbox" name="list[]" value="embs">Engineering in Medicine and Biology Society</label><br>
                         <label><input type="checkbox" name="list[]" value="mtts">Microwave Theory &amp; Techniques Society</label><br>
-                        <label><input type="checkbox" name="list[]" value="orbital">Purdue Orbital</label><br>
                         <label><input type="checkbox" name="list[]" value="racing">Racing</label><br>
                         <label><input type="checkbox" name="list[]" value="rov">Remotely Operated underwater Vehicle (ROV)</label><br>
                     </div>
