@@ -1,229 +1,109 @@
 <?php
-    $title = 'IEEE ROV';
-    include '../../header.php';
+$title = 'IEEE ROV';
+include '../../header.php';
 ?>
 
-    <!-- Page Heading/Breadcrumbs -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h1 class="page-header">Committees</h1>
-            <ol class="breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li><a href="/committees/">Committees</a></li>
-                <li class="active">ROV</li>
-            </ol>
-        </div>
+<!-- Page Heading/Breadcrumbs -->
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Committees</h1>
+        <ol class="breadcrumb">
+            <li><a href="/">Home</a></li>
+            <li><a href="/committees/">Committees</a></li>
+            <li class="active">ROV</li>
+        </ol>
     </div>
+</div>
 
-    <!-- Content Row -->
-    <div class="well">
-        <div class="row">
+<!-- Content Row -->
+<div class="well">
+    <div class="row">
 
-            <!-- Sidebar Column -->
-            <div class="col-md-3">
-                <div class="list-group">
-                    <a href="/committees/partieee/" class="list-group-item">Aerial Robotics</a>
-                    <a href="/committees/csociety/" class="list-group-item">Computer Society</a>
-                    <a href="/committees/embs/" class="list-group-item">Engineering in Medicine and Biology Society</a>
-                    <a href="/committees/mtts/" class="list-group-item">Microwave Theory &amp; Techniques Society</a>
-                    <a href="http://www.purdueorbital.com/" class="list-group-item">Orbital<i class="fa fa-external-link" style="margin-left: 5px;"></i></a>
-                    <a href="/committees/racing/" class="list-group-item">Racing</a>
-                    <a href="#rov" data-toggle="collapse" class="list-group-item active">Remotely Operated underwater Vehicle</a>
-                    <div id="rov" class="panel-collapse collapse in">
-                        <ul class="list-group">
+        <!-- Sidebar Column -->
+        <div class="col-md-3">
+            <div class="list-group">
+                <a href="/committees/partieee/" class="list-group-item">Aerial Robotics</a>
+                <a href="/committees/csociety/" class="list-group-item">Computer Society</a>
+                <a href="/committees/embs/" class="list-group-item">Engineering in Medicine and Biology Society</a>
+                <a href="/committees/mtts/" class="list-group-item">Microwave Theory &amp; Techniques Society</a>
+                <a href="http://www.purdueorbital.com/" class="list-group-item">Orbital<i class="fa fa-external-link" style="margin-left: 5px;"></i></a>
+                <a href="/committees/racing/" class="list-group-item">Racing</a>
+                <a href="#rov" data-toggle="collapse" class="list-group-item active">Remotely Operated underwater Vehicle</a>
+                <div id="rov" class="panel-collapse collapse in">
+                    <ul class="list-group">
                         <ul><a href="/committees/rov/history/" class="list-group-item">Past Seasons and Pictures</a></ul>
                         <ul><a href="/committees/rov/bylaws/" class="list-group-item">Bylaws</a></ul>
                         <ul><a href="/committees/rov/sponsors/" class="list-group-item">Sponsors</a></ul>
                         <ul><a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="fa fa-external-link" style="margin-left: 5px;"></i></a></ul>
                     </ul>
-                    </div>
                 </div>
             </div>
+        </div>
 
-            <!-- Content Column -->
-            <div class="col-md-7 text-dark col-md-offset-1">
+        <!-- Content Column -->
+        <div class="col-md-7 text-dark col-md-offset-1">
 
-        <h2 class="text-center">2016 - 2017 Season</h2>
-        <p> Interested in joining the team this year? Come to our first meeting on Wednesday, August 31 at 5:30pm in Hampton 1144! 
-        We have lots of exciting plans for this year and hope to finish first in 2017! You will be asked to fill out 
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPntz4UBPkGUmPngaLSoxhe6kaNKxhHUveHme7nMFi-du0HQ/viewform">this brief application to join</a></p>
+            <h2 class="text-center">2016 - 2017 Season</h2>
+            <p> The ROV Team began its ninth season with over 60 new-member applicants. The top 29 applicants were accepted to join the 30 returning veterans in what will be the the
+                strongest team to date! Our team looks forward to the summer 2017 competition in Long Beach, CA and are eagerly preparing for first place!</p>
 
-                <h2 class="text-center">2015 - 2016 Results</h2>
-                <p class="text-justify">Purdue ROV competed in Houston, TX from June 22 - 25, 2016 at NASA's Neutral Buoyancy Lab!
-                Thanks for all who supported our team at the competition and throughout the year! We had a wonderful technical presentation, an
-                excellent poster, and great technical documentation. We had some electronics issues during the mission runs but were still able to place 13th
-        internationally! Additionally, Kyle Rakos was awarded with the Flying Fish award for his passion and demonstrated leadership in the field! 
-        We will soon add more details under Past Seasons and Pictures!
-                </p><p>View the links below for more info on our competition!</p>
-
-                <br>
-                    <div class="row">
-                    <div class="col-md-3 text-dark">
-                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReN2FlcVI0NWJ0Ymc">Technical Documentation</a></p>
-                    </div>
-                    <div class="col-md-3 text-dark">
-                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReN1BOdjlBcVNxa0U">Spec Sheet</a></p>
-
-                    </div>
-                    <div class="col-md-3 text-dark">
-                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7RedG9FUm5PWlpuU0k">More Pictures</a></p>
-                    </div>
-                    <div class="col-md-3 text-dark">
-                        <p class="text-center"><a href="https://youtu.be/TiiTarcIZzM">Qualifying Video</a></p>
-                    </div>
-
-                </div>
+                
                 <br>
 
                 <h2 class="text-center">About The ROV Team</h2>
 
                 <p class="text-justify">The Remotely Operated underwater Vehicle (ROV) team was founded as a committee within Purdue IEEE Student
-                Organization in 2008 with a small but dedicated group of five students. Today, the team's mission is to foster
-                technical and professional skills of its members by designing, constructing, and testing an innovative
-                underwater vehicle to compete in the MATE Center International ROV Competition.</p>
+                    Organization in 2008 with a small but dedicated group of five students. Today, the team's mission is to foster
+                    technical and professional skills of its members by designing, constructing, and testing an innovative
+                    underwater vehicle to compete in the MATE Center International ROV Competition.
+                </p>
 
                 <p class="text-justify">The ROV team is comprised of both engineering and non-engineering students working collaboratively on a
-                hands-on project from the vehicle's design and prototyping phase, to its construction and testing, and ultimately
-                competition performance. The team fosters a multidisciplinary spirit so that the
-                best ideas may come forth. In addition to the mission, the MATE competition also requires a professional
-                presentation, public display poster, and technical documentation.</p>
+                    hands-on project from the vehicle's design and prototyping phase, to its construction and testing, and ultimately
+                    competition performance. The team fosters a multidisciplinary spirit so that the
+                    best ideas may come forth. In addition to the mission, the MATE competition also requires a professional
+                    presentation, public display poster, and technical documentation.
+                </p>
 
                 <p class="text-justify">Because the vehicle requires excellence in
-                design, construction, and presentation, the team members are themselves multidisciplinary collaborators and
-                experts in their own discipline. Members learn to communicate clearly
-                with each other and with clients while managing their own project responsibilities. Through various outreach events
-                during the year, the team aims to inspire future generations to enter STEM (Science, Technology, Engineering,
-                and Mathematics) fields.</p>
+                    design, construction, and presentation, the team members are themselves multidisciplinary collaborators and
+                    experts in their own discipline. Members learn to communicate clearly
+                    with each other and with clients while managing their own project responsibilities. Through various outreach events
+                    during the year, the team aims to inspire future generations to enter STEM (Science, Technology, Engineering,
+                    and Mathematics) fields.
+                </p>
 
                 <p class="text-justify">For more current and past information view the links to the left or
-                contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>.</p><br>
-
-                <h2 class="text-center">2015 - 2016 Team Pictures</h2>
-                <br>
-
-
-                <h4 class="text-center">2015 - 2016 Full Team Picture</h4>
-                <p class="text-center"> <img src="/committees/rov/images/fullrovteam2015.jpg" alt="2015 - 2016 Team" style="width:100%"></p><br>
-                <br>
-                <br>
-
-                <h4 class="text-center">Electrical Team</h4>
-                <p class="text-center"> <img src="/committees/rov/images/electricalteam2015.jpg" alt="2015 - 2016 Electrical Team" style="width:100%"></p><br>
-                <div class='text-center'>
-                        <table class="table">
-                            <tbody>
-                                <tr>
-                                    <td>Rodolfo<br>Leiva</td>
-                                    <td>Wen Shen<br>Mow</td>
-                                    <td>Austin<br>White</td>
-                                    <td>Nick<br>Molo</td>
-                                    <td>Luke<br>McBee</td>
-                                    <td>Dimcho<br>Karakashev</td>
-                                </tr>
-                                <tr>
-
-                                    <td>Nick<br>Loffredo</td>
-                                    <td>Jakob<br>Andren</td>
-                                    <td>Jeff<br>Geiss</td>
-                                    <td>Alan<br>Han</td>
-                                    <td>Qiyue<br>Liang</td>
-                                    <td>Paul<br>Swartz</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Charles<br>Li</td>
-                                    <td>Carolyn<br>Lewelling</td>
-                                    <td>Bayley<br>Clausen</td>
-                                    <td>Xinyi<br>Jiang</td>
-                                    <td></td>
-                                </tr>
-                                </tbody>
-                            </table>
-
-                    <h4 class="text-center">Mechanical Team</h4>
-                    <p class="text-center"> <img src="/committees/rov/images/mechanicalteam2015.jpg" alt="2015 - 2016 Mechanical Team" style="width:100%"></p><br>
-                    <table class="table">
-                        <tbody>
-                            <tr>
-                                <td>Amandeep<br>Singh</td>
-                                <td>Tom<br>Lorenc</td>
-                                <td>Teal<br>Dowd</td>
-                                <td>Dan<br>Schillizzi</td>
-                                <td>Joshua<br>Berg</td>
-                                <td>Alex<br>Ruffino</td>
-                                <td>Rohit<br>Srivastava</td>
-                            </tr>
-                            <tr>
-                                <td>Sanay<br>Shah</td>
-                                <td>Jared<br>Borg</td>
-                                <td>Mckenzie<br>White</td>
-                                <td>Joe<br>Pejril</td>
-                                <td>Yuqin<br>Duan</td>
-                                <td>Scott<br>Giammatteo</td>
-                                <td></td>
-                            </tr>
-                            </tbody>
-                        </table>
-
-                    <h4 class="text-center">Software Team</h4>
-                    <p class="text-center"> <img src="/committees/rov/images/softwareteam2015.jpg" alt="2015 - 2016 Software Team" style="width:100%"></p><br>
-                    <table class="table">
-                    <tbody>
-                        <tr>
-                            <td>Adam<br>Kranz</td>
-                            <td>Matt<br>Molo</td>
-                            <td>Ben<br>Maxfield</td>
-                            <td>Jason<br>King</td>
-                            <td>Ryan<br>McBee</td>
-                            <td>Joel<br>Copi</td>
-                            <td>Vyaas<br>Shankar</td>
-                        </tr>
-                        <tr>
-                            <td>Oksana<br>Makarova</td>
-                            <td>Ajay<br>Gopakumar</td>
-                            <td>Mikey<br>Reeves</td>
-                            <td>Nathan<br>Glotzbach</td>
-                            <td>Yuqin<br>Duan</td>
-                            <td>Brandon<br>Stewart</td>
-                            <td></td>
-                        </tr>
-                        </tbody>
-                    </table>
-
-                    <h4 class="text-center">Administrative Team</h4>
-                    <p class="text-center"> <img src="/committees/rov/images/administrativeteam2015.jpg" alt="2015 - 2016 Administrative Team" style="width:100%"></p><br>
-                    <table class="table">
-                        <tbody>
-                            <tr>
-                                <td>Joshua Berg <br><em>Mechanical Team Lead</em></td>
-                                <td>Matt Molo<br><em>Software Team Lead</em></td>
-                                <td>Alex Ruffino<br><em>Sponsorship Coordinator</em></td>
-                                <td>Luke McBee<br><em>Electrical Team Lead</em></td>
-                                <td>Kyle Rakos<br><em>Team Captain (first semester)</em></td>
-                            </tr>
-                            <tr>
-                                <td>Sanay Shah<br><em>Team Captain (second semester)</em></td>
-                                <td></td>
-                                <td>Henry Shi<br><em>Technical Writer</em></td>
-                                <td></td>
-                                <td>Carolyn Lewelling<br><em>Lead Sponsorship Coordinator</em></td>
-                            </tr>
-                            </tbody>
-                        </table>
-
-                        <h4>Not Pictured</h4>
-                        <p>Sam Deghuee</p>
-                        <p>Yaodong Shen</p>
-                        <p>Charlie Su</p>
-                        <p>Katie Lothrop</p>
-                        <p>Alex Gebhardt</p>
-                        <p>Zeinab Mourad</p><br>
-                </div>
+                    contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>.
+                </p>
                 <p class="text-center"><a href="https://www.facebook.com/purdueieeerov"><i class="fa fa-facebook-square fa-4x"></i></a></p>
+                <br>
+
+                <h2 class="text-center">2015 - 2016 Pictures</h2>
+                <p class="text-center">(See <a href="history/">history</a> for more pictures)</p>
+                <br>
+
+
+                <h4 class="text-center">Team at the International Competition in front of NASA's Orion Test Capsule</h4>
+                <p class="text-center"> <img src="/committees/rov/images/TeamOrion.JPG" alt="2015 - 2016 Team" style="width:100%"></p><br>
+                <br>
+                <br>
+
+                <h4 class="text-center">ROV Maelstrom</h4>
+                <p class="text-center"> <img src="/committees/rov/images/ROVMaelstrom.jpg" alt="Maelstrom" style="width:100%"></p><br>
+                
+
+                <h4 class="text-center">ROV Maelstrom Rendering</h4>
+                <p class="text-center"> <img src="/committees/rov/images/X8.JPG" alt="Maelstrom Rendering" style="width:100%"></p><br>
+
+
+
             </div>
 
         </div>
+
     </div>
-    <!-- /.well -->
+</div>
+<!-- /.well -->
 
 <?php include '../../footer.php';?>
