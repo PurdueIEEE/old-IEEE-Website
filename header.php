@@ -90,9 +90,6 @@
                                 <a href="/committees/mtts/">MTT-S</a>
                             </li>
                             <li>
-                                <a href="http://www.purdueorbital.com/">Orbital<i class="fa fa-external-link" style="margin-left: 5px;"></i></a>
-                            </li>
-                            <li>
                                 <a href="/committees/racing/">Racing</a>
                             </li>
                             <li>
