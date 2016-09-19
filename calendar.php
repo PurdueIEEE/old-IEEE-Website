@@ -36,7 +36,7 @@
                     <div class="calendar-box" style="background-color: #2196F3;">EMBS</div>
                     <div class="calendar-box" style="background-color: #0D7813;">MTT-S</div>
                 </div>
-                <div style="margin: 10px auto; width: 600px; height: 20px; font-weight: 600">
+                <div style="margin: 10px auto; width: 450px; height: 20px; font-weight: 600">
                     <div class="calendar-box" style="background-color: #CF5D5D;">PARTIEEE</div>
                     <div class="calendar-box" style="background-color: #6B3304;">Racing</div>
                     <div class="calendar-box" style="background-color: #E8CB4F;">ROV</div>
