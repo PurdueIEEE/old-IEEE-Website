@@ -6,9 +6,8 @@
         "csociety" => "https://lists.csociety.org/subscribe/csociety-announce",
         "embs" => "https://lists.csociety.org/subscribe/ieee-embs",
         "mtts" => "https://lists.csociety.org/subscribe/ieee-mtt-s",
-        "orbital" => "https://lists.csociety.org/subscribe/ieee-rocket",
         "racing" => "https://lists.csociety.org/subscribe/ieee-grandprix",
-        "rov" => "https://lists.csociety.org/subscribe/ieee-rov"
+        "rov" => "https://lists.csociety.org/subscribe/ieee-rov-announcements"
     );
 
     $names = array(
@@ -17,7 +16,6 @@
         "csociety" => "IEEE Computer Society",
         "embs" => "Engineering Medicine and Biology Society",
         "mtts" => "Microwave Theory &amp; Techniques Society",
-        "orbital" => "Purdue Orbital",
         "racing" => "Racing",
         "rov" => "Remotely Operated underwater Vehicle"
     );
