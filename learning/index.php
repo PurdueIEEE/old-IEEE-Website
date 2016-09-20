@@ -83,9 +83,9 @@
                 <h2>CATIA Training Session</h2>
                 <p>This training session will provide a basic overview of CATIA, a CAD software often used in the automotive, aerospace, and other heavy industries. We will delve into the basics of the software, so that members can become familiar with the software and gain a greater understanding of CAD in general. No prior knowledge is necessary. A few take-home projects will be given.</p>
                 <ul>
-                    <li>Lesson 1: Tuesday, September 13 in SC G046 from 7:30 to 9:30 PM</li>
-                    <li>Lesson 2: Sunday, September 18 in SC G046 from 7:30 to 9:30 PM</li>
-                    <li>Lesson 3: Thursday, September 22 in SC G046 from 7:30 to 9:30 PM</li>
+                    <li>Lesson 1: Tuesday, September 13th in SC G046 from 7:30 to 9:30 PM</li>
+                    <li>Lesson 2: Sunday, September 18th in SC G046 from 7:30 to 9:30 PM</li>
+                    <li>Lesson 3: Thursday, September 22nd in SC G046 from 7:30 to 9:30 PM</li>
                 </ul>
                 <p><strong>Contact for additional questions and help:</strong></p>
                 <ul>
@@ -100,7 +100,7 @@
                 <h2>Electric Vehicle Technology</h2>
                 <p>This seminar will be focused on the various aspects of electric vehicle technology. Throughout the session, we will go over what goes in to modern day electric vehicles and how they relate to student projects. There will be an emphasis on the evGrandPrix Go-Karts that are built each year to race in the electric counterpart to the GrandPrix at the Indianapolis Motor Speedway.</p>
                 <ul>
-                    <li>Monday, September 19th in HAMP 1144 from 6:30 to 7:30 PM</li>
+                    <li>Monday, September 26th in HAMP 1144 from 6:30 to 7:30 PM</li>
                 </ul>
                 <p><strong>Contact for additional questions and help:</strong></p>
                 <ul>
@@ -113,7 +113,7 @@
                 <h2>Git + GitHub</h2>
                 <p>This session will cover the basics of using git and GitHub. Git is a version control software that makes saving your old code and reverting changes much easier. GitHub is a remote location to store your code and collaborate with other people through merging and code reviews. The session will cover only command line tools, so familiarity with the command line is helpful.</p>
                 <ul>
-                    <li>Tuesday, September 13 in Phys 114 from 6:30 to 8:30 PM</li>
+                    <li>Tuesday, September 13th in Phys 114 from 6:30 to 8:30 PM</li>
                 </ul>
                 <p><strong>Contact for additional questions and help:</strong></p>
                 <ul>
