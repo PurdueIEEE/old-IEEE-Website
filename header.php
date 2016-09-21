@@ -61,12 +61,8 @@
                         <a href="/calendar.php">Calendar</a>
                     </li>
                     <li class="dropdown">
-                        <a href="/committees/" class="dropdown-toggle" data-toggle="dropdown">Committees<b class="caret"></b></a>
+                        <a href="/" class="dropdown-toggle" data-toggle="dropdown">Committees<b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li>
-                                <a href="/committees/">About Committees</a>
-                            </li>
-                            <hr />
                             <li>
                                 <a href="/learning/">Learning</a>
                             </li>
@@ -76,24 +72,27 @@
                             <li>
                                 <a href="/social/">Social</a>
                             </li>
+                            <li>
+                                <a href="/technical/">Technical</a>
+                            </li>
                             <hr />
                             <li>
-                                <a href="/committees/partieee/">Aerial Robotics</a>
+                                <a href="/partieee/">Aerial Robotics</a>
                             </li>
                             <li>
-                                <a href="/committees/csociety/">Computer Society</a>
+                                <a href="/csociety/">Computer Society</a>
                             </li>
                             <li>
-                                <a href="/committees/embs/">EMBS</a>
+                                <a href="/embs/">EMBS</a>
                             </li>
                             <li>
-                                <a href="/committees/mtts/">MTT-S</a>
+                                <a href="/mtts/">MTT-S</a>
                             </li>
                             <li>
-                                <a href="/committees/racing/">Racing</a>
+                                <a href="/racing/">Racing</a>
                             </li>
                             <li>
-                                <a href="/committees/rov/">ROV</a>
+                                <a href="/rov/">ROV</a>
                             </li>
                         </ul>
                     </li>

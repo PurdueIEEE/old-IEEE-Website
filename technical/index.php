@@ -21,12 +21,12 @@
             <!-- Sidebar Column -->
             <div class="col-md-3">
                 <div class="list-group">
-                    <a href="/committees/partieee/" class="list-group-item">Aerial Robotics</a>
-                    <a href="/committees/csociety/" class="list-group-item">Computer Society</a>
-                    <a href="/committees/embs/" class="list-group-item">Engineering in Medicine and Biology Society</a>
-                    <a href="/committees/mtts/" class="list-group-item">Microwave Theory &amp; Techniques Society</a>
-                    <a href="/committees/racing/" class="list-group-item">Racing</a>
-                    <a href="/committees/rov/" class="list-group-item">Remotely Operated underwater Vehicle</a>
+                    <a href="/partieee/" class="list-group-item">Aerial Robotics</a>
+                    <a href="/csociety/" class="list-group-item">Computer Society</a>
+                    <a href="/embs/" class="list-group-item">Engineering in Medicine and Biology Society</a>
+                    <a href="/mtts/" class="list-group-item">Microwave Theory &amp; Techniques Society</a>
+                    <a href="/racing/" class="list-group-item">Racing</a>
+                    <a href="/rov/" class="list-group-item">Remotely Operated underwater Vehicle</a>
                 </div>
             </div>
             <!-- Content Column -->

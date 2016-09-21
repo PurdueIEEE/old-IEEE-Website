@@ -28,7 +28,7 @@
                 <h3>Seth Baklor</h3>
                 <h4>President and Remotely Operated underwater Vehicle (ROV) Committee Chair</h4>
                 <p></p>
-                <p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
+                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
         <!-- /.row -->

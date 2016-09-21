@@ -1,6 +1,6 @@
 <?php
     $title = 'IEEE ROV - History - Competence';
-    include '../../../header.php';
+    include '../../header.php';
 ?>
 
     <!-- Page Heading/Breadcrumbs -->
@@ -9,9 +9,9 @@
             <h1 class="page-header">Committees</h1>
             <ol class="breadcrumb">
                 <li><a href="/">Home</a></li>
-                <li><a href="/committees/">Committees</a></li>
-                <li><a href="/committees/rov/">ROV</a></li>
-                <li><a href="/committees/rov/history/">History</a></li>
+                <li><a href="/">Committees</a></li>
+                <li><a href="/rov/">ROV</a></li>
+                <li><a href="/rov/history/">History</a></li>
                 <li class="active">ROV Competence</li>
             </ol>
         </div>
@@ -24,17 +24,17 @@
             <!-- Sidebar Column -->
             <div class="col-md-3">
                 <div class="list-group">
-                    <a href="/committees/partieee/" class="list-group-item">Aerial Robotics</a>
-                    <a href="/committees/csociety/" class="list-group-item">Computer Society</a>
-                    <a href="/committees/embs/" class="list-group-item">Engineering in Medicine and Biology Society</a>
-                    <a href="/committees/mtts/" class="list-group-item">Microwave Theory &amp; Techniques Society</a>
-                    <a href="/committees/racing/" class="list-group-item">Racing</a>
-                    <a href="/committees/rov" class="list-group-item">Remotely Operated underwater Vehicle</a>
+                    <a href="/partieee/" class="list-group-item">Aerial Robotics</a>
+                    <a href="/csociety/" class="list-group-item">Computer Society</a>
+                    <a href="/embs/" class="list-group-item">Engineering in Medicine and Biology Society</a>
+                    <a href="/mtts/" class="list-group-item">Microwave Theory &amp; Techniques Society</a>
+                    <a href="/racing/" class="list-group-item">Racing</a>
+                    <a href="/rov" class="list-group-item">Remotely Operated underwater Vehicle</a>
                     <div id="rov" class="panel-collapse collapse in">
                         <ul class="list-group">
-                        <ul><a href="/committees/rov/history/" class="list-group-item">Past Seasons and Pictures</a></ul>
-                        <ul><a href="/committees/rov/bylaws/" class="list-group-item">Bylaws</a></ul>
-                        <ul><a href="/committees/rov/sponsors/" class="list-group-item">Sponsors</a></ul>
+                        <ul><a href="/rov/history/" class="list-group-item">Past Seasons and Pictures</a></ul>
+                        <ul><a href="/rov/bylaws/" class="list-group-item">Bylaws</a></ul>
+                        <ul><a href="/rov/sponsors/" class="list-group-item">Sponsors</a></ul>
                         <ul><a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="fa fa-external-link" style="margin-left: 5px;"></i></a></ul>
                     </ul>
                     </div>
@@ -77,4 +77,4 @@
     </div>
     <!-- /.well -->
 
-<?php include '../../../footer.php';?>
+<?php include '../../footer.php';?>
