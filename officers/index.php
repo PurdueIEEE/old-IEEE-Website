@@ -84,7 +84,7 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/')">
+                    style="background-image: url('/images/officers/Yash_Nain.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
