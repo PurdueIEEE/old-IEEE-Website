@@ -49,10 +49,11 @@
                 <p>This training session will go over the basics of microcontrollers. It will go into the basics of writing code to work for Arduinos, what you can and can't do with an Arduino, and how to set up different hardware to connect devices to your Arduino. If you have any question about this workshop, feel free to contact me or the people below:</p>
                 <ul>
                     <li>Lesson 1: Wednesday, September 14th in Hamp 1252 from 6:30 to 8:30 PM</li>
-                    <li>Lesson 2: Wednesday, September 21st in Arms 1010 from 6:30 to 8:30 PM</li>
+                    <li>Lesson 2: Wednesday, September 21st in Arms 1109 from 6:30 to 8:30 PM</li>
                 </ul>
                 <p><strong>Contact for additional questions and help:</strong></p>
                 <ul>
+                    <li>Matt Molo: mmolo@purdue.edu</li>
                     <li>Ryan Mcbee: rmcbee@purdue.edu</li>
                     <li>Aditya Vaidyam: avaidyam@purdue.edu</li>
                 </ul>
