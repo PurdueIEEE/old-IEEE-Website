@@ -267,7 +267,7 @@
                 </div>
                 <div class="panel-body">
                     <h4>Contact Us</h4>
-                    <p>Contact us for more information at<br><a href="mailto:IEEE-Info@purdueieee.org">IEEE-Info@purdueieee.org</a>, or stop by at EE 014</p>
+                    <p>Contact us for more information at<br><a href="mailto:IEEE@purdue.edu">IEEE@purdue.edu</a>, or stop by at EE 014</p>
                 </div>
             </div>
         </div>
