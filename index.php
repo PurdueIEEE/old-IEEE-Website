@@ -59,6 +59,12 @@
                             <h2>ROV</h2>
                         </div>
                     </div>
+                    <div class="item">
+                        <div class="fill" style="background-image:url('/images/EMBS.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>EMBS/h2>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Controls -->
