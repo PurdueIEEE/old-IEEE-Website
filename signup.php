@@ -1,19 +1,7 @@
 <?php 
-    $title = 'Join Mailing Lists - Purdue IEEE';
+    $title = 'Join Mailing Lists';
     include 'header.php';
 ?>
-
-    <!-- Page Heading/Breadcrumbs -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h1 class="page-header">Join Mailing Lists</h1>
-            <ol class="breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li class="active">Join Mailing Lists</li>
-            </ol>
-        </div>
-    </div>
-    <!-- /.row -->
 
     <div class="well">
         <div class="row">

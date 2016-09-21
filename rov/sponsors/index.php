@@ -1,6 +1,7 @@
 <?php
-$title = 'IEEE ROV - Sponsors';
-include '../../header.php';
+    $title = 'IEEE ROV - Sponsors';
+    $back_needed = true;
+    include '../../header.php';
 ?>
 
 <!-- Page Heading/Breadcrumbs -->

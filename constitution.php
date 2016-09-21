@@ -1,19 +1,7 @@
 <?php 
-    $title = 'Constitution - Purdue IEEE';
+    $title = 'Constitution';
     include 'header.php';
 ?>
-
-    <!-- Page Heading/Breadcrumbs -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h1 class="page-header">Constitution</h1>
-            <ol class="breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li class="active">Constitution</li>
-            </ol>
-        </div>
-    </div>
-    <!-- /.row -->
 
     <div class="well">
         <div class="row">

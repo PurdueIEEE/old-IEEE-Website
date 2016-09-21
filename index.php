@@ -8,11 +8,6 @@
 
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Purdue IEEE</h1>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-12">
             <!-- Header Carousel -->
             <header id="myCarousel" class="carousel slide">
                 <!-- Wrapper for slides -->
@@ -91,7 +86,7 @@
             <div class="col-md-12">
                 <div class="media">
                     <div class="media-body">
-                        <?php include 'events.html' ?>
+                        <?php include 'events.php' ?>
                     </div>
                 </div>
             </div>

@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title><?php echo $title;?></title>
+    <title><?php echo $title;?> — Purdue IEEE</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -40,7 +40,7 @@
 
     <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
+        <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -49,11 +49,22 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/">Purdue IEEE</a>
+<?php if($back_needed) : ?>
+                <a href="/"><button type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px;" aria-label="Back">
+                    <i class="fa fa-angle-left" style="color:white; font-size:3rem;"></i>
+                </button></a>
+<?php endif; ?>
+                <!--<img alt="Brand" src="...">-->
+                <div class="navbar-brand">
+                    <b><?php echo $title;?></b>
+                </div>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/index.php">Home</a>
+                    </li>
                     <li>
                         <a href="/about.php">About</a>
                     </li>
