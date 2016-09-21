@@ -34,7 +34,7 @@
             <!-- Content Column -->
             <div class="col-md-7 text-dark col-md-offset-1">
                 <h2>Engineering in Medicine and Biology Society</h2>
-                <p>EMBS focuses on advancing medicine and biology. We conduct projects, talks, and more.</p>
+                <p>Our mission for Purdue’s branch will be to focus on the development and application of engineering concepts and methods to provide new solutions to biological, medical and healthcare problems while also to learn skills and gain experience beneficial throughout the rest of our careers.</p>
                 <p>Contact <a href="mailto:embs-info@purdueieee.org">embs-info@purdueieee.org</a> for more information.</p>
             </div>
         </div>
