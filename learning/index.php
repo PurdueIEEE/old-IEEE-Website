@@ -100,7 +100,7 @@
                 <h2>Electric Vehicle Technology</h2>
                 <p>This seminar will be focused on the various aspects of electric vehicle technology. Throughout the session, we will go over what goes in to modern day electric vehicles and how they relate to student projects. There will be an emphasis on the evGrandPrix Go-Karts that are built each year to race in the electric counterpart to the GrandPrix at the Indianapolis Motor Speedway.</p>
                 <ul>
-                    <li>Monday, September 26th in HAMP 1144 from 6:30 to 7:30 PM</li>
+                    <li>Monday, September 26th in ME 1051 from 6:30 to 7:30 PM</li>
                 </ul>
                 <p><strong>Contact for additional questions and help:</strong></p>
                 <ul>
