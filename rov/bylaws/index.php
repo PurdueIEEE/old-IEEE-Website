@@ -1,6 +1,6 @@
 <?php
     $title = 'IEEE ROV - Bylaws';
-    $back_needed = true;
+    $display_back_button = true;
     include '../../header.php';
 ?>
 

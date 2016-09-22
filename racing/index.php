@@ -1,6 +1,6 @@
 <?php
     $title = 'IEEE Racing';
-    $back_needed = true;
+    $display_back_button = true;
     include '../header.php';
 ?>
 

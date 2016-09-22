@@ -44,7 +44,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <?php if ($back_needed) { ?>
+                <?php if ($display_back_button) { ?>
                 <a href="/"><button type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px; float: left;" aria-label="Back">
                     <i class="material-icons" style="color:white; font-size: 32px; margin-top: 4px;">arrow_back</i>
                 </button></a>
