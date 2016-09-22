@@ -11,20 +11,10 @@
             <!-- Sidebar Column -->
             <div class="col-md-3">
                 <div class="list-group">
-                    <a href="/partieee/" class="list-group-item">Aerial Robotics</a>
-                    <a href="/csociety/" class="list-group-item">Computer Society</a>
-                    <a href="/embs/" class="list-group-item">Engineering in Medicine and Biology Society</a>
-                    <a href="/mtts/" class="list-group-item">Microwave Theory &amp; Techniques Society</a>
-                    <a href="/racing/" class="list-group-item">Racing</a>
-                    <a href="/rov" class="list-group-item">Remotely Operated underwater Vehicle</a>
-                    <div id="rov" class="panel-collapse collapse in">
-                        <ul class="list-group">
-                        <ul><a href="/rov/history/" class="list-group-item">Past Seasons and Pictures</a></ul>
-                        <ul><a href="/rov/bylaws/" class="list-group-item">Bylaws</a></ul>
-                        <ul><a href="/rov/sponsors/" class="list-group-item">Sponsors</a></ul>
-                        <ul><a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a></ul>
-                    </ul>
-                    </div>
+                    <a href="/rov/history/" class="list-group-item active">Past Seasons and Pictures</a>
+                    <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
+                    <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
+                    <a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a>
                 </div>
             </div>
 

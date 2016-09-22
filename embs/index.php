@@ -8,20 +8,8 @@
     <div class="well">
         <div class="row">
 
-            <!-- Sidebar Column -->
-            <div class="col-md-3">
-                <div class="list-group">
-                    <a href="/partieee/" class="list-group-item">Aerial Robotics</a>
-                    <a href="/csociety/" class="list-group-item">Computer Society</a>
-                    <a href="/embs/" class="list-group-item active">Engineering in Medicine and Biology Society</a>
-                    <a href="/mtts/" class="list-group-item">Microwave Theory &amp; Techniques Society</a>
-                    <a href="/racing/" class="list-group-item">Racing</a>
-                    <a href="/rov/" class="list-group-item">Remotely Operated underwater Vehicle</a>
-                </div>
-            </div>
-
             <!-- Content Column -->
-            <div class="col-md-7 text-dark col-md-offset-1">
+            <div class="col-lg-12 text-dark">
                 <h2>Engineering in Medicine and Biology Society</h2>
                 <p>Our mission for Purdue’s branch will be to focus on the development and application of engineering concepts and methods to provide new solutions to biological, medical and healthcare problems while also to learn skills and gain experience beneficial throughout the rest of our careers.</p>
                 <p>Contact <a href="mailto:embs-info@purdueieee.org">embs-info@purdueieee.org</a> for more information.</p>
