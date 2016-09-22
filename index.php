@@ -1,8 +1,12 @@
 <?php
-    $title = 'Purdue IEEE';
-
+    $page_title = 'Purdue IEEE';
+    $site_title = 'Purdue IEEE';
+    $site_index = '/';
+    
     //Output js in footer to load carousel
     $carousel = true;
+    $root = true;
+    $home = true;
     include 'header.php';
 ?>
 

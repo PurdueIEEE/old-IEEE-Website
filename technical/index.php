@@ -1,6 +1,7 @@
 <?php
-    $title = 'Technical';
-    $display_back_button = true;
+    $page_title = 'Home';
+    $site_title = 'Technical Committee';
+    $site_index = '/technical';
     include '../header.php';
 ?>
 

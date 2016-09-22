@@ -1,6 +1,7 @@
 <?php 
-    $title = 'IEEE MTT-S';
-    $display_back_button = true;
+    $page_title = 'Home';
+    $site_title = 'MTT-S';
+    $site_index = '/mtts';
     include '../header.php';
 ?>
 

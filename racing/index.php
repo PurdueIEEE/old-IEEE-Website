@@ -1,6 +1,7 @@
 <?php
-    $title = 'IEEE Racing';
-    $display_back_button = true;
+    $page_title = 'Home';
+    $site_title = 'Racing';
+    $site_index = '/racing';
     include '../header.php';
 ?>
 

@@ -1,6 +1,7 @@
 <?php 
-    $title = 'Professional';
-    $display_back_button = true;
+    $page_title = 'Home';
+    $site_title = 'Professional Committee';
+    $site_index = '/professional';
     include '../header.php';
 ?>
 

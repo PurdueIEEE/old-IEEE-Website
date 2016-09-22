@@ -1,5 +1,8 @@
 <?php 
-    $title = '2011 Officers';
+    $page_title = '2011 Officers';
+    $site_title = 'Purdue IEEE';
+    $site_index = '/';
+    $root = true;
     include '../header.php';
 ?>
 

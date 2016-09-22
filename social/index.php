@@ -1,6 +1,7 @@
 <?php 
-    $title = 'Social';
-    $display_back_button = true;
+    $page_title = 'Home';
+    $site_title = 'Social Committee';
+    $site_index = '/social';
     include '../header.php';
 ?>
 

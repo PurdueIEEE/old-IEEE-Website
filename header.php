@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title><?php echo $title;?> — Purdue IEEE</title>
+    <title><?php echo $page_title;?><?php if (!$home) { ?> — <?php echo $site_title; } ?></title>
 
     <!-- Bootstrap Core CSS -->
     <link href="/assets/bootstrap.css" rel="stylesheet">
@@ -44,22 +44,21 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <?php if ($display_back_button) { ?>
+                <?php if (!$root) { ?>
                 <a href="/"><button type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px; float: left;" aria-label="Back">
                     <i class="material-icons" style="color:white; font-size: 32px; margin-top: 4px;">arrow_back</i>
                 </button></a>
+                <?php } else { ?>
+                    <div class="navbar-left" style="height: 50px; width: 64px; padding: 0px 0px; float: left;"></div>
                 <?php } ?>
                 <!--<img alt="Brand" src="...">-->
-                <a class="navbar-brand" href="#">
-                    <b><?php echo $title;?></b>
+                <a class="navbar-brand" href="<?php echo $site_index;?>">
+                    <b><?php echo $site_title;?></b>
                 </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="/index.php">Home</a>
-                    </li>
                     <li>
                         <a href="/about.php">About</a>
                     </li>

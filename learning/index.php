@@ -1,6 +1,7 @@
 <?php 
-    $title = 'Learning';
-    $display_back_button = true;
+    $page_title = 'Home';
+    $site_title = 'Learning Committee';
+    $site_index = '/learning';
     include '../header.php';
 ?>
 

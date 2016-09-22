@@ -1,6 +1,7 @@
 <?php
-    $title = 'IEEE Computer Society';
-    $display_back_button = true;
+    $page_title = 'Home';
+    $site_title = 'Computer Society';
+    $site_index = '/csociety';
     include '../header.php';
 ?>
 

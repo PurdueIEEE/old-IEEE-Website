@@ -1,7 +1,8 @@
 <?php
     /* THIS IS DEPRECATED MATERIAL, ONLY PRESENT FOR LEGACY URLS. */
-    $title = 'IEEE Learning Committee';
-    $display_back_button = true;
+    $page_title = 'Learning Committee';
+    $site_title = 'Learning Committee';
+    $site_index = '/committees/old_learning';
     include '../../header.php';
 ?>
 
