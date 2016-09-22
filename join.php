@@ -1,5 +1,5 @@
 <?php 
-    $page_title = 'Join Mailing Lists';
+    $page_title = 'Join';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
     $root = true;
@@ -13,6 +13,8 @@
 
                 <div class="col-md-8 col-md-offset-2 text-dark" id="content">
                 <form id="signup-form" action="signup_post.php" title="" method="post" style="font-size: 18px">
+                    <label>Name:</label>
+                    <input type="name" id="name" name="name" class="form-control">
                     <label>Email:</label>
                     <input type="email" id="email" name="email" class="form-control"><br>
 

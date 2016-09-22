@@ -102,7 +102,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="/signup.php">Join</a>
+                        <a href="/join.php">Join</a>
                     </li>
                 </ul>
             </div>
