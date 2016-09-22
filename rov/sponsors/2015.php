@@ -96,7 +96,7 @@
                         <a href="http://wabashpower.com" target="_blank"><img src="/rov/images/WabashPower.jpg" alt="Wabash Power Equipment" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
-                        <a href="http://www.binder-world.c../Company" target="_blank"><img src="/rov/images/Binder.png" alt="Binder" style="width:100%"></a>
+                        <a href="http://www.binder-world.com/us/Company" target="_blank"><img src="/rov/images/Binder.png" alt="Binder" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
                         <a href="http://www.netgear.com/" target="_blank"><img src="/rov/images/Netgear.png" alt="Netgear" style="width:100%"></a>
