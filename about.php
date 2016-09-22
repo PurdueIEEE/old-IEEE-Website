@@ -13,7 +13,7 @@
             <div class="col-md-3">
                 <div class="list-group">
                     <a href="/about.php" class="list-group-item active">About</a>
-                    <a href="/officers/" class="list-group-item">Officers</a>
+                    <a href="/officers/" class="list-group-item">Officers<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a>
                     <a href="/constitution.php" class="list-group-item">Constitution</a>
                 </div>
             </div>
