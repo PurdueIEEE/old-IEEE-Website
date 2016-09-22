@@ -7,6 +7,34 @@
 ?>
 
     <div class="well text-dark">
+
+        <!--- Pagination -->
+        <div class="row text-center">
+            <div class="col-lg-12">
+                <ul class="pagination">
+                    <li>
+                        <a href="2011.php">2011</a>
+                    </li>
+                    <li>
+                        <a href="2012.php">2012</a>
+                    </li>
+                    <li>
+                        <a href="2013.php">2013</a>
+                    </li>
+                    <li>
+                        <a href="2014.php">2014</a>
+                    </li>
+                    <li class="active">
+                        <a href="#">2015</a>
+                    </li>
+                    <li>
+                        <a href="2016.php">2016</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <hr />
         <!-- President -->
         <div class="row">
             <div class="col-md-3">
@@ -226,43 +254,6 @@
                 <h4>Interim Remotely Operated underwater Vehicle (ROV) Committee Chair</h4>
                 <p>Sanay Shah is a Sophomore in Industrial Engineering. He joined IEEE at the beginning of his freshman year as a Mechanical Team member on the Purdue IEEE ROV Team. His technical and administrative passions continue to grow as he started the Manufacturing Advisory Board with other veteran members on the Mechanical Team and became Acting Captain of the ROV team for the Spring 2016 semester. He serves an advisory role in all manufacturing decisions on the Mechanical Team and organizes the entire ROV team to compete in the MATE International ROV Competition in his respective roles. He is channeling the team’s energy to achieve the best competition finish in recent years. He has had internships at RSS Grinders & Automation as a machinist operating manual and CNC machinery. He also enjoys playing and watching sports and is a huge fan of The Chicago Blackhawks.</p>
                 <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
-            </div>
-        </div>
-
-        <hr>
-
-
-
-        <hr>
-        <!--- Pagination -->
-        <div class="row text-center">
-            <div class="col-lg-12">
-                <ul class="pagination">
-                    <li>
-                        <a href="2014.php">&laquo;</a>
-                    </li>
-                    <li>
-                        <a href="2011.php">2011</a>
-                    </li>
-                    <li>
-                        <a href="2012.php">2012</a>
-                    </li>
-                    <li>
-                        <a href="2013.php">2013</a>
-                    </li>
-                    <li>
-                        <a href="2014.php">2014</a>
-                    </li>
-                    <li class="active">
-                        <a href="#">2015</a>
-                    </li>
-                    <li>
-                        <a href="/officers/">2016</a>
-                    </li>
-                    <li>
-                        <a href="/officers/">&raquo;</a>
-                    </li>
-                </ul>
             </div>
         </div>
 

@@ -8,7 +8,17 @@
 
     <div class="well">
         <div class="row">
-            <div class="col-lg-12 text-dark">
+
+        <!-- Sidebar Column -->
+            <div class="col-md-3">
+                <div class="list-group">
+                    <a href="/about.php" class="list-group-item">About</a>
+                    <a href="/officers/" class="list-group-item">Officers</a>
+                    <a href="/constitution.php" class="list-group-item active">Constitution</a>
+                </div>
+            </div>
+
+            <div class="col-md-7 text-dark col-md-offset-1">
                 <h1 class="text-center">CONSTITUTION OF IEEE</h1>
 
                 <div class="col-lg-8 col-lg-offset-2">

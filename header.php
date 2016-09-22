@@ -65,12 +65,6 @@
                     <li>
                         <a href="/calendar.php">Calendar</a>
                     </li>
-                    <li>
-                        <a href="/officers/">Officers</a>
-                    </li>
-                    <li>
-                        <a href="/constitution.php">Constitution</a>
-                    </li>
                     <li class="dropdown">
                         <a href="/" class="dropdown-toggle" data-toggle="dropdown">Committees<b class="caret"></b></a>
                         <ul class="dropdown-menu">
