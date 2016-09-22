@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
-@import 'https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Mono|Roboto+Slab|Material+Icons';
+@import 'https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Roboto+Mono:400,700|Roboto+Slab:400,700|Roboto:400,700|Material+Icons';
 html {
   font-family: 'Roboto', sans-serif;
   -webkit-text-size-adjust: 100%;
