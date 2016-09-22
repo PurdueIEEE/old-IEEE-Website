@@ -48,8 +48,10 @@
                 <a href="/"><button type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px; float: left;" aria-label="Back">
                     <i class="material-icons" style="color:white; font-size: 32px; margin-top: 4px;">arrow_back</i>
                 </button></a>
-                <?php } else { ?>
-                    <div class="navbar-left" style="height: 50px; width: 64px; padding: 0px 0px; float: left;"></div>
+                <?php } else { /* I'll fix the duplication later - ANV */ ?> 
+                    <button type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px; float: left;" aria-label="Home">
+                    <i class="material-icons" style="color:white; font-size: 32px; margin-top: 4px;">apps</i>
+                </button>
                 <?php } ?>
                 <!--<img alt="Brand" src="...">-->
                 <a class="navbar-brand" href="<?php echo $site_index;?>">

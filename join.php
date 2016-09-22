@@ -90,7 +90,7 @@
 
     <div class="well">
         <div class="row">
-            <div class="col-lg-12 text-dark">
+            <div class="col-md-8 col-md-offset-2 text-dark">
                 <h1 class="text-center">IEEE Dues</h1>
                 <p>
                     Purdue IEEE Student Organization follows a simple dues basis for membership. Membership fees are $10 for two semesters, which allows each person to have access to IEEE resources, such as:
