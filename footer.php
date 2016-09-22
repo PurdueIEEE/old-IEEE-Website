@@ -2,12 +2,12 @@
     <footer>
         <div class="row">
             <div class="col-lg-12">
-                <p>Copyright &copy; Purdue IEEE
+                <center><p>Copyright &copy; Purdue IEEE
                     <?php
                         date_default_timezone_set("UTC");
                         echo date("Y");
                     ?>
-                </p>
+                </p></center>
             </div>
         </div>
     </footer>
@@ -16,7 +16,7 @@
     <!-- /.container -->
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="/js/bootstrap.min.js"></script>
+    <script src="/assets/bootstrap.min.js"></script>
 
     <?php if ($carousel) { 
     //Activate the carousel on the main page only ?>

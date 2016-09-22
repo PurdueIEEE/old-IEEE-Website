@@ -8,11 +8,6 @@
 
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Purdue IEEE</h1>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-12">
             <!-- Header Carousel -->
             <header id="myCarousel" class="carousel slide">
                 <!-- Wrapper for slides -->
@@ -91,7 +86,7 @@
             <div class="col-md-12">
                 <div class="media">
                     <div class="media-body">
-                        <?php include 'events.html' ?>
+                        <?php include 'events.php' ?>
                     </div>
                 </div>
             </div>
@@ -111,10 +106,7 @@
             <div class="col-md-12">
                 <div class="media">
                     <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
-                        </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px; margin-left:16px;">insert_emoticon</i>
                     </div>
                     <div class="media-body">
                         <h4 class="media-heading">Purdue IEEE</h4>
@@ -127,13 +119,10 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">laptop_mac</i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/csociety/">Computer Society</a></h4>
+                            <h4 class="media-heading"><a href="/csociety/">Computer Society</a></h4>
                             <p>The IEEE Computer Society. They recently reunited with Purdue IEEE. They hold education sessions, do small projects, and provide web services for many different organizations on campus. Their site is at csociety.org. Check there for updates! </p><br>
                         </div>
                     </div>
@@ -142,13 +131,10 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class= "fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-medkit fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">local_hospital</i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/embs/">EMBS</a></h4>
+                            <h4 class="media-heading"><a href="/embs/">EMBS</a></h4>
                             <p>The IEEE EMBS (Engineering in Medicine and Biology Society) focuses on the development and application of engineering concepts and methods to provide new solutions to biological, medical, and healthcare problems while also providing its members the ability to learn skills and gain experience beneficial throughout the rest of their careers.</p>
                         </div>
                     </div>
@@ -159,13 +145,10 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-signal fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">rss_feed</i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/mtts/">MTT-S</a></h4>
+                            <h4 class="media-heading"><a href="/mtts/">MTT-S</a></h4>
                             <p>IEEE MTT-S (Microwave Theory &amp; Techniques Society) holds events to further the understanding and applications of microwave circuits. The growth of communications around us relies on the continued development of high-frequency technologies that students here develop.</p><br>
                         </div>
                     </div>
@@ -174,13 +157,10 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-fighter-jet fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">local_airport</i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/partieee/">PARTIEEE</a></h4>
+                            <h4 class="media-heading"><a href="/partieee/">PARTIEEE</a></h4>
                             <p>Purdue Aerial Robotics Team IEEE creates an unmanned aerial system (UAS) to compete in AUVSI SUAS Competition. The end goal is to develop an autonomous system complete with a Ground Control Station (GCS). They are looking for members to help design the airframe, develop autopilot and image processing algorithms, and design electrical hardware such as flight controllers and other PCBs.</p><br>
                         </div>
                     </div>
@@ -191,13 +171,10 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-gears fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">settings</i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/rov/">ROV</a></h4>
+                            <h4 class="media-heading"><a href="/rov/">ROV</a></h4>
                             <p>ROV (Remotely Operated underwater Vehicle) designs and builds an ROV to compete in the MATE (Marine Advanced Technology Education) International ROV Competition each year. They are looking for members to model designs in 3D, restore old vehicles, and assemble next year's vehicle.</p><br>
                         </div>
                     </div>
@@ -206,13 +183,10 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-car fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">directions_car</i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/committees/racing/">Racing</a></h4>
+                            <h4 class="media-heading"><a href="/racing/">Racing</a></h4>
                             <p>Racing builds an electric go-kart to compete in evGrandPrix at Purdue and at the Indy Motor Speedway. They are looking for members to redesign some systems, help get sponsors for new batteries, further improve safety features, and investigate more efficient motors.</p><br>
                         </div>
                     </div>
@@ -231,10 +205,7 @@
         <div class="col-md-4 col-sm-6">
             <div class="panel panel-default text-center text-dark">
                 <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
-                    </span>
+                    <i class="material-icons" style="color:#072a40; font-size: 96px;">event</i>
                 </div>
                 <div class="panel-body">
                     <h4>Events and Meetings</h4>
@@ -246,10 +217,7 @@
         <div class="col-md-4 col-sm-6">
             <div class="panel panel-default text-center text-dark">
                 <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-comments-o fa-stack-1x fa-inverse"></i>
-                    </span>
+                    <i class="material-icons" style="color:#072a40; font-size: 96px;">chat</i>
                 </div>
                 <div class="panel-body">
                     <h4>Want to chat or have questions?</h4>
@@ -260,10 +228,7 @@
         <div class="col-md-4 col-sm-6">
             <div class="panel panel-default text-center text-dark">
                 <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
-                    </span>
+                    <i class="material-icons" style="color:#072a40; font-size: 96px;">email</i>
                 </div>
                 <div class="panel-body">
                     <h4>Contact Us</h4>

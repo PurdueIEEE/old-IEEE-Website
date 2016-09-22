@@ -1,19 +1,8 @@
 <?php 
-    $title = 'Learning - Purdue IEEE';
+    $title = 'Learning';
+    $display_back_button = true;
     include '../header.php';
 ?>
-
-    <!-- Page Heading/Breadcrumbs -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h1 class="page-header">Learning</h1>
-            <ol class="breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li class="active">Learning</li>
-            </ol>
-        </div>
-    </div>
-    <!-- /.row -->
 
     <div class="well">
         <div class="row">
