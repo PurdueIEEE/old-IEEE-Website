@@ -50,9 +50,9 @@
                 </button></a>
                 <?php } ?>
                 <!--<img alt="Brand" src="...">-->
-                <div class="navbar-brand">
+                <a class="navbar-brand" href="#">
                     <b><?php echo $title;?></b>
-                </div>
+                </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
