@@ -22,7 +22,7 @@
                         <ul><a href="/rov/history/" class="list-group-item">Past Seasons and Pictures</a></ul>
                         <ul><a href="/rov/bylaws/" class="list-group-item active">Bylaws</a></ul>
                         <ul><a href="/rov/sponsors/" class="list-group-item">Sponsors</a></ul>
-                        <ul><a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="fa fa-external-link" style="margin-left: 5px;"></i></a></ul>
+                        <ul><a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a></ul>
                     </ul>
                     </div>
                 </div>

@@ -106,10 +106,7 @@
             <div class="col-md-12">
                 <div class="media">
                     <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
-                        </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px; margin-left:16px;">insert_emoticon</i>
                     </div>
                     <div class="media-body">
                         <h4 class="media-heading">Purdue IEEE</h4>
@@ -122,10 +119,7 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">laptop_mac</i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/csociety/">Computer Society</a></h4>
@@ -137,10 +131,7 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class= "fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-medkit fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">local_hospital</i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/embs/">EMBS</a></h4>
@@ -154,10 +145,7 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-signal fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">rss_feed</i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/mtts/">MTT-S</a></h4>
@@ -169,10 +157,7 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-fighter-jet fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">local_airport</i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/partieee/">PARTIEEE</a></h4>
@@ -186,10 +171,7 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-gears fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">settings</i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/rov/">ROV</a></h4>
@@ -201,10 +183,7 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <span class="fa-stack fa-2x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-car fa-stack-1x fa-inverse"></i>
-                            </span>
+                            <i class="material-icons" style="color:#072a40; font-size: 32px;">directions_car</i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/racing/">Racing</a></h4>
@@ -226,10 +205,7 @@
         <div class="col-md-4 col-sm-6">
             <div class="panel panel-default text-center text-dark">
                 <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
-                    </span>
+                    <i class="material-icons" style="color:#072a40; font-size: 96px;">event</i>
                 </div>
                 <div class="panel-body">
                     <h4>Events and Meetings</h4>
@@ -241,10 +217,7 @@
         <div class="col-md-4 col-sm-6">
             <div class="panel panel-default text-center text-dark">
                 <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-comments-o fa-stack-1x fa-inverse"></i>
-                    </span>
+                    <i class="material-icons" style="color:#072a40; font-size: 96px;">chat</i>
                 </div>
                 <div class="panel-body">
                     <h4>Want to chat or have questions?</h4>
@@ -255,10 +228,7 @@
         <div class="col-md-4 col-sm-6">
             <div class="panel panel-default text-center text-dark">
                 <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
-                    </span>
+                    <i class="material-icons" style="color:#072a40; font-size: 96px;">email</i>
                 </div>
                 <div class="panel-body">
                     <h4>Contact Us</h4>

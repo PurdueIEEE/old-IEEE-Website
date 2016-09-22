@@ -47,7 +47,7 @@
                 <h3>Bobby Zhang</h3>
                 <h4>Treasurer</h4>
                 <p>Bobby is a Sophomore in Computer Science and Mathematics with a minor in Statistics. He joined Purdue IEEE as a member of Learning Community in Spring of 2016. He likes to challenge himself so as to know and break the limit. Passionate about IT industry, especially Artificial Intelligence and Web Development, he plans to pursue Machine Intelligence and Systems Programming tracks in Computer Science. He also hopes to apply the programming knowledge on Engineering fields. With interest in data and finance, he is now undertaking the role of IEEE Treasurer, expecting to simplify the reimbursement process and the account documents with the help of a newly developed system.</p>
-                <p><em>Committee Involvement</em>: <a href="/learning/">Learning</a></p>
+                <p><em>Committee Involvement</em>: <a href="/committees/old_learning/">Learning</a></p>
             </div>
         </div>
 
@@ -127,7 +127,7 @@
                 <h3>Matt Molo</h3>
                 <h4>Computer Society Chair</h4>
                 <p>Matt is a Senior in Computer Science and a former President of Purdue IEEE Student Organization, one of few CS majors to have risen to that office in the organization's history. Growing up in Joliet, IL, Matt has been working with robotics and computers since his involvement on his high school FIRST Robotics team. He is following the Systems Programming track in computer science. Outside of academics, he enjoys web development and video games. Matt had his first experience with IEEE during Summer 2013 before he had even started classes at Purdue. He was integral to developing the software on the ROV team, and has since risen to the role of Software Team Lead on the team. Back during his second year at Purdue, Matt has become extremely involved in all aspects of the student organization. In addition to his responsibilities as President and on the ROV team, he served as the Computer Society Secretary. As President, Matt encouraged the growth of the five committees at the time, built a strong network of motivated students, pushed for wider involvement of all majors within IEEE, and oversaw successful competition seasons from the technical committees. For Matt, retirement takes the form of reviving the IEEE Computer Society as the Computer Society President and pushing for a wider array of challenging software projects.</p>
-                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/rov/">ROV</a>, <a href="/learning/">Learning</a></p>
+                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/rov/">ROV</a>, <a href="/committees/old_learning/">Learning</a></p>
             </div>
         </div>
 
@@ -191,7 +191,7 @@
                 <h3>Kyle Rakos</h3>
                 <h4>Remotely Operated underwater Vehicle (ROV) Captain</h4>
                 <p>Kyle Rakos is a Senior in Computer Engineering. He joined IEEE at the beginning of his freshman year by taking on the role of Sponsorship Coordinator of the Purdue IEEE ROV Team. His technical and administrative passions continue to grow as he took on role of the Industrial Relations Head of IEEE and Captain of the ROV team. During these roles he interacts with companies on behalf of IEEE and organizes the ROV team in the MATE International ROV Competition. Feeling the desire to improve upon his 15th Place finish the previous season, he is devoting all his time to being the Team Captain for ROV. He also enjoys playing sports and is interested in space.</p>
-                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a>, <a href="http://www.purdueorbital.com/">Orbital</a><i class="fa fa-external-link" style="margin-left: 5px;"></i></p>
+                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a>, <a href="http://www.purdueorbital.com/">Orbital</a><i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></p>
             </div>
         </div>
 

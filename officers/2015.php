@@ -47,7 +47,7 @@
                 <h3>John Lee</h3>
                 <h4>Learning Committee Chair, Treasurer (Fall 2015)</h4>
                 <p>John is a Senior in Computer Engineering. Since his arrival in IEEE during the Fall of 2013, John has moved up from among the different organizations within IEEE. From heading a project on a Portal turret (perpetually in progress) to becoming the previous Treasurer and a software developer for the ROV Committee, John has developed and continues to develop knowledge regarding the inner workings of the organization. This includes managing all of the funds within each committee. John currently is focusing on rebuilding the Learning Committee, an old committee that had been disbanded five years prior but was brought back so that younger students could develop the skills necessary to feel confident contributing to larger-scale project. He is scheduled to graduate in May 2016.</p>
-                <p><em>Committee Involvement</em>: <a href="/learning/">Learning</a>, <a href="/csociety/">Computer Society</a>, <a href="rov/">ROV</a></p>
+                <p><em>Committee Involvement</em>: <a href="/committees/old_learning/">Learning</a>, <a href="/csociety/">Computer Society</a>, <a href="/rov/">ROV</a></p>
             </div>
         </div>
 
@@ -95,7 +95,7 @@
                 <h3>Tim Vincent</h3>
                 <h4>Industrial Relations Head</h4>
                 <p>Tim is a Junior in Computer Science and an IEEE member since Fall of 2014. Beginning as a member of Computer Society, he now holds the title of Industrial Relations Head. His primary interest in Computer Science is distributed systems, thus he has helped Computer Society organize events such as their AI Chess competition. As an entrepreneur out of highschool, he has a passion and aptitude for networking and innovation. These two skills are some of the many he uses to expand IEEE’s corporate relations pool and maintain good relationships with current corporate sponsors.</p>
-                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>,  <a href="/learning/">Learning</a></p>
+                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>,  <a href="/committees/old_learning/">Learning</a></p>
             </div>
         </div>
 
@@ -127,7 +127,7 @@
                 <h3>Matt Molo</h3>
                 <h4>Computer Society Chair</h4>
                 <p>Matt is a Junior in Computer Science and a former President of Purdue IEEE Student Organization, one of few CS majors to have risen to that office in the organization's history. Growing up in Joliet, IL, Matt has been working with robotics and computers since his involvement on his high school FIRST Robotics team. He is following the Systems Programming track in computer science. Outside of academics, he enjoys web development and video games. Matt had his first experience with IEEE during Summer 2013 before he had even started classes at Purdue. He was integral to developing the software on the ROV team, and has since risen to the role of Software Team Lead on the team. Back during his second year at Purdue, Matt has become extremely involved in all aspects of the student organization. In addition to his responsibilities as President and on the ROV team, he served as the Computer Society Secretary. As President, Matt encouraged the growth of the five committees at the time, built a strong network of motivated students, pushed for wider involvement of all majors within IEEE, and oversaw successful competition seasons from the technical committees. For Matt, retirement takes the form of reviving the IEEE Computer Society as the Computer Society President and pushing for a wider array of challenging software projects.</p>
-                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/rov/">ROV</a>, <a href="/learning/">Learning</a></p>
+                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/rov/">ROV</a>, <a href="/committees/old_learning/">Learning</a></p>
             </div>
         </div>
 
@@ -174,7 +174,7 @@
                 <h3>Dane Rudy</h3>
                 <h4>Orbital Committee Chair</h4>
                 <p>Dane Rudy is a Junior from Hudson, Wisconsin majoring in Mechanical Engineering and minoring in Global Engineering Studies. He joined IEEE as a member of ROV in the Spring of 2015. Dane is passionate about the space industry and this has led him to founding IEEE Orbital. As Project Manager for IEEE Orbital, he is in charge of motivating and managing the team both logistically and technically. He is an Eagle Scout and in his free time he enjoys rock climbing, backpacking, sailing, and playing soccer. Dane is scheduled to graduate Spring 2017.</p>
-                <p><em>Committee Involvement</em>: <a href="http://www.purdueorbital.com/">Orbital<i class="fa fa-external-link" style="margin-left: 5px;"></i></a></p>
+                <p><em>Committee Involvement</em>: <a href="http://www.purdueorbital.com/">Orbital<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a></p>
             </div>
         </div>
 
@@ -206,7 +206,7 @@
                 <h3>Kyle Rakos</h3>
                 <h4>Remotely Operated underwater Vehicle (ROV) Committee Chair</h4>
                 <p>Kyle Rakos is a Junior in Computer Engineering. He joined IEEE at the beginning of his freshman year by taking on the role of Sponsorship Coordinator of the Purdue IEEE ROV Team. His technical and administrative passions continue to grow as he took on role of the Industrial Relations Head of IEEE and Captain of the ROV team. During these roles he interacts with companies on behalf of IEEE and organizes the ROV team in the MATE International ROV Competition. Feeling the desire to improve upon his 15th Place finish the previous season, he is devoting all his time to being the Team Captain for ROV. He also enjoys playing sports and is interested in space.</p>
-                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a>, <a href="http://www.purdueorbital.com/">Orbital<i class="fa fa-external-link" style="margin-left: 5px;"></i></a></p>
+                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a>, <a href="http://www.purdueorbital.com/">Orbital<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a></p>
             </div>
         </div>
 

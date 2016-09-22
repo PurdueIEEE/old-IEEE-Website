@@ -29,6 +29,7 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
     <!--favicon link-->
     <link rel="SHORTCUT ICON" href="/favicon.ico">
@@ -51,7 +52,7 @@
                 </button>
 <?php if($back_needed) : ?>
                 <a href="/"><button type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px;" aria-label="Back">
-                    <i class="fa fa-angle-left" style="color:white; font-size:3rem;"></i>
+                    <i class="material-icons" style="color:white; font-size: 32px; margin-top: 4px;">arrow_back</i>
                 </button></a>
 <?php endif; ?>
                 <!--<img alt="Brand" src="...">-->

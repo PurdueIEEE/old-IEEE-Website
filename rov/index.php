@@ -4,18 +4,6 @@
     include '../header.php';
 ?>
 
-<!-- Page Heading/Breadcrumbs -->
-<div class="row">
-    <div class="col-lg-12">
-        <h1 class="page-header">Committees</h1>
-        <ol class="breadcrumb">
-            <li><a href="/">Home</a></li>
-            <li><a href="/">Committees</a></li>
-            <li class="active">ROV</li>
-        </ol>
-    </div>
-</div>
-
 <!-- Content Row -->
 <div class="well">
     <div class="row">
@@ -34,7 +22,7 @@
                         <ul><a href="/rov/history/" class="list-group-item">Past Seasons and Pictures</a></ul>
                         <ul><a href="/rov/bylaws/" class="list-group-item">Bylaws</a></ul>
                         <ul><a href="/rov/sponsors/" class="list-group-item">Sponsors</a></ul>
-                        <ul><a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="fa fa-external-link" style="margin-left: 5px;"></i></a></ul>
+                        <ul><a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a></ul>
                     </ul>
                 </div>
             </div>
