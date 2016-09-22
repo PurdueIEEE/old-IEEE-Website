@@ -12,16 +12,10 @@
     <title><?php echo $title;?> — Purdue IEEE</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom CSS -->
-    <link href="/css/modern-business.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/assets/bootstrap.css" rel="stylesheet">
 
     <!-- jQuery -->
-    <script src="/js/jquery.js"></script>
+    <script src="/assets/jquery.min.js"></script>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

@@ -5,7 +5,6 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 @import 'https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Mono|Roboto+Slab|Material+Icons';
-@import 'https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/icons.css';
 html {
   font-family: 'Roboto', sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -5939,3 +5938,133 @@ button.close {
     display: none !important;
   }
 }
+
+/*!
+ * Start Bootstrap - Modern Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Global Styles */
+
+html,
+body {
+    height: 100%;
+    background-color: #072a40;
+}
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* Home Page Carousel */
+
+header.carousel {
+    height: 525px;
+    width: 100%;
+    box-shadow: 1px 1px 10px #000000;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.carousel-caption h2 {
+    background-color: rgba(0, 0, 0, .5);
+    margin: 0;
+    height: 60px;
+    line-height: 60px;
+    font-size: 45px;
+}
+
+@media(max-width:991px) {
+    header.carousel {
+        height: 200px;
+    }
+    .carousel-caption h2 {
+        height: 30px;
+        line-height: 30px;
+        font-size: 22px;
+    }
+}
+
+/* 404 Page Styles */
+
+.error-404 {
+    font-size: 100px;
+}
+
+/* Pricing Page Styles */
+
+.price {
+    display: block;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.price sup {
+    top: -20px;
+    left: 2px;
+    font-size: 20px;
+}
+
+.period {
+    display: block;
+    font-style: italic;
+}
+
+/* Footer Styles */
+
+footer {
+    margin: 50px 0;
+}
+
+/* Responsive Styles */
+
+@media(max-width:991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+}
+
+
+.officer-image {
+    padding-top: 20px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+.officer-cropped {
+    width: 195px;
+    height: 260px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
