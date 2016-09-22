@@ -1,4 +1,4 @@
-<?php 
+<?php
     $title = 'Join Mailing Lists - Purdue IEEE';
     include 'header.php';
 ?>
@@ -54,8 +54,8 @@
                             return $(this).val();
                         }).get();
 
-                        var posting = $.post(url, { 
-                            email: $('#email').val(), 
+                        var posting = $.post(url, {
+                            email: $('#email').val(),
                             list: list
                         });
 

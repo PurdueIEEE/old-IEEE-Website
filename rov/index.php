@@ -46,7 +46,7 @@ include '../header.php';
             <p> The ROV Team began its ninth season with over 60 new-member applicants. The top 29 applicants were accepted to join the 30 returning veterans in what will be the the
                 strongest team to date! Our team looks forward to the summer 2017 competition in Long Beach, CA and are eagerly preparing for first place!</p>
 
-                
+
                 <br>
 
                 <h2 class="text-center">About The ROV Team</h2>
@@ -90,7 +90,7 @@ include '../header.php';
 
                 <h4 class="text-center">ROV Maelstrom</h4>
                 <p class="text-center"> <img src="/rov/images/ROVMaelstrom.jpg" alt="Maelstrom" style="width:100%"></p><br>
-                
+
 
                 <h4 class="text-center">ROV Maelstrom Rendering</h4>
                 <p class="text-center"> <img src="/rov/images/X8.JPG" alt="Maelstrom Rendering" style="width:100%"></p><br>

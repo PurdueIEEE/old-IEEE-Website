@@ -65,10 +65,10 @@
                 <p class="text-justify">Purdue ROV competed in Houston, TX from June 23 - 25 at NASA's Neutral Buoyancy Lab! The team reached its largest size yet at 42 members
                     with Kyle Rakos captaining the team first semester and for the competition while Sanay Shah took over for the second semester. At the international competition
                     we had a wonderful technical presentation, an excellent poster, and great technical documentation. We had some electronics issues during the mission runs but were
-                    still able to place 13th internationally! Additionally, Kyle Rakos was awarded with the Flying Fish award for his passion and demonstrated leadership in the field! 
+                    still able to place 13th internationally! Additionally, Kyle Rakos was awarded with the Flying Fish award for his passion and demonstrated leadership in the field!
                 <p class="text-center"> <img src="/rov/images/ROVMaelstrom.jpg" alt="ROV Cerulean" style="width:80%"></p><br>
                 <br>
-                
+
 
                 <h3 class="text-center">2014 - 2015: ROV<em> Cerulean</em></h3>
                 <div class="row">

@@ -64,10 +64,10 @@ include '../../header.php';
             <h2 class="text-center">Gold Partner</h2>
             <div class="row">
                 <div class="col-md-4 text-center">
-                    
+
                 </div>
                 <div class="col-md-4 text-center">
-                    
+
                 </div>
                 <div class="col-md-4 text-center">
                 </div>
@@ -99,7 +99,7 @@ include '../../header.php';
 
                 <div class="row">
                     <div class="col-md-4 text-center">
-                        
+
                     </div>
                     <div class="col-md-4 text-center">
                         <a href="http://www.digikey.com/" target="_blank"><img src="/rov/images/DigiKey.png" alt="DigiKey" style="width:100%"></a>

@@ -1,4 +1,4 @@
-<?php 
+<?php
     $title = '404 - Purdue IEEE';
     include 'header.php';
 ?>
@@ -26,6 +26,6 @@
         </div>
     </div>
 
-<?php 
+<?php
     include 'footer.php';
 ?>

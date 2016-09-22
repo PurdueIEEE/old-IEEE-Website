@@ -1,4 +1,4 @@
-<?php 
+<?php
     $title = 'IEEE ROV - History - Cerulean';
     include '../../header.php';
 ?>
@@ -37,7 +37,7 @@
                         <ul><a href="/rov/sponsors/" class="list-group-item">Sponsors</a></ul>
                         <ul><a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="fa fa-external-link" style="margin-left: 5px;"></i></a></ul>
                     </ul>
-                    </div>  
+                    </div>
                 </div>
             </div>
 
@@ -80,8 +80,8 @@
                 <p>To see ROV <em>Cerulean</em> perform the qualification tasks for this mission, please watch <a href="https://youtu.be/uBDiaYipayk">this YouTube video</a>.</p>
             </div>
 
-        </div> 
+        </div>
     </div>
-    <!-- /.well -->  
+    <!-- /.well -->
 
 <?php include '../../footer.php';?>

@@ -1,4 +1,4 @@
-<?php 
+<?php
     $title = '2011 Officers - Purdue IEEE';
     include '../header.php';
 ?>

@@ -1,4 +1,4 @@
-<?php 
+<?php
     $title = 'Calendar - Purdue IEEE';
     include 'header.php';
 ?>

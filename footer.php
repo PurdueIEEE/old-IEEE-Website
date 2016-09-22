@@ -18,7 +18,7 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="/js/bootstrap.min.js"></script>
 
-    <?php if ($carousel) { 
+    <?php if ($carousel) {
     //Activate the carousel on the main page only ?>
 
     <!-- Script to Activate the Carousel -->
