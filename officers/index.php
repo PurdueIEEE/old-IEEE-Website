@@ -1,5 +1,4 @@
 <?php
-    /* This page is a current-year redirect. Do not modify it. */
-    date_default_timezone_set("UTC");
-    header("Location: " . date("Y") . ".php")
+    /* This page is a current-year redirect. Modify when new officer page is created. */
+    header("Location: 2016.php")
 ?>

@@ -1,13 +1,14 @@
 <?php 
-    $page_title = 'Home';
-    $site_title = 'Learning Committee';
-    $site_index = '/learning';
+    $page_title = 'Learning Committee';
+    $site_title = 'Purdue IEEE';
+    $site_index = '/';
+    $root = true;
     include '../header.php';
 ?>
 
     <div class="well">
         <div class="row">
-            <div class="col-lg-12 text-dark">
+            <div class="col-md-8 text-dark col-md-offset-2 text-dark">
                 <h1>IEEE Learning Workshops</h1>
 
                 <h1>Upcoming and In Progess Events:</h1>

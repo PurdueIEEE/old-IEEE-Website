@@ -8,25 +8,46 @@
 
     <div class="well">
         <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-dark">
+                <h1 class="text-center">Joining IEEE</h1>
+                <p>
+                    Purdue IEEE Student Organization follows a simple dues basis for membership. Membership fees are $10 for two semesters, which allows each person to have access to IEEE resources, such as:
+                    <ul>
+                        <li>Access to extras at Learning Events by Learning Committee</li>
+                        <li>Trip expense coverage for committee competitions and social events</li>
+                        <li>Free food at General Assemblies</li>
+                        <li>Recognition for contributed work with final projects</li>
+                    </ul>
+                    To pay dues, please contact the Treasurer, Bobby Zhang, at <a href="mailto:IEEE-Treas@purdueieee.org">IEEE-Treas@purdueieee.org</a>, go to EE 014 and use leave your email and dues with a Treasurer-authorized attendant inside the office, or give it to the Treasurer at General Assemblies.
+                </p>
+
+
+            </div>
+        </div>
+    </div>
+
+    <div class="well">
+        <div class="row">
             <div class="col-lg-12 text-dark">
-                <h1 class="text-center">Join IEEE</h1>
+                <h1 class="text-center">Subscribe to our Mailing Lists</h1>
 
                 <div class="col-md-8 col-md-offset-2 text-dark" id="content">
                 <form id="signup-form" action="signup_post.php" title="" method="post" style="font-size: 18px">
+                    <label>Signup for our main mailing list, IEEE-Announcements, below!</label><br><br>
                     <label>Name:</label>
                     <input type="name" id="name" name="name" class="form-control">
                     <label>Email:</label>
                     <input type="email" id="email" name="email" class="form-control"><br>
 
-                    <label>Mailing Lists to Subscribe to:</label>
+                    <label>Which Technical Committees would you like to join/receive emails from?</label>
                     <div class="checkbox" style="margin-top: 0">
-                        <label><input type="checkbox" name="list[]" checked="true" value="announcements" disabled>IEEE Announcements</label><br>
-                        <label><input type="checkbox" name="list[]" value="aerial">Aerial Robotics</label><br>
-                        <label><input type="checkbox" name="list[]" value="csociety">IEEE Computer Society</label><br>
-                        <label><input type="checkbox" name="list[]" value="embs">Engineering in Medicine and Biology Society</label><br>
-                        <label><input type="checkbox" name="list[]" value="mtts">Microwave Theory &amp; Techniques Society</label><br>
-                        <label><input type="checkbox" name="list[]" value="racing">Racing</label><br>
-                        <label><input type="checkbox" name="list[]" value="rov">Remotely Operated underwater Vehicle (ROV)</label><br>
+                        <label><input class="tc-check" type="checkbox" name="list[]" value="aerial">Aerial Robotics</label><br>
+                        <label><input class="tc-check" type="checkbox" name="list[]" value="csociety">Computer Society</label><br>
+                        <label><input class="tc-check" type="checkbox" name="list[]" value="embs">Engineering in Medicine and Biology Society</label><br>
+                        <label><input class="tc-check" type="checkbox" name="list[]" value="mtts">Microwave Theory &amp; Techniques Society</label><br>
+                        <label><input class="tc-check" type="checkbox" name="list[]" value="racing">Racing</label><br>
+                        <label><input class="tc-check" type="checkbox" name="list[]" value="rov">Remotely Operated underwater Vehicle (ROV)</label><br>
+                        <input type="checkbox" name="list[]" checked="true" value="announcements" hidden>
                     </div>
 
                     <button class="btn btn-primary" type="submit" value="submit">Submit</button>
@@ -73,7 +94,7 @@
                     function clearEntries() {
                         $('#email').val("");
 
-                        $('input:checked').each(function(){
+                        $('.tc-check').each(function(){
                             $(this).removeAttr("checked");
                         })
 

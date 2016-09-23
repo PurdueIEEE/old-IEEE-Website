@@ -24,7 +24,7 @@
                 <div style="margin: 10px auto; width: 600px; height: 20px; font-weight: 600">
                     <div class="calendar-box" style="background-color: #547AC4;">IEEE Events</div>
                     <div class="calendar-box" style="background-color: #55D4C3;">Computer Society</div>
-                    <div class="calendar-box" style="background-color: #2196F3;">EMBS</div>
+                    <div class="calendar-box" style="background-color: #891DDB;">EMBS</div>
                     <div class="calendar-box" style="background-color: #0D7813;">MTT-S</div>
                 </div>
                 <div style="margin: 10px auto; width: 450px; height: 20px; font-weight: 600">
@@ -36,7 +36,7 @@
                     $calendar_sources = array(
                         array('color' => '2952A3', 'src' => 'd5lo1ojucvmelsk9a54kndq1g8@group.calendar.google.com'), #IEEE Calendar
                         array('color' => '1B887A', 'src' => 'mmi9atsgvigdbhnsf783vtlcv8@group.calendar.google.com'), #Computer Society
-                        array('color' => '2196F3', 'src' => 'embspurdue@gmail.com'), #EMBS
+                        array('color' => '5229A3', 'src' => 'embspurdue@gmail.com'), #EMBS
                         array('color' => '0D7813', 'src' => 'edv88gqt4b1v7fs6b6gi2bd8f8@group.calendar.google.com'), #MTT-S
                         array('color' => 'A32929', 'src' => 'h8nk778rgq4idlspuf4uevfs84@group.calendar.google.com'), #PARTIEEE
                         array('color' => '6B3304', 'src' => 'purdueieeeracing%40gmail.com'), #Racing

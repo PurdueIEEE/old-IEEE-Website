@@ -9,16 +9,7 @@
     <div class="well">
         <div class="row">
 
-        <!-- Sidebar Column -->
-            <div class="col-md-3">
-                <div class="list-group">
-                    <a href="/about.php" class="list-group-item">About</a>
-                    <a href="/officers/" class="list-group-item">Officers<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a>
-                    <a href="/constitution.php" class="list-group-item active">Constitution</a>
-                </div>
-            </div>
-
-            <div class="col-md-7 text-dark col-md-offset-1">
+            <div class="col-md-8 text-dark col-md-offset-2">
                 <h1 class="text-center">CONSTITUTION OF IEEE</h1>
 
                     <p class="text-center"><strong>Purdue University - West Lafayette Student Branch</strong></p>

@@ -4,13 +4,13 @@
     $site_index = '/csociety';
     include '../header.php';
 ?>
-
+    <link href="/assets/bootstrap.csociety.css" rel="stylesheet">
     <!-- Content Row -->
     <div class="well">
         <div class="row">
 
             <!-- Content Column -->
-            <div class="col-lg-12 text-dark">
+            <div class="col-md-8 text-dark col-md-offset-2 text-dark">
                 <h2>Computer Society</h2>
                 <p>The Computer Society does fun projects with computers! Contact <a href="mailto:president@csociety.org">Matt Molo</a> for more details.</p><br>
                 <a href="https://twitter.com/PurdueCSociety"><i class="fa fa-twitter-square fa-4x"></i></a>
