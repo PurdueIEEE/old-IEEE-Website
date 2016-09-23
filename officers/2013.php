@@ -1,9 +1,40 @@
 <?php 
-    $title = '2013 Officers';
+    $page_title = '2013 Officers';
+    $site_title = 'Purdue IEEE';
+    $site_index = '/';
+    $root = true;
     include '../header.php';
 ?>
 
     <div class="well text-dark">
+
+        <!--- Pagination -->
+        <div class="row text-center">
+            <div class="col-lg-12">
+                <ul class="pagination">
+                    <li>
+                        <a href="2011.php">2011</a>
+                    </li>
+                    <li>
+                        <a href="2012.php">2012</a>
+                    </li>
+                    <li class="active">
+                        <a href="#">2013</a>
+                    </li>
+                    <li>
+                        <a href="2014.php">2014</a>
+                    </li>
+                    <li>
+                        <a href="2015.php">2015</a>
+                    </li>
+                    <li>
+                        <a href="2016.php">2016</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <hr />
         <!-- President -->
         <div class="row">
             <div class="col-md-3">
@@ -148,40 +179,6 @@
                 <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a></a></p>
             </div>
         </div>
-
-        <hr>
-        <!--- Pagination -->
-        <div class="row text-center">
-            <div class="col-lg-12">
-                <ul class="pagination">
-                    <li>
-                        <a href="2012.php">&laquo;</a>
-                    </li>
-                    <li>
-                        <a href="2011.php">2011</a>
-                    </li>
-                    <li>
-                        <a href="2012.php">2012</a>
-                    </li>
-                    <li class="active">
-                        <a href="#">2013</a>
-                    </li>
-                    <li>
-                        <a href="2014.php">2014</a>
-                    </li>
-                    <li>
-                        <a href="2015.php">2015</a>
-                    </li>
-                    <li>
-                        <a href="/officers/">2016</a>
-                    </li>
-                    <li>
-                        <a href="2014.php">&raquo;</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-
     </div>
 
 <?php include '../footer.php'; ?>

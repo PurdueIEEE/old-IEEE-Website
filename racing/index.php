@@ -1,6 +1,7 @@
 <?php
-    $title = 'IEEE Racing';
-    $display_back_button = true;
+    $page_title = 'Home';
+    $site_title = 'Racing';
+    $site_index = '/racing';
     include '../header.php';
 ?>
 
@@ -9,7 +10,7 @@
         <div class="row">
 
             <!-- Content Column -->
-            <div class="col-lg-12 text-dark">
+            <div class="col-md-8 text-dark col-md-offset-2 text-dark">
                 <h2>Racing Team</h2>
                 <p> The IEEE Racing Team builds an electric go-kart to compete in evGrandPrix. In addition to go-karts, the team undertakes small projects such as building an off-road buggy to explore the field of electric motorsports even further.</p>
                 <p>Contact <a href="mailto:jcourtn@purdue.edu">John Courtney</a> for more details.</p>

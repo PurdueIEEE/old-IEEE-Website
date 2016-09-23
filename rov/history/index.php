@@ -1,6 +1,7 @@
 <?php
-    $title = 'IEEE ROV - History';
-    $display_back_button = true;
+    $page_title = 'History';
+    $site_title = 'IEEE ROV';
+    $site_index = '/rov';
     include '../../header.php';
 ?>
 
@@ -11,7 +12,7 @@
             <!-- Sidebar Column -->
             <div class="col-md-3">
                 <div class="list-group">
-                    <a href="/rov/history/" class="list-group-item active">Past Seasons and Pictures</a>
+                    <a href="/rov/history/" class="list-group-item active">History</a>
                     <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
                     <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
                     <a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a>

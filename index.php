@@ -1,8 +1,12 @@
 <?php
-    $title = 'Purdue IEEE';
-
+    $page_title = 'Purdue IEEE';
+    $site_title = 'Purdue IEEE';
+    $site_index = '/';
+    
     //Output js in footer to load carousel
     $carousel = true;
+    $root = true;
+    $home = true;
     include 'header.php';
 ?>
 
@@ -106,7 +110,7 @@
             <div class="col-md-12">
                 <div class="media">
                     <div class="pull-left">
-                            <i class="material-icons" style="color:#072a40; font-size: 32px; margin-left:16px;">insert_emoticon</i>
+                           <img src="/images/IEEE-Kite-Blue.svg" style="height: 32px; margin-left: 16px;">
                     </div>
                     <div class="media-body">
                         <h4 class="media-heading">Purdue IEEE</h4>
