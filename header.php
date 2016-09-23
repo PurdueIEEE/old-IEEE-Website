@@ -33,9 +33,10 @@
                     <span class="icon-bar"></span>
                 </button>
 
-                <!--
-                Navigation button is set dynamically. Do not modify.
-                button = !root ? back : home !-->
+                <?php /*
+                 * Navigation button is set dynamically. Do not modify.
+                 * button = !root ? back : home !-->
+                 */ ?>
                 <a href="/" title="Back to home">
                 <div type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px; float: left;" aria-label="Back">
                     <?php if (!$root) { ?>
@@ -46,10 +47,13 @@
                 </div>
                 </a>
                 <a class="navbar-brand" href="<?php echo $site_index;?>">
-                    <!--
-                    Site title is set dynamically. Do not modify.
-                    The site title indicates the current navigational scope.
-                    For example, committee pages have a different scope than the general IEEE page does. !-->
+                    <?php /*
+                     * Navigation button is set dynamically. Do not modify.
+                     * button = !root ? back : home !-->
+                     * Site title is set dynamically. Do not modify.
+                     * The site title indicates the current navigational scope.
+                     * For example, committee pages have a different scope than the general IEEE page does. !-->
+                     */ ?>
                     <b><?php echo $site_title;?></b>
                 </a>
             </div>
