@@ -91,10 +91,10 @@
                             <li>
                                 <a href="/social/">Social</a>
                             </li>
-                            <li>
+                            <hr />
+                            <li class="disabled">
                                 <a href="/technical/">Technical</a>
                             </li>
-                            <hr />
                             <li>
                                 <a href="/partieee/">Aerial Robotics</a>
                             </li>
