@@ -40,7 +40,7 @@
                     </div>
                     <!--Hayley-->
                     <div class= "col-md-6">
-                        <img src="./images/hayley.jpg" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
+                        <img src="./images/hayley2.png" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
                         <h4>Hayley Chan</h4>
                         <p>Vice Chair<br />Biology<br />Senior</p>
                     </div>
@@ -61,7 +61,7 @@
                     </div>
                     <!--Justin-->
                     <div class= "col-md-4">
-                        <img src="./images/Placeholder500.jpg" alt= "Celine Chang" class="img-circle" width=250px height=250px />
+                        <img src="./images/celine.jpg" alt= "Celine Chang" class="img-circle" width=250px height=250px />
                         <h4>Celine Chang</h4>
                         <p>Industry Liason<br />Biological Engineering<br />Sophomore</p>
                     </div>
@@ -76,9 +76,9 @@
                     </div>
                     <!--Aditya-->
                     <div class= "col-md-6">
-                        <img src="./images/aditya.jpg" alt= "Aditya Vaidyam" class="img-circle" width=250px height=250px />
+                        <img src="./images/aditya2.jpg" alt= "Aditya Vaidyam" class="img-circle" width=250px height=250px />
                         <h4>Aditya Vaidyam</h4>
-                        <p>Mentor<br />Neurobiology and Physiology, and Computer Science<br />Senior</p>
+                        <p>Undergraduate Mentor<br />Neurobiology and Physiology, and Computer Science<br />Senior</p>
                     </div>
                 </div>
                 <br /><br />
