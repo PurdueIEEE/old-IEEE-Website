@@ -7,11 +7,11 @@
 
     <link href="/assets/bootstrap.embs.css" rel="stylesheet">
     <!-- Content Row -->
-    <div class="well text-dark" style="min-height: 490px; background-image: url('./images/brain.jpg'); background-size: 100%; border: 0px;">
+    <div style="min-height: 490px; background-image: url('./images/brain.jpg'); background-size: cover; background-position: top; margin-bottom: 20px">
             <div class="row text-center">
                 <div class="col-md-12" style="min-height: 490px; color:white; position: relative; top: 50%; transform: translateY(40%);">
                     <div>
-                        <img src="./images/EMBSLogoWhite.png" height=100px />
+                        <img src="./images/EMBSLogoWhite.png" width="80%">
                         <p style="font-weight: 700; transform: translateX(2%);">PURDUE UNIVERSITY</p>
                     </div>
                 </div>
