@@ -93,8 +93,9 @@
                             </li>
                             <hr />
                             <li class="disabled">
-                                <a href="/technical/">Technical</a>
+                                <a>Technical</a>
                             </li>
+                            <br />
                             <li>
                                 <a href="/partieee/">Aerial Robotics</a>
                             </li>
