@@ -5017,10 +5017,8 @@ button.list-group-item-danger.active:focus {
   min-height: 20px;
   padding: 19px;
   margin-bottom: 20px;
-  background-color: #f5f5f5;
-  border: 1px solid #e3e3e3;
-  box-shadow: 1px 1px 10px #000000;
-  -webkit-box-shadow: 1px 1px 10px #000000;
+  background-color: #fff;
+  border-radius: 2px;
 }
 .well blockquote {
   border-color: #ddd;
@@ -5031,6 +5029,28 @@ button.list-group-item-danger.active:focus {
 }
 .well-sm {
   padding: 9px;
+}
+.card-1 {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.card-2 {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.card-3 {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.card-4 {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.card-5 {
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.card-lift {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.card-lift:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 .close {
   float: right;
@@ -5950,7 +5970,7 @@ button.close {
 html,
 body {
     height: 100%;
-    background-color: #072a40;
+    background-color: #e2e1e0;
 }
 
 body {
@@ -5970,7 +5990,6 @@ body {
 header.carousel {
     height: 525px;
     width: 100%;
-    box-shadow: 1px 1px 10px #000000;
 }
 
 header.carousel .item,
@@ -5987,11 +6006,11 @@ header.carousel .fill {
 }
 
 .carousel-caption h2 {
-    background-color: rgba(0, 0, 0, .5);
+    background: linear-gradient(0deg, #000a, #0000);
     margin: 0;
-    height: 60px;
-    line-height: 60px;
-    font-size: 45px;
+    height: 128px;
+    line-height: 128px;
+    font-size: 64px;
 }
 
 @media(max-width:991px) {
@@ -5999,9 +6018,9 @@ header.carousel .fill {
         height: 200px;
     }
     .carousel-caption h2 {
-        height: 30px;
-        line-height: 30px;
-        font-size: 22px;
+        height: 64px;
+        line-height: 64px;
+        font-size: 32px;
     }
 }
 

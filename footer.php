@@ -1,6 +1,6 @@
     <!-- Footer -->
     <footer>
-        <div class="row">
+        <div id="footer-text" class="row">
             <div class="col-lg-12">
                 <center><p>Copyright &copy; Purdue IEEE
                     <?php
@@ -39,6 +39,23 @@
 
         ga('create', 'UA-66463204-1', 'auto');
         ga('send', 'pageview');
+    </script>
+
+<!-- TODO: Make this dynamic to find the parent element's color always. -->
+    <script>
+var c = $('body').css('background-color')
+.replace('rgb(', '')
+.replace(')','' )
+.split(',')
+.map(Number);
+var o = Math.round(((parseInt(c[0]) * 299) +
+                    (parseInt(c[1]) * 587) +
+                    (parseInt(c[2]) * 114)) /1000);
+if(o > 125) {
+    $('#footer-text').css('color', '#555');
+} else {
+    $('#footer-text').css('color', '#eee');
+}
     </script>
 
 </body>

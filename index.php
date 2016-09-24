@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-lg-12">
             <!-- Header Carousel -->
-            <header id="myCarousel" class="carousel slide">
+            <header id="myCarousel" class="carousel slide card-5">
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
@@ -79,13 +79,15 @@
 
     <!-- Upcoming Event List -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h2 class="page-header">Learning Workshops:</h2>
-        </div>
-    </div>
 
-    <div class="well text-dark">
+    <br />
+    <div class="well card-3 text-dark">
+        <div class="row">
+            <div class="col-md-12">
+                <h2><b>Learning Workshops</b></h2>
+            </div>
+        </div>
+        <hr />
         <div class="row">
             <div class="col-md-12">
                 <div class="media">
@@ -99,13 +101,14 @@
 
     <!-- Committeee List -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h2 class="page-header">What we have to offer:</h2>
+    <br />
+    <div class="well card-3 text-dark">
+        <div class="row">
+            <div class="col-md-12">
+                <h2><b>What we do</b></h2>
+            </div>
         </div>
-    </div>
-
-    <div class="well text-dark">
+        <hr />
         <div class="row">
             <div class="col-md-12">
                 <div class="media">
@@ -203,11 +206,8 @@
     <!-- About Section -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
-        <div class="col-lg-12">
-            <h2 class="page-header">Information:</h2>
-        </div>
         <div class="col-md-4 col-sm-6">
-            <div class="panel panel-default text-center text-dark">
+            <div class="well card-5 text-center text-dark">
                 <div class="panel-heading">
                     <i class="material-icons" style="color:#072a40; font-size: 96px;">event</i>
                 </div>
@@ -219,7 +219,7 @@
             </div>
         </div>
         <div class="col-md-4 col-sm-6">
-            <div class="panel panel-default text-center text-dark">
+            <div class="well card-5 text-center text-dark">
                 <div class="panel-heading">
                     <i class="material-icons" style="color:#072a40; font-size: 96px;">chat</i>
                 </div>
@@ -230,7 +230,7 @@
             </div>
         </div>
         <div class="col-md-4 col-sm-6">
-            <div class="panel panel-default text-center text-dark">
+            <div class="well card-5 text-center text-dark">
                 <div class="panel-heading">
                     <i class="material-icons" style="color:#072a40; font-size: 96px;">email</i>
                 </div>
