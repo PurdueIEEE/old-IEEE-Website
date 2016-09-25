@@ -1,5 +1,8 @@
 <p>Over the next few weeks we have several learning workshops planned. Below are the summaries of what they will be teaching. Extra information for times, dates and contact info are on the <a href="/learning/">learning workshops page</a>. Be sure to check it out, as some workshops have extra instructions that need to be completed beforehand!</p>
 
+<strong>Git and Github Training Session</strong>
+<p>This session will cover the basics of using git and GitHub. Git is a version control software that makes saving your old code and reverting changes much easier. GitHub is a remote location to store your code and collaborate with other people through merging and code reviews. The session will cover only command line tools, so familiarity with the command line is helpful. Will be held on Friday, September 30th at 6:00 pm in Physics 223. This is the session for ECE students to attend.</p>
+
 <strong>EAGLE Training Session</strong>
 <p>This training session will cover the basics of EAGLE, an electrical board schematic and layout tool. The training session is split into three parts, that will teach how to create schematics, board layouts, and parts. No prior knowledge is required. The first session will be held this Thursday, in Physics 203 at 6:30 PM.</p>
 
