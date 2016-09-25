@@ -17,7 +17,7 @@
             </div>
         </div>
     </div>
-        <div class="well card-3 text-dark">
+        <div class="well card-1 text-dark">
             <div class="row text-center">
                 <h1 id="mission">Mission</h1>
                 <hr />
@@ -27,7 +27,7 @@
                 <p><a href="mailto:embs-info@purdueieee.org">Contact us for more information.</a></p>
             </div>
         </div>
-        <div class="well card-3 text-dark">
+        <div class="well card-1 text-dark">
             <div class="row text-center">
                 <h1 id="officers">Officers</h1>
                 <hr />
@@ -84,7 +84,7 @@
                 <br /><br />
             </div>
         </div>
-        <div class="well card-3 text-dark">
+        <div class="well card-1 text-dark">
             <div class="row text-center">
                 <h1 id="events">Past Events</h1>
                 <hr />
@@ -116,7 +116,7 @@
                 <br /><br />
             </div>
         </div>
-        <div class="well card-3 text-dark">
+        <div class="well card-1 text-dark">
             <div class="row text-center">
                 <h1 id="projects">Projects</h1>
                 <hr />

@@ -6,7 +6,7 @@
 ?>
     <link href="/assets/bootstrap.csociety.css" rel="stylesheet">
     <!-- Content Row -->
-    <div class="well card-3">
+    <div class="well card-1">
         <div class="row">
 
             <!-- Content Column -->

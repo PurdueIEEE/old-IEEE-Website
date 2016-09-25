@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-lg-12">
             <!-- Header Carousel -->
-            <header id="myCarousel" class="carousel slide card-5">
+            <header id="myCarousel" class="carousel slide card-2">
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
@@ -81,7 +81,7 @@
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
 
     <br />
-    <div class="well card-3 text-dark">
+    <div class="well card-1 text-dark">
         <div class="row">
             <div class="col-md-12">
                 <h2><b>Learning Workshops</b></h2>
@@ -102,7 +102,7 @@
     <!-- Committeee List -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <br />
-    <div class="well card-3 text-dark">
+    <div class="well card-1 text-dark">
         <div class="row">
             <div class="col-md-12">
                 <h2><b>What we do</b></h2>
@@ -207,7 +207,7 @@
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
         <div class="col-md-4 col-sm-6">
-            <div class="well card-5 text-center text-dark">
+            <div class="well card-1 text-center text-dark">
                 <div class="panel-heading">
                     <i class="material-icons" style="color:#072a40; font-size: 96px;">event</i>
                 </div>
@@ -219,7 +219,7 @@
             </div>
         </div>
         <div class="col-md-4 col-sm-6">
-            <div class="well card-5 text-center text-dark">
+            <div class="well card-1 text-center text-dark">
                 <div class="panel-heading">
                     <i class="material-icons" style="color:#072a40; font-size: 96px;">chat</i>
                 </div>
@@ -230,7 +230,7 @@
             </div>
         </div>
         <div class="col-md-4 col-sm-6">
-            <div class="well card-5 text-center text-dark">
+            <div class="well card-1 text-center text-dark">
                 <div class="panel-heading">
                     <i class="material-icons" style="color:#072a40; font-size: 96px;">email</i>
                 </div>

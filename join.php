@@ -6,7 +6,7 @@
     include 'header.php';
 ?>
 
-    <div class="well card-3">
+    <div class="well card-1">
         <div class="row">
             <div class="col-lg-12 text-dark">
                 <h1 class="text-center">Subscribe to our Mailing Lists</h1>
@@ -89,7 +89,7 @@
         </div>
     </div>
 
-    <div class="well card-3">
+    <div class="well card-1">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-dark">
                 <h1 class="text-center">IEEE Dues</h1>

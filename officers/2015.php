@@ -6,7 +6,7 @@
     include '../header.php';
 ?>
 
-    <div class="well card-3 text-dark">
+    <div class="well card-1 text-dark">
 
         <!--- Pagination -->
         <div class="row text-center">

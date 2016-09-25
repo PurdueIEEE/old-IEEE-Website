@@ -18,7 +18,7 @@
         }
     </style>
 
-    <div class="well card-3">
+    <div class="well card-1">
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div style="margin: 10px auto; width: 600px; height: 20px; font-weight: 600">
