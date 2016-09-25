@@ -103,12 +103,12 @@
                 <h2>Git + GitHub</h2>
                 <p>This session will cover the basics of using git and GitHub. Git is a version control software that makes saving your old code and reverting changes much easier. GitHub is a remote location to store your code and collaborate with other people through merging and code reviews. The session will cover only command line tools, so familiarity with the command line is helpful.</p>
                 <ul>
-                    <li>Tuesday, September 13th in Phys 114 from 6:30 to 8:30 PM</li>
+                    <li>Friday, September 30th in Phys 223 from 6:00 to 8:00 PM</li>
                 </ul>
                 <p><strong>Contact for additional questions and help:</strong></p>
                 <ul>
-                    <li>Matt Molo: mmolo@purdue.edu</li>
-                    <li>Tim Vincent: tv@purdue.edu</li>
+                    <li>Brandon Stewart: stewa174@purdue.edu</li>
+                    <li>Aditya Vaidyam: avaidyam@purdue.edu</li>
                 </ul>
                 <p>Matt will have office hours for additional help on the following Thursday, from 11:30 to 1:20 PM in EE 014.</p>
 
