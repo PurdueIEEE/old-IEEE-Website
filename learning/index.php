@@ -110,7 +110,6 @@
                     <li>Brandon Stewart: stewa174@purdue.edu</li>
                     <li>Aditya Vaidyam: avaidyam@purdue.edu</li>
                 </ul>
-                <p>Matt will have office hours for additional help on the following Thursday, from 11:30 to 1:20 PM in EE 014.</p>
 
                 <h2>Introduction to Planes</h2>
                 <p>This training session will introduce people to the basics of aerodynamics, common terminology, and basic configurations of planes and their pros and cons. In addition, a brief overview of RC systems is given. We will use the Aerial Robotic's kit planes and custom plane as reference. It will be an open session, so anyone is welcome to come. No prior knowledge is required.</p>
