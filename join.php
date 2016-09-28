@@ -30,8 +30,8 @@
                         <input type="checkbox" name="list[]" checked="true" value="announcements" hidden>
                     </div>
 
-                    <button class="btn btn-primary" type="submit" value="submit">Submit</button>
-                    <button class="btn btn-danger" type="button" onclick="clearEntries();">Clear</button><br><br>
+                    <button class="btn btn-primary btn-raised ripple-effect" type="submit" value="submit">Submit</button>
+                    <button class="btn btn-danger btn-raised ripple-effect" type="button" onclick="clearEntries();">Clear</button><br><br>
                 </form>
                 </div>
 
