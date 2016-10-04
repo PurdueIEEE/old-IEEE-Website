@@ -197,7 +197,7 @@
         </div>
 
         <hr>
-        <!-- Committee Chair #5 -->
+        <!-- Committee Chair #4 -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
@@ -213,7 +213,7 @@
         </div>
 
         <hr>
-        <!-- Committee Chair #6 -->
+        <!-- Committee Chair #5 -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
@@ -224,7 +224,7 @@
                 <h3>Kyle Rakos</h3>
                 <h4>Remotely Operated underwater Vehicle (ROV) Captain</h4>
                 <p>Kyle Rakos is a Senior in Computer Engineering. He joined IEEE at the beginning of his freshman year by taking on the role of Sponsorship Coordinator of the Purdue IEEE ROV Team. His technical and administrative passions continue to grow as he took on role of the Industrial Relations Head of IEEE and Captain of the ROV team. During these roles he interacts with companies on behalf of IEEE and organizes the ROV team in the MATE International ROV Competition. Feeling the desire to improve upon his 15th Place finish the previous season, he is devoting all his time to being the Team Captain for ROV. He also enjoys playing sports and is interested in space.</p>
-                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a>, <a href="http://www.purdueorbital.com/">Orbital</a><i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></p>
+                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
 
