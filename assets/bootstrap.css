@@ -6006,7 +6006,7 @@ header.carousel .fill {
 }
 
 .carousel-caption h2 {
-    background: linear-gradient(0deg, #000a, #0000);
+    background: rgba(0, 0, 0, 0.2);
     margin: 0;
     height: 128px;
     line-height: 128px;
