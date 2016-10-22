@@ -33,19 +33,19 @@
                 <hr />
                 <div class="row">
                     <!--Anjali-->
-                    <div class= "col-md-6">
+                    <div class= "col-md-4">
                         <img src="../images/officers/EMBS_Anjali_Malik.jpg" alt= "Anjali Malik" class="img-circle" width=250px height=250px />
                         <h4>Anjali Malik</h4>
                         <p>Chair<br />Biomedical Engineering<br />Senior</p>
                     </div>
                     <!--Hayley-->
-                    <div class= "col-md-6">
+                    <div class= "col-md-4">
                         <img src="./images/hayley.png" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
                         <h4>Hayley Chan</h4>
                         <p>Vice Chair<br />Biology<br />Senior</p>
                     </div>
                     <!--Aditya-->
-                    <div class= "col-md-6">
+                    <div class= "col-md-4">
                         <img src="../images/officers/Aditya.jpg" alt= "Aditya Vaidyam" class="img-circle" width=250px height=250px />
                         <h4>Aditya Vaidyam</h4>
                         <p>Technical Advisor<br />Neurobiology and Physiology, and Computer Science<br />Senior</p>
