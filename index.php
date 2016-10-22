@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-lg-12">
             <!-- Header Carousel -->
-            <header id="myCarousel" class="carousel slide">
+            <header id="myCarousel" class="carousel slide card-2">
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
@@ -73,13 +73,15 @@
 
     <!-- Upcoming Event List -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h2 class="page-header">Learning Workshops:</h2>
-        </div>
-    </div>
 
-    <div class="well text-dark">
+    <br />
+    <div class="well card-1 text-dark">
+        <div class="row">
+            <div class="col-md-12">
+                <h2><b>Learning Workshops</b></h2>
+            </div>
+        </div>
+        <hr />
         <div class="row">
             <div class="col-md-12">
                 <div class="media">
@@ -93,18 +95,19 @@
 
     <!-- Committeee List -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h2 class="page-header">What we have to offer:</h2>
+    <br />
+    <div class="well card-1 text-dark">
+        <div class="row">
+            <div class="col-md-12">
+                <h2><b>What we do</b></h2>
+            </div>
         </div>
-    </div>
-
-    <div class="well text-dark">
+        <hr />
         <div class="row">
             <div class="col-md-12">
                 <div class="media">
                     <div class="pull-left">
-                           <img src="/images/IEEE-Kite-Blue.svg" style="height: 32px; margin-left: 16px;">
+                        <img src="/images/IEEE-Kite-Blue.svg" style="height: 32px; margin-left: 16px;">
                     </div>
                     <div class="media-body">
                         <h4 class="media-heading">Purdue IEEE</h4>
@@ -117,7 +120,8 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <i class="material-icons" style="color:#072a40; font-size: 32px;">laptop_mac</i>
+                            <style>#laptop_mac:before { content: "laptop_mac";}</style>
+                            <i id="laptop_mac" class="material-icons" style="color:#072a40; font-size: 32px;"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/csociety/">Computer Society</a></h4>
@@ -129,7 +133,8 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <i class="material-icons" style="color:#072a40; font-size: 32px;">local_hospital</i>
+                            <style>#local_hospital:before { content: "local_hospital";}</style>
+                            <i id="local_hospital" class="material-icons" style="color:#072a40; font-size: 32px;"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/embs/">EMBS</a></h4>
@@ -143,7 +148,8 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <i class="material-icons" style="color:#072a40; font-size: 32px;">rss_feed</i>
+                            <style>#rss_feed:before { content: "rss_feed";}</style>
+                            <i id="rss_feed" class="material-icons" style="color:#072a40; font-size: 32px;"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/mtts/">MTT-S</a></h4>
@@ -155,7 +161,8 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <i class="material-icons" style="color:#072a40; font-size: 32px;">local_airport</i>
+                            <style>#local_airport:before { content: "local_airport";}</style>
+                            <i id="local_airport" class="material-icons" style="color:#072a40; font-size: 32px;"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/partieee/">PARTIEEE</a></h4>
@@ -169,7 +176,8 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <i class="material-icons" style="color:#072a40; font-size: 32px;">settings</i>
+                            <style>#settings:before { content: "settings";}</style>
+                            <i id="settings" class="material-icons" style="color:#072a40; font-size: 32px;"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/rov/">ROV</a></h4>
@@ -181,7 +189,8 @@
                 <div class="col-md-6">
                     <div class="media">
                         <div class="pull-left">
-                            <i class="material-icons" style="color:#072a40; font-size: 32px;">directions_car</i>
+                            <style>#directions_car:before { content: "directions_car";}</style>
+                            <i id="directions_car" class="material-icons" style="color:#072a40; font-size: 32px;"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/racing/">Racing</a></h4>
@@ -197,13 +206,11 @@
     <!-- About Section -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
-        <div class="col-lg-12">
-            <h2 class="page-header">Information:</h2>
-        </div>
         <div class="col-md-4 col-sm-6">
-            <div class="panel panel-default text-center text-dark">
+            <div class="well card-1 text-center text-dark">
                 <div class="panel-heading">
-                    <i class="material-icons" style="color:#072a40; font-size: 96px;">event</i>
+                    <style>#event:before { content: "event";}</style>
+                    <i id="event" class="material-icons" style="color:#072a40; font-size: 96px;"></i>
                 </div>
                 <div class="panel-body">
                     <h4>Events and Meetings</h4>
@@ -213,9 +220,10 @@
             </div>
         </div>
         <div class="col-md-4 col-sm-6">
-            <div class="panel panel-default text-center text-dark">
+            <div class="well card-1 text-center text-dark">
                 <div class="panel-heading">
-                    <i class="material-icons" style="color:#072a40; font-size: 96px;">chat</i>
+                    <style>#chat:before { content: "chat";}</style>
+                    <i id="chat" class="material-icons" style="color:#072a40; font-size: 96px;"></i>
                 </div>
                 <div class="panel-body">
                     <h4>Want to chat or have questions?</h4>
@@ -224,9 +232,10 @@
             </div>
         </div>
         <div class="col-md-4 col-sm-6">
-            <div class="panel panel-default text-center text-dark">
+            <div class="well card-1 text-center text-dark">
                 <div class="panel-heading">
-                    <i class="material-icons" style="color:#072a40; font-size: 96px;">email</i>
+                    <style>#email:before { content: "email";}</style>
+                    <i id="email" class="material-icons" style="color:#072a40; font-size: 96px;"></i>
                 </div>
                 <div class="panel-body">
                     <h4>Contact Us</h4>

@@ -6,7 +6,7 @@
     include 'header.php';
 ?>
 
-    <div class="well">
+    <div class="well card-1">
         <div class="row">
             <div class="col-lg-12 text-dark">
                 <h1 class="text-center">Subscribe to our Mailing Lists</h1>
@@ -30,8 +30,8 @@
                         <input type="checkbox" name="list[]" checked="true" value="announcements" hidden>
                     </div>
 
-                    <button class="btn btn-primary" type="submit" value="submit">Submit</button>
-                    <button class="btn btn-danger" type="button" onclick="clearEntries();">Clear</button><br><br>
+                    <button class="btn btn-primary btn-raised ripple-effect" type="submit" value="submit">Submit</button>
+                    <button class="btn btn-danger btn-raised ripple-effect" type="button" onclick="clearEntries();">Clear</button><br><br>
                 </form>
                 </div>
 
@@ -89,7 +89,7 @@
         </div>
     </div>
 
-    <div class="well">
+    <div class="well card-1">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-dark">
                 <h1 class="text-center">IEEE Dues</h1>

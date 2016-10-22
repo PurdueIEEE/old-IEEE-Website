@@ -6,7 +6,7 @@
 ?>
 
     <!-- Content Row -->
-    <div class="well">
+    <div class="well card-1">
         <div class="row">
 
             <!-- Sidebar Column -->

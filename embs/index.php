@@ -7,17 +7,17 @@
 
     <link href="/assets/bootstrap.embs.css" rel="stylesheet">
     <!-- Content Row -->
-    <div style="min-height: 490px; background-image: url('./images/brain.jpg'); background-size: cover; background-position: top; margin-bottom: 20px">
-            <div class="row text-center">
-                <div class="col-md-12" style="min-height: 490px; color:white; position: relative; top: 50%; transform: translateY(40%);">
-                    <div>
-                        <img src="./images/EMBSLogoWhite.png" width="80%">
-                        <p style="font-weight: 700; transform: translateX(2%);">PURDUE UNIVERSITY</p>
-                    </div>
+    <div class="well card-5" style="min-height: 490px; background-image: url('./images/brain.jpg'); background-size: cover; background-position: top;">
+        <div class="row text-center">
+            <div class="col-md-12" style="min-height: 490px; color:white; position: relative; top: 50%; transform: translateY(40%);">
+                <div>
+                    <img src="./images/EMBSLogoWhite.png" width="80%" />
+                    <p style="font-weight: 700; transform: translateX(2%);">PURDUE UNIVERSITY</p>
                 </div>
             </div>
         </div>
-        <div class="well text-dark">
+    </div>
+        <div class="well card-1 text-dark">
             <div class="row text-center">
                 <h1 id="mission">Mission</h1>
                 <hr />
@@ -27,7 +27,7 @@
                 <p><a href="mailto:embs-info@purdueieee.org">Contact us for more information.</a></p>
             </div>
         </div>
-        <div class="well text-dark">
+        <div class="well card-1 text-dark">
             <div class="row text-center">
                 <h1 id="officers">Officers</h1>
                 <hr />
@@ -39,8 +39,8 @@
                         <p>Chair<br />Biomedical Engineering<br />Senior</p>
                     </div>
                     <!--Hayley-->
-                    <div class= "col-md-4">
-                        <img src="./images/hayley.jpg" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
+                    <div class= "col-md-6">
+                        <img src="./images/hayley2.png" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
                         <h4>Hayley Chan</h4>
                         <p>Vice Chair<br />Biology<br />Senior</p>
                     </div>
@@ -61,7 +61,7 @@
                     </div>
                     <!--Justin-->
                     <div class= "col-md-4">
-                        <img src="./images/Placeholder500.jpg" alt= "Celine Chang" class="img-circle" width=250px height=250px />
+                        <img src="./images/celine.jpg" alt= "Celine Chang" class="img-circle" width=250px height=250px />
                         <h4>Celine Chang</h4>
                         <p>Industry Liason<br />Biological Engineering<br />Sophomore</p>
                     </div>
@@ -76,15 +76,15 @@
                     </div>
                     <!--Aditya-->
                     <div class= "col-md-6">
-                        <img src="./images/aditya.jpg" alt= "Aditya Vaidyam" class="img-circle" width=250px height=250px />
+                        <img src="./images/aditya2.jpg" alt= "Aditya Vaidyam" class="img-circle" width=250px height=250px />
                         <h4>Aditya Vaidyam</h4>
-                        <p>Mentor<br />Neurobiology and Physiology, and Computer Science<br />Senior</p>
+                        <p>Undergraduate Mentor<br />Neurobiology and Physiology, and Computer Science<br />Senior</p>
                     </div>
                 </div>
                 <br /><br />
             </div>
         </div>
-        <div class="well text-dark">
+        <div class="well card-1 text-dark">
             <div class="row text-center">
                 <h1 id="events">Past Events</h1>
                 <hr />
@@ -116,7 +116,7 @@
                 <br /><br />
             </div>
         </div>
-        <div class="well text-dark">
+        <div class="well card-1 text-dark">
             <div class="row text-center">
                 <h1 id="projects">Projects</h1>
                 <hr />

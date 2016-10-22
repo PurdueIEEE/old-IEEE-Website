@@ -6,7 +6,7 @@
     include 'header.php';
 ?>
 
-    <div class="well">
+    <div class="well card-1">
         <div class="row">
 
             <div class="col-md-8 text-dark col-md-offset-2">

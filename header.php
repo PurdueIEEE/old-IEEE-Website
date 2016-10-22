@@ -82,6 +82,10 @@
                     <li class="dropdown">
                         <a href="/" class="dropdown-toggle" data-toggle="dropdown">Committees<b class="caret"></b></a>
                         <ul class="dropdown-menu">
+                            <li class="disabled">
+                                <a>General</a>
+                            </li>
+                            <br />
                             <li>
                                 <a href="/learning/">Learning</a>
                             </li>
@@ -93,8 +97,9 @@
                             </li>
                             <hr />
                             <li class="disabled">
-                                <a href="/technical/">Technical</a>
+                                <a>Technical</a>
                             </li>
+                            <br />
                             <li>
                                 <a href="/partieee/">Aerial Robotics</a>
                             </li>
