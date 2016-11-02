@@ -1,19 +1,10 @@
 <?php 
-    $title = 'Calendar - Purdue IEEE';
+    $page_title = 'Calendar';
+    $site_title = 'Purdue IEEE';
+    $site_index = '/';
+    $root = true;
     include 'header.php';
 ?>
-
-    <!-- Page Heading/Breadcrumbs -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h1 class="page-header">Calendar</h1>
-            <ol class="breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li class="active">Calendar</li>
-            </ol>
-        </div>
-    </div>
-    <!-- /.row -->
 
     <style>
         .calendar-box {
@@ -27,17 +18,16 @@
         }
     </style>
 
-    <div class="well">
+    <div class="well card-1">
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div style="margin: 10px auto; width: 600px; height: 20px; font-weight: 600">
                     <div class="calendar-box" style="background-color: #547AC4;">IEEE Events</div>
                     <div class="calendar-box" style="background-color: #55D4C3;">Computer Society</div>
-                    <div class="calendar-box" style="background-color: #2196F3;">EMBS</div>
+                    <div class="calendar-box" style="background-color: #891DDB;">EMBS</div>
                     <div class="calendar-box" style="background-color: #0D7813;">MTT-S</div>
                 </div>
-                <div style="margin: 10px auto; width: 600px; height: 20px; font-weight: 600">
-                    <div class="calendar-box" style="background-color: #891DDB;">Orbital</div>
+                <div style="margin: 10px auto; width: 450px; height: 20px; font-weight: 600">
                     <div class="calendar-box" style="background-color: #CF5D5D;">PARTIEEE</div>
                     <div class="calendar-box" style="background-color: #6B3304;">Racing</div>
                     <div class="calendar-box" style="background-color: #E8CB4F;">ROV</div>
@@ -46,9 +36,8 @@
                     $calendar_sources = array(
                         array('color' => '2952A3', 'src' => 'd5lo1ojucvmelsk9a54kndq1g8@group.calendar.google.com'), #IEEE Calendar
                         array('color' => '1B887A', 'src' => 'mmi9atsgvigdbhnsf783vtlcv8@group.calendar.google.com'), #Computer Society
-                        array('color' => '2196F3', 'src' => 'embspurdue@gmail.com'), #EMBS
+                        array('color' => '5229A3', 'src' => 'embspurdue@gmail.com'), #EMBS
                         array('color' => '0D7813', 'src' => 'edv88gqt4b1v7fs6b6gi2bd8f8@group.calendar.google.com'), #MTT-S
-                        array('color' => '5229A3', 'src' => 'thcak7c7b8d7m6up2u5dd13odg@group.calendar.google.com'), #Orbital
                         array('color' => 'A32929', 'src' => 'h8nk778rgq4idlspuf4uevfs84@group.calendar.google.com'), #PARTIEEE
                         array('color' => '6B3304', 'src' => 'purdueieeeracing%40gmail.com'), #Racing
                         array('color' => 'AB8B00', 'src' => 'ce7l4e2pdhq23tqf3353pfmfp8@group.calendar.google.com'), #ROV 2015-2016

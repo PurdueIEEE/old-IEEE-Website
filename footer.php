@@ -1,13 +1,13 @@
     <!-- Footer -->
     <footer>
-        <div class="row">
+        <div id="footer-text" class="row">
             <div class="col-lg-12">
-                <p>Copyright &copy; Purdue IEEE
+                <center><p>Copyright &copy; Purdue IEEE
                     <?php
                         date_default_timezone_set("UTC");
                         echo date("Y");
                     ?>
-                </p>
+                </p></center>
             </div>
         </div>
     </footer>
@@ -16,7 +16,7 @@
     <!-- /.container -->
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="/js/bootstrap.min.js"></script>
+    <script src="/assets/bootstrap.min.js"></script>
 
     <?php if ($carousel) { 
     //Activate the carousel on the main page only ?>
@@ -41,6 +41,41 @@
         ga('send', 'pageview');
     </script>
 
-</body>
+<script>
+// Ripple-effect animation
+(function($) {
+    $(".ripple-effect").click(function(e){
+        var rippler = $(this);
 
+        // create .ink element if it doesn't exist
+        if (rippler.find(".ink").length == 0) {
+            rippler.append("<span class='ink'></span>");
+        }
+
+        var ink = rippler.find(".ink");
+
+        // prevent quick double clicks
+        ink.removeClass("animate");
+
+        // set .ink diametr
+        if (!ink.height() && !ink.width()) {
+            var d = Math.max(rippler.outerWidth(), rippler.outerHeight());
+            ink.css({height: d, width: d});
+        }
+
+        // get click coordinates
+        var x = e.pageX - rippler.offset().left - ink.width()/2;
+        var y = e.pageY - rippler.offset().top - ink.height()/2;
+
+        // set .ink position and add class .animate
+        ink.css({
+            top: y+'px',
+            left:x+'px'
+        }).addClass("animate");
+    })
+})(jQuery);
+</script>
+
+</body>
+<!-- leyden -->
 </html>

@@ -5,10 +5,10 @@ Options All -Indexes
 ErrorDocument 404 /404.php
 RedirectMatch 404 /\.git
 
-RewriteEngine On                                                                                                                                                                                                                                                                                                                                                                            
-RewriteBase /                                                                                                                                                                                                                                                                                                                                                                               
+RewriteEngine On
+RewriteBase /
 
-# add .html file extension                                                                                                                                                                                                                                                                                                                                                                  
+# add .html file extension
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.+)$ $1.php [L]
@@ -18,4 +18,3 @@ RewriteRule ^(.+)$ $1.php [L]
 #AuthName "restricted area"
 #AuthUserFile/usr/local/var/www/html/.htpasses
 #require valid-user
-

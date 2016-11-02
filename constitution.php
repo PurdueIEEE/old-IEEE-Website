@@ -1,26 +1,16 @@
 <?php 
-    $title = 'Constitution - Purdue IEEE';
+    $page_title = 'Constitution';
+    $site_title = 'Purdue IEEE';
+    $site_index = '/';
+    $root = true;
     include 'header.php';
 ?>
 
-    <!-- Page Heading/Breadcrumbs -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h1 class="page-header">Constitution</h1>
-            <ol class="breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li class="active">Constitution</li>
-            </ol>
-        </div>
-    </div>
-    <!-- /.row -->
-
-    <div class="well">
+    <div class="well card-1">
         <div class="row">
-            <div class="col-lg-12 text-dark">
-                <h1 class="text-center">CONSTITUTION OF IEEE</h1>
 
-                <div class="col-lg-8 col-lg-offset-2">
+            <div class="col-md-8 text-dark col-md-offset-2">
+                <h1 class="text-center">CONSTITUTION OF IEEE</h1>
 
                     <p class="text-center"><strong>Purdue University - West Lafayette Student Branch</strong></p>
 
@@ -588,7 +578,6 @@
                         <li><p>The above clause does not automatically apply to any other Student Branch Chapters.</p></li>
                     </ul>
                 </div>
-            </div>
         </div>
     </div>
 

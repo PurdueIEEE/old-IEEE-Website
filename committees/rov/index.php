@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 $title = 'IEEE ROV';
 include '../../header.php';
 ?>
@@ -107,3 +108,8 @@ include '../../header.php';
 <!-- /.well -->
 
 <?php include '../../footer.php';?>
+=======
+    /* THIS IS DEPRECATED MATERIAL, ONLY PRESENT FOR LEGACY URLS. */
+    header("Location: ../rov/")
+?>
+>>>>>>> upstream/master
