@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div class="col-md-9">
-                <h3>George Hadly</h3>
+                <h3>George Hadley</h3>
                 <h4>President </h4>
                 <p></p>
                 <p><em>Committee Involvement</em>: <a href="/professional/">Industrial Relations,</a> MARS</p>
