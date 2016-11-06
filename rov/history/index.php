@@ -45,11 +45,7 @@
                     with Kyle Rakos captaining the team first semester and for the competition while Sanay Shah took over for the second semester. At the international competition
                     we had a wonderful technical presentation, an excellent poster, and great technical documentation. We had some electronics issues during the mission runs but were
                     still able to place 13th internationally! Additionally, Kyle Rakos was awarded with the Flying Fish award for his passion and demonstrated leadership in the field! 
-<<<<<<< HEAD:committees/rov/history/index.php
-                <p class="text-center"> <img src="/committees/rov/images/ROVMaelstrom.jpg" alt="ROV Cerulean" style="width:80%"></p><br>
-=======
                 <p class="text-center"> <img src="/rov/images/ROVMaelstrom.jpg" alt="ROV Cerulean" style="width:80%"></p><br>
->>>>>>> upstream/master:rov/history/index.php
                 <br>
                 
 
