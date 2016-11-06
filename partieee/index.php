@@ -5,10 +5,83 @@
     include '../header.php';
 ?>
 
-
-    <link href="/assets/bootstrap.embs.css" rel="stylesheet">
+    <link href="/assets/bootstrap.partieee.css" rel="stylesheet">
     <!-- Content Row -->
-    <div class="well card-5" style="min-height: 490px; background-image: url('./images/brain.jpg'); background-size: cover; background-position: top;">
+
+
+    <div class="fullscreen-bg">
+    <video loop muted autoplay poster="images/Genie.jpg" id="bg-vid" class="fullscreen-bg__video">
+        <source src="videos/forest.mov" type="video/webm">
+    	</video>
+    </div>
+    <script type="text/javascript">
+      /* play video twice as fast */
+      document.getElementById("bg-vid").playbackRate = .75;
+       
+    </script>
+        <div class="row well nopad">
+        <div class="col-lg-12 nopad">
+            <!-- Header Carousel -->
+            <header id="myCarousel" class="carousel slide card-2">
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <div class="fill" style="background-image:url('/images/ieee.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>IEEE</h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="fill" style="background-image:url('/images/ieee_callout.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>IEEE Callout: Fall 2016</h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="fill" style="background-image:url('/images/aerial.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>Aerial Robotics</h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="fill" style="background-image:url('/images/csociety.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>Computer Society</h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="fill" style="background-image:url('/images/EMBS.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>EMBS</h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="fill" style="background-image:url('/images/racing.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>Racing</h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="fill" style="background-image:url('/images/rov.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>ROV</h2>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Controls -->
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="icon-prev"></span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="icon-next"></span>
+                </a>
+            </header>
+        </div>
+    </div>
+<div class="well card-5" style="min-height: 490px; background-image: url('./images/brain.jpg'); background-size: cover; background-position: top;">
+      
+
         <div class="row text-center">
             <div class="col-md-12" style="min-height: 490px; color:white; position: relative; top: 50%; transform: translateY(40%);">
                 <div>
@@ -134,18 +207,6 @@
                     </div>
                 </div>
             </div>
-    </div>
-    <!-- /.well -->
-
-<?php include '../footer.php'; ?>
-        <!-- Content Column -->
-            <div class="col-md-8 text-dark col-md-offset-2 text-dark">
-                <h2>PARTIEEE</h2>
-                <p>Purdue Aerial Robotics Team IEEE (PARTIEEE), founded in 1996, consists of four teams: AeroMechanical, Electrical, Software, and Writing. The AeroMechanical team designs and manufactures a custom, stable fixed wing aircraft based on mathematical models. The Electrical team develops custom hardware for the plane, such as power supply boards, sensor boards, and flight controllers. The Software team writes autopilot and image processing algorithms that will guide the system through waypoints and targets. The Writing team works on the technical journal paper, documentation, and presentation displays. The contributions from each team are blended into an unmanned aerial system (UAS) and evaluated at the AUVSI SUAS Competition at Webster Field, Maryland during the summer. <a href="https://drive.google.com/folderview?id=0B5107H94KnS1Q0dDOEJ5TTU0OEk&usp=sharing">Here is a link</a> to media relevant to the team's progress over the past year. For more information contact <a href="mailto:partieee@purdue.edu">Michael Malachowski</a>.</p><br>
-                <p><img style="width: 100%" src="/partieee/images/Genie.png"></p>
-                <p class="text-center"><a href="https://www.facebook.com/purdueaerial"><i class="fa fa-facebook-square fa-4x"></i></a></p>
-            </div>
-        </div>
     </div>
     <!-- /.well -->
 
