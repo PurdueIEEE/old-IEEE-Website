@@ -26,9 +26,9 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                        <div class="fill" style="background-image:url('/images/ieee.jpg');"></div>
+                        <div class="fill" style="background-image:url('images/cad.png');"></div>
                         <div class="carousel-caption">
-                            <h2>IEEE</h2>
+                            <h2>UAV CAD</h2>
                         </div>
                     </div>
                     <div class="item">
@@ -79,26 +79,12 @@
             </header>
         </div>
     </div>
-<div class="well card-5" style="min-height: 490px; background-image: url('./images/brain.jpg'); background-size: cover; background-position: top;">
-      
-
-        <div class="row text-center">
-            <div class="col-md-12" style="min-height: 490px; color:white; position: relative; top: 50%; transform: translateY(40%);">
-                <div>
-                    <img src="./images/EMBSLogoWhite.png" width="80%" />
-                    <p style="font-weight: 700; transform: translateX(2%);">PURDUE UNIVERSITY</p>
-                </div>
-            </div>
-        </div>
-    </div>
         <div class="well card-1 text-dark">
             <div class="row text-center">
                 <h1 id="mission">Mission</h1>
                 <hr />
-                <p>Purdue Aerial Robotics Team IEEE (PARTIEEE), founded in 1996, consists of four teams: AeroMechanical, Electrical, Software, and Writing. The AeroMechanical team designs and manufactures a custom, stable fixed wing aircraft based on mathematical models. The Electrical team develops custom hardware for the plane, such as power supply boards, sensor boards, and flight controllers. The Software team writes autopilot and image processing algorithms that will guide the system through waypoints and targets. The Writing team works on the technical journal paper, documentation, and presentation displays. The contributions from each team are blended into an unmanned aerial system (UAS) and evaluated at the AUVSI SUAS Competition at Webster Field, Maryland during the summer. <a href="https://drive.google.com/folderview?id=0B5107H94KnS1Q0dDOEJ5TTU0OEk&usp=sharing">Here is a link</a> to media relevant to the team's progress over the past year. For more information contact <a href="mailto:partieee@purdue.edu">Michael Malachowski</p>
-                <br /><br />The Purdue student chapter was founded in September 2015 and is the youngest committee within Purdue IEEE. It consists of a group of dedicated students who share a common passion for transforming and revolutionizing future medicine and healthcare. This society exposes its members to the people, practices, information, and ideas necessary for success in biomedical and related careers. It regularly conducts social events, seminars and tours through assistance of faculty and industry supporters; befitting a technical society, Purdue IEEE EMBS members diligently contribute to research initiatives, participate in competitions, attend conferences, and organize technical workshops for the cultivation of shared knowledge.
-                </p>
-                <p><a href="mailto:embs-info@purdueieee.org">Contact us for more information.</a></p>
+                <p>Purdue Aerial Robotics Team IEEE (PARTIEEE), founded in 1996, consists of four teams: AeroMechanical, Electrical, Software, and Writing. The AeroMechanical team designs and manufactures a custom, stable fixed wing aircraft based on mathematical models. The Electrical team develops custom hardware for the plane, such as power supply boards, sensor boards, and flight controllers. The Software team writes autopilot and image processing algorithms that will guide the system through waypoints and targets. The Writing team works on the technical journal paper, documentation, and presentation displays. The contributions from each team are blended into an unmanned aerial system (UAS) and evaluated at the AUVSI SUAS Competition at Webster Field, Maryland during the summer. <a href="https://drive.google.com/folderview?id=0B5107H94KnS1Q0dDOEJ5TTU0OEk&usp=sharing">Here is a link</a> to media relevant to the team's progress over the past year. For more information contact <a href="mailto:partieee@purdue.edu">Michael Malachowski</a></p>
+                <br />
             </div>
         </div>
         <div class="well card-1 text-dark">
@@ -106,47 +92,68 @@
                 <h1 id="officers">Officers</h1>
                 <hr />
                 <div class="row">
-                    <!--Anjali-->
+                    <!--Michael-->
                     <div class= "col-md-4">
-                        <img src="../images/officers/EMBS_Anjali_Malik.jpg" alt= "Anjali Malik" class="img-circle" width=250px height=250px />
-                        <h4>Anjali Malik</h4>
-                        <p>Chair<br />Biomedical Engineering<br />Senior</p>
+                        <img src="../images/officers/Michael_Malachowski.jpg" alt= "Michael Malachowski" class="img-circle" width=250px height=250px />
+                        <h4>Michael Malachowski</h4>
+                        <p>Chair<br />Electrical Engineering<br />Senior</p>
                     </div>
-                    <!--Hayley-->
+                    <!--Jon Paul Pepen-->
                     <div class= "col-md-4">
-                        <img src="./images/hayley.png" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
-                        <h4>Hayley Chan</h4>
-                        <p>Vice Chair<br />Biology<br />Senior</p>
+                        <img src="./images/jon-paul.jpg" alt= "Jon Paul Pepen" class="img-circle" width=250px height=250px />
+                        <h4>Jon Paul Pepen</h4>
+                        <p>First Officer<br />Major<br />Senior</p>
                     </div>
-                    <!--Aditya-->
+                    <!--Ajay-->
                     <div class= "col-md-4">
-                        <img src="../images/officers/Aditya.jpg" alt= "Aditya Vaidyam" class="img-circle" width=250px height=250px />
-                        <h4>Aditya Vaidyam</h4>
-                        <p>Technical Advisor<br />Neurobiology and Physiology, and Computer Science<br />Senior</p>
+                        <img src="./images/ajay.png" alt= "Ajay Kumar" class="img-circle" width=250px height=250px />
+                        <h4>Ajay Kumar</h4>
+                        <p>Secretary<br />Major<br />Senior</p>
                     </div>
                 </div>
                 <br />
                 <div class="row">
-                    <!--Cooper-->
+                    <!--Joey-->
                     <div class= "col-md-4">
-                        <img src="./images/cooper.jpg" alt= "Cooper Pratt" class="img-circle" width=250px height=250px />
-                        <h4>Cooper Pratt</h4>
-                        <p>Student Liason<br />Chemical Engineering<br />Sophomore</p>
+                        <img src="./images/joey.jpg" alt= "Cooper Pratt" class="img-circle" width=250px height=250px />
+                        <h4>Joey Williamson</h4>
+                        <p>Aeromech Team Lead<br />Major<br />Year</p>
                     </div>
-                    <!--Justin-->
+                    <!--Patrick-->
                     <div class= "col-md-4">
-                        <img src="./images/justin.jpg" alt= "Justin Joco" class="img-circle" width=250px height=250px />
-                        <h4>Justin Joco</h4>
-                        <p>Faculty Liason<br />Electrical Engineering<br />Sophomore</p>
+                        <img src="./images/patrick.jpg" alt= "Justin Joco" class="img-circle" width=250px height=250px />
+                        <h4>Patrick May</h4>
+                        <p>Electrical Team Lead<br />Electrical Engineering<br />Year</p>
                     </div>
-                    <!--Justin-->
+                    <!--Ellie-->
                     <div class= "col-md-4">
-                        <img src="./images/celine.jpg" alt= "Celine Chang" class="img-circle" width=250px height=250px />
-                        <h4>Celine Chang</h4>
-                        <p>Industry Liason<br />Biological Engineering<br />Sophomore</p>
+                        <img src="./images/ellie.jpg" alt= "Ellie Topi" class="img-circle" width=250px height=250px />
+                        <h4>Ellie Topi</h4>
+                        <p>Lab Manager<br />Major<br />Year</p>
                     </div>
                 </div>
-                <br /><br />
+                    <br />
+                <div class="row">
+                    <!--George-->
+                    <div class= "col-md-4">
+                        <img src="./images/george.jpg" alt= "George Xu" class="img-circle" width=250px height=250px />
+                        <h4>George Xu</h4>
+                        <p>Aeromech Technical Lead<br />Major<br />Year</p>
+                    </div>
+                    <!--Robert-->
+                    <div class= "col-md-4">
+                        <img src="./images/robert.jpg" alt= "Robert McIntyre" class="img-circle" width=250px height=250px />
+                        <h4>Robert McIntyre</h4>
+                        <p>Aeromech Manufacturing Lead<br />Major<br />Year</p>
+                    </div>
+                    <!--Yash-->
+                    <div class= "col-md-4">
+                        <img src="./images/yash.jpg" alt= "Yash Nain" class="img-circle" width=250px height=250px />
+                        <h4>Yash Nain</h4>
+                        <p>Sponsorship and Relations Coordinator<br />Major<br />Year</p>
+                    </div>
+                </div>
+                
             </div>
         </div>
         <div class="well card-1 text-dark">

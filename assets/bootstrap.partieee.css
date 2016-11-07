@@ -6100,14 +6100,18 @@ footer {
     left: 0;
     overflow: hidden;
     z-index: -100;
+    /*display:flex;*/
 }
 
 .fullscreen-bg__video {
-    position: absolute;
     top: 0;
     left: 0;
-    #height: 100%;
-    width: 100%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    overflow:hidden;
+
 }
 
 .nopad {
