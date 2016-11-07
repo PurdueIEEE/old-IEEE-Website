@@ -15,7 +15,7 @@
     	</video>
     </div>
     <script type="text/javascript">
-      /* play video twice as fast */
+      /* set playback rate for bg video */
       document.getElementById("bg-vid").playbackRate = .75;
        
     </script>
@@ -26,45 +26,21 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                        <div class="fill" style="background-image:url('images/cad.png');"></div>
+                        <div class="fill" style="background-image:url('./images/cad.png');"></div>
                         <div class="carousel-caption">
-                            <h2>UAV CAD</h2>
+                            <h2>UAV P17</h2>
                         </div>
                     </div>
                     <div class="item">
-                        <div class="fill" style="background-image:url('/images/ieee_callout.jpg');"></div>
+                        <div class="fill" style="background-image:url('./images/fcskp.png');"></div>
                         <div class="carousel-caption">
-                            <h2>IEEE Callout: Fall 2016</h2>
+                            <h2>Flight Controller v2.0</h2>
                         </div>
                     </div>
                     <div class="item">
-                        <div class="fill" style="background-image:url('/images/aerial.jpg');"></div>
+                        <div class="fill" style="background-image:url('./images/arceustaxi.png');"></div>
                         <div class="carousel-caption">
-                            <h2>Aerial Robotics</h2>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="fill" style="background-image:url('/images/csociety.jpg');"></div>
-                        <div class="carousel-caption">
-                            <h2>Computer Society</h2>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="fill" style="background-image:url('/images/EMBS.jpg');"></div>
-                        <div class="carousel-caption">
-                            <h2>EMBS</h2>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="fill" style="background-image:url('/images/racing.jpg');"></div>
-                        <div class="carousel-caption">
-                            <h2>Racing</h2>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="fill" style="background-image:url('/images/rov.jpg');"></div>
-                        <div class="carousel-caption">
-                            <h2>ROV</h2>
+                            <h2>Arceus</h2>
                         </div>
                     </div>
                 </div>
@@ -115,13 +91,13 @@
                 <div class="row">
                     <!--Joey-->
                     <div class= "col-md-4">
-                        <img src="./images/joey.jpg" alt= "Cooper Pratt" class="img-circle" width=250px height=250px />
+                        <img src="./images/joey.jpg" alt= "Joey Williamson" class="img-circle" width=250px height=250px />
                         <h4>Joey Williamson</h4>
                         <p>Aeromech Team Lead<br />Major<br />Year</p>
                     </div>
                     <!--Patrick-->
                     <div class= "col-md-4">
-                        <img src="./images/patrick.jpg" alt= "Justin Joco" class="img-circle" width=250px height=250px />
+                        <img src="./images/patrick.jpg" alt= "Patrick May" class="img-circle" width=250px height=250px />
                         <h4>Patrick May</h4>
                         <p>Electrical Team Lead<br />Electrical Engineering<br />Year</p>
                     </div>
@@ -148,7 +124,7 @@
                     </div>
                     <!--Yash-->
                     <div class= "col-md-4">
-                        <img src="./images/yash.jpg" alt= "Yash Nain" class="img-circle" width=250px height=250px />
+                        <img src="../images/officers/Yash_Nain.jpg" alt= "Yash Nain" class="img-circle" width=250px height=250px />
                         <h4>Yash Nain</h4>
                         <p>Sponsorship and Relations Coordinator<br />Major<br />Year</p>
                     </div>

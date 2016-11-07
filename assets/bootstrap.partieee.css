@@ -5015,7 +5015,7 @@ button.list-group-item-danger.active:focus {
     min-height: 20px;
     padding: 19px;
     margin-bottom: 20px;
-    background-color: #fff;
+    background-color: rgba(255,255,255,0.9);
     border-radius: 2px;
 }
 .well blockquote {
