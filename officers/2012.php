@@ -1,4 +1,4 @@
-<?php 
+<?php
     $page_title = '2012 Officers';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
@@ -12,8 +12,8 @@
         <div class="row text-center">
             <div class="col-lg-12">
                 <ul class="pagination">
-                    <?php 
-                        $active2012 = 'class="active"';
+                    <?php
+                        $year = 2012;
                         include 'header.php';
                     ?>
                 </ul>

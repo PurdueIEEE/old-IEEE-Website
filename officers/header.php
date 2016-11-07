@@ -1,35 +1,14 @@
-<li <?php echo $active2008 ?>>
-    <a href="2008.php">2008</a>
-</li>
+<?php
+    $range_min = 2008;
+    $range_max = 2016;
+    for ($y = $range_min; $y <= $range_max; $y++) {
+        if ($y == $year) {
+            echo "<li class='active'>";
+        } else {
+            echo "<li>";
+        }
 
-<li <?php echo $active2009 ?>>
-    <a href="2009.php">2009</a>
-</li>
-
-<li <?php echo $active2010 ?>>
-    <a href="2010.php">2010</a>
-</li>
-
-<li <?php echo $active2011 ?>>
-    <a href="2011.php">2011</a>
-</li>
-
-<li <?php echo $active2012 ?>>
-    <a href="2012.php">2012</a>
-</li>
-
-<li <?php echo $active2013 ?>>
-    <a href="2013.php">2013</a>
-</li>
-
-<li <?php echo $active2014 ?>>
-    <a href="2014.php">2014</a>
-</li>
-
-<li <?php echo $active2015 ?>>
-    <a href="2015.php">2015</a>
-</li>
-
-<li <?php echo $active2016 ?>>
-    <a href="2016.php">2016</a>
-</li>
+        echo "<a href='$y.php'>$y</a>";
+        echo "</li>";
+    }
+?>
