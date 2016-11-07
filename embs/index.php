@@ -57,19 +57,19 @@
                     <div class= "col-md-4">
                         <img src="./images/cooper.jpg" alt= "Cooper Pratt" class="img-circle" width=250px height=250px />
                         <h4>Cooper Pratt</h4>
-                        <p>Student Liason<br />Chemical Engineering<br />Sophomore</p>
+                        <p>Student Liaison<br />Chemical Engineering<br />Sophomore</p>
                     </div>
                     <!--Justin-->
                     <div class= "col-md-4">
                         <img src="./images/justin.jpg" alt= "Justin Joco" class="img-circle" width=250px height=250px />
                         <h4>Justin Joco</h4>
-                        <p>Faculty Liason<br />Electrical Engineering<br />Sophomore</p>
+                        <p>Faculty Liaison<br />Electrical Engineering<br />Sophomore</p>
                     </div>
                     <!--Justin-->
                     <div class= "col-md-4">
                         <img src="./images/celine.jpg" alt= "Celine Chang" class="img-circle" width=250px height=250px />
                         <h4>Celine Chang</h4>
-                        <p>Industry Liason<br />Biological Engineering<br />Sophomore</p>
+                        <p>Industry Liaison<br />Biological Engineering<br />Sophomore</p>
                     </div>
                 </div>
                 <br /><br />
@@ -118,7 +118,7 @@
                     <div class="col-md-6">
                         <br /><br />
                         <h4>Electroencephalogram (EEG)</h4>
-                        <p>An EEG can be used to interpret the brain's neural activity at a low resultion for both clinical diagnostics and to develop assistive devices.</p>
+                        <p>An EEG can be used to interpret the brain's neural activity at a low resolution for both clinical diagnostics and to develop assistive devices.</p>
                     </div>
                 </div>
                 <br /><br />
