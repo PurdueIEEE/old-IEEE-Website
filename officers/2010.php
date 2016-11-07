@@ -1,5 +1,5 @@
 <?php 
-    $page_title = '2011 Officers';
+    $page_title = '2010 Officers';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
     $root = true;
@@ -13,8 +13,8 @@
             <div class="col-lg-12">
                 <ul class="pagination">
                     <?php 
-                        $active2011 = 'class="active"';
-                        include 'header.php';
+                    	$active2010 = 'class="active"';
+                    	include 'header.php';
                     ?>
                 </ul>
             </div>
@@ -25,14 +25,14 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Seth.jpg')">
+                    style="background-image: url('/images/officers/.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
-                <h3>Seth Baklor</h3>
-                <h4>President and Remotely Operated underwater Vehicle (ROV) Committee Chair</h4>
+                <h3>Greg Brener</h3>
+                <h4>President </h4>
                 <p></p>
-                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
+                <p><em>Committee Involvement</em>: <a href="/professional/">Industrial Relations</a></p>
             </div>
         </div>
         <!-- /.row -->
