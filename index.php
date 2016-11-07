@@ -2,7 +2,7 @@
     $page_title = 'Purdue IEEE';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
-    
+
     //Output js in footer to load carousel
     $carousel = true;
     $root = true;
@@ -72,13 +72,14 @@
     </div>
 
     <!-- Upcoming Event List -->
-    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
 
+    <?php /*
+    Commenting this out with PHP, until we have things
     <br />
     <div class="well card-1 text-dark">
         <div class="row">
             <div class="col-md-12">
-                <h2><b>Learning Workshops</b></h2>
+                <h2><b>Upcoming Events</b></h2>
             </div>
         </div>
         <hr />
@@ -90,11 +91,11 @@
                     </div>
                 </div>
             </div>
+        </div>
     </div>
-    </div>
+    */ ?>
 
     <!-- Committeee List -->
-    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <br />
     <div class="well card-1 text-dark">
         <div class="row">
