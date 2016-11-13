@@ -291,8 +291,8 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #7b2424;
-  text-decoration: none;
+  color: #eee;
+  text-decoration: underline
 }
 a:hover,
 a:focus {
@@ -532,6 +532,9 @@ mark,
 }
 .text-dark {
   color: #333;
+}
+.text-light {
+  color: #ddd;
 }
 .text-primary {
   color: #7b2424;
@@ -3575,6 +3578,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-nav > li > a {
     padding-top: 15px;
     padding-bottom: 15px;
+    text-decoration:none;
   }
 }
 .navbar-form {
@@ -3802,12 +3806,16 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-    background-color: #000066;
-  border-color: #000066;
-  box-shadow: 1px 1px 10px #000000;
+  background: #99ccff; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top, #000000 , #99ccff); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #000000, #99ccff); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #000000, #99ccff); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right,  #000000 0%, #99ccff 100%); /* Standard syntax */
+    box-shadow: 1px 1px 10px #000000;
 }
 .navbar-inverse .navbar-brand {
-  color: #eee;
+    color: #eee;
+    text-decoration:none;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
@@ -3930,13 +3938,15 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination > li > span {
   position: relative;
   float: left;
-  padding: 6px 12px;
+  font-size:16px;
+  padding: 6px 62px;
   margin-left: -1px;
   line-height: 1.42857143;
-  color: #7b2424;
+  color: #ddd;
   text-decoration: none;
-  background-color: #fff;
-  border: 1px solid #ddd;
+  background-color: rgba(50,50,50,0.5);
+  border: 1px solid rgba(50,50,50,0.5);
+  font-weight: bold;
 }
 .pagination > li:first-child > a,
 .pagination > li:first-child > span {
@@ -5015,7 +5025,7 @@ button.list-group-item-danger.active:focus {
     min-height: 20px;
     padding: 19px;
     margin-bottom: 20px;
-    background-color: rgba(255,255,255,0.9);
+    background-color: rgba(50,50,50,0.5);
     border-radius: 2px;
 }
 .well blockquote {
@@ -5643,8 +5653,8 @@ button.close {
   .carousel-control .icon-next {
     width: 30px;
     height: 30px;
-    margin-top: -15px;
-    font-size: 30px;
+    margin-top: -35px;
+    font-size: 70px;
   }
   .carousel-control .glyphicon-chevron-left,
   .carousel-control .icon-prev {
