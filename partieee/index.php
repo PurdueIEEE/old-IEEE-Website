@@ -115,13 +115,13 @@
                 <div class="row">
                     <!--Joey-->
                     <div class= "col-md-4">
-                        <img src="./images/joey-williamson.jpg" alt= "Joey Williamson" class="img-circle" width=250px height=250px />
+                        <img src="" alt= "Joey Williamson" class="img-circle" width=250px height=250px />
                         <h4>Joey Williamson</h4>
                         <p>Aeromech Team Lead<br />Aeronautics and Astronautics Engineering<br />Sophomore</p>
                     </div>
                     <!--Patrick-->
                     <div class= "col-md-4">
-                        <img src="./images/patrick-may.png" alt= "Patrick May" class="img-circle" width=250px height=250px />
+                        <img src="" alt= "Patrick May" class="img-circle" width=250px height=250px />
                         <h4>Patrick May</h4>
                         <p>Electrical Team Lead<br />Electrical Engineering<br />Junior</p>
                     </div>
