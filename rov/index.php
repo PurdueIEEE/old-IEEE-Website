@@ -24,7 +24,10 @@
 
             <h2 class="text-center">2016 - 2017 Season</h2>
             <p>
-                The ROV Team began its ninth season with over 60 new-member applicants. The top 29 applicants were accepted to join the 30 returning veterans in what will be the the strongest team to date! Our team looks forward to the summer 2017 competition in Long Beach, CA and are eagerly preparing for first place!
+                The ROV Team began its ninth season with over 60 new-member applicants. Eventually the team was consolidated to 53 members who have worked throughout the semester to prepare for the 2017 competition in Long Beach, CA. Designs for the <a href="http://www.marinetech.org/rov-competition-2/">MATE competition</a> are well underway and we are eagerly preparing for first place!
+            </p>
+            <p>
+                If you are interested in joining the ROV team for the spring 2017 semester find out more information <a href="join.php">here</a>.
             </p>
             <br>
 
