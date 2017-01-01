@@ -21,7 +21,10 @@
 
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1">
-
+            <h2 class="text-center">End of Semester Update!</h2>
+            <p>
+                The ROV team had a great first semester! Checkout our newsletter <a href=files/Fall2016Newsletter.pdf>here.</a>
+            </p>
             <h2 class="text-center">2016 - 2017 Season</h2>
             <p>
                 The ROV Team began its ninth season with over 60 new-member applicants. Eventually the team was consolidated to 53 members who have worked throughout the semester to prepare for the 2017 competition in Long Beach, CA. Designs for the <a href="http://www.marinetech.org/rov-competition-2/">MATE competition</a> are well underway and we are eagerly preparing for first place!
