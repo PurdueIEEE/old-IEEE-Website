@@ -135,7 +135,7 @@
         </div>
 
         <hr>
-        <!-- Committee Chair #1 -->
+        <!-- Committee Chair #1 (Fall) -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
@@ -144,9 +144,26 @@
             </div>
             <div class="col-md-9">
                 <h3>Matt Molo</h3>
-                <h4>Computer Society Chair</h4>
+                <h4>Computer Society Chair (Fall)</h4>
                 <p>Matt is a Senior in Computer Science and a former President of Purdue IEEE Student Organization, one of few CS majors to have risen to that office in the organization's history. Growing up in Joliet, IL, Matt has been working with robotics and computers since his involvement on his high school FIRST Robotics team. He is following the Systems Programming track in computer science. Outside of academics, he enjoys web development and video games. Matt had his first experience with IEEE during Summer 2013 before he had even started classes at Purdue. He was integral to developing the software on the ROV team, and has since risen to the role of Software Team Lead on the team. Back during his second year at Purdue, Matt has become extremely involved in all aspects of the student organization. In addition to his responsibilities as President and on the ROV team, he served as the Computer Society Secretary. As President, Matt encouraged the growth of the five committees at the time, built a strong network of motivated students, pushed for wider involvement of all majors within IEEE, and oversaw successful competition seasons from the technical committees. For Matt, retirement takes the form of reviving the IEEE Computer Society as the Computer Society President and pushing for a wider array of challenging software projects.</p>
                 <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/rov/">ROV</a>, <a href="/committees/old_learning/">Learning</a></p>
+            </div>
+        </div>
+
+
+        <hr>
+        <!-- Committee Chair #1 (Spring) -->
+        <div class="row">
+            <div class="col-md-3">
+                <div class="officer-cropped"
+                    style="background-image: url('/images/officers/Sid.jpg')">
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h3>Siddharth Shah</h3>
+                <h4>Computer Society Chair (Spring)</h4>
+                <p>Siddharth is a Sophomore in Computer Science.</p>
+                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/learning/">Learning</a></p>
             </div>
         </div>
 

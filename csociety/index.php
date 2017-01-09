@@ -12,7 +12,7 @@
             <!-- Content Column -->
             <div class="col-md-8 text-dark col-md-offset-2 text-dark">
                 <h2>Computer Society</h2>
-                <p>The Computer Society does fun projects with computers! Contact <a href="mailto:president@csociety.org">Matt Molo</a> for more details.</p><br>
+                <p>The Computer Society does fun projects with computers! Contact <a href="mailto:shah255@purdue.edu">Sid Shah</a> for more details.</p><br>
                 <a href="https://twitter.com/PurdueCSociety"><i class="fa fa-twitter-square fa-4x"></i></a>
             </div>
         </div>
