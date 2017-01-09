@@ -38,7 +38,7 @@
                  * button = !root ? back : home !-->
                  */ ?>
                 <a href="/" title="Back to home">
-                <div type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px; float: left;" aria-label="Back">
+                <div type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px; float: left; min-width: 0; padding-left: 0;" aria-label="Back">
                     <?php if (!$root) { ?>
                         <i class="material-icons" style="color:white; font-size: 32px; margin-top: 8px;">arrow_back</i>
                     <?php } else { ?>
