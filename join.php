@@ -6,6 +6,7 @@
     include 'header.php';
 ?>
 
+    <!--
     <div class="well card-1">
         <div class="row">
             <div class="col-lg-12 text-dark">
@@ -88,6 +89,17 @@
             </div>
         </div>
     </div>
+    --!>
+    <div class="well card-1">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-dark">
+                <h1 class="text-center">Join IEEE</h1>
+                <p>
+                    Our callout is Wednesday, January 11th at 6:30 PM in EE 129! If you can't make it or have other questions, feel free to email <a href="mailto:avaidyam@purdue.edu">our President</a>.
+                </p>
+            </div>
+        </div>
+    </div>
 
     <div class="well card-1">
         <div class="row">
@@ -103,8 +115,6 @@
                     </ul>
                     To pay dues, please contact the Treasurer, Bobby Zhang, at <a href="mailto:IEEE-Treas@purdueieee.org">IEEE-Treas@purdueieee.org</a>, go to EE 014 and use leave your email and dues with a Treasurer-authorized attendant inside the office, or give it to the Treasurer at General Assemblies.
                 </p>
-
-
             </div>
         </div>
     </div>

@@ -21,17 +21,15 @@
 
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1">
-            <h2 class="text-center">End of Semester Update!</h2>
+            <h2 class="text-center"><a href="join.php">Join ROV!</a></h2>
             <p>
-                The ROV team had a great first semester! Checkout our newsletter <a href=files/Fall2016Newsletter.pdf>here.</a>
+                The ROV team had a great first semester! Join it for the second semester by <a href="join.php">applying here!</a> Also checkout <a href=files/Fall2016Newsletter.pdf> our newsletter here.</a>
             </p>
             <h2 class="text-center">2016 - 2017 Season</h2>
             <p>
                 The ROV Team began its ninth season with over 60 new-member applicants. Eventually the team was consolidated to 53 members who have worked throughout the semester to prepare for the 2017 competition in Long Beach, CA. Designs for the <a href="http://www.marinetech.org/rov-competition-2/">MATE competition</a> are well underway and we are eagerly preparing for first place!
             </p>
-            <p>
-                If you are interested in joining the ROV team for the spring 2017 semester find out more information <a href="join.php">here</a>.
-            </p>
+          
             <br>
 
             <h2 class="text-center">About The ROV Team</h2>
