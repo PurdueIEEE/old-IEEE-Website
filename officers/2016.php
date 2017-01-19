@@ -177,8 +177,24 @@
             </div>
             <div class="col-md-9">
                 <h3>Anjali Malik</h3>
-                <h4>Engineering in Medicine and Biology Society (EMBS) Chair</h4>
+                <h4>Engineering in Medicine and Biology Society (EMBS) Chair (FALL)</h4>
                 <p>Anjali is a Senior in Weldon School of Biomedical Engineering at Purdue. She has been a member and supporter of IEEE and has co-founded the EMBS committee aiming to spread the importance of BME while building a platform for student innovation in medicine and biology. As the committee chair, she wishes to build a network of students and supporters who actively participate and contribute to development and promotion of this field, while focusing on creation of confident skill sets for the committee's student members. She is passionate about applying her integrated engineering skills towards various real life problems and is planning to pursue graduate school. Her interests include spending time with family and friends, playing badminton, cooking and reading.</p>
+                <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></a></p>
+            </div>
+        </div>
+
+        <hr>
+        <!-- Committee Chair #2 -->
+        <div class="row">
+            <div class="col-md-3">
+                <div class="officer-cropped"
+                    style="background-image: url('/images/officers/EMBS_Hayley_Chan.png')">
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h3>Hayley Chan</h3>
+                <h4>Engineering in Medicine and Biology Society (EMBS) Chair (Spring)</h4>
+                <p>Hayley Chan is a Senior in Health & Disease and joined Purdue IEEE in Spring 2015. She hopes to pursue a career in medicine, with a focus on surgery or pathology. In her free time, Hayley enjoys both cooking and eating, doodling, and playing video games. She is scheduled to graduate Spring 2017.  
                 <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></a></p>
             </div>
         </div>
