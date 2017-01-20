@@ -209,8 +209,24 @@
             </div>
             <div class="col-md-9">
                 <h3>Michael Malachowski</h3>
-                <h4>Purdue Aerial Robotics Team IEEE Captain</h4>
+                <h4>Purdue Aerial Robotics Team IEEE Captain (Fall)</h4>
                 <p>Michael is a Senior in Electrical Engineering. He joined the Purdue IEEE Aerial Robotics Team in the Fall of 2014, eventually taking on the role of electrical team lead, and is currently the Aerial Robotics team captain. He is passionate about designing and working with embedded systems, and is adamant about leading the team in designing a fully custom UAS solution. In his free time he enjoys playing video games, target shooting, and programming.</p>
+            </div>
+        </div>
+            
+        <hr>
+
+        <!-- Committee Chair #3 -->
+        <div class="row">
+            <div class="col-md-3">
+                <div class="officer-cropped"
+                    style="background-image: url('/images/officers/Aerial_Joey.jpg')">
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h3>Joey Williamson</h3>
+                <h4>Purdue Aerial Robotics Team IEEE Captain (Spring)</h4>
+                <p> Joey is a Sophomore in Aerospace Engineering. He joined IEEE in Fall 2015 as an Aeromech Team member with PARTIEEE, later becoming the Aeromech Team Lead. Joey began serving as PARTIEEE's Captain starting with the Spring 2017 semester. Since he was young he has been passionate about everything aerospace related, and his professional interests span nearly everything within the aerospace & defense industry. As the Captain of PARTIEEE he aims to continue leading the team toward their goal of designing, building, and delivering a custom UAS to the AUVSI SUAS competition. In his free time he enjoys making music, playing video games, and keeping up current aviation and spaceflight news.
                 <p><em>Committee Involvement</em>: <a href="/partieee/">PARTIEEE</a></p>
             </div>
         </div>
