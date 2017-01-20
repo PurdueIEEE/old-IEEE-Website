@@ -21,13 +21,9 @@
 
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1">
-            <h2 class="text-center"><a href="join.php">Join ROV!</a></h2>
+            <h2 class="text-center">Remotely Operated underwater Vehicle (ROV) Team</h2>
             <p>
-                The ROV team had a great first semester! Join it for the second semester by <a href="join.php">applying here!</a> Also checkout <a href=files/Fall2016Newsletter.pdf> our newsletter here.</a>
-            </p>
-            <h2 class="text-center">2016 - 2017 Season</h2>
-            <p>
-                The ROV Team began its ninth season with over 60 new-member applicants. Eventually the team was consolidated to 53 members who have worked throughout the semester to prepare for the 2017 competition in Long Beach, CA. Designs for the <a href="http://www.marinetech.org/rov-competition-2/">MATE competition</a> are well underway and we are eagerly preparing for first place!
+                The ROV Team began its ninth season with over 50 members! The team has made tremendous progress on the ROV designs the first semester and are now eagerly ready to manufacture the ROV. Checkout our  <b><a href=files/Fall2016Newsletter.pdf> our newsletter here.</a></b> We are well on our way for the 2017 competition in Long Beach, CA. Designs for the <a href="http://www.marinetech.org/rov-competition-2/">MATE competition!</a>
             </p>
           
             <br>
