@@ -209,7 +209,7 @@
             </div>
             <div class="col-md-9">
                 <h3>Michael Hayashi</h3>
-                <h4>IEEE Microwave Theory & Techniques Society (MTT-S) Chair)</h4>
+                <h4>IEEE Microwave Theory &amp; Techniques Society (MTT-S) Chair</h4>
                 <p>Michael is a Graduate Student in Electrical Engineering. Growing up in the Caterpillar community of Peoria, IL, Michael has known he wanted to be an electrical engineer since childhood. He is a first-generation Boilermaker who loves the opportunities Purdue has given him. While maintaining a broad interest in electrical engineering, Michael's areas of interest lie with VLSI &amp; Circuit Design and Microelectronics &amp; Nanotechnology. Outside of academics, he enjoys reading, jogging, and video games. Michael first became active with IEEE in Spring 2012 through his participation on the ROV team. Now as a graduate student at Purdue, Michael has devoted much of his time to leading the MTT-S Chapter at Purdue. He also partakes in helping with the Central Indiana Section of IEEE, where he is Vice Chair.</p>
                 <p><em>Committee Involvement</em>: <a href="/mtts/">IEEE MTT-S</a>, <a href="/rov/">ROV</a></p>
             </div>
