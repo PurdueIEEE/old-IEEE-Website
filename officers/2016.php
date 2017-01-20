@@ -168,7 +168,7 @@
         </div>
 
         <hr>
-        <!-- Committee Chair #2 -->
+        <!-- Committee Chair #2 (Fall) -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
@@ -177,14 +177,14 @@
             </div>
             <div class="col-md-9">
                 <h3>Anjali Malik</h3>
-                <h4>Engineering in Medicine and Biology Society (EMBS) Chair (FALL)</h4>
+                <h4>Engineering in Medicine and Biology Society (EMBS) Chair (Fall)</h4>
                 <p>Anjali is a Senior in Weldon School of Biomedical Engineering at Purdue. She has been a member and supporter of IEEE and has co-founded the EMBS committee aiming to spread the importance of BME while building a platform for student innovation in medicine and biology. As the committee chair, she wishes to build a network of students and supporters who actively participate and contribute to development and promotion of this field, while focusing on creation of confident skill sets for the committee's student members. She is passionate about applying her integrated engineering skills towards various real life problems and is planning to pursue graduate school. Her interests include spending time with family and friends, playing badminton, cooking and reading.</p>
-                <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></a></p>
+                <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></p>
             </div>
         </div>
 
         <hr>
-        <!-- Committee Chair #2 -->
+        <!-- Committee Chair #2 (Spring) -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
@@ -194,13 +194,29 @@
             <div class="col-md-9">
                 <h3>Hayley Chan</h3>
                 <h4>Engineering in Medicine and Biology Society (EMBS) Chair (Spring)</h4>
-                <p>Hayley Chan is a Senior in Health & Disease and joined Purdue IEEE in Spring 2015. She hopes to pursue a career in medicine, with a focus on surgery or pathology. In her free time, Hayley enjoys both cooking and eating, doodling, and playing video games. She is scheduled to graduate Spring 2017.  
-                <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></a></p>
+                <p>Hayley Chan is a Senior in Health &amp; Disease and joined Purdue IEEE in Spring 2015. She hopes to pursue a career in medicine, with a focus on surgery or pathology. In her free time, Hayley enjoys both cooking and eating, doodling, and playing video games. She is scheduled to graduate Spring 2017.</p>
+                <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></p>
             </div>
         </div>
 
         <hr>
         <!-- Committee Chair #3 -->
+        <div class="row">
+            <div class="col-md-3">
+                <div class="officer-cropped"
+                    style="background-image: url('/images/officers/President_Michael.jpg')">
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h3>Michael Hayashi</h3>
+                <h4>IEEE Microwave Theory & Techniques Society (MTT-S) Chair)</h4>
+                <p>Michael is a Graduate Student in Electrical Engineering. Growing up in the Caterpillar community of Peoria, IL, Michael has known he wanted to be an electrical engineer since childhood. He is a first-generation Boilermaker who loves the opportunities Purdue has given him. While maintaining a broad interest in electrical engineering, Michael's areas of interest lie with VLSI &amp; Circuit Design and Microelectronics &amp; Nanotechnology. Outside of academics, he enjoys reading, jogging, and video games. Michael first became active with IEEE in Spring 2012 through his participation on the ROV team. Now as a graduate student at Purdue, Michael has devoted much of his time to leading the MTT-S Chapter at Purdue. He also partakes in helping with the Central Indiana Section of IEEE, where he is Vice Chair.</p>
+                <p><em>Committee Involvement</em>: <a href="/mtts/">IEEE MTT-S</a>, <a href="/rov/">ROV</a></p>
+            </div>
+        </div>
+
+        <hr>
+        <!-- Committee Chair #4 (Fall) -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
@@ -211,12 +227,12 @@
                 <h3>Michael Malachowski</h3>
                 <h4>Purdue Aerial Robotics Team IEEE Captain (Fall)</h4>
                 <p>Michael is a Senior in Electrical Engineering. He joined the Purdue IEEE Aerial Robotics Team in the Fall of 2014, eventually taking on the role of electrical team lead, and is currently the Aerial Robotics team captain. He is passionate about designing and working with embedded systems, and is adamant about leading the team in designing a fully custom UAS solution. In his free time he enjoys playing video games, target shooting, and programming.</p>
+                <p><em>Committee Involvement</em>: <a href="/partieee/">PARTIEEE</a></p>
             </div>
         </div>
-            
-        <hr>
 
-        <!-- Committee Chair #3 -->
+        <hr>
+        <!-- Committee Chair #4 (Spring) -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
@@ -243,7 +259,7 @@
                 <h3>John Courtney</h3>
                 <h4>Racing Committee Chair</h4>
                 <p>John Courtney is a Senior in Mechanical Engineering. Prior to joining Purdue IEEE, he was actively involved in the Purdue EPICS (Engineering Projects in Community Service) Program. He joined Purdue IEEE in Fall 2013 where he played the role of Electrical Lead for the Racing Committee. Since Fall 2014, he has worked as Captain of the Racing Committee. John is strongly interested in motorsports and the automotive industry. His other interests include going rock climbing, travelling, and fishing.</p>
-                <p><em>Committee Involvement</em>: <a href="/racing/">Racing</a></a></p>
+                <p><em>Committee Involvement</em>: <a href="/racing/">Racing</a></p>
             </div>
         </div>
 
@@ -259,7 +275,7 @@
                 <h3>Kyle Rakos</h3>
                 <h4>Remotely Operated underwater Vehicle (ROV) Captain</h4>
                 <p>Kyle Rakos is a Senior in Computer Engineering. He joined IEEE at the beginning of his freshman year by taking on the role of Sponsorship Coordinator of the Purdue IEEE ROV Team. His technical and administrative passions continue to grow as he took on role of the Industrial Relations Head of IEEE and Captain of the ROV team. During these roles he interacts with companies on behalf of IEEE and organizes the ROV team in the MATE International ROV Competition. Feeling the desire to improve upon his 15th Place finish the previous season, he is devoting all his time to being the Team Captain for ROV. He also enjoys playing sports and is interested in space.</p>
-                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a>, <a href="http://www.purdueorbital.com/">Orbital</a><i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></p>
+                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
 
