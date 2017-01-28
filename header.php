@@ -10,7 +10,7 @@
     <!--
     Page title is set dynamically. Do not modify.
     window_title = page_title + (!home ? " - " + site_title). --!>
-    <title><?php echo $page_title;?><?php if (!$home) { ?> — <?php echo $site_title; } ?></title>
+    <title><?php echo $page_title;?><?php if (!isset($home)) { ?> — <?php echo $site_title; } ?></title>
 
     <link href="/assets/bootstrap.css" rel="stylesheet">
     <script src="/assets/jquery.min.js"></script>
