@@ -9,6 +9,9 @@
     <div class="well card-1">
         <div class="row">
 
+        <!-- Picture -->
+        <p class="text-center"><img src="images/mtt-s-logo.jpg" alt="Logo" style="width:30%"></p><br>
+
             <!-- Content Column -->
             <div class="col-md-8 text-dark col-md-offset-2 text-dark">
                 <h2>Microwave Theory &amp; Techniques Society</h2>

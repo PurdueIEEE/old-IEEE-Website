@@ -47,6 +47,12 @@
                         </div>
                     </div>
                     <div class="item">
+                        <div class="fill" style="background-image:url('/images/mtt-s.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>MTT-S</h2>
+                        </div>
+                    </div>
+                    <div class="item">
                         <div class="fill" style="background-image:url('/images/racing.jpg');"></div>
                         <div class="carousel-caption">
                             <h2>Racing</h2>
