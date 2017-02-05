@@ -1,13 +1,13 @@
 <?php
 
     $mailing_lists = array(
-        "announcements" => "https://lists.csociety.org/subscribe/ieee-announcements",
-        "aerial" => "https://lists.csociety.org/subscribe/ieee-aerialrobotics",
-        "csociety" => "https://lists.csociety.org/subscribe/csociety-announce",
-        "embs" => "https://lists.csociety.org/subscribe/ieee-embs",
-        "mtts" => "https://lists.csociety.org/subscribe/ieee-mtt-s",
-        "racing" => "https://lists.csociety.org/subscribe/ieee-grandprix",
-        "rov" => "https://lists.csociety.org/subscribe/ieee-rov-announcements"
+        "announcements" => "https://lists.purdueieee.org/subscribe/ieee-announcements",
+        "aerial" => "https://lists.purdueieee.org/subscribe/ieee-aerialrobotics",
+        "csociety" => "https://lists.purdueieee.org/subscribe/ieee-csociety",
+        "embs" => "https://lists.purdueieee.org/subscribe/ieee-embs",
+        "mtts" => "https://lists.purdueieee.org/subscribe/ieee-mtt-s",
+        "racing" => "https://lists.purdueieee.org/subscribe/ieee-racing",
+        "rov" => "https://lists.purdueieee.org/subscribe/ieee-rov-announcements"
     );
 
     $names = array(

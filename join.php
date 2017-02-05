@@ -6,7 +6,6 @@
     include 'header.php';
 ?>
 
-    <!--
     <div class="well card-1">
         <div class="row">
             <div class="col-lg-12 text-dark">
@@ -86,17 +85,6 @@
                     }
                 </script>
 
-            </div>
-        </div>
-    </div>
-    --!>
-    <div class="well card-1">
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2 text-dark">
-                <h1 class="text-center">Join IEEE</h1>
-                <p>
-                    Our callout is Wednesday, January 11th at 6:30 PM in EE 129! If you can't make it or have other questions, feel free to email <a href="mailto:avaidyam@purdue.edu">our President</a>.
-                </p>
             </div>
         </div>
     </div>
