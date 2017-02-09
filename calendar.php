@@ -39,7 +39,7 @@
                         array('color' => '5229A3', 'src' => 'embspurdue@gmail.com'), #EMBS
                         array('color' => '0D7813', 'src' => 'edv88gqt4b1v7fs6b6gi2bd8f8@group.calendar.google.com'), #MTT-S
                         array('color' => 'A32929', 'src' => 'h8nk778rgq4idlspuf4uevfs84@group.calendar.google.com'), #PARTIEEE
-                        array('color' => '6B3304', 'src' => 'purdueieeeracing%40gmail.com'), #Racing
+                        array('color' => '6B3304', 'src' => 'ieeeevracing@gmail.com'), #Racing
                         array('color' => 'AB8B00', 'src' => 'ce7l4e2pdhq23tqf3353pfmfp8@group.calendar.google.com'), #ROV 2015-2016
                         array('color' => 'AB8B00', 'src' => '87uv0bmrpiok3ghluf0v4fs5ag@group.calendar.google.com') #ROV 2016-2017
                     );
