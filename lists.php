@@ -162,7 +162,8 @@ function dynamic_invoke($method, $arguments, callable $missing) {
 }
 
 // If this script was directly invoked, magically turn into an HTTP API!
-if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
+// Note: use `define('LISTS_STANDALONE', true)` to enable this.
+if (LISTS_STANDALONE === true && basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
 
     // Extract the method from the parameters first.
     $params = $_GET;
