@@ -22,6 +22,7 @@ define('MAIL_BIN', '/var/lib/mailman/bin/');
 
 // The Lists API is a simple python API wrapper around Mailman2 just for
 // managing member subscriptions; this should be further wrapped for REST use.
+// Note: all illegal characters in $list and $email are translated to _.
 // TODO: Support multiple add, remove, find, info.
 class Lists {
     protected function __construct() {}
@@ -29,17 +30,28 @@ class Lists {
 
     // List all available mailing lists.
     // Returns the array of all mailing lists.
-    public static function all(): array {
+    public static function all(bool $names = false): array {
         $api_bin = MAIL_BIN; // TODO: remove
-        $output = `bash -c '{$api_bin}list_lists -a -b'` ?: '';
-        return preg_split("/[\s]+/", $output, -1, PREG_SPLIT_NO_EMPTY);
+
+        $output = `bash -c '{$api_bin}list_lists -a'` ?: '';
+        $output = preg_replace('/(?:[\S]* matching mailing lists found:[\n]*)/i', '', $output);
+        preg_match_all('/(?:(?:[\s]*)([\S]*) - ([^\n]*)(?:[\n]*))/i', $output, $matches);
+
+        $matches = array_combine($matches[1], $matches[2]);
+        $matches = array_change_key_case($matches, CASE_LOWER);
+        if ($names) return $matches;
+        else return array_keys($matches);
     }
 
     // Lists all members of a given mailing $list.
     // Returns the array of all members on the $list.
     public static function list(string $list): array {
         $api_bin = MAIL_BIN; // TODO: remove
-        $output = `bash -c '{$api_bin}list_members {$list}'` ?: '';
+        $list = preg_replace('/[^a-z0-9=_+.-]/i', '_', $list);
+        if(!in_array($list, Lists::all()))
+            return [];
+
+        $output = `bash -c '{$api_bin}list_members "{$list}"'` ?: '';
         if (strpos($output, 'No such list:') === false) {
             return preg_split("/[\s]+/", $output, -1, PREG_SPLIT_NO_EMPTY);
         } else return [];
@@ -49,7 +61,12 @@ class Lists {
     // Returns true if successfully added, false if otherwise.
     public static function add(string $list, string $email): bool {
         $api_bin = MAIL_BIN; // TODO: remove
-        $output = `bash -c '{$api_bin}add_members -r - {$list} <<< {$email}'` ?: '';
+        $list = preg_replace('/[^a-z0-9=_+.-]/i', '_', $list);
+        $email = preg_replace('/[^a-z0-9@_+.-]/i', '_', $email);
+        if(!in_array($list, Lists::all()))
+            return false;
+
+        $output = `bash -c '{$api_bin}add_members -r - "{$list}" <<< {$email}'` ?: '';
         return (strpos($output, 'Subscribed:') !== false);
     }
 
@@ -57,7 +74,9 @@ class Lists {
     // Returns the array of all mailing lists subscribed.
     public static function find(string $email): array {
         $api_bin = MAIL_BIN; // TODO: remove
-        $output = `bash -c '{$api_bin}find_member {$email}'` ?: '';
+        $email = preg_replace('/[^a-z0-9@_+.-]/i', '_', $email);
+
+        $output = `bash -c '{$api_bin}find_member "{$email}"'` ?: '';
         if ($output !== '') {
             $output = preg_replace('/([\s\S]*found in:\n)/i', '', $output);
             $output = preg_split("/[\s]+/", $output, -1, PREG_SPLIT_NO_EMPTY);
@@ -68,7 +87,9 @@ class Lists {
     // Gets a member's info by $email if it is a Purdue Career Account.
     // Returns the array of information Purdue's LDAP server gives.
     public static function info(string $email): array {
+        $email = preg_replace('/[^a-z0-9@_+.-]/i', '_', $email);
         $id = preg_replace('/(@purdue.edu)/i', '', $email, -1, $count);
+
         if ($count !== 1) return [];
         $ds = ldap_connect("ped.purdue.edu");
     	if (!$ds) return [];
@@ -83,7 +104,12 @@ class Lists {
     // Returns true if successfully removed, false if otherwise.
     public static function remove(string $list, string $email): bool {
         $api_bin = MAIL_BIN; // TODO: remove
-        $output = `bash -c '{$api_bin}remove_members -f - {$list} <<< {$email}'` ?: '';
+        $list = preg_replace('/[^a-z0-9=_+.-]/i', '_', $list);
+        $email = preg_replace('/[^a-z0-9@_+.-]/i', '_', $email);
+        if(!in_array($list, Lists::all()))
+            return false;
+
+        $output = `bash -c '{$api_bin}remove_members -f - "{$list}" <<< {$email}'` ?: '';
         return (strpos($output, 'No such member:') === false);
     }
 }
