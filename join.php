@@ -13,7 +13,7 @@
                 <h1 class="text-center">Subscribe to our Mailing Lists</h1>
 
                 <div class="col-md-8 col-md-offset-2 text-dark" id="content">
-                <form id="signup-form" action="signup_post.php" title="" method="post" style="font-size: 18px">
+                <form id="signup-form" action="DirectoryServices/directories.php" title="" method="post" style="font-size: 18px">
                     <label>Signup for our announcements mailing list (Email): </label><br>
                     <input type="email" id="email" name="email" class="form-control"><br>
 
