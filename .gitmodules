@@ -1,0 +1,3 @@
+[submodule "DirectoryServices"]
+	path = DirectoryServices
+	url = git@github.com:PurdueIEEE/DirectoryServices.git
