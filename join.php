@@ -4,7 +4,7 @@
     $site_index = '/';
     $root = true;
     include 'header.php';
-    require_once 'lists.php';
+    require_once 'DirectoryServices/lists.php';
 ?>
 
     <div class="well card-1">
