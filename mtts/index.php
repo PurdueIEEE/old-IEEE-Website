@@ -9,6 +9,15 @@
     <div class="well card-1">
         <div class="row">
 
+            <!-- Sidebar Column -->
+            <div class="col-md-3">
+                <div class="list-group">
+                    <a href="/mtts/bylaws/" class="list-group-item">Bylaws</a>
+
+                </div>
+            </div>
+
+
         <!-- Picture -->
         <p class="text-center"><img src="images/mtt-s-logo.jpg" alt="Logo" style="width:30%"></p><br>
 
