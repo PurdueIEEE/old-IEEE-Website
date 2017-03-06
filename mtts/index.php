@@ -18,19 +18,19 @@
                     <h1 id="officers">Officers</h1>
                     <hr />
                     <div class="row">
-                        <!--Michael-->
+                        <!--Michael Hayashi-->
                         <div class= "col-md-4">
                             <img src="images/Michael_Hayashi_2016.jpg" alt= "Michael Hayashi" class="img-circle" width=250px height=250px />
                             <h4>Michael Hayashi</h4>
                             <p>Chair<br />Electrical Engineering<br />Graduate Student</p>
                         </div>
-                        <!--Jon Paul Pepen-->
+                        <!--Micahel Anderson-->
                         <div class= "col-md-4">
                             <img src="images/michael_anderson.jpg" alt= "Michael Anderson" class="img-circle" width=250px height=250px />
                             <h4>Michael Anderson</h4>
                             <p>Vice Chair<br />Industrial Engineering<br />Junior</p>
                         </div>
-                        <!--Ajay-->
+                        <!--Alan Han-->
                         <div class= "col-md-4">
                             <img src="images/alan_han.jpg" alt= "Alan Han" class="img-circle" width=250px height=250px />
                             <h4>Alan Han</h4>
