@@ -257,7 +257,7 @@
             </div>
             <div class="col-md-9">
                 <h3>John Courtney</h3>
-                <h4>Racing Committee Chair</h4>
+                <h4>Racing Committee Chair (Fall)</h4>
                 <p>John Courtney is a Senior in Mechanical Engineering. Prior to joining Purdue IEEE, he was actively involved in the Purdue EPICS (Engineering Projects in Community Service) Program. He joined Purdue IEEE in Fall 2013 where he played the role of Electrical Lead for the Racing Committee. Since Fall 2014, he has worked as Captain of the Racing Committee. John is strongly interested in motorsports and the automotive industry. His other interests include going rock climbing, travelling, and fishing.</p>
                 <p><em>Committee Involvement</em>: <a href="/racing/">Racing</a></p>
             </div>
@@ -265,6 +265,22 @@
 
         <hr>
         <!-- Committee Chair #6 -->
+        <div class="row">
+            <div class="col-md-3">
+                <div class="officer-cropped"
+                    style="background-image: url('/images/officers/Erick_Figueroa.png')">
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h3>John Courtney</h3>
+                <h4>Racing Committee Chair (Spring)</h4>
+                <p> Erick Figueroa is a Sophomore in Electrical Engineering Technology and with a minor in Spanish and Entrepreneurship Certificate. He joined IEEE in the Fall of 2015 as a member of the Racing Committee. As a first generation university student who appreciates the opportunities Purdue has offered him, he actively pursues to stay involved with campus activities and organizations. He has a wide range of experiences from an Electrical Engineering to Leadership and Public Speaking. He is a very energetic and positive individual who always looks on the bright side and takes pride in his work ethic. In his spare time, he loves to work out and socialize and spend time with family and friends. He is currently on track to graduate in Spring 2019. </p>
+                <p><em>Committee Involvement</em>: <a href="/racing/">Racing</a></p>
+            </div>
+        </div>
+
+        <hr>
+        <!-- Committee Chair #7 -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
