@@ -38,17 +38,28 @@
                     <a href="http://boeing.com" target="_blank"><img src="/rov/images/Boeing.png" alt="Boeing" style="width:100%"></a>
                 </div>
             </div>
+             <div class="row">
+                <div class="col-md-4 text-center">
+                </div>
+                <div class="col-md-4 text-center">
+                    <a href="http://www.purdue.edu/provost" target="_blank"><img src="/rov/images/Provost.png" alt="Purdue Provost" style="width:100%"></a>
+                </div>
+                <div class="col-md-4 text-center">
+                </div>
+            </div>
 
 
             <h2 class="text-center">Gold Partner</h2>
             <div class="row">
                 <div class="col-md-4 text-center">
-                    
+                    <a href="http://purdueesc.org/" target="_blank"><img src="/rov/images/PESC.png" alt="PESC" style="width:100%"></a>
+                </div>
+
+                <div class="col-md-4 text-center">
+                
                 </div>
                 <div class="col-md-4 text-center">
-                    
-                </div>
-                <div class="col-md-4 text-center">
+                    <a href="https://engineering.purdue.edu/ECE" target="_blank"><img src="/rov/images/ece.gif" alt="Purdue ECE" style="width:100%"></a>
                 </div>
             </div>
 
@@ -56,11 +67,12 @@
             <h2 class="text-center">Silver Partner</h2>
             <div class="row">
                 <div class="col-md-4 text-center">
-
+                    <a href="https://engineering.purdue.edu" target="_blank"><img src="/rov/images/Engineering.png" alt="College of Engineering" style="width:100%"></a>
                 </div>
                 <div class="col-md-4 text-center">
                 </div>
                 <div class="col-md-4 text-center">
+                    <a href="https://www.cs.purdue.edu/" target="_blank"><img src="/rov/images/cs.jpg" alt="Department of Computer Science" style="width:100%"></a>
 
                 </div>
             </div>
@@ -69,21 +81,25 @@
             <h2 class="text-center">Bronze Partner</h2>
             <div class="row">
                 <div class="col-md-4 text-center">
+                <a href="https://www.binder-usa.com/" target="_blank"><img src="/rov/images/Binder.png" alt="Binder USA" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
+                    <a href="https://www.bluerobotics.com/" target="_blank"><img src="/rov/images/bluerobotics.png" alt="Bechtel" style="width:100%"></a>                      
                     </div>
                     <div class="col-md-4 text-center">
+                    <a href="https://www.bechtel.com/" target="_blank"><img src="/rov/images/Bechtel.png" alt="Bechtel" style="width:100%"></a>
                     </div>
                 </div>
+                <br>
 
                 <div class="row">
-                    <div class="col-md-4 text-center">
-                        
-                    </div>
                     <div class="col-md-4 text-center">
                         <a href="http://www.digikey.com/" target="_blank"><img src="/rov/images/DigiKey.png" alt="DigiKey" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a href="http://www.northropgrumman.com/Pages/default.aspx" target="_blank"><img src="/rov/images/northrop.png" alt="Northrop Grumman" style="width:100%"></a>
                     </div>
                 </div>
 
