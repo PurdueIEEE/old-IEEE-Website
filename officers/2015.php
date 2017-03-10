@@ -179,7 +179,7 @@
                 <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></a></p>
             </div>
         </div>
-
+        <hr>
         <!-- Committee Chair #3 -->
         <div class="row">
             <div class="col-md-3">
