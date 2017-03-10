@@ -32,23 +32,23 @@
                 <h1 id="officers">Officers</h1>
                 <hr />
                 <div class="row">
-                    <!--Anjali-->
-                    <div class= "col-md-4">
-                        <img src="../images/officers/EMBS_Anjali_Malik.jpg" alt= "Anjali Malik" class="img-circle" width=250px height=250px />
-                        <h4>Anjali Malik</h4>
-                        <p>Chair<br />Biomedical Engineering<br />Senior</p>
-                    </div>
                     <!--Hayley-->
                     <div class= "col-md-4">
                         <img src="./images/hayley.png" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
                         <h4>Hayley Chan</h4>
-                        <p>Vice Chair<br />Biology<br />Senior</p>
+                        <p>Chair<br />Biology<br />Senior</p>
                     </div>
-                    <!--Aditya-->
+                    <!--Apoorva-->
                     <div class= "col-md-4">
-                        <img src="../images/officers/Aditya.jpg" alt= "Aditya Vaidyam" class="img-circle" width=250px height=250px />
-                        <h4>Aditya Vaidyam</h4>
-                        <p>Technical Advisor<br />Neurobiology and Physiology, and Computer Science<br />Senior</p>
+                        <img src="./images/apoorva.jpg" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
+                        <h4>Apoorva Bhwagwat</h4>
+                        <p>Vice Chair<br />Biomedical Engineering<br />Sophmore</p>
+                    </div>
+                    <!--Boghos-->
+                    <div class= "col-md-4">
+                        <img src="./images/boghos.jpg" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
+                        <h4>Boghos Taslkjian</h4>
+                        <p>Secretary<br />Medical Laboratory Sciences<br />Sophmore</p>
                     </div>
                 </div>
                 <br />
@@ -71,6 +71,20 @@
                         <h4>Celine Chang</h4>
                         <p>Industry Liaison<br />Biological Engineering<br />Sophomore</p>
                     </div>
+                <div class="row">
+                    <!--Anjali-->
+                    <div class= "col-md-4">
+                        <img src="../images/officers/EMBS_Anjali_Malik.jpg" alt= "Anjali Malik" class="img-circle" width=250px height=250px />
+                        <h4>Anjali Malik</h4>
+                        <p>Technical Advisor<br />Biomedical Engineering<br />Senior</p>
+                    </div>
+                    <!--Aditya-->
+                    <div class= "col-md-4">
+                        <img src="../images/officers/Aditya.jpg" alt= "Aditya Vaidyam" class="img-circle" width=250px height=250px />
+                        <h4>Aditya Vaidyam</h4>
+                        <p>Technical Advisor<br />Neurobiology and Physiology, and Computer Science<br />Senior</p>
+                    </div>
+                </div>
                 </div>
                 <br /><br />
             </div>
