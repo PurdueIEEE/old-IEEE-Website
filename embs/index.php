@@ -47,7 +47,7 @@
                     <!--Boghos-->
                     <div class= "col-md-4">
                         <img src="./images/boghos.jpg" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
-                        <h4>Boghos Taslkjian</h4>
+                        <h4>Boghos Taslakjian</h4>
                         <p>Secretary<br />Medical Laboratory Sciences<br />Sophmore</p>
                     </div>
                 </div>
