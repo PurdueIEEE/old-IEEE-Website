@@ -12,6 +12,7 @@
         <!-- Sidebar Column -->
         <div class="col-md-3">
             <div class="list-group">
+                <a href="/rov/updates/" class="list-group-item">Updates</a>
                 <a href="/rov/history/" class="list-group-item">History</a>
                 <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item active">Sponsors</a>
@@ -21,7 +22,7 @@
 
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1">
-        <h1>Sponsors</h1>
+        <h1 class="text-center">2015-2016 Sponsors</h1>
             <p>Without the help of our generous sponsors, the ROV team would be unable to compete. We are very thankful for their support. </p>
             <p>If you are interested in supporting the team at various levels please contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>.</p><br>
 
