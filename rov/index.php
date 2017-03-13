@@ -12,6 +12,7 @@
         <!-- Sidebar Column -->
         <div class="col-md-3">
             <div class="list-group">
+            	<a href="/rov/updates/" class="list-group-item">Updates</a>
                 <a href="/rov/history/" class="list-group-item">History</a>
                 <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
@@ -22,9 +23,12 @@
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1">
             <h2 class="text-center">Remotely Operated underwater Vehicle (ROV) Team</h2>
+            <br>
             <p>
-                The ROV Team began its ninth season with over 50 members! The team has made tremendous progress on the ROV designs the first semester and are now eagerly ready to manufacture the ROV. Checkout our  <b><a href=files/Fall2016Newsletter.pdf> our newsletter here.</a></b> We are well on our way for the 2017 competition in Long Beach, CA. Designs for the <a href="http://www.marinetech.org/rov-competition-2/">MATE competition!</a>
+                The ROV Team is currently finishing up manufacturing and integration of key ROV components. Checkout our <b><a href=/rov/files/March2017Newsletter.pdf>March newsletter here.</a></b> We are well on our way to success in the <a href="http://www.marinetech.org/rov-competition-2/">MATE International ROV competition</a> in Long Beach, CA!
             </p>
+            <p class="text-right"><em>March 2017 Update</em></p>
+
           
             <br>
 
