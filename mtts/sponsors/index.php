@@ -12,8 +12,8 @@ include '../../header.php';
         <!-- Sidebar Column -->
         <div class="col-md-3">
             <div class="list-group">
-                <a href="/mtts/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/mtts/" class="list-group-item active">Main Page</a>
+                <a href="/mtts/bylaws/" class="list-group-item">Bylaws</a>
             </div>
         </div>
 
