@@ -13,7 +13,7 @@
             <div class="col-md-3">
                 <div class="list-group">
                     <a href="/mtts/" class="list-group-item active">Main Page</a>
-
+                    <a href="/mtts/sponsors/" class="list-group-item">Sponsors</a>
                 </div>
             </div>
 
