@@ -57,7 +57,7 @@
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">How can I start?</h1>
-            <p class="text-justified">Click on the sign up link on the top right to RSVP, or just rather click here</p>
+            <p class="text-justified">Click on the sign up link on the top right to RSVP, or <a href="/codecafe/signup">click here.</a></p>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
