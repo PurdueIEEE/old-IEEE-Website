@@ -272,7 +272,7 @@
                 </div>
             </div>
             <div class="col-md-9">
-                <h3>John Courtney</h3>
+                <h3>Erick Figueroa</h3>
                 <h4>Racing Committee Chair (Spring)</h4>
                 <p> Erick Figueroa is a Sophomore in Electrical Engineering Technology and with a minor in Spanish and Entrepreneurship Certificate. He joined IEEE in the Fall of 2015 as a member of the Racing Committee. As a first generation university student who appreciates the opportunities Purdue has offered him, he actively pursues to stay involved with campus activities and organizations. He has a wide range of experiences from an Electrical Engineering to Leadership and Public Speaking. He is a very energetic and positive individual who always looks on the bright side and takes pride in his work ethic. In his spare time, he loves to work out and socialize and spend time with family and friends. He is currently on track to graduate in Spring 2019. </p>
                 <p><em>Committee Involvement</em>: <a href="/racing/">Racing</a></p>
