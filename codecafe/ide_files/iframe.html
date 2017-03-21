@@ -1,0 +1,197 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Code Cafe IDE!</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+		<style>
+			canvas {
+				background-color: white;
+				width: 800px; 
+				height: 600px; 
+				margin: 0 auto; 
+				image-rendering: optimizeSpeed;             // Older versions of FF
+				image-rendering: -moz-crisp-edges;          // FF 6.0+
+				image-rendering: -webkit-optimize-contrast; // Safari
+				image-rendering: -o-crisp-edges;            // OS X & Windows Opera (12.02+)
+				image-rendering: pixelated;                 // Awesome future-browsers
+				-ms-interpolation-mode: nearest-neighbor;   // IE
+			}
+
+			#center {
+				margin: 0 auto;
+				width: 800px;
+				height: 600px;
+				padding-top: 25px;
+			}
+			
+			body {
+				margin: 0;
+			}
+		</style>
+	</head>   
+   
+	<body style="background-color: black">
+		<div id="center"><canvas width="800" height="600" id="canvas"><canvas></div>
+	</body>
+	
+	<script>
+	
+		var canvasElem = document.getElementById("canvas");
+		var canvas = canvasElem.getContext("2d");
+		canvas.imageSmoothingEnabled = false;
+		
+		function drawLine(x, y, x2, y2, color) {
+			canvas.beginPath();
+			canvas.moveTo(x, y);
+			canvas.lineTo(x2, y2);
+			canvas.closePath();
+			canvas.strokeStyle = color;
+			canvas.stroke();
+		}
+		
+		function rectangle(x, y, width, height, color) {
+			this.x = x;
+			this.y = y;
+			this.deltaX = 0;
+			this.deltaY = 0;
+			this.angle = 0;
+			this.deltaAngle = 0;
+			
+			this.width = width;
+			this.height = height;
+			this.deltaWidth = 0;
+			this.deltaHeight = 0;
+			
+			this.color = color;
+			
+			this.radAngle = function() {
+				return (this.angle*Math.PI)/180;
+			}
+		
+			this.draw = function() {
+				canvas.save();
+				canvas.translate(this.x, this.y);
+				canvas.rotate(this.radAngle());
+				
+				canvas.fillStyle = color;
+				canvas.fillRect(-(this.width/2), -(this.height/2), this.width, this.height);
+				
+				canvas.restore();
+			}
+		}
+		
+		
+		function circle(x, y, radius, color) {
+			this.x = x;
+			this.y = y;
+			this.deltaX = 0;
+			this.deltaY = 0;
+			
+			this.radius = radius;
+			this.deltaRadius = 0;
+
+			this.color = color;
+								
+			this.draw = function() {
+				canvas.beginPath();
+				canvas.arc(this.x, this.y, this.radius, 0, 2*Math.PI, false);
+				canvas.fillStyle = color;
+				canvas.fill();
+				canvas.closePath();
+			}
+		}
+		
+		function triangle(x, y, height, base, color) {
+			this.x = x;
+			this.y = y;
+			this.deltaX = 0;
+			this.deltaY = 0;
+			this.angle = 0;
+			this.deltaAngle = 0;
+			
+			this.height = height;
+			this.base = base;
+			this.color = color;
+			
+			this.getCenterX = function() {
+				return this.x;
+			}
+			
+			this.getCenterY = function() {
+				return ((3*this.y) + (this.height/2))/3;
+			}
+			
+			this.radAngle = function() {
+				return (this.angle*Math.PI)/180;
+			}
+			
+			this.draw = function() {
+				canvas.save();
+				canvas.translate(this.getCenterX(), this.getCenterY());
+				canvas.rotate(this.radAngle());
+				
+				canvas.beginPath();
+				canvas.moveTo(-(this.base/2),  (this.height/2));
+				canvas.lineTo( (this.base/2),  (this.height/2));
+				canvas.lineTo(        0, -(this.height/2));
+				canvas.closePath();
+				canvas.fillStyle = this.color;
+				canvas.fill();
+				
+				canvas.restore();	
+			}
+		}
+		
+		function clearCanvas() {
+			canvas.clearRect(0 , 0 , canvasElem.width, canvasElem.height);
+		}
+		
+		function randomInt(min,max) {
+			return Math.floor(Math.random()*(max-min+1)+min);
+		}
+		
+		function keyboard_module(){
+			var kb = {};
+			var unicode_mapping = {};
+			document.onkeydown = function(e){
+				var unicode=e.charCode ? e.charCode : e.keyCode;
+				var key = unicode > 40 ? getKey(unicode).toLowerCase() : unicode;
+				if (key == '32') key = " ";
+				if (key == '38') key = "up";
+				if (key == '40') key = "down";
+				if (key == '37') key = "left";
+				if (key == '39') key = "right";
+				
+				kb[key] = true;
+			}
+
+			document.onkeyup = function(e){
+				var unicode=e.charCode ? e.charCode : e.keyCode;
+				var key = unicode > 40 ? getKey(unicode).toLowerCase() : unicode;
+				if (key == '32') key = " ";
+				if (key == '38') key = "up";
+				if (key == '40') key = "down";
+				if (key == '37') key = "left";
+				if (key == '39') key = "right";
+				
+				delete kb[key];
+			}
+
+			function getKey(unicode){
+				if (unicode_mapping[unicode]){
+					var key = unicode_mapping[unicode];
+				} else {
+					var key = unicode_mapping[unicode] = String.fromCharCode(unicode);
+				}
+				
+				return key;
+			}
+			
+			return kb;
+		}
+
+		var keyboard = keyboard_module();
+		
+	</script>
+	<script id="canvasScript"></script>
+</html>

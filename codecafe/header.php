@@ -64,7 +64,7 @@
                         <a href="signup.php">Sign Up!</a>
                     </li>
                     <li>
-                        <a href="http://codecafe.purdueieee.org/launchIDE">Code Cafe IDE</a>
+                        <a href="http://purdueieee.org/codecafe/ide_files/codecafelaunchIDE.html">Code Cafe IDE</a>
                     </li>
                     <!-- END TABS -->
 
