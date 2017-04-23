@@ -1,0 +1,107 @@
+ html,body {
+   width: 100%;
+   height: 100%;
+   padding: none;
+   margin: 0;
+   overflow: hidden;
+ }
+ 
+ .windows {
+	height: 95%;
+	width: 100%;
+ }
+ 
+ .button-bar {
+	height: 5%;
+	width: 100%;
+ }
+ 
+.leftSide {
+   height: 100%;
+   width: 50%;
+   float: left;
+}
+.rightSide {
+   width: 50%;
+   height: 100%;
+   float: left;
+   background: #010101;
+   border-bottom: 1px solid #010101;
+}
+
+#rightText {
+   padding-left: 5px;
+   width: 98%;
+   background: #010101;
+   color: chartreuse;
+   text-align: left;
+   border: 0;
+   resize: none;
+   height: 98%;
+   overflow: hidden;
+   border-bottom: 1px solid black;
+}
+#rightText:focus {
+   outline: none;
+
+}
+.rightSide img {
+   width: 100%;
+}
+
+.button {
+  color: #444;
+  height: 100%;
+  width: 100%;
+  background: #ececec;
+  border: none;
+  outline: none;
+ -webkit-user-select: none; /* Chrome/Safari */        
+ -moz-user-select: none; /* Firefox */
+ -ms-user-select: none; /* IE10+ */
+ box-shadow: 0px 0px 0px 1px #dcdcdc;
+}
+
+.button:hover {
+  background: #bcbcbc;
+}
+
+#save {
+  float: left;
+  width: 7.125%;
+}
+
+#run {
+  background: #e0efe0;
+  float: left;
+  width: 26.125%;
+}
+
+#clearIDE{
+  float: left;
+  width: 7.125%;
+}
+
+#dark {
+  float: left;
+  width: 7.125%;
+}
+
+#fontInc {
+	float: left;
+	width: 2.5%;
+}
+
+#fontDec {
+	float: left;
+	width: 2.5%;
+}
+
+#clearTerminal {
+  float: left;
+  width: 47.5%;
+}
+
+#run:hover {
+  background: #c3efc3;
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Code Cafe IDE! - Web</title>
+		<link rel="stylesheet" href="../static/canvas.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+		<script src="../static/CodeMirror/lib/codemirror.js"></script>
+		<script src="https://ajax.aspnetcdn.com/ajax/jshint/r07/jshint.js"></script>
+		<link rel="stylesheet" href="../static/CodeMirror/lib/codemirror.css">
+
+		<link rel="stylesheet" href="../static/CodeMirror/theme/xq-light.css">
+		<link rel="stylesheet" href="../static/CodeMirror/theme/monokai.css">
+    	<script src="../static/CodeMirror/mode/xml/xml.js"></script>
+		<script src="../static/CodeMirror/addon/lint/lint.js"></script>
+		<script src="../static/CodeMirror/addon/lint/javascript-lint.js"></script>
+		<script src="../static/CodeMirror/mode/htmlmixed/htmlmixed.js"></script>
+
+		<link rel="stylesheet" href="../static/CodeMirror/addon/lint/lint.css">
+
+		<script src="../static/CodeMirror/addon/edit/matchbrackets.js"></script>
+
+		<script src="../static/js/webDev.js"></script>
+	</head>
+
+	<body>
+		<div class="windows">
+			<textarea id="codeTextArea">print("Welcome!");</textarea>
+		</div>
+
+		<div class="button-bar">
+			<button id="clearIDE" class="button" onclick="clearIDE()" type="button">Clear</button>
+			<button id="save" class="button" onclick="save()" type="button">Save</button>
+			<button id="run" class="button" onclick="runData()" type="button">Run</button>
+			<button id="dark" class="button" onclick="switchTheme()" type="button">Dark</button>
+			<button id="fontInc" class="button" onclick="fontInc()" type="button">&#9650;</button>
+			<button id="fontDec" class="button" onclick="fontDec()" type="button">&#9660;</button>
+		</div>
+
+		<script type="text/javascript">
+
+			var myCodeMirror = CodeMirror.fromTextArea(codeTextArea, {
+				mode: "xml",
+				htmlMode: true,
+				gutters: ["CodeMirror-lint-markers"],
+				lint: false,
+				theme: "xq-light",
+				matchBrackets: true,
+				lineNumbers: true
+			});
+
+			//Set the ide value to localStorage
+			var saved = localStorage.getItem("codeCafe_webtext");
+			if (saved != null) {
+				myCodeMirror.setValue(saved);
+			}
+
+			//Set the theme from local storage
+			var theme = localStorage.getItem("theme");
+
+			if (theme === "dark") {
+				myCodeMirror.setOption("theme", "monokai");
+				localStorage.setItem("theme", "dark");
+				$("#dark").html("Light");
+			} else {
+				myCodeMirror.setOption("theme", "xq-light");
+				localStorage.setItem("theme", "light");
+				$("#dark").html("Dark");
+			}
+
+
+			var fontSize = localStorage.getItem("fontSize");
+			if (fontSize == null) {
+				localStorage.setItem("fontSize", "12");
+			} else {
+				$('.CodeMirror').css("font-size", fontSize+"px");
+				$('#rightText').css("font-size", fontSize+"px");
+				myCodeMirror.refresh();
+			}
+		</script>
+
+
+	</body>
+</html>

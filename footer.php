@@ -1,8 +1,13 @@
     <!-- Footer -->
     <footer>
-        <div class="row">
+        <div id="footer-text" class="row">
             <div class="col-lg-12">
-                <p>Copyright &copy; Purdue IEEE <?php echo date("Y") ?></p>
+                <center><p>Copyright &copy; Purdue IEEE
+                    <?php
+                        date_default_timezone_set("UTC");
+                        echo date("Y");
+                    ?>
+                </p></center>
             </div>
         </div>
     </footer>
@@ -11,9 +16,9 @@
     <!-- /.container -->
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="/js/bootstrap.min.js"></script>
+    <script src="/assets/bootstrap.min.js"></script>
 
-    <?php if ($carousel) { 
+    <?php if (isset($carousel)) {
     //Activate the carousel on the main page only ?>
 
     <!-- Script to Activate the Carousel -->
@@ -35,7 +40,5 @@
         ga('create', 'UA-66463204-1', 'auto');
         ga('send', 'pageview');
     </script>
-
 </body>
-
 </html>

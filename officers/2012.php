@@ -1,22 +1,26 @@
-<?php 
-    $title = '2012 Officers - Purdue IEEE';
+<?php
+    $page_title = '2012 Officers';
+    $site_title = 'Purdue IEEE';
+    $site_index = '/';
+    $root = true;
     include '../header.php';
 ?>
 
-    <!-- Page Heading/Breadcrumbs -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h1 class="page-header">Officers</h1>
-            <ol class="breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li><a href="/officers/">Officers</a></li>
-                <li class="active">2012 Officers</li>
-            </ol>
-        </div>
-    </div>
-    <!-- /.row -->
+    <div class="well card-1 text-dark">
 
-    <div class="well text-dark">
+        <!--- Pagination -->
+        <div class="row text-center">
+            <div class="col-lg-12">
+                <ul class="pagination">
+                    <?php
+                        $year = 2012;
+                        include 'header.php';
+                    ?>
+                </ul>
+            </div>
+        </div>
+
+        <hr />
         <!-- President -->
         <div class="row">
             <div class="col-md-3">
@@ -28,7 +32,7 @@
                 <h3>Spencer Julian</h3>
                 <h4>President</h4>
                 <p>Spencer Julian is a Senior in Computer Engineering at Purdue, entering his last semester. When he graduates, he will be working for Purdue full time, as a High Performance Computing administrator, working on some of the university's more high powered machines, such as Carter and Steele. In his spare time, he likes to watch foreign TV and play video games, and also builds small projects for fun. Spencer came to the IEEE through the IEEE Computer Society. 2 years ago, he entered the Computer Society, and he became president of it for the 2011-2012 school year. While President of the IEEE, he has already began improving the organization's outreach and social functions to the best of his ability, and has improved communication between different committees.</p>
-                <p><em>Committee Involvement</em>: <a href="/committees/csociety/">Computer Society</a></p>
+                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a></p>
             </div>
         </div>
 
@@ -44,7 +48,7 @@
                 <h3>Michael Hayashi</h3>
                 <h4>Vice President and Remotely Operated underwater Vehicle (ROV) Committee Chair</h4>
                 <p>Growing up in the Caterpillar community of Peoria, IL, Michael has known he wanted to be an electrical engineer since childhood. He is a first-generation Boilermaker who loves the opportunities Purdue has given him. While maintaining a broad interest in electrical engineering, Michael's areas of interest lie with circuit design and microelectronics. Outside of academics, he enjoys reading, jogging, and video games. Michael first became active with IEEE in Spring 2012 through his participation on the ROV Team. Now in his second year at Purdue, Michael has devoted much of his time to activities within the local IEEE student branch. As Vice President, Michael is in charge of outreaching to schools and other organizations to promote Purdue Engineering and participation within the IEEE. Currently, the ROV Team is designing a vehicle to participate in the 2013 International MATE ROV Competition.</p>
-                <p><em>Committee Involvement</em>: <a href="/committees/rov/">ROV</a></p>
+                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
 
@@ -77,7 +81,7 @@
                 <h3>Thor Smith</h3>
                 <h4>Secretary</h4>
                 <p>Thor is a Junior in Computer Engineering. In addition to his role as secretary, he is the Treasurer of IEEE Computer Society and President of PLUG (Purdue Linux Users' Group).</p>
-                <p><em>Committee Involvement</em>: <a href="/committees/csociety/">Computer Society</a></p>
+                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a></p>
             </div>
         </div>
 
@@ -108,7 +112,7 @@
                 <h3>Matt Carrell</h3>
                 <h4>Aerial Robotics Committee Chair (Spring 2013)</h4>
                 <p></p>
-                <p><em>Committee Involvement</em>: <a href="/committees/partieee/">Aerial Robotics</a></p>
+                <p><em>Committee Involvement</em>: <a href="/partieee/">Aerial Robotics</a></p>
             </div>
         </div>
 
@@ -124,7 +128,7 @@
                 <h3>Reid Fouch</h3>
                 <h4>Computer Society President (Fall 2012)</h4>
                 <p></p>
-                <p><em>Committee Involvement</em>: <a href="/committees/csociety/">Computer Society</a>, <a href="/committees/racing/">Grand Prix</a>, <a href="/committees/learning/">Learning</a>, <a href="/committees/rov/">ROV</a></p>
+                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/racing/">Grand Prix</a>, <a href="/learning/">Learning</a>, <a href="/rov/">ROV</a></p>
             </div>
         </div>
 
@@ -140,7 +144,7 @@
                 <h3>Nick Molo</h3>
                 <h4>Computer Society President (Spring 2013)</h4>
                 <p>Nick became involved in the IEEE in Fall of 2011 by joining the ROV Committee and the IEEE Computer Society. He is currently the ROV Software Team Lead and the head of the IEEE Computer Society. Nick is currently a senior and will be graduating in Spring of 2015 (if everything goes according to plan). He will be returning this spring to Intel as a Gfx Hardware Engineer until next fall.</p>
-                <p><em>Committee Involvement</em>: <a href="/committees/csociety/">Computer Society</a>, <a href="/committees/rov/">ROV</a></p>
+                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/rov/">ROV</a></p>
             </div>
         </div>
 
@@ -156,43 +160,9 @@
                 <h3>Julius Woo</h3>
                 <h4>Grand Prix Committee Chair</h4>
                 <p>Julius is a Junior in Electrical Engineering. He has worked for Nexteer Automotive as an EPS engineer and also been hired as a K'NEX Designer. He has also worked as an RF engineer for Samsung. His area of interest within electrical engineering is Power and Energy Devices and Systems. He is very interested in the automotive industry and the direction it is headed. Julius joined the Purdue IEEE Student Organization as a founder of MARS Committee with Eugene Anane-Wae and Stephen Carlson. Julius is now the chair of Racing Committee. IEEE Racing Team is focusing on developing a high power-to-weight ratio EV this year to compete at Purdue evGrandPrix and IMS GrandPrix.</p>
-                <p><em>Committee Involvement</em>: <a href="/committees/racing/">Grand Prix</a></p>
+                <p><em>Committee Involvement</em>: <a href="/racing/">Grand Prix</a></p>
             </div>
         </div>
-
-        <hr>
-        <!--- Pagination -->
-        <div class="row text-center">
-            <div class="col-lg-12">
-                <ul class="pagination">
-                    <li>
-                        <a href="2011.php">&laquo;</a>
-                    </li>
-                    <li>
-                        <a href="2011.php">2011</a>
-                    </li>
-                    <li class="active">
-                        <a href="#">2012</a>
-                    </li>
-                    <li>
-                        <a href="2013.php">2013</a>
-                    </li>
-                    <li>
-                        <a href="2014.php">2014</a>
-                    </li>
-                    <li>
-                        <a href="2015.php">2015</a>
-                    </li>
-                    <li>
-                        <a href="/officers/">2016</a>
-                    </li>
-                    <li>
-                        <a href="2013.php">&raquo;</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-
     </div>
 
 <?php include '../footer.php'; ?>
