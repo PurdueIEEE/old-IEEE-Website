@@ -1,5 +1,5 @@
 <?php
-    $page_title = 'Home';
+    $page_title = 'Join the ROV Team';
     $site_title = 'IEEE ROV';
     $site_index = '/rov';
     include '../header.php';
@@ -12,6 +12,7 @@
         <!-- Sidebar Column -->
         <div class="col-md-3">
             <div class="list-group">
+                <a href="/rov/updates/" class="list-group-item">Updates</a>
                 <a href="/rov/history/" class="list-group-item">History</a>
                 <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
