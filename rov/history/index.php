@@ -27,7 +27,7 @@
 			<h3 class="text-center">2016 - 2017: ROV <em>Cephaolpod</em></h3>
 
 			<p class="text-justify">Purdue ROV is currently preparing for the MATE International ROV Competition in Long Beach, CA from June 23 - 25! Follow the development of the latest and greatest ROV from the team by going to the <a href="/rov/updates/">updates</a> page.</p>
-			<p class="text-center"> <img src="/rov/images/ROVCephaolopodPool.jpg" alt="ROV Cephaolopod" style="width:80%"></p><br>
+			<p class="text-center"> <img src="/rov/images/ROVCephalopodPool.jpg" alt="ROV Cephaolopod" style="width:80%"></p><br>
 
 
 			<h3 class="text-center">2015 - 2016: ROV <em>Maelstrom</em></h3>
