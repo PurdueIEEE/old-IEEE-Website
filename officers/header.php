@@ -1,6 +1,6 @@
 <?php
     $range_min = 2008;
-    $range_max = 2016;
+    $range_max = 2017;
     for ($y = $range_min; $y <= $range_max; $y++) {
         if ($y == $year) {
             echo "<li class='active'>";
