@@ -160,7 +160,7 @@
             </div>
             <div class="col-md-9">
                 <h3>Apoorva Bhagwat</h3>
-                <h4>Engineering in Medicine and Biology Society (EMBS) Chair (Fall)</h4>
+                <h4>Engineering in Medicine and Biology Society (EMBS) Chair</h4>
                 <p> Need bio </p>
                 <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></p>
             </div>
@@ -209,7 +209,7 @@
             <div class="col-md-9">
                 <h3>Adrian White</h3>
                 <h4>Racing Committee Co-Chair</h4>
-                <p>John Courtney is a Senior in Mechanical Engineering. Prior to joining Purdue IEEE, he was actively involved in the Purdue EPICS (Engineering Projects in Community Service) Program. He joined Purdue IEEE in Fall 2013 where he played the role of Electrical Lead for the Racing Committee. Since Fall 2014, he has worked as Captain of the Racing Committee. John is strongly interested in motorsports and the automotive industry. His other interests include going rock climbing, travelling, and fishing.</p>
+                <p>Adrian White is a Senior in Electrical Engineering.  He joined IEEE Racing in Fall 2016 and became the co-chair in Spring 2017.  His work involves recruiting new members, contacting sponsors, and managing club resources.  In his free time, he enjoys video games, virtual reality, skateboarding, hiking, and photography/filmography.</p>
                 <p><em>Committee Involvement</em>: <a href="/racing/">Racing</a></p>
             </div>
         </div>
