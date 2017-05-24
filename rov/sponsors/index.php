@@ -106,13 +106,25 @@
 
                 <div class="row" style="margin-top: 20px">
                     <div class="col-md-4 text-center">
-                    </div>
-                    <div class="col-md-4 text-center">
                         <a href="http://www.colorsinc.com/" target="_blank"><img src="/rov/images/colorsinc.JPG" alt="Colors Inc" style="width:100%"></a>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a href="http://www.cis-ieee.org/" target="_blank"><img src="/rov/images/ieee.png" alt="CIS IEEE" style="width:80%"></a>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a href="http://www.advancedcircuits.com/" target="_blank"><img src="/rov/images/Advanced_Circuits.jpg" alt="Advanced Circuits" style="width:100%"></a>
+                    </div>
+                </div>
 
+                <div class="row" style="margin-top: 20px">
+                    <div class="col-md-4 text-center">
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a href="https://www.seemecnc.com/" target="_blank"><img src="/rov/images/seemecnc.png" alt="SeeMeCNC" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
                     </div>
+                </div>
                 </div>
             </div>
 
