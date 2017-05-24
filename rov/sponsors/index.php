@@ -16,7 +16,6 @@
                 <a href="/rov/history/" class="list-group-item">History</a>
                 <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item active">Sponsors</a>
-                <a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a>
             </div>
         </div>
 
@@ -98,6 +97,7 @@
                         <a href="http://www.digikey.com/" target="_blank"><img src="/rov/images/DigiKey.png" alt="DigiKey" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
+                        <a href="http://www.waterjetcuttingofindiana.com/" target="_blank"><img src="/rov/images/wciLogo.jpg" alt="Waterjet Cutting of Indiana" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
                         <a href="http://www.northropgrumman.com/Pages/default.aspx" target="_blank"><img src="/rov/images/northrop.png" alt="Northrop Grumman" style="width:100%"></a>
@@ -108,6 +108,8 @@
                     <div class="col-md-4 text-center">
                     </div>
                     <div class="col-md-4 text-center">
+                        <a href="http://www.colorsinc.com/" target="_blank"><img src="/rov/images/colorsinc.JPG" alt="Colors Inc" style="width:100%"></a>
+
                     </div>
                     <div class="col-md-4 text-center">
                     </div>

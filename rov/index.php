@@ -16,7 +16,6 @@
                 <a href="/rov/history/" class="list-group-item">History</a>
                 <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
-                <a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a>
             </div>
         </div>
 
@@ -25,10 +24,8 @@
             <h2 class="text-center">Remotely Operated underwater Vehicle (ROV) Team</h2>
             <br>
             <p>
-                The ROV Team is currently finishing up manufacturing and integration of key ROV components. Checkout our <b><a href=/rov/files/March2017Newsletter.pdf>March newsletter here.</a></b> We are well on our way to success in the <a href="http://www.marinetech.org/rov-competition-2/">MATE International ROV competition</a> in Long Beach, CA!
+                The ROV Team is currently preparing for the International Competition this June! More info coming soon!
             </p>
-            <p class="text-right"><em>March 2017 Update</em></p>
-
           
             <br>
 

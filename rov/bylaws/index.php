@@ -16,7 +16,6 @@
                     <a href="/rov/history/" class="list-group-item">History</a>
                     <a href="/rov/bylaws/" class="list-group-item active">Bylaws</a>
                     <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
-                    <a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a>
                 </div>
             </div>
 
