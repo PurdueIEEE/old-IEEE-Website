@@ -24,15 +24,38 @@
             <h2 class="text-center">Remotely Operated underwater Vehicle (ROV) Team</h2>
             <br>
             
-            <div class="col-md-6">
+            <div>
                 <p>
-                The ROV Team is competing in the MATE International Competition June 23-25. Read our pre-competition <a href="files/June2017Newsletter.pdf">newsletter here</a> and follow us live at <a href="https://www.marinetech.org/live-videostream">MATE's website.</a> We are proud to present our ninth ROV in Long Beach, CA, ROV <em>Cephalopod!</em> Feel free to check out <a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSkxCQ21xa051REk">our spec sheet</a>. We will release more of our documents and pictures after the competition!
-            </p>
-            </div>
+                The ROV Team finished eight overall in the 2017 MATE International Competition! We also won awards for the best technical documentation and the best product presentation! Furthermore, rising sophomore, Katherine Mao, won the Flying Fish for her mechanical designs and passion for the ROV field. Read the <a href="/rov/files/June2017PressRelease.pdf">full press release here</a>. Also view our official team documents and pictures throuhgout the season by selecting the links below. We already have plans underway for next year where we hope to claim first place in Seattle!
+            	</p>
+            	<div class="row">
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSDQ5ZkdZcnBMSUU">Season Pictures</a></p>
+					</div>
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSkxCQ21xa051REk">Spec Sheet</a></p>
+					</div>
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZjlJVXdBc0dWQUU">Tech Report</a></p>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZ0VnalJiMmJ2bEk">Team Poster</a></p>
+					</div>
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="https://www.youtube.com/watch?v=n5yur2sxvFY&feature=youtu.be">Qualifying Video</a></p>
+					</div>
+					<div class=col-md-4 text-dark">
+						<p class="text-center"><a href="/rov/files/June2017PressRelease.pdf">Press Release</a></p>
+					</div>
+				</div>	
+				<p class="text-center"><img src="/rov/images/2017_MATE_Competition_Team.jpg" alt="2017 Competition Team" style="width:100%">
+				The Purdue ROV attendees of the 2017 Competition</p>
 
-            <div class="col-md-6">
-                <img src="/rov/images/ROV_Cephalopod_isolated.png" alt="Cephalopod" style="width:80%" style="float:left" style="display:block">
-                <p class="text-center">ROV <em>Cephalopod</em> Picture</p>
+
+
             </div>
 
 
@@ -60,12 +83,14 @@
             </p>
 
             <p class="text-justify">
-                For more current and past information view the links to the left or contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>. The ROV team is currently not accepting new members (a new application will open next semester if needed). The current team members are below.
+                For more current and past information view the links to the left or contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>. The ROV team will be accepting new members at the beginning of the Fall 2017 semester. The current team members are below.
             </p>
 
 
             <h2 class="text-center">2016-2017 Team Picture</h2>
-            <p class="text-center"><img src="/rov/images/2017FinalTeamPicture.png" alt="2017 Team" style="width:100%"></p><br>
+            <a href="/rov/images/2017FinalTeamPicture.png"
+            <p class="text-center"><img src="/rov/images/2017FinalTeamPicture_small.png" alt="2017 Team" style="width:100%"></p></a>
+            <br>
             
             <p><a href="2017otherpictures.php">See individual technical team pictures here</a></p>
             <br>

@@ -23,10 +23,36 @@
 		<div class="col-md-7 text-dark col-md-offset-1">
 			<h1 class="text-center">ROV Team History</h1><br>
 
-			<h3 class="text-center">2016 - 2017: ROV <em>Cephaolpod</em></h3>
+			<h3 class="text-center">2016 - 2017: ROV <em>Cephalopod</em></h3>
+			<div class="row">
+				<div class="col-md-4 text-dark">
+					<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSDQ5ZkdZcnBMSUU">Season Pictures</a></p>
+				</div>
+				<div class="col-md-4 text-dark">
+					<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSkxCQ21xa051REk">Spec Sheet</a></p>
+				</div>
+				<div class="col-md-4 text-dark">
+					<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZjlJVXdBc0dWQUU">Tech Report</a></p>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-4 text-dark">
+					<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZ0VnalJiMmJ2bEk">Team Poster</a></p>
+				</div>
+				<div class="col-md-4 text-dark">
+					<p class="text-center"><a href="https://www.youtube.com/watch?v=n5yur2sxvFY&feature=youtu.be">Qualifying Video</a></p>
+				</div>
+				<div class=col-md-4 text-dark">
+					<p class="text-center"><a href="/rov/history/cephalopod.php">Press Release</a></p>
+				</div>
+			</div>
 
-			<p class="text-justify">Purdue ROV is currently preparing for the MATE International ROV Competition in Long Beach, CA from June 23 - 25! Follow the development of the latest and greatest ROV from the team by going to the <a href="/rov/updates/">updates</a> page.</p>
-			<p class="text-center"> <img src="/rov/images/ROVCephalopodPool.jpg" alt="ROV Cephaolopod" style="width:80%"></p><br>
+			<p class="text-justify">Purdue ROV competed in Long Beach, CA from June 23 - 25 The team continued its trend of increasing results and growing in size. The 50 member team finished in 8th place and took home first in both the technical documentation and the product presentation. Furthermore, Katherine Mao won the Flying Fish award for her technical designs and passion for the field. ROV <em>Cephalopod</em> performed well; however, a loose cable connection during the final product run prevented a shot at first place. Regardless, the team was thrilled with their success and are proud of one of their most advanced and capable vehicles to date!</p>
+			<a href="/rov/images/ROV_Cephalopod_isolated.png"><p class="text-center"> <img src="/rov/images/ROV_Cephalopod_isolated_small.png" alt="ROV Cephalopod" style="width:70%"></p><br>
+			</a>
+			<br>
+
 
 
 			<h3 class="text-center">2015 - 2016: ROV <em>Maelstrom</em></h3>
