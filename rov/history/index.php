@@ -49,7 +49,7 @@
 			</div>
 
 			<p class="text-justify">Purdue ROV competed in Long Beach, CA from June 23 - 25 The team continued its trend of increasing results and growing in size. The 50 member team finished in 8th place and took home first in both the technical documentation and the product presentation. Furthermore, Katherine Mao won the Flying Fish award for her technical designs and passion for the field. ROV <em>Cephalopod</em> performed well; however, a loose cable connection during the final product run prevented a shot at first place. Regardless, the team was thrilled with their success and are proud of one of their most advanced and capable vehicles to date!</p>
-			<a href="/rov/images/ROV_Cephalopod_isolated.png"><p class="text-center"> <img src="/rov/images/ROV_Cephalopod_isolated_small.png" alt="ROV Cephalopod" style="width:70%"></p><br>
+			<a href="/rov/images/ROV_Cephalopod_isolated.png"><p class="text-center"> <img src="/rov/images/CephalopodByPool.jpg" alt="ROV Cephalopod" style="width:70%"></p><br>
 			</a>
 			<br>
 

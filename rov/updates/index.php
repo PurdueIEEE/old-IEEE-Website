@@ -29,13 +29,13 @@
             <p><em>June 28, 2017</em></p>
              <div class="col-md-4">
                  <p class="text-justify">
-                    <img src="/rov/images/2017_MATE_Competition_Team.jpg" alt="Cephalopod" style="width:100%" style="float:left" style="display:block">
-                    <p class="text-center">The Purdue ROV attendees of the 2017 Competition</p>
+                    <img src="/rov/images/Winning_tech_report.jpg" alt="2017 Competition Team with Tech Report Award" style="width:100%" style="float:left" style="display:block">
+                    <p class="text-center">Purdue posing with the first-place tech report award</p>
                  </p>
              </div>
              <div class="col-md-8">
                 <p class="text-justify">
-                The ROV Team finished eight overall in the 2017 MATE International Competition! We also won awards for the best technical documentation and the best product presentation! Furthermore, rising sophomore, Katherine Mao, won the Flying Fish for her mechanical designs and passion for the ROV field. Read the <a href="/rov/files/June2017PressRelease.pdf">full press release here</a>. Also view our official team documents and pictures throuhgout the season by selecting the <a href="/rov/history">history tab</a>. We already have plans underway for next year where we hope to claim first place in Seattle!
+                The ROV Team finished eighth overall in the 2017 MATE International Competition! We also won awards for the best technical documentation and the best product presentation! Furthermore, rising sophomore, Katherine Mao, won the Flying Fish for her mechanical designs and passion for the ROV field. Read the <a href="/rov/files/June2017PressRelease.pdf">full press release here</a>. Also view our official team documents and pictures throughout the season by selecting the <a href="/rov/history">history tab</a>. We already have plans underway for next year where we hope to claim first place in Seattle!
                 </p><br>
             </div>
             
