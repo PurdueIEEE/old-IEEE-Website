@@ -24,6 +24,8 @@
             <h2 class="text-center">Remotely Operated underwater Vehicle (ROV) Team</h2>
             <br>
             
+            <hr>
+            <p><em>June 28, 2017 Update</em></p>
             <div>
                 <p>
                 The ROV Team finished eight overall in the 2017 MATE International Competition! We also won awards for the best technical documentation and the best product presentation! Furthermore, rising sophomore, Katherine Mao, won the Flying Fish for her mechanical designs and passion for the ROV field. Read the <a href="/rov/files/June2017PressRelease.pdf">full press release here</a>. Also view our official team documents and pictures throuhgout the season by selecting the links below. We already have plans underway for next year where we hope to claim first place in Seattle!
@@ -51,13 +53,10 @@
 						<p class="text-center"><a href="/rov/files/June2017PressRelease.pdf">Press Release</a></p>
 					</div>
 				</div>	
-				<p class="text-center"><img src="/rov/images/2017_MATE_Competition_Team.jpg" alt="2017 Competition Team" style="width:100%">
-				The Purdue ROV attendees of the 2017 Competition</p>
-
-
-
+				<p class="text-center"><img src="/rov/images/2017_MATE_Competition_Team.jpg" alt="2017 Competition Team" style="width:85%"></p>
+				<p class="text-center">The Purdue ROV attendees of the 2017 Competition</p>
             </div>
-
+            <hr>
 
 
             <br>
