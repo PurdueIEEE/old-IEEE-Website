@@ -75,7 +75,7 @@
                 <div class="col-sm-1"><p class="text-center">Tyler<br>Stagge</p></div>
             </div>
             <div>
-                <p>Not Pictured: Joshua Berg, Alex Ruffino, Teal Dowd, Dan Schillizi, Katie Mao, Jacob Cottrell, &amp; Bayley Clausen </p>
+                <p>Not Pictured: Joshua Berg, Alex Ruffino, Teal Dowd, Dan Schillizi, Katie Mao, &amp; Bayley Clausen </p>
             </div>
 
 

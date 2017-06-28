@@ -25,6 +25,23 @@
             <p>Here is a list of updates that have been posted on the ROV website! You can also find an overview about our previous seasons under the history tab to the left.</p>
             <hr>
 
+            <h3>Post-Competition Update</h3>
+            <p><em>June 28, 2017</em></p>
+             <div class="col-md-4">
+                 <p class="text-justify">
+                    <img src="/rov/images/Winning_tech_report.jpg" alt="2017 Competition Team with Tech Report Award" style="width:100%" style="float:left" style="display:block">
+                    <p class="text-center">Purdue posing with the first-place tech report award</p>
+                 </p>
+             </div>
+             <div class="col-md-8">
+                <p class="text-justify">
+                The ROV Team finished eighth overall in the 2017 MATE International Competition! We also won awards for the best technical documentation and the best product presentation! Furthermore, rising sophomore, Katherine Mao, won the Flying Fish for her mechanical designs and passion for the ROV field. Read the <a href="/rov/files/June2017PressRelease.pdf">full press release here</a>. Also view our official team documents and pictures throughout the season by selecting the <a href="/rov/history">history tab</a>. We already have plans underway for next year where we hope to claim first place in Seattle!
+                </p><br>
+            </div>
+            
+             <hr>
+
+
             <h3>Pre-Competition Update</h3>
             <p><em>June 20, 2017</em></p>
              <div class="col-md-8">
@@ -33,7 +50,7 @@
                  </p>
              </div>
              <div class="col-md-4">
-                <img src="/rov/images/ROV_Cephalopod_isolated.png" alt="Cephalopod" style="width:80%" style="float:left" style="display:block">
+                <a href="/rov/images/ROV_Cephalopod_isolated.png"><img src="/rov/images/ROV_Cephalopod_isolated_small.png" alt="Cephalopod" style="width:80%" style="float:left" style="display:block"></a>
                 <p class="text-center">ROV <em>Cephalopod</em> Picture</p>
             </div>
              <hr>
