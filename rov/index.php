@@ -53,8 +53,8 @@
 						<p class="text-center"><a href="/rov/files/June2017PressRelease.pdf">Press Release</a></p>
 					</div>
 				</div>	
-				<p class="text-center"><img src="/rov/images/2017_MATE_Competition_Team.jpg" alt="2017 Competition Team" style="width:85%"></p>
-				<p class="text-center">The Purdue ROV attendees of the 2017 Competition</p>
+				<p class="text-center"><img src="/rov/images/Winning_tech_report.jpg" alt="2017 Competition Team" style="width:85%"></p>
+				<p class="text-center">The Purdue ROV attendees posing with the first place technical documentation award</p>
             </div>
             <hr>
 
