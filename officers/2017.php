@@ -177,7 +177,7 @@
             <div class="col-md-9">
                 <h3>Zach Vander Missen</h3>
                 <h4>IEEE Microwave Theory &amp; Techniques Society (MTT-S) Chair</h4>
-                <p> Need bio </p>
+                <p>Zach Vander Missen is a second-year graduate student in electrical and computer engineering.  He first joined IEEE in Spring 2014 as a member of IEEE Computer Society.  He hopes to continue the work of building up MTT-S in the coming year.  Zach's research areas are RF and Microwave systems.  He also enjoys playing in various ensembles with Purdue Bands and Orchestras.</p>
                 <p><em>Committee Involvement</em>: Conference, <a href="/csociety/">Computer Society</a>, <a href="/committees/old_learning/">Learning</a>, <a href="/mtts/">IEEE MTT-S</a>, <a href="/partieee/">PARTIEEE</a>, <a href="/rov/">ROV</a></p>
             </div>
         </div>
