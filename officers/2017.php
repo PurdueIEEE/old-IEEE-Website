@@ -235,13 +235,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Michael_Hayashi_2016.jpg')">
+                    style="background-image: url('/images/officers/Alex_Ruffino.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
-                <h3>Michael Hayashi</h3>
+                <h3>Alexander Ruffino</h3>
                 <h4>Remotely Operated underwater Vehicle (ROV) Captain</h4>
-                <p> Michael Hayshi is the new supreme, admiral dictator of ROV for life </p>
+                <p> Alex is a Junior in Mechanical Engineering. He joined IEEE at the start of his freshman year as a mechanical member an sponsorship coordinator on the ROV team. During his sophomore year, he was the vice-captain in the fall and the mechanical lead in the spring. Outside of IEEE, he enjoys swimming, watching baseball and Purdue Basketball. His goal this year is to improve on last year's 8th place finish at the MATE International ROV Competition.</p>
                 <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
