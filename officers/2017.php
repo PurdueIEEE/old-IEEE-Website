@@ -75,13 +75,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Brandon_Stewart.jpg')">
+                    style="background-image: url()">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Jessica Chin</h3>
                 <h4>Secretary</h4>
-                <p> Need picture and bio </p>
+                <p></p>
                 <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
@@ -91,13 +91,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Yash_Nain.jpg')">
+                    style="background-image: url()">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Reshef Elisha</h3>
                 <h4>Professional Committee Head</h4>
-                <p> Need picture and bio </p>
+                <p> </p>
                 <p><em>Committee Involvement</em>: <a href="/rov">ROV</a></p>
             </div>
         </div>
@@ -129,8 +129,8 @@
             <div class="col-md-9">
                 <h3>Yash Nain</h3>
                 <h4>Social Committee Head</h4>
-                <p> Need bio </p>
-                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
+                <p></p>
+                <p><em>Committee Involvement</em>: <a href="/partieee/">PARTIEEE</a></p>
             </div>
         </div>
 
@@ -139,13 +139,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Matt.jpg')">
+                    style="background-image: url()">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Raghav Malik</h3>
                 <h4>Computer Society Chair</h4>
-                <p> Need picture and bio </p>
+                <p></p>
                 <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a></p>
             </div>
         </div>
@@ -155,13 +155,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/EMBS_Anjali_Malik.jpg')">
+                    style="background-image: url('')">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Apoorva Bhagwat</h3>
                 <h4>Engineering in Medicine and Biology Society (EMBS) Chair</h4>
-                <p> Need bio </p>
+                <p> </p>
                 <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></p>
             </div>
         </div>
@@ -178,7 +178,7 @@
                 <h3>Zach Vander Missen</h3>
                 <h4>IEEE Microwave Theory &amp; Techniques Society (MTT-S) Chair</h4>
                 <p>Zach Vander Missen is a second-year graduate student in electrical and computer engineering.  He first joined IEEE in Spring 2014 as a member of IEEE Computer Society.  He hopes to continue the work of building up MTT-S in the coming year.  Zach's research areas are RF and Microwave systems.  He also enjoys playing in various ensembles with Purdue Bands and Orchestras.</p>
-                <p><em>Committee Involvement</em>: Conference, <a href="/csociety/">Computer Society</a>, <a href="/committees/old_learning/">Learning</a>, <a href="/mtts/">IEEE MTT-S</a>, <a href="/partieee/">PARTIEEE</a>, <a href="/rov/">ROV</a></p>
+                <p><em>Committee Involvement</em>: <a href="/mtts/">IEEE MTT-S</a></p>
             </div>
         </div>
 
@@ -187,13 +187,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Michael_Malachowski.jpg')">
+                    style="background-image: url('/images/officers/Ellie_Topi.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Ellie Topi</h3>
                 <h4>Purdue Aerial Robotics Team IEEE Captain</h4>
-                <p> Need picture and bio </p>
+                <p> Ellie is a senior in Mechanical Engineering Technology. She joined Aerial Robotics in Fall 2016. She is passionate about organizing leadership and promoting interconnection of different projects. As the Captain, she aims to lead the team toward their goal of designing, building, and delivering a custom UAS to the AUVSI SUAS competition. In her spare time, she enjoys baking, crafting, and playing with aluminum.</p>
                 <p><em>Committee Involvement</em>: <a href="/partieee/">PARTIEEE</a></p>
             </div>
         </div>
