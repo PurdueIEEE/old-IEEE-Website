@@ -23,10 +23,10 @@
 <p><strong>Date:</strong> Tuesday 08/29</p>		
 <p><strong>Time:</strong> 6:30pm - 7:30pm</p>		
 <p><strong>Place:</strong> EE 129</p>		
-		
 </div>
+
 <div id="rightside" style="float:left;">
 <p><strong>Date:</strong> Thursday 08/31</p>		
 <p><strong>Time:</strong> 6:30pm - 7:30pm</p>		
 <p><strong>Place:</strong> EE 129</p>		
-		
+</div>		
