@@ -82,7 +82,7 @@
             </p>
 
             <p class="text-justify">
-                For more current and past information view the links to the left or contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>. The ROV team will be accepting new members at the beginning of the Fall 2017 semester. The current team members are below.
+                For more current and past information view the links to the left or contact <a href="mailto:rov@purdueieee.org">Alexander Ruffino</a>. The ROV team will be accepting new members at the beginning of the Fall 2017 semester. The current team members are below.
             </p>
 
 
