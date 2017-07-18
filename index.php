@@ -78,7 +78,7 @@
     </div>
 
 	<!-- Upcoming Event List -->
-	<!---<br>
+	<br>
   <div class="well card-1 text-dark">
          <div class="row">
              <div class="col-md-12">
@@ -95,7 +95,7 @@
                  </div>
              </div>
          </div>
-     </div> -->
+     </div>
 
 
     <!-- Committeee List -->
