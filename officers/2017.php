@@ -107,14 +107,14 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Sophia_Duan.jpg')">
+                    style="background-image: url()">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Justin Joco</h3>
                 <h4>Learning Committee Head</h4>
-                <p> Need picture and bio </p>
-                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
+                <p></p>
+                <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></p>
             </div>
         </div>
 
