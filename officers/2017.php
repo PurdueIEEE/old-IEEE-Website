@@ -107,13 +107,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url()">
+                    style="background-image: url('/images/officers/Justin_Joco.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Justin Joco</h3>
                 <h4>Learning Committee Head</h4>
-                <p></p>
+                <p>Justin is a senior in Electrical Engineering. He joined IEEE EMBS's exec team in Spring 2016 and helped it grow into one of Purdue IEEE's bigger technical committees. Due to previous Learning committees, he has gained technical skills that are valuable in school and industry. As Learning Head, he aims to give back to IEEE and the community through technical/professional workshops and faculty outreach. In his spare time, he enjoys practicing card magic, playing guitar, gaming, and working out.</p>
                 <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></p>
             </div>
         </div>
@@ -155,13 +155,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('')">
+                    style="background-image: url('/images/officers/Apoorva_Bhagwat.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Apoorva Bhagwat</h3>
                 <h4>Engineering in Medicine and Biology Society (EMBS) Chair</h4>
-                <p> </p>
+                <p>Apoorva Bhagwat is a Junior in Biomedical Engineering. She was one of the first members of EMBS when it formed in 2016. She was the Project Lead for their EEG Project and managed the Carbon (Biology) and Silicon (Electrical) teams. She became the Vice Chair of EMBS during the Spring 2016 semester and is now the Chair of EMBS. As Chair, she hopes to involve more members in the ongoing projects and aims to enter the projects into competitions by the end of the year. In her spare time, she enjoys dancing, reading, and music.</p>
                 <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></p>
             </div>
         </div>
@@ -178,7 +178,7 @@
                 <h3>Zach Vander Missen</h3>
                 <h4>IEEE Microwave Theory &amp; Techniques Society (MTT-S) Chair</h4>
                 <p>Zach Vander Missen is a second-year graduate student in electrical and computer engineering.  He first joined IEEE in Spring 2014 as a member of IEEE Computer Society.  He hopes to continue the work of building up MTT-S in the coming year.  Zach's research areas are RF and Microwave systems.  He also enjoys playing in various ensembles with Purdue Bands and Orchestras.</p>
-                <p><em>Committee Involvement</em>: <a href="/mtts/">IEEE MTT-S</a></p>
+                <p><em>Committee Involvement</em>: <a href="/mtts/">MTT-S</a></p>
             </div>
         </div>
 
