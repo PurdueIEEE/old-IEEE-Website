@@ -75,13 +75,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url()">
+                    style="background-image: url('/images/officers/Jessica_Chin.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Jessica Chin</h3>
                 <h4>Secretary</h4>
-                <p></p>
+                <p>Jessica Chin is a sophomore majoring in electrical engineering. Since high school, Jessica has been involved with her FIRST robotics team and has always wanted to build an underwater robot. She decided to join Purdue IEEE in Fall 2016 as part of the ROV Committee. In ROV, Jessica is on the electrical team, where she works on the power and movement aspects of the ROV. In her spare time, Jessica enjoys playing tennis</p>
                 <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
