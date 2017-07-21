@@ -91,13 +91,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url()">
+                    style="background-image: url('/images/officers/Reshef_Elisha.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Reshef Elisha</h3>
                 <h4>Professional Committee Head</h4>
-                <p> </p>
+                <p>Reshef is a senior at Purdue studying electrical engineering with a focus on control theory and signal processing. He has been a member of the IEEE since his freshman year and a member of the Purdue IEEE Chapter since his transfer into Purdue in his Junior year. Reshef is the Professional Chair of the Purdue IEEE Chapter and oversees activities relating to the professional development of the chapter's members. Outside of classes, he is involved in a number of aerospace activities as well as dance clubs.</p>
                 <p><em>Committee Involvement</em>: <a href="/rov">ROV</a></p>
             </div>
         </div>
