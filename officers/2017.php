@@ -129,7 +129,7 @@
             <div class="col-md-9">
                 <h3>Yash Nain</h3>
                 <h4>Social Committee Head</h4>
-                <p></p>
+                <p>Yash is a senior in Multidisciplinary Engineering. He joined IEEE in the fall of 2014 to work on the Aerial Robotics committee. He hopes to combine his engineering knowledge with a business background. As social chair, he hopes to create an opportunity for any student to join and feel welcome in IEEE, and have the opportunity to meet new people and provide them with several engaging activities to participate in. In his free time, he is a movie buff and enjoys cooking, playing and watching sports, and playing video games.</p>
                 <p><em>Committee Involvement</em>: <a href="/partieee/">PARTIEEE</a></p>
             </div>
         </div>
@@ -139,13 +139,13 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url()">
+                    style="background-image: url('/images/officers/Raghav_Malik.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
                 <h3>Raghav Malik</h3>
                 <h4>Computer Society Chair</h4>
-                <p></p>
+                <p>Raghav Malik is a sophomore in Computer Engineering, He joined IEEE in Fall 2016 as part of Computer Society. He was the learning delegate for C Society in Spring 2017 and  will be the C Society chair for Fall 2017. As chair, he hopes to get Computer Society involved with more long-term projects to increase membership, and hopes to work with the Learning Committee to expand Code Café this year. In his free time, Raghav enjoys reading papers, listening to music, playing card games, and programming.</p>
                 <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a></p>
             </div>
         </div>
