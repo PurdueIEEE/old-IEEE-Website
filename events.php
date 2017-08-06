@@ -15,7 +15,9 @@
 
 <h1 style="margin-top: 0">B-Involved Fair</h1>
 <p>IEEE will have a table at the B-Involved Fair. Please stop by to learn about all the great opportunities IEEE has to offer.</p>		
-<p><strong>Date:</strong> Saturday 08/19</p>		
+<p><strong>Date:</strong> Saturday 08/19</p> 
+<strong>Time:</strong> 2:00pm - 5:00pm</p>		
+<p><strong>Place:</strong> CoRec</p>		
 		
 <h1 style="margin-top: 0">Callout</h1>
 <p>We will go over the different technical committees that make up IEEE. There will be free food and drinks provided.</p>		
