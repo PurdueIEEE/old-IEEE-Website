@@ -35,7 +35,7 @@
                     <!--Apoorva Bhagwat-->
                     <div class= "col-md-4">
                         <img src="./images/apoorva.jpg" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
-                        <h4>Apoorva Bhagwat</h4>
+                        <h4>Apoorva Bhagwat </h4>
                         <p>Chair<br />Biomedical Engineering with Certificate in Entrepreneurship<br />Junior</p>
                     </div>
                     <!--Eugene Kim-->
@@ -62,7 +62,7 @@
                     <!--Dana Moryl-->
                     <div class= "col-md-4">
                         <img src="./images/white.jpg" alt= "Justin Joco" class="img-circle" width=250px height=250px />
-                        <h4>Justin Joco</h4>
+                        <h4>Dana Moryl</h4>
                         <p>Faculty Liaison<br />Biomedical Engineering<br />Junior</p>
                     </div>
                     <!--Barnabas Obeng-Gyasi-->
@@ -71,20 +71,6 @@
                         <h4>Barnabas Obeng-Gyasi</h4>
                         <p>Industry Liaison<br /> <br /> </p>
                     </div>
-                <div class="row">
-                    <!--Anjali-->
-                    <div class= "col-md-4">
-                        <img src="../images/officers/EMBS_Anjali_Malik.jpg" alt= "Anjali Malik" class="img-circle" width=250px height=250px />
-                        <h4>Anjali Malik</h4>
-                        <p>Technical Advisor<br />Biomedical Engineering<br />Senior</p>
-                    </div>
-                    <!--Aditya-->
-                    <div class= "col-md-4">
-                        <img src="../images/officers/Aditya.jpg" alt= "Aditya Vaidyam" class="img-circle" width=250px height=250px />
-                        <h4>Aditya Vaidyam</h4>
-                        <p>Technical Advisor<br />Neurobiology and Physiology, and Computer Science<br />Senior</p>
-                    </div>
-                </div>
                 </div>
                 <br /><br />
             </div>
