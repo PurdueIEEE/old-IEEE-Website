@@ -25,7 +25,7 @@
 
             <div class="row">
                 <div class="col-md-4 text-center">
-                    <a href="http://purdueesc.org/" target="_blank"><img src="/rov/images/PESC.png" alt="PESC" style="width:100%"></a>
+                    <a href="http://www.bechtel.com/" target="_blank"><img src="/racing/images/Bechtel.png" alt="Bechtel" style="width:100%"></a>
                 </div>
 
                 <div class="col-md-4 text-center">
