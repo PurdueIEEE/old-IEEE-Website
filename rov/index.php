@@ -23,7 +23,7 @@
         <div class="col-md-7 text-dark col-md-offset-1">
             <h2 class="text-center">Remotely Operated underwater Vehicle (ROV) Team</h2>
             <br>
-            
+
             <hr>
             <p><em>June 28, 2017 Update</em></p>
             <div>
@@ -41,7 +41,7 @@
 						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZjlJVXdBc0dWQUU">Tech Report</a></p>
 					</div>
 				</div>
-				
+
 				<div class="row">
 					<div class="col-md-4 text-dark">
 						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZ0VnalJiMmJ2bEk">Team Poster</a></p>
@@ -52,7 +52,7 @@
 					<div class=col-md-4 text-dark">
 						<p class="text-center"><a href="/rov/files/June2017PressRelease.pdf">Press Release</a></p>
 					</div>
-				</div>	
+				</div>
 				<p class="text-center"><img src="/rov/images/Winning_tech_report.jpg" alt="2017 Competition Team with Tech Report Award" style="width:85%"></p>
 				<p class="text-center">The Purdue ROV attendees posing with the first-place technical documentation award</p>
             </div>
@@ -63,8 +63,8 @@
 
             <h2 class="text-center">About The ROV Team</h2>
             <div class="col-md-6">
-                <img src="/rov/images/Cephalopod_Render.jpg" alt="Maelstrom" style="width:100%" style="float:left" style="display:block">
-                <p class="text-center">ROV <em>Cephalopod</em> Render</p>
+                <img src="/rov/images/CephalopodByPool.jpg" alt="Maelstrom" style="width:100%" style="float:left" style="display:block">
+                <p class="text-center">ROV <em>Cephalopod</em> </p>
             </div>
 
             <div class="col-md-6">
@@ -90,7 +90,7 @@
             <a href="/rov/images/2017FinalTeamPicture.png"
             <p class="text-center"><img src="/rov/images/2017FinalTeamPicture_small.png" alt="2017 Team" style="width:100%"></p></a>
             <br>
-            
+
             <p><a href="2017otherpictures.php">See individual technical team pictures here</a></p>
             <br>
 

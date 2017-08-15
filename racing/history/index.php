@@ -35,6 +35,10 @@ include '../../header.php';
             </p>
             <br>
 
+		            <a href="/racing/images/GoKart2.jpg"
+		            <p class="text-center"><img src="/racing/images/GoKart2.jpg" alt="2016 Team"
+		                                        style="width:100%"></p></a>
+            <br>
 
         </div>
 
