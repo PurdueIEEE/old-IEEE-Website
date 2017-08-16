@@ -17,7 +17,7 @@
     <script type="text/javascript">
       /* set playback rate for bg video */
       document.getElementById("bg-vid").playbackRate = .7;
-       
+
     </script>
         <div class="row well nopad">
         <div class="col-lg-12 nopad">
@@ -79,7 +79,7 @@
 	</div>
     </div>
        <div class="well card-1 text-light">
-	 
+
             <div class="row text-center">
                 <h1 id="mission">Mission</h1>
                 <hr />
@@ -92,69 +92,74 @@
                 <h1 id="officers">Officers</h1>
                 <hr />
                 <div class="row">
-                    <!--Michael-->
+                    <!--Ellie-->
                     <div class= "col-md-4">
-                        <img src="../images/officers/Michael_Malachowski.jpg" alt= "Michael Malachowski" class="img-circle" width=250px height=250px />
-                        <h4>Michael Malachowski</h4>
-                        <p>Chair<br />Electrical Engineering<br />Senior</p>
+                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <h4>Ellie Topi</h4>
+                        <p>Captain<br /><br /></p>
                     </div>
-                    <!--Jon Paul Pepen-->
+                    <!--Anthony-->
                     <div class= "col-md-4">
-                        <img src="./images/jon-paul-pepen.jpg" alt= "Jon Paul Pepen" class="img-circle" width=250px height=250px />
-                        <h4>Jon Paul Pepen</h4>
-                        <p>First Officer<br />Aeronautics and Astronautics Engineering<br />Senior</p>
+                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <h4>Anthony Goeckner</h4>
+                        <p>Vice Captain<br /><br /></p>
                     </div>
-                    <!--Ajay-->
+                    <!--Erik-->
                     <div class= "col-md-4">
-                        <img src="./images/ajay-kumar.jpg" alt= "Ajay Kumar" class="img-circle" width=250px height=250px />
-                        <h4>Ajay Kumar</h4>
-                        <p>Secretary<br />Mechanical Engineering<br />Senior</p>
+                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <h4>Erik Vanderwerf</h4>
+                        <p>Vice Captain<br /> <br /></p>
                     </div>
                 </div>
                 <br />
                 <div class="row">
-                    <!--Joey-->
+                    <!--Mark -->
                     <div class= "col-md-4">
-                        <img src="" alt= "Joey Williamson" class="img-circle" width=250px height=250px />
-                        <h4>Joey Williamson</h4>
-                        <p>Aeromech Team Lead<br />Aeronautics and Astronautics Engineering<br />Sophomore</p>
+                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <h4>Mark Benati </h4>
+                        <p>Software Lead<br /><br /></p>
                     </div>
                     <!--Patrick-->
                     <div class= "col-md-4">
-                        <img src="" alt= "Patrick May" class="img-circle" width=250px height=250px />
+                        <img src="" alt= "" class="img-circle" width=250px height=250px />
                         <h4>Patrick May</h4>
-                        <p>Electrical Team Lead<br />Electrical Engineering<br />Junior</p>
+                        <p>Electrical Lead<br /><br /></p>
                     </div>
-                    <!--Ellie-->
+                    <!--Landon-->
                     <div class= "col-md-4">
-                        <img src="./images/ellie-topi.jpg" alt= "Ellie Topi" class="img-circle" width=250px height=250px />
-                        <h4>Ellie Topi</h4>
-                        <p>Lab Manager<br />Mechanical Engineering Technology<br />Junior</p>
+                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <h4>Landon Grunt</h4>
+                        <p>AeroMechanical Lead<br /><br /></p>
                     </div>
                 </div>
                     <br />
                 <div class="row">
-                    <!--Robert-->
+                    <!--George Xu-->
                     <div class= "col-md-4">
-                        <img src="./images/robert-mcintyre.jpg" alt= "Robert McIntyre" class="img-circle" width=250px height=250px />
-                        <h4>Robert McIntyre</h4>
-                        <p>Aeromech Manufacturing Lead<br />Mechanical Engineering<br />Sophomore</p>
+                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <h4>George Xu</h4>
+                        <p>AeroMechanical Technical Head<br /><br /></p>
                     </div>
-                    <!--Yash-->
+                    <!---->
                     <div class= "col-md-4">
-                        <img src="../images/officers/Yash_Nain.jpg" alt= "Yash Nain" class="img-circle" width=250px height=250px />
-                        <h4>Yash Nain</h4>
-                        <p>Sponsorship and Relations Coordinator<br />Multidisciplinary Engineering<br />Junior</p>
+                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <h4>Robert McIntyre</h4>
+                        <p>AeroMechanical Manufacturing Head<br /><br /></p>
+                    </div>
+                    <div class= "col-md-4">
+					    <img src="" alt= "" class="img-circle" width=250px height=250px />
+					    <h4>Milan Bidare</h4>
+					    <p>Sponsorship Lead<br /><br /></p>
                     </div>
                 </div>
-                
+
             </div>
         </div>
         <div class="well card-1 text-light">
             <div class="row text-center">
                 <h1 id="events">Project Updates</h1>
                 <hr />
-               
+
                 <br /><br />
             </div>
         </div>
