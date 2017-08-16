@@ -107,7 +107,7 @@
                     <!--Erik-->
                     <div class= "col-md-4">
                         <img src="" alt= "" class="img-circle" width=250px height=250px />
-                        <h4>Erik Vanderwerf</h4>
+                        <h4>Erik VanderWerf</h4>
                         <p>Vice Captain<br /> <br /></p>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
                     <!--Landon-->
                     <div class= "col-md-4">
                         <img src="" alt= "" class="img-circle" width=250px height=250px />
-                        <h4>Landon Grunt</h4>
+                        <h4>Landon Glunt</h4>
                         <p>AeroMechanical Lead<br /><br /></p>
                     </div>
                 </div>
