@@ -1,8 +1,8 @@
 <?php
-$page_title = 'Sponsors';
-$site_title = 'IEEE MTT-S';
-$site_index = '/mtts';
-include '../../header.php';
+    $page_title = 'Sponsors';
+    $site_title = 'IEEE MTT-S';
+    $site_index = '/mtts';
+    include '../../header.php';
 ?>
 
 <!-- Content Row -->
@@ -12,8 +12,10 @@ include '../../header.php';
         <!-- Sidebar Column -->
         <div class="col-md-3">
             <div class="list-group">
-                <a href="/mtts/" class="list-group-item active">Main Page</a>
+                <a href="/mtts/" class="list-group-item">Main Page</a>
                 <a href="/mtts/bylaws/" class="list-group-item">Bylaws</a>
+				<a href="/mtts/projects/" class="list-group-item">Project History</a>
+                <a href="/mtts/sponsors/" class="list-group-item active">Sponsors</a>
             </div>
         </div>
 
@@ -30,22 +32,24 @@ include '../../header.php';
             <h2 class="text-center">Microwave-energy Partners</h2>
             <div class="row">
                 <div class="col-md-4 text-center">
+                </div>
+                <div class="col-md-4 text-center">
                     <a href="http://www.northropgrumman.com/Pages/default.aspx" target="_blank"><img src="/rov/images/northrop.png" alt="Northrop Grumman" style="width:100%"></a>
+                </div>
+                <div class="col-md-4 text-center">
                 </div>
             </div>
 
 
             <h2 class="text-center">Radio-energy Partners</h2>
-            <div class="col-md-4 text-center">
-                <a href="https://www.bechtel.com/" target="_blank"><img src="/rov/images/Bechtel.png" alt="Bechtel" style="width:100%"></a>
-            </div>
-
-            <div class="row" style="margin-top: 20px">
+            <div class="row">
                 <div class="col-md-4 text-center">
+                    <a href="https://www.bechtel.com/" target="_blank"><img src="/rov/images/Bechtel.png" alt="Bechtel" style="width:100%"></a>
                 </div>
                 <div class="col-md-4 text-center">
                 </div>
                 <div class="col-md-4 text-center">
+                    <a href="http://www.lafayetteelectronicsupply.com/" target="_blank"><img src="/mtts/images/lafayette_electronic_supply.jpg" alt="Lafayette Electronic Supply" style="width:100%"></a>
                 </div>
             </div>
 

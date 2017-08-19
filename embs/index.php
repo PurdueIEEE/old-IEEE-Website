@@ -32,59 +32,45 @@
                 <h1 id="officers">Officers</h1>
                 <hr />
                 <div class="row">
-                    <!--Hayley-->
-                    <div class= "col-md-4">
-                        <img src="./images/hayley.png" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
-                        <h4>Hayley Chan</h4>
-                        <p>Chair<br />Biology<br />Senior</p>
-                    </div>
-                    <!--Apoorva-->
+                    <!--Apoorva Bhagwat-->
                     <div class= "col-md-4">
                         <img src="./images/apoorva.jpg" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
-                        <h4>Apoorva Bhwagwat</h4>
-                        <p>Vice Chair<br />Biomedical Engineering<br />Sophmore</p>
+                        <h4>Apoorva Bhagwat </h4>
+                        <p>Chair<br />Biomedical Engineering with Certificate in Entrepreneurship<br />Junior</p>
                     </div>
-                    <!--Boghos-->
+                    <!--Eugene Kim-->
                     <div class= "col-md-4">
-                        <img src="./images/boghos.jpg" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
-                        <h4>Boghos Taslakjian</h4>
-                        <p>Secretary<br />Medical Laboratory Sciences<br />Sophmore</p>
+                        <img src="./images/white.jpg" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
+                        <h4>Eugene Kim</h4>
+                        <p>Vice Chair<br />Biomedical Engineering<br />Junior</p>
+                    </div>
+                    <!--Kunal Sinha-->
+                    <div class= "col-md-4">
+                        <img src="./images/kunal.jpg" alt= "Hayley Chan" class="img-circle" width=250px height=250px />
+                        <h4>Kunal Sinha</h4>
+                        <p>Secretary<br />Computer Science<br />Sophmore</p>
                     </div>
                 </div>
                 <br />
                 <div class="row">
-                    <!--Cooper-->
+                    <!--Cyril Manjooran-->
                     <div class= "col-md-4">
-                        <img src="./images/cooper.jpg" alt= "Cooper Pratt" class="img-circle" width=250px height=250px />
-                        <h4>Cooper Pratt</h4>
-                        <p>Student Liaison<br />Chemical Engineering<br />Sophomore</p>
+                        <img src="./images/white.jpg" alt= "Cooper Pratt" class="img-circle" width=250px height=250px />
+                        <h4>Cyril Manjooran</h4>
+                        <p>Student Liaison<br />Industrial Engineering<br /></p>
                     </div>
-                    <!--Justin-->
+                    <!--Dana Moryl-->
                     <div class= "col-md-4">
-                        <img src="./images/justin.jpg" alt= "Justin Joco" class="img-circle" width=250px height=250px />
-                        <h4>Justin Joco</h4>
-                        <p>Faculty Liaison<br />Electrical Engineering<br />Sophomore</p>
+                        <img src="./images/white.jpg" alt= "Justin Joco" class="img-circle" width=250px height=250px />
+                        <h4>Dana Moryl</h4>
+                        <p>Faculty Liaison<br />Biomedical Engineering<br />Junior</p>
                     </div>
-                    <!--Justin-->
+                    <!--Barnabas Obeng-Gyasi-->
                     <div class= "col-md-4">
-                        <img src="./images/celine.jpg" alt= "Celine Chang" class="img-circle" width=250px height=250px />
-                        <h4>Celine Chang</h4>
-                        <p>Industry Liaison<br />Biological Engineering<br />Sophomore</p>
+                        <img src="./images/white.jpg" alt= "Celine Chang" class="img-circle" width=250px height=250px />
+                        <h4>Barnabas Obeng-Gyasi</h4>
+                        <p>Industry Liaison<br /> <br /> </p>
                     </div>
-                <div class="row">
-                    <!--Anjali-->
-                    <div class= "col-md-4">
-                        <img src="../images/officers/EMBS_Anjali_Malik.jpg" alt= "Anjali Malik" class="img-circle" width=250px height=250px />
-                        <h4>Anjali Malik</h4>
-                        <p>Technical Advisor<br />Biomedical Engineering<br />Senior</p>
-                    </div>
-                    <!--Aditya-->
-                    <div class= "col-md-4">
-                        <img src="../images/officers/Aditya.jpg" alt= "Aditya Vaidyam" class="img-circle" width=250px height=250px />
-                        <h4>Aditya Vaidyam</h4>
-                        <p>Technical Advisor<br />Neurobiology and Physiology, and Computer Science<br />Senior</p>
-                    </div>
-                </div>
                 </div>
                 <br /><br />
             </div>

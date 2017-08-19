@@ -16,7 +16,6 @@
                 <a href="/rov/history/" class="list-group-item">History</a>
                 <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item active">Sponsors</a>
-                <a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a>
             </div>
         </div>
 
@@ -24,7 +23,7 @@
         <div class="col-md-7 text-dark col-md-offset-1">
         <h1 class="text-center">Sponsors</h1>
             <p>Without the help of our generous sponsors, the ROV team would be unable to compete. We are very thankful for their support. </p>
-            <p>If you are interested in supporting the team at various levels please contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>.
+            <p>If you are interested in supporting the team at various levels please contact <a href="mailto:rov@purdueieee.org">Alexander Ruffino</a>.
             Also feel free to check out our <a href="2015.php">2015 - 2016 sponsors page</a></p><br>
 
             <h2 class="text-center">Platinum Partner</h2>
@@ -98,6 +97,7 @@
                         <a href="http://www.digikey.com/" target="_blank"><img src="/rov/images/DigiKey.png" alt="DigiKey" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
+                        <a href="http://www.waterjetcuttingofindiana.com/" target="_blank"><img src="/rov/images/wciLogo.jpg" alt="Waterjet Cutting of Indiana" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
                         <a href="http://www.northropgrumman.com/Pages/default.aspx" target="_blank"><img src="/rov/images/northrop.png" alt="Northrop Grumman" style="width:100%"></a>
@@ -106,11 +106,25 @@
 
                 <div class="row" style="margin-top: 20px">
                     <div class="col-md-4 text-center">
+                        <a href="http://www.colorsinc.com/" target="_blank"><img src="/rov/images/colorsinc.JPG" alt="Colors Inc" style="width:100%"></a>
                     </div>
+                    <div class="col-md-4 text-center">
+                        <a href="http://www.cis-ieee.org/" target="_blank"><img src="/rov/images/ieee.png" alt="CIS IEEE" style="width:80%"></a>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a href="http://www.advancedcircuits.com/" target="_blank"><img src="/rov/images/Advanced_Circuits.jpg" alt="Advanced Circuits" style="width:100%"></a>
+                    </div>
+                </div>
+
+                <div class="row" style="margin-top: 20px">
                     <div class="col-md-4 text-center">
                     </div>
                     <div class="col-md-4 text-center">
+                        <a href="https://www.seemecnc.com/" target="_blank"><img src="/rov/images/seemecnc.png" alt="SeeMeCNC" style="width:100%"></a>
                     </div>
+                    <div class="col-md-4 text-center">
+                    </div>
+                </div>
                 </div>
             </div>
 

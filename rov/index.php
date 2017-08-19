@@ -16,7 +16,6 @@
                 <a href="/rov/history/" class="list-group-item">History</a>
                 <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
-                <a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a>
             </div>
         </div>
 
@@ -24,18 +23,48 @@
         <div class="col-md-7 text-dark col-md-offset-1">
             <h2 class="text-center">Remotely Operated underwater Vehicle (ROV) Team</h2>
             <br>
-            <p>
-                The ROV Team is currently finishing up manufacturing and integration of key ROV components. Checkout our <b><a href=/rov/files/March2017Newsletter.pdf>March newsletter here.</a></b> We are well on our way to success in the <a href="http://www.marinetech.org/rov-competition-2/">MATE International ROV competition</a> in Long Beach, CA!
-            </p>
-            <p class="text-right"><em>March 2017 Update</em></p>
 
-          
+            <hr>
+            <p><em>June 28, 2017 Update</em></p>
+            <div>
+                <p>
+                The ROV Team finished eight overall in the 2017 MATE International Competition! We also won awards for the best technical documentation and the best product presentation! Furthermore, rising sophomore, Katherine Mao, won the Flying Fish for her mechanical designs and passion for the ROV field. Read the <a href="/rov/files/June2017PressRelease.pdf">full press release here</a>. Also view our official team documents and pictures throughout the season by selecting the links below. We already have plans underway for next year where we hope to claim first place in Seattle!
+            	</p>
+            	<div class="row">
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSDQ5ZkdZcnBMSUU">Season Pictures</a></p>
+					</div>
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSkxCQ21xa051REk">Spec Sheet</a></p>
+					</div>
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZjlJVXdBc0dWQUU">Tech Report</a></p>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZ0VnalJiMmJ2bEk">Team Poster</a></p>
+					</div>
+					<div class="col-md-4 text-dark">
+						<p class="text-center"><a href="https://www.youtube.com/watch?v=n5yur2sxvFY&feature=youtu.be">Qualifying Video</a></p>
+					</div>
+					<div class=col-md-4 text-dark">
+						<p class="text-center"><a href="/rov/files/June2017PressRelease.pdf">Press Release</a></p>
+					</div>
+				</div>
+				<p class="text-center"><img src="/rov/images/Winning_tech_report.jpg" alt="2017 Competition Team with Tech Report Award" style="width:85%"></p>
+				<p class="text-center">The Purdue ROV attendees posing with the first-place technical documentation award</p>
+            </div>
+            <hr>
+
+
             <br>
 
             <h2 class="text-center">About The ROV Team</h2>
             <div class="col-md-6">
-                <img src="/rov/images/ROVMaelstrom.jpg" alt="Maelstrom" style="width:100%" style="float:left" style="display:block">
-                <p class="text-center">2015-2016 ROV <em>Maelstrom</em></p>
+                <img src="/rov/images/CephalopodByPool.jpg" alt="Maelstrom" style="width:100%" style="float:left" style="display:block">
+                <p class="text-center">ROV <em>Cephalopod</em> </p>
             </div>
 
             <div class="col-md-6">
@@ -53,104 +82,17 @@
             </p>
 
             <p class="text-justify">
-                For more current and past information view the links to the left or contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>. The ROV team is currently not accepting new members (a new application will open next semester if needed). The current team members are below.
+                For more current and past information view the links to the left or contact <a href="mailto:rov@purdueieee.org">Alexander Ruffino</a>. The ROV team will be accepting new members at the beginning of the Fall 2017 semester. The current team members are below.
             </p>
 
 
-            <h2 class="text-center">2016-2017 Team Pictures</h2>
-            <h3 class="text-center">Full Team Picture</h3>
-            <p class="text-center"><img src="/rov/images/team_fall_2016.jpg" alt="Full Team" style="width:100%"></p><br>
-
-            <h3 class="text-center">Electrical Team</h3>
-            <p class="text-center"><img src="/rov/images/electrical_team_spring_2017.jpg" alt="Electrical Team" style="width:100%"></p><br>
-
-
-            <div class="row">
-                <div class="col-sm-2"><p class="text-center">Rodolfo<br>Leiva</p></div>
-                <div class="col-sm-1"><p class="text-center">Alan<br>Han</p></div>
-                <div class="col-sm-2"><p class="text-center">Nick<br>Loffredo</p></div>
-                <div class="col-sm-2"><p class="text-center">Jason<br>King</p></div>
-                <div class="col-sm-2"><p class="text-center">Ryan<br>McBee</p></div>
-                <div class="col-sm-1"><p class="text-center">James<br>Scholl</p></div>
-                <div class="col-sm-2"><p class="text-center">Luke<br>McBee</p></div>
-            </div>
-            <br>
-            <div class="row">
-                <div class="col-sm-1"><p class="text-center"><br></p></div>
-                <div class="col-sm-1"><p class="text-center"><br></p></div>
-                <div class="col-sm-2"><p class="text-center">Jessica<br>Chin</p></div>
-                <div class="col-sm-2"><p class="text-center">Carolyn<br>Lewelling</p></div>
-                <div class="col-sm-2"><p class="text-center">David<br>Bustamante</p></div>
-                <div class="col-sm-2"><p class="text-center">Sreyas<br>Mirthipati</p></div>
-                <div class="col-sm-2"><p class="text-center"><br></p></div>
-            </div>
-            <div>
-                <p>Not Pictured: Samuel Deghuee, Kyla Hayes, David Bustamante, John Brankamp, Nick Loffredo, Richard Shen, Romita Biswas, &amp; Xi Wu</p>
-            </div>
-
-
-            <h3 class="text-center">Mechanical Team</h3>
-            <p class="text-center"><img src="/rov/images/mechanical_team_spring_2017.jpg" alt="Mechanical Team" style="width:100%"></p><br>
-            <div class="row">
-                <div class="col-sm-2"><p class="text-center">Amandeep<br>Singh</p></div>
-                <div class="col-sm-2"><p class="text-center">Rohit<br>Srivastava</p></div>
-                <div class="col-sm-2"><p class="text-center">Alex<br>Gebhardt</p></div>
-                <div class="col-sm-1"><p class="text-center">Joe<br>Pejril</p></div>
-                <div class="col-sm-2"><p class="text-center">Jacob<br>Cottrell</p></div>
-                <div class="col-sm-2"><p class="text-center">Jonathan<br>Kline</p></div>
-                <div class="col-sm-1"><p class="text-center">Reed<br>Trende</p></div>
-            </div>
+            <h2 class="text-center">2016-2017 Team Picture</h2>
+            <a href="/rov/images/2017FinalTeamPicture.png"
+            <p class="text-center"><img src="/rov/images/2017FinalTeamPicture_small.png" alt="2017 Team" style="width:100%"></p></a>
             <br>
 
-            <div class="row">
-                <div class="col-sm-2"><p class="text-center">Seth<br>Emond</p></div>
-                <div class="col-sm-2"><p class="text-center">Enlee<br>Choo</p></div>
-                <div class="col-sm-2"><p class="text-center">Monica<br>Mah</p></div>
-                <div class="col-sm-1"><p class="text-center">Logan<br>Walters</p></div>
-                <div class="col-sm-2"><p class="text-center">Ben<br>Hutchins</p></div>
-                <div class="col-sm-2"><p class="text-center"><br></p></div>
-                <div class="col-sm-1"><p class="text-center">Tyler<br>Stagge</p></div>
-            </div>
-            <div>
-                <p>Not Pictured: Joshua Berg, Alex Ruffino, Teal Dowd, Dan Schillizi, Katie Mao, Jacob Cottrell, &amp; Bayley Clausen </p>
-            </div>
-
-
-            <h3 class="text-center">Software Team</h3>
-            <p class="text-center"><img src="/rov/images/software_team_spring_2017.jpg" alt="Software Team" style="width:100%"></p><br>
-            <div class="row">
-                <div class="col-sm-2"><p class="text-center">Andrew<br>Bostock</p></div>
-                <div class="col-sm-2"><p class="text-center">Kartik<br>Yadav</p></div>
-                <div class="col-sm-2"><p class="text-center">Brandon<br>Stewart</p></div>
-                <div class="col-sm-2"><p class="text-center">Samuale<br>Yigrem</p></div>
-                <div class="col-sm-2"><p class="text-center">Ian<br>Sibley</p></div>
-                <div class="col-sm-2"><p class="text-center">Zidaan<br>Dutta</p></div>
-            </div>
+            <p><a href="2017otherpictures.php">See individual technical team pictures here</a></p>
             <br>
-
-            <div class="row">
-                <div class="col-sm-2"><p class="text-center"><br></p></div>
-                <div class="col-sm-2"><p class="text-center">Yuqin<br>Duan</p></div>
-                <div class="col-sm-2"><p class="text-center"><br></p></div>
-                <div class="col-sm-2"><p class="text-center"><br></p></div>
-                <div class="col-sm-2"><p class="text-center">Kendal<br>Norman</p></div>
-                <div class="col-sm-2"><p class="text-center"><br></p></div>
-            </div>
-            <div>
-                <p>Not Pictured: Matthew Molo, Ben Maxfield, Mimansa Verma, Kendal Norman, Dominic Miller, Keith Aylwin, Dimple Dhawan, Ajay Gopakumar, &amp; Charles Li </p>
-            </div>
-
-            <h3 class="text-center">Administrative Team</h3>
-            <p class="text-center"><img src="/rov/images/administrative_team_fall_2016.jpg" alt="Administrative Team" style="width:100%"></p><br>
-            <div class="row">
-                <div class="col-sm-2"><p class="text-center">Matt Molo<br><em>Fall Software Lead</em></p></div>
-                <div class="col-sm-2"><p class="text-center">Joshua Berg<br><em>Fall Mechanical Lead</em></p></div>
-                <div class="col-sm-2"><p class="text-center">Carolyn Lewelling<br><em>Sponsorship Coordinator</em></p></div>
-                <div class="col-sm-2"><p class="text-center">Alex Ruffino<br><em>Spring Mechanical Lead</em></p></div>
-                <div class="col-sm-2"><p class="text-center">Kyle Rakos<br><em>Captain</em></p></div>
-                <div class="col-sm-2"><p class="text-center">Luke McBee<br><em>Electrical Lead</em></p></div>
-            </div>
-            <p>Not Pictured: Sanay Shah <em>(Vice-Captain)</em>, Ben Maxfield <em>(Spring Software Lead)</em>, &amp; Henry Shi <em>(Technical Writter)</em></p>
 
             <p class="text-center"><a href="https://www.facebook.com/purdueieeerov"><i class="fa fa-facebook-square fa-4x"></i></a></p>
             <br>
