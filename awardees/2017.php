@@ -59,7 +59,7 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/awardees/Sophia_Duan_SB017.jpg')">
+                    style="background-image: url('/images/awardees/Sophia_Duan_SB2017.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
