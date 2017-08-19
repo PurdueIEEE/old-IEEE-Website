@@ -72,6 +72,9 @@
                                 <a href="/officers/">Officers</a>
                             </li>
                             <li>
+                                <a href="/awardees/">Award Winners</a>
+                            </li>
+                            <li>
                                 <a href="/constitution.php">Constitution</a>
                             </li>
                         </ul>

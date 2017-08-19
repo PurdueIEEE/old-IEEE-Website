@@ -69,7 +69,7 @@ include '../../header.php';
                 for any length of time during his or her captaincy with a majority approval of the leadership.</p>
 
             <br><h4 class="text-center"><em>Article III. Elections</em></h4>
-            <p class="text-justify">BBy May 1st of the current year, there shall be a vote for captain, with the elected
+            <p class="text-justify">By May 1st of the current year, there shall be a vote for captain, with the elected
                 captain assuming the position on June 1st. A captain must have been a member of the team for at least
                 four months. All current members of the team at the time of the election shall have one vote.
                 Eligibility for voting shall be decided by the captain with regards to the aforementioned bylaws. A

@@ -17,10 +17,10 @@
 <p>IEEE will have a table at the B-Involved Fair. Please stop by to learn about all the great opportunities IEEE has to offer.</p>		
 <p><strong>Date:</strong> Saturday 08/19</p> 
 <strong>Time:</strong> 2:00pm - 5:00pm</p>		
-<p><strong>Place:</strong> CoRec</p>		
+<p><strong>Place:</strong> CoRec Black and Gold Gym</p>		
 		
 <h1 style="margin-top: 0">Callout</h1>
-<p>We will go over the different technical committees that make up IEEE. There will be free food and drinks provided.</p>		
+<p>We will go over the different technical committees that make up IEEE along with the professional, learning, and social aspects. There will be free pizza and drinks provided.</p>		
 <div id="leftside" style="float:left;">
 <p><strong>Date:</strong> Tuesday 08/29</p>		
 <p><strong>Time:</strong> 6:30pm - 7:30pm</p>		
