@@ -12,7 +12,7 @@
     <div class="fullscreen-bg">
     <video loop muted autoplay poster="images/Genie.jpg" id="bg-vid" class="fullscreen-bg__video">
         <source src="videos/backgroundl" type="video/webm">
-    	</video>
+    </video>
     </div>
     <script type="text/javascript">
       /* set playback rate for bg video */
@@ -76,7 +76,7 @@
                     </li>
                 </ul>
             </div>
-	</div>
+    </div>
     </div>
        <div class="well card-1 text-light">
 
@@ -147,9 +147,9 @@
                         <p>AeroMechanical Manufacturing Head<br /><br /></p>
                     </div>
                     <div class= "col-md-4">
-					    <img src="" alt= "" class="img-circle" width=250px height=250px />
-					    <h4>Milan Bidare</h4>
-					    <p>Sponsorship Lead<br /><br /></p>
+                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <h4>Milan Bidare</h4>
+                        <p>Sponsorship Lead<br /><br /></p>
                     </div>
                 </div>
 
