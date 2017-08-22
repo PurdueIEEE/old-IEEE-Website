@@ -12,7 +12,7 @@
         <!-- Sidebar Column -->
         <div class="col-md-3">
             <div class="list-group">
-            	<a href="/rov/updates/" class="list-group-item">Updates</a>
+                <a href="/rov/updates/" class="list-group-item">Updates</a>
                 <a href="/rov/history/" class="list-group-item">History</a>
                 <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
@@ -21,7 +21,7 @@
 
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1">
-            
+
             <h2 class="text-center">2016-2017 Technical Team Pictures</h2>
 
             <h3 class="text-center">Electrical Team</h3>

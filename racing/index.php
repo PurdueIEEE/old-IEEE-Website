@@ -43,7 +43,7 @@ include '../header.php';
 
 
             <h2 class="text-center">2016-2017 Team Picture</h2>
-            <a href="/racing/images/GoKart.png"
+            <a href="/racing/images/GoKart.jpg"
             <p class="text-center"><img src="/racing/images/GoKart.png" alt="2016 Team"
                                         style="width:100%"></p></a>
             <br>
