@@ -33,7 +33,7 @@
                     <span class="icon-bar"></span>
                 </button>
 
-                <a href="/" title="To Purdue IEEE">
+                <a href="/" title="Purdue IEEE">
                 <div type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px; float: left; min-width: 0; padding-left: 0;" aria-label="Back">
                     <img src="/images/IEEE-Kite.svg" style="height: 32px; margin-top: 8px">
                 </div>
