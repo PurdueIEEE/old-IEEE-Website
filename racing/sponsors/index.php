@@ -20,7 +20,7 @@
         </div>
 
         <!-- Content Column -->
-        <div class="col-md-7 text-dark col-md-offset-1">
+        <div class="col-md-9 text-dark">
         <h1 class="text-center">Sponsors</h1>
 
             <div class="row">
@@ -29,7 +29,7 @@
                 </div>
 
                 <div class="col-md-4 text-center">
-                
+
                 </div>
                 <div class="col-md-4 text-center">
                     <a href="http://corporate.exxonmobil.com/" target="_blank"><img src="/racing/images/ExxonMobil.png" alt="Exxon Mobil" style="width:100%"></a>

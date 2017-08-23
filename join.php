@@ -2,7 +2,6 @@
     $page_title = 'Join';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
-    $root = true;
     include 'header.php';
     require_once 'DirectoryServices/lists.php';
 ?>

@@ -21,7 +21,7 @@ include '../../header.php';
 
 
         <!-- Content Column -->
-        <div class="col-md-7 text-dark col-md-offset-1">
+        <div class="col-md-9 text-dark">
             <h1 class="text-center">Racing Team Bylaws</h1></br>
 
             <h4 class="text-center"><em>PREAMBLE</em></h4>

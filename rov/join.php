@@ -26,7 +26,7 @@
             <h2 class="text-center">Join ROV</h2>
             <p>
                 The ROV team brings together expertise in electronics, mechanics, and software in order to create an unrivled vehicle. We intend to finish first place in the world, and we are therefore looking for dedicated and talented members to help us achieve this goal! If you enjoy beign a part of a fast-paced team and learn quickly look no further. We are diving into the build season and could use more help - especially electrically!
-            </p> 
+            </p>
 
             <p>
                 Applications for the 2017 season are now open and will be open until Saturday 1/14 at midnight. If you are selected, interviews to join the team will follow the week of 1/15 and decisions will be made by Saturday 1/21. If you are unsure if you want to join yet, come to our first meeting on Saturday 1/14 at 1:00pm in POTR 234 to learn more!
@@ -36,11 +36,11 @@
             </p>
             <p>
                 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfEaGVV0-U__d_36NcVh8CiLHAl_Wko2C_AdA620L1b94Xt8A/viewform?embedded=true" width="700" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-            </p>   
-        
+            </p>
+
 
         </div>
-         
+
     </div>
 </div>
 <!-- /.well -->

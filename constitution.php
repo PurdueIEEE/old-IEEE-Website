@@ -2,7 +2,6 @@
     $page_title = 'Constitution';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
-    $root = true;
     include 'header.php';
 ?>
 

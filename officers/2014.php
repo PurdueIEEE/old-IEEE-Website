@@ -2,7 +2,6 @@
     $page_title = '2014 Officers';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
-    $root = true;
     include '../header.php';
 ?>
 

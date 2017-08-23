@@ -20,26 +20,25 @@ include '../../header.php';
         </div>
 
         <!-- Content Column -->
-        <div class="col-md-7 text-dark col-md-offset-1">
+        <div class="col-md-9 text-dark">
             <h1 class="text-center">Racing Team History</h1><br>
 
             <h3 class="text-center">2016</h3>
 
 
             <p class="text-justify">The 2016 season was challenging for us due to many members leaving. Our focus this
-                year was repairing and upgrading our current dual-motor go-kart. We had a lot of long nights leading up
-                to the race but were able to field a successful go-kart and finished the race. Due to technical
-                difficulties our finishing position was not recorded and we are currently in the process of solving
-                this. Thank you to all of our sponsors and fans and we look forward to an even better season in
-                2017!</p>
+            year was repairing and upgrading our current dual-motor go-kart. We had a lot of long nights leading up
+            to the race but were able to field a successful go-kart and finished the race. Due to technical
+            difficulties our finishing position was not recorded and we are currently in the process of solving
+            this. Thank you to all of our sponsors and fans and we look forward to an even better season in
+            2017!</p>
             </p>
             <br>
 
-		            <a href="/racing/images/GoKart2.jpg"
-		            <p class="text-center"><img src="/racing/images/GoKart2.jpg" alt="2016 Team"
-		                                        style="width:100%"></p></a>
+            <a href="/racing/images/GoKart2.jpg"
+                <p class="text-center"><img src="/racing/images/GoKart2.jpg" alt="2016 Team" style="width:100%"></p>
+            </a>
             <br>
-
         </div>
 
     </div>

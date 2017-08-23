@@ -1,5 +1,4 @@
 <?php
-    $page_title = 'Home';
     $site_title = 'IEEE ROV';
     $site_index = '/rov';
     include '../header.php';
@@ -63,15 +62,13 @@
 
             <h2 class="text-center">About The ROV Team</h2>
             <div class="col-md-6">
-                <img src="/rov/images/CephalopodByPool.jpg" alt="Maelstrom" style="width:100%" style="float:left" style="display:block">
+                <img src="/rov/images/CephalopodByPool.jpg" alt="ROV Cephalopod by the pool" style="width:100%" style="float:left" style="display:block">
                 <p class="text-center">ROV <em>Cephalopod</em> </p>
             </div>
 
-            <div class="col-md-6">
-                <p class="text-justify" style="float:left">
-                    The Remotely Operated underwater Vehicle (ROV) team was founded as a committee within Purdue IEEE Student Organization in 2008 with a small but dedicated group of five students. Today, the team's mission is to foster technical and professional skills of its members by designing, constructing, and testing an innovative underwater vehicle to compete in the MATE Center International ROV Competition.
-                </p>
-            </div>
+            <p class="text-justify">
+                The Remotely Operated underwater Vehicle (ROV) team was founded as a committee within Purdue IEEE Student Organization in 2008 with a small but dedicated group of five students. Today, the team's mission is to foster technical and professional skills of its members by designing, constructing, and testing an innovative underwater vehicle to compete in the MATE Center International ROV Competition.
+            </p>
 
             <p class="text-justify">
                 The ROV team is comprised of both engineering and non-engineering students working collaboratively on a hands-on project from the vehicle's design and prototyping phase, to its construction and testing, and ultimately competition performance. The team fosters a multidisciplinary spirit so that the best ideas may come forth. In addition to the mission, the MATE competition also requires a professional presentation, public display poster, and technical documentation.
@@ -88,7 +85,8 @@
 
             <h2 class="text-center">2016-2017 Team Picture</h2>
             <a href="/rov/images/2017FinalTeamPicture.png"
-            <p class="text-center"><img src="/rov/images/2017FinalTeamPicture_small.png" alt="2017 Team" style="width:100%"></p></a>
+                <p class="text-center"><img src="/rov/images/2017FinalTeamPicture_small.png" alt="2017 Team" style="width:100%"></p>
+            </a>
             <br>
 
             <p><a href="2017otherpictures.php">See individual technical team pictures here</a></p>

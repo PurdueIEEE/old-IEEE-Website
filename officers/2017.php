@@ -2,7 +2,6 @@
     $page_title = '2017 Officers';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
-    $root = true;
     include '../header.php';
 ?>
 
@@ -33,7 +32,7 @@
             <div class="col-md-9">
                 <h3>Sanay Shah</h3>
                 <h4>President</h4>
-                <p>Sanay Shah is a senior in Industrial Engineering. He joined IEEE in Fall 2014 as a Mechanical Team member on the Purdue IEEE ROV Team. Since joining IEEE, Sanay has worked on the ROV Mechanical and Administrative teams, has been the ROV Captain during the Spring 2016 semester, and Vice President during the 2016-2017 school year. His technical and administrative passions continue to grow as he focuses on the success of all the technical committees. As President, Sanay hopes to increase communication between student organizations and increase campus-wide collaborations. He also aims to work with all committees to develop camaraderie amongst the members. He has had internships at RSS Grinders & Automation Inc. as a machinist operating manual and CNC machinery. He also enjoys playing and watching sports and is a huge fan of The Chicago Blackhawks.</p>
+                <p>Sanay Shah is a senior in Industrial Engineering. He joined IEEE in Fall 2014 as a Mechanical Team member on the Purdue IEEE ROV Team. Since joining IEEE, Sanay has worked on the ROV Mechanical and Administrative teams, has been the ROV Captain during the Spring 2016 semester, and Vice President during the 2016-2017 school year. His technical and administrative passions continue to grow as he focuses on the success of all the technical committees. As President, Sanay hopes to increase communication between student organizations and increase campus-wide collaborations. He also aims to work with all committees to develop camaraderie amongst the members. He has had internships at RSS Grinders &amp; Automation Inc. as a machinist operating manual and CNC machinery. He also enjoys playing and watching sports and is a huge fan of The Chicago Blackhawks.</p>
                 <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>

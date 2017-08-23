@@ -1,5 +1,4 @@
 <?php
-    $page_title = 'Home';
     $site_title = 'EMBS';
     $site_index = '/embs';
     include '../header.php';

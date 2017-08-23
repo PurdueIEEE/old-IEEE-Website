@@ -1,5 +1,4 @@
 <?php
-    $page_title = 'Home';
     $site_title = 'Aerial Robotics';
     $site_index = '/partieee';
     include '../header.php';

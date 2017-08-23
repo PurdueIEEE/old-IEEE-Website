@@ -2,7 +2,6 @@
     $page_title = '404';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
-    $root = true;
     include 'header.php';
 ?>
 

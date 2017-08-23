@@ -1,4 +1,4 @@
-<?php 
+<?php
     $page_title = 'Cerulean — History';
     $site_title = 'IEEE ROV';
     $site_index = '/rov';
@@ -16,7 +16,6 @@
                     <a href="/rov/history/" class="list-group-item active">History</a>
                     <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
                     <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
-                    <a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a>
                 </div>
             </div>
 
@@ -59,8 +58,8 @@
                 <p>To see ROV <em>Cerulean</em> perform the qualification tasks for this mission, please watch <a href="https://youtu.be/uBDiaYipayk">this YouTube video</a>.</p>
             </div>
 
-        </div> 
+        </div>
     </div>
-    <!-- /.well -->  
+    <!-- /.well -->
 
 <?php include '../../footer.php';?>

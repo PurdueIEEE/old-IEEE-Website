@@ -1,8 +1,7 @@
 <?php
-$page_title = 'Home';
-$site_title = 'IEEE Racing';
-$site_index = '/racing';
-include '../header.php';
+    $site_title = 'IEEE Racing';
+    $site_index = '/racing';
+    include '../header.php';
 ?>
 
 <!-- Content Row -->
@@ -20,10 +19,10 @@ include '../header.php';
         </div>
 
         <!-- Content Column -->
-        <div class="col-md-7 text-dark col-md-offset-1">
+        <div class="col-md-9 text-dark">
+
             <h2 class="text-center">Racing Team</h2>
             <br>
-
 
             <p class="text-justify">
                 IEEE Racing builds an electric go-kart that competes in the Purdue evGrandPrixthat takes place annually
@@ -44,8 +43,8 @@ include '../header.php';
 
             <h2 class="text-center">2016-2017 Team Picture</h2>
             <a href="/racing/images/GoKart.jpg"
-            <p class="text-center"><img src="/racing/images/GoKart.png" alt="2016 Team"
-                                        style="width:100%"></p></a>
+                <p class="text-center"><img src="/racing/images/GoKart.jpg" alt="2016 Team" style="width:100%"></p>
+            </a>
             <br>
 
 
@@ -57,30 +56,32 @@ include '../header.php';
                     <div class="row">
                         <!--Adrian White-->
                         <div class="col-md-4">
-                            <img src="images/Adrian.png" alt="Michael Hayashi" class="img-circle" width=200px
+                            <img src="/racing/images/Adrian.png" alt="Michael Hayashi" class="img-circle" width=200px
                                  height=200px/>
                             <h4>Adrian White</h4>
                             <p>Chair<br/>Electrical Engineering<br/>Senior</p>
                         </div>
                         <!--Dakota Demaegd-->
                         <div class="col-md-4">
-                            <img src="images/Dakota.png" alt="Michael Anderson" class="img-circle" width=200px
+                            <img src="/racing/images/Dakota.png" alt="Michael Anderson" class="img-circle" width=200px
                                  height=200px/>
                             <h4>Dakota Demaegd</h4>
                             <p>Social Chair<br/>Computer and Information Technology<br/>Senior</p>
                         </div>
                         <!--Erick Figueroa-->
                         <div class="col-md-4">
-                            <img src="images/Erick.png" alt="Alan Han" class="img-circle" width=200px height=200px/>
+                            <img src="/racing/images/Erick.png" alt="Alan Han" class="img-circle" width=200px height=200px/>
                             <h4>Erick Figueroa</h4>
                             <p>Technical Lead<br/> Electrical Engineering Technology<br/>Junior</p>
                         </div>
                     </div>
-                </div>
 
+                </div>
             </div>
 
         </div>
+        <!-- /Content Column -->
+
     </div>
 </div>
 <!-- /.well -->
