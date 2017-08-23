@@ -9,7 +9,7 @@
 
     <!--
     Page title is set dynamically. Do not modify.
-    window_title = (page_title ? page_title + ' - ') + site_title + --!>
+    window_title = (page_title ? page_title + ' - ') + site_title + -->
     <title><?php echo (isset($page_title) ? ($page_title.' — ') : '') . $site_title; ?></title>
 
     <link href="/assets/bootstrap.css" rel="stylesheet">
@@ -33,7 +33,7 @@
                     <span class="icon-bar"></span>
                 </button>
 
-                <a href="/" title="Back to home">
+                <a href="/" title="To Purdue IEEE">
                 <div type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px; float: left; min-width: 0; padding-left: 0;" aria-label="Back">
                     <img src="/images/IEEE-Kite.svg" style="height: 32px; margin-top: 8px">
                 </div>
@@ -113,7 +113,6 @@
                         <a href="/join.php">Join</a>
                     </li>
                     <!-- END TABS -->
-
 
                 </ul>
             </div>
