@@ -10,8 +10,8 @@
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">IEEE Code Cafe</h1>
-            <h2 class="text-center">Saturday, 25th March, 2017</h2>
-            <h2 class="text-center">HICKS G980D</h2>
+            <h2 class="text-center">Saturday, 30th September, 2017</h2>
+            <h2 class="text-center">WALC 1087</h2>
             <h2 class="text-center">1 - 6 PM</h2>
         </div>
 
