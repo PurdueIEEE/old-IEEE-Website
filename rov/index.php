@@ -23,7 +23,11 @@
             <h2 class="text-center">Remotely Operated underwater Vehicle (ROV) Team</h2>
             <br>
 
+
             <hr>
+
+            <h2 class="text-center"><a href="https://docs.google.com/forms/d/1CEJ_Dqbl_vHzMew-3xkc_giSPr3aM3RHFFqjsResWj0/edit?usp=sharing">Apply here to join ROV</a></h2>
+
             <p><em>June 28, 2017 Update</em></p>
             <div>
                 <p>
