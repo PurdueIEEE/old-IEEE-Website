@@ -29,7 +29,7 @@
             </p>
 
             <p>
-                Applications for the 2018 season are now open and will be open until Sunday 9/10 at midnight. If you are unsure if you want to join yet, come to our first meeting on Wednesday 9/6 at 7:00pm in ME 1061 to learn more!
+                Applications for the 2018 season are now open and will be open until Sunday 9/9 at midnight. If you are unsure if you want to join yet, come to our first meeting on Wednesday 9/6 at 7:00pm in ME 1061 to learn more!
             </p>
             <p>
                 The application can be filled out below or in a seperate window <a href="https://docs.google.com/forms/d/1CEJ_Dqbl_vHzMew-3xkc_giSPr3aM3RHFFqjsResWj0/edit?usp=sharing">here</a>.
