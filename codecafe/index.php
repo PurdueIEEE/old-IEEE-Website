@@ -35,7 +35,7 @@
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">How is Code Cafe structured?</h1>
             <p class="text-justify">During the five hours of Code Cafe, you will be divided in groups first, based on your current programming level and the skills you want to learn.</p>
-            <p class="text-justify">The concepts will range from variables, loops, and conditionals to WebGL-based game programming, and scientific computing techniques. The primary language is Python, selected based on ease of use and impact. Mentors will be guiding attendees on a global and individual basis.</p>
+            <p class="text-justify">The concepts will range from variables, loops, and conditionals to scientific computing techniques, Python APIs, and other advanced Python tools, techniques, and libraries.</p>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
