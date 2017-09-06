@@ -16,13 +16,13 @@
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="codecafe/codecafe1.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
+            <p class="text-center"><img src="codecafe1.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
         </div>
     </div>
 
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="codecafe/logo.jpg" alt="Code Cafe Logo" style="width:80%" style="display:block"> </p>
+            <p class="text-center"><img src="logo.jpg" alt="Code Cafe Logo" style="width:80%" style="display:block"> </p>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
@@ -39,13 +39,13 @@
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="codecafe/codecafe3.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
+            <p class="text-center"><img src="codecafe3.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
         </div>
     </div>
 
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="codecafe/codecafe2.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"> </p>
+            <p class="text-center"><img src="codecafe2.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"> </p>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
@@ -71,11 +71,11 @@
             <h1 class="text-center">Sponsors</h1>
         </div>
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="codecafe/IEEE_logo.svg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
+            <p class="text-center"><img src="IEEE_logo.svg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="codecafe/jpmc_logo.png" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
+            <p class="text-center"><img src="jpmc_logo.png" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
         </div>
     </div>
 </div>
