@@ -27,7 +27,9 @@
             <p>
                 The ROV team brings together expertise in electronics, mechanics, and software in order to create an unrivled vehicle. We intend to finish first place in the world, and we are therefore looking for dedicated and talented members to help us achieve this goal! If you enjoy beign a part of a fast-paced team and learn quickly look no further. We are diving into the build season and could use more help - especially electrically!
             </p>
-
+                Applications for the 2017 fall semester are now closed. There will be another round of applications in the spring semester. If you are interested in joining then, send an email to aruffino@purdue.edu.
+            </p>
+		<!--
             <p>
                 Applications for the 2018 season are now open and will be open until Sunday 9/9 at midnight. If you are unsure if you want to join yet, come to our first meeting on Wednesday 9/6 at 7:00pm in ME 1061 to learn more!
             </p>
@@ -37,7 +39,7 @@
             <p>
                 <iframe src="https://docs.google.com/forms/d/1CEJ_Dqbl_vHzMew-3xkc_giSPr3aM3RHFFqjsResWj0/edit?usp=sharing" width="700" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
             </p>
-
+            -->
 
         </div>
 
