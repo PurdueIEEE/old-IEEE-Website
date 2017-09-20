@@ -20,9 +20,9 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="fill" style="background-image:url('/images/ieee_callout.jpg');"></div>
+                        <div class="fill" style="background-image:url('/images/2017_fall_ieee_callout.jpg');"></div>
                         <div class="carousel-caption">
-                            <h2>IEEE Callout: Fall 2016</h2>
+                            <h2>IEEE Callout: Fall 2017</h2>
                         </div>
                     </div>
                     <div class="item">
