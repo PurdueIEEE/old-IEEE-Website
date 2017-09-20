@@ -26,8 +26,6 @@
 
             <hr>
 
-            <h2 class="text-center"><a href="https://docs.google.com/forms/d/1CEJ_Dqbl_vHzMew-3xkc_giSPr3aM3RHFFqjsResWj0/edit?usp=sharing">Apply here to join ROV</a></h2>
-
             <p><em>June 28, 2017 Update</em></p>
             <div>
                 <p>
@@ -82,10 +80,13 @@
                 Because the vehicle requires excellence in design, construction, and presentation, the team members are themselves multidisciplinary collaborators and experts in their own discipline. Members learn to communicate clearly with each other and with clients while managing their own project responsibilities. Through various outreach events during the year, the team aims to inspire future generations to enter STEM (Science, Technology, Engineering, and Mathematics) fields.
             </p>
 
-            <p class="text-justify">
+           <!-- <p class="text-justify">
                 For more current and past information view the links to the left or contact <a href="mailto:rov@purdueieee.org">Alexander Ruffino</a>. The ROV team will be accepting new members at the beginning of the Fall 2017 semester. The current team members are below.
-            </p>
+            </p> -->
 
+            <p class="text-justify">
+                Applications for the 2017 fall semester are now closed. There will be another round of applications in the spring semester. If you are interested in joining then, send an email to aruffino@purdue.edu.
+			</p>
 
             <h2 class="text-center">2016-2017 Team Picture</h2>
             <a href="/rov/images/2017FinalTeamPicture.png"
