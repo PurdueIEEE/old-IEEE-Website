@@ -1,5 +1,5 @@
 <?php
-    $page_title = 'IEEE ROV - Bylaws';
+    $page_title = 'Bylaws';
     $site_title = 'IEEE ROV';
     $site_index = '/rov';
     include '../../header.php';

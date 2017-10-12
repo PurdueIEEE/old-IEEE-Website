@@ -2,7 +2,6 @@
     $page_title = '2017 Officers';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
-    $root = true;
     include '../header.php';
 ?>
 
@@ -33,8 +32,8 @@
             <div class="col-md-9">
                 <h3>Sanay Shah</h3>
                 <h4>President</h4>
-                <p>Sanay Shah is a senior in Industrial Engineering. He joined IEEE in Fall 2014 as a Mechanical Team member on the Purdue IEEE ROV Team. Since joining IEEE, Sanay has worked on the ROV Mechanical and Administrative teams, has been the ROV Captain during the Spring 2016 semester, and Vice President during the 2016-2017 school year. His technical and administrative passions continue to grow as he focuses on the success of all the technical committees. As President, Sanay hopes to increase communication between student organizations and increase campus-wide collaborations. He also aims to work with all committees to develop camaraderie amongst the members. He has had internships at RSS Grinders & Automation Inc. as a machinist operating manual and CNC machinery. He also enjoys playing and watching sports and is a huge fan of The Chicago Blackhawks.</p>
-                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
+                <p>Sanay Shah is a senior in Industrial Engineering. He joined IEEE in Fall 2014 as a Mechanical Team member on the Purdue IEEE ROV Team. Since joining IEEE, Sanay has worked on the ROV Mechanical and Administrative teams, has been the ROV Captain during the Spring 2016 semester, and Vice President during the 2016-2017 school year. His technical and administrative passions continue to grow as he focuses on the success of all the technical committees. As President, Sanay hopes to increase communication between student organizations and increase campus-wide collaborations. He also aims to work with all committees to develop camaraderie amongst the members. He has had internships at RSS Grinders &amp; Automation Inc. as a machinist operating manual and CNC machinery. He also enjoys playing and watching sports and is a huge fan of The Chicago Blackhawks.</p>
+                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/mtts">MTT-S</a>, <a href="/rov/">ROV</a></p>
             </div>
         </div>
 
@@ -81,7 +80,7 @@
             <div class="col-md-9">
                 <h3>Jessica Chin</h3>
                 <h4>Secretary</h4>
-                <p>Jessica Chin is a sophomore majoring in electrical engineering. Since high school, Jessica has been involved with her FIRST robotics team and has always wanted to build an underwater robot. She decided to join Purdue IEEE in Fall 2016 as part of the ROV Committee. In ROV, Jessica is on the electrical team, where she works on the power and movement aspects of the ROV. In her spare time, Jessica enjoys playing tennis</p>
+                <p>Jessica Chin is a sophomore majoring in electrical engineering. Since high school, Jessica has been involved with her FIRST robotics team and has always wanted to build an underwater robot. She decided to join Purdue IEEE in Fall 2016 as part of the ROV Committee. In ROV, Jessica is on the electrical team, where she works on the power and movement aspects of the ROV. In her spare time, Jessica enjoys playing tennis.</p>
                 <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
@@ -130,7 +129,7 @@
                 <h3>Yash Nain</h3>
                 <h4>Social Committee Head</h4>
                 <p>Yash is a senior in Multidisciplinary Engineering. He joined IEEE in the fall of 2014 to work on the Aerial Robotics committee. He hopes to combine his engineering knowledge with a business background. As social chair, he hopes to create an opportunity for any student to join and feel welcome in IEEE, and have the opportunity to meet new people and provide them with several engaging activities to participate in. In his free time, he is a movie buff and enjoys cooking, playing and watching sports, and playing video games.</p>
-                <p><em>Committee Involvement</em>: <a href="/partieee/">PARTIEEE</a></p>
+                <p><em>Committee Involvement</em>: <a href="/mtts">MTT-S</a>, <a href="/partieee/">PARTIEEE</a></p>
             </div>
         </div>
 

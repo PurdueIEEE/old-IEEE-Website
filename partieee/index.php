@@ -1,5 +1,4 @@
 <?php
-    $page_title = 'Home';
     $site_title = 'Aerial Robotics';
     $site_index = '/partieee';
     include '../header.php';
@@ -12,7 +11,7 @@
     <div class="fullscreen-bg">
     <video loop muted autoplay poster="images/Genie.jpg" id="bg-vid" class="fullscreen-bg__video">
         <source src="videos/backgroundl" type="video/webm">
-    	</video>
+    </video>
     </div>
     <script type="text/javascript">
       /* set playback rate for bg video */
@@ -76,14 +75,14 @@
                     </li>
                 </ul>
             </div>
-	</div>
+    </div>
     </div>
        <div class="well card-1 text-light">
 
             <div class="row text-center">
                 <h1 id="mission">Mission</h1>
                 <hr />
-                <p>Purdue Aerial Robotics Team IEEE (PARTIEEE), founded in 1996, consists of four teams: AeroMechanical, Electrical, Software, and Writing. The AeroMechanical team designs and manufactures a custom, stable fixed wing aircraft based on mathematical models. The Electrical team develops custom hardware for the plane, such as power supply boards, sensor boards, and flight controllers. The Software team writes autopilot and image processing algorithms that will guide the system through waypoints and targets. The Writing team works on the technical journal paper, documentation, and presentation displays. The contributions from each team are blended into an unmanned aerial system (UAS) and evaluated at the AUVSI SUAS Competition at Webster Field, Maryland during the summer. For more information contact <a href="mailto:partieee@purdue.edu">Michael Malachowski</a></p>
+                <p>Purdue Aerial Robotics Team IEEE (PARTIEEE), founded in 1996, consists of four teams: AeroMechanical, Electrical, Software, and Writing. The AeroMechanical team designs and manufactures a custom, stable fixed wing aircraft based on mathematical models. The Electrical team develops custom hardware for the plane, such as power supply boards, sensor boards, and flight controllers. The Software team writes autopilot and image processing algorithms that will guide the system through waypoints and targets. The Writing team works on the technical journal paper, documentation, and presentation displays. The contributions from each team are blended into an unmanned aerial system (UAS) and evaluated at the AUVSI SUAS Competition at Webster Field, Maryland during the summer. For more information contact <a href="mailto:partieee@purdue.edu">Ellie Topi</a></p>
                 <br />
             </div>
         </div>
@@ -147,9 +146,9 @@
                         <p>AeroMechanical Manufacturing Head<br /><br /></p>
                     </div>
                     <div class= "col-md-4">
-					    <img src="" alt= "" class="img-circle" width=250px height=250px />
-					    <h4>Milan Bidare</h4>
-					    <p>Sponsorship Lead<br /><br /></p>
+                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <h4>Milan Bidare</h4>
+                        <p>Sponsorship Lead<br /><br /></p>
                     </div>
                 </div>
 

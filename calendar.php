@@ -2,7 +2,6 @@
     $page_title = 'Calendar';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
-    $root = true;
     include 'header.php';
 ?>
 
@@ -52,8 +51,8 @@
                         $list .= $url_encode;
                     }
 
-                    $iframe = "https://www.google.com/calendar/embed?mode=WEEK&showTitle=0&amp;showPrint=0&amp;height=750&amp;wkst=1&amp;bgcolor=%23F5F5F5&#10;&amp;".$list."ctz=America%2FNew_York";
-                    $link = "https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=650&amp;wkst=1&amp;bgcolor=%23ffffff&amp;".$list."ctz=America%2FNew_York";
+                    $iframe = "https://calendar.google.com/calendar/embed?mode=WEEK&showTitle=0&amp;showPrint=0&amp;height=750&amp;wkst=1&amp;bgcolor=%23F5F5F5&#10;&amp;".$list."ctz=America/New_York";
+                    $link = "https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=650&amp;wkst=1&amp;bgcolor=%23ffffff&amp;".$list."ctz=America/New_York";
 
                 ?>
                     <iframe src="<?php echo $iframe ?>" style=" border-width:0" width="1000" height="750" frameborder="0" scrolling="no"></iframe>

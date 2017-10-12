@@ -1,12 +1,9 @@
 <?php
-    $page_title = 'Purdue IEEE';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
 
     //Output js in footer to load carousel
     $carousel = true;
-    $root = true;
-    $home = true;
     include 'header.php';
 ?>
 
@@ -23,9 +20,9 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="fill" style="background-image:url('/images/ieee_callout.jpg');"></div>
+                        <div class="fill" style="background-image:url('/images/2017_fall_ieee_callout.jpg');"></div>
                         <div class="carousel-caption">
-                            <h2>IEEE Callout: Fall 2016</h2>
+                            <h2>IEEE Callout: Fall 2017</h2>
                         </div>
                     </div>
                     <div class="item">
@@ -77,29 +74,30 @@
         </div>
     </div>
 
-	<!-- Upcoming Event List -->
-	<br>
-  <div class="well card-1 text-dark">
-         <div class="row">
-             <div class="col-md-12">
-                 <h2><b>Upcoming Events</b></h2>
-             </div>
-         </div>
-         <hr />
-         <div class="row">
-             <div class="col-md-12">
-                 <div class="media">
-                     <div class="media-body">
+<br>
+    <!-- Upcoming Event List
+    <br>
+    <div class="well card-1 text-dark">
+        <div class="row">
+            <div class="col-md-12">
+                <h2><b>Upcoming Events</b></h2>
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-md-12">
+                <div class="media">
+                    <div class="media-body">
                         <?php include 'events.php' ?>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ -->
 
 
     <!-- Committeee List -->
-    <br />
     <div class="well card-1 text-dark">
         <div class="row">
             <div class="col-md-12">
@@ -115,7 +113,7 @@
                     </div>
                     <div class="media-body">
                         <h4 class="media-heading">Purdue IEEE</h4>
-                        <p>Purdue IEEE is devoted to technical achievements and social events. The Purdue chapter of the IEEE is split into several committees. Each committee is focused on a different goal, but all of them strive to further their technical achievements. In addition to the technical aspects, we are also a social organization. We hold events for our members to meet and greet each other and members of other organizations.</p><br>
+                        <p>Purdue IEEE is devoted to technical achievements, professional development, learning workshops, and social events. The Purdue IEEE Student Branch is split into several committees. Each technical committee is focused on a different goal, but all of them strive to further the technical abilities of members by focusing on certain projects or specialty knowledge. In addition to the technical aspects, we also help our members enter their professional careers, learn engineering software and hands-on skills, and socialize with others to form lasting connections inside and outside of this organization.</p><br>
                     </div>
                 </div>
             </div>
@@ -129,7 +127,7 @@
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/csociety/">Computer Society</a></h4>
-                            <p>The IEEE Computer Society. They recently reunited with Purdue IEEE. They hold education sessions, do small projects, and provide web services for many different organizations on campus. Their site is at csociety.org. Check there for updates! </p><br>
+                            <p>The IEEE Computer Society is a quirky bunch of folks who love the ins and outs of using computers. They hold education sessions, do small projects, and frequently discuss both the ubiquitous services and the latest and greatest software and trends that form the basis of the information age.</p><br>
                         </div>
                     </div>
                 </div>
@@ -157,7 +155,7 @@
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/mtts/">MTT-S</a></h4>
-                            <p>IEEE MTT-S (Microwave Theory &amp; Techniques Society) holds events to further the understanding and applications of microwave circuits. The growth of communications around us relies on the continued development of high-frequency technologies that students here develop.</p><br>
+                            <p>IEEE MTT-S (Microwave Theory &amp; Techniques Society) holds events to further the understanding and applications of radio-frequency and microwave circuits. The growth of communications and imaging techniques around us relies on the continued development of high-frequency technologies that students here develop.</p><br>
                         </div>
                     </div>
                 </div>
@@ -185,7 +183,7 @@
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/rov/">ROV</a></h4>
-                            <p>ROV (Remotely Operated underwater Vehicle) designs and builds an ROV to compete in the MATE (Marine Advanced Technology Education) International ROV Competition each year. They are looking for members to model designs in 3D, restore old vehicles, and assemble next year's vehicle.</p><br>
+                            <p>ROV (Remotely Operated underwater Vehicle) designs and constructs an ROV to compete in the MATE (Marine Advanced Technology Education) International ROV Competition each year. They are looking for members to model designs in 3D, populate circuit boards, and develop the control software.</p><br>
                         </div>
                     </div>
                 </div>
@@ -243,7 +241,7 @@
                 </div>
                 <div class="panel-body">
                     <h4>Contact Us</h4>
-                    <p>Contact us for more information at<br><a href="mailto:IEEE@purdue.edu">IEEE@purdue.edu</a>, or stop by at EE 014</p>
+                    <p>Contact us for more information at<br><a href="mailto:IEEE@purdue.edu">IEEE@purdue.edu</a>, or stop by EE 014</p>
                 </div>
             </div>
         </div>

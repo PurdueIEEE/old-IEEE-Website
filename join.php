@@ -2,7 +2,6 @@
     $page_title = 'Join';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
-    $root = true;
     include 'header.php';
     require_once 'DirectoryServices/lists.php';
 ?>
@@ -96,7 +95,7 @@
                         <li>Free food at General Assemblies</li>
                         <li>Recognition for contributed work with final projects</li>
                     </ul>
-                    To pay dues, please contact the Treasurer, Bobby Zhang, at <a href="mailto:IEEE-Treas@purdueieee.org">IEEE-Treas@purdueieee.org</a>, go to EE 014 and use leave your email and dues with a Treasurer-authorized attendant inside the office, or give it to the Treasurer at General Assemblies.
+                    To pay dues, please contact the Treasurer, Michael Anderson, at <a href="mailto:IEEE-Treas@purdueieee.org">IEEE-Treas@purdueieee.org</a>, go to EE 014 and use leave your email and dues with a Treasurer-authorized attendant inside the office, or give it to the Treasurer at General Assemblies.
                 </p>
             </div>
         </div>

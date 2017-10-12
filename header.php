@@ -9,8 +9,8 @@
 
     <!--
     Page title is set dynamically. Do not modify.
-    window_title = page_title + (!home ? " - " + site_title). --!>
-    <title><?php echo $page_title;?><?php if (!isset($home)) { ?> — <?php echo $site_title; } ?></title>
+    window_title = (page_title ? page_title + ' - ') + site_title + -->
+    <title><?php echo (isset($page_title) ? ($page_title.' — ') : '') . $site_title; ?></title>
 
     <link href="/assets/bootstrap.css" rel="stylesheet">
     <script src="/assets/jquery.min.js"></script>
@@ -25,7 +25,7 @@
 <body>
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
-            <div class="navbar-header">
+            <div class="navbar-header" style="margin-left: 0">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
@@ -33,33 +33,21 @@
                     <span class="icon-bar"></span>
                 </button>
 
-                <?php /*
-                 * Navigation button is set dynamically. Do not modify.
-                 * button = !root ? back : home !-->
-                 */ ?>
-                <a href="/" title="Back to home">
+                <a href="/" title="Purdue IEEE">
                 <div type="button" class="navbar-left btn btn-link btn-dark" style="height: 50px; padding: 0px 15px; font-size: 18px; line-height: 20px; float: left; min-width: 0; padding-left: 0;" aria-label="Back">
-                    <?php if (!$root) { ?>
-                        <i class="material-icons" style="color:white; font-size: 32px; margin-top: 8px;">arrow_back</i>
-                    <?php } else { ?>
-                        <img src="/images/IEEE-Kite.svg" style="height: 32px; margin-top: 8px">
-                    <?php } ?>
+                    <img src="/images/IEEE-Kite.svg" style="height: 32px; margin-top: 8px">
                 </div>
                 </a>
                 <a class="navbar-brand" href="<?php echo $site_index;?>">
                     <?php /*
-                     * Navigation button is set dynamically. Do not modify.
-                     * button = !root ? back : home !-->
                      * Site title is set dynamically. Do not modify.
                      * The site title indicates the current navigational scope.
-                     * For example, committee pages have a different scope than the general IEEE page does. !-->
                      */ ?>
                     <b><?php echo $site_title;?></b>
                 </a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-
 
                     <!-- BEGIN TABS -->
                     <li class="dropdown">
@@ -72,6 +60,9 @@
                                 <a href="/officers/">Officers</a>
                             </li>
                             <li>
+                                <a href="/awardees/">Award Winners</a>
+                            </li>
+                            <li>
                                 <a href="/constitution.php">Constitution</a>
                             </li>
                         </ul>
@@ -82,10 +73,9 @@
                     <li class="dropdown">
                         <a href="/" class="dropdown-toggle" data-toggle="dropdown">Committees<b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li class="disabled">
-                                <a>General</a>
+                            <li class="dropdown-header">
+                                General
                             </li>
-                            <br />
                             <li>
                                 <a href="/learning/">Learning</a>
                             </li>
@@ -96,10 +86,9 @@
                                 <a href="/social/">Social</a>
                             </li>
                             <hr />
-                            <li class="disabled">
-                                <a>Technical</a>
+                            <li class="dropdown-header">
+                                Technical
                             </li>
-                            <br />
                             <li>
                                 <a href="/partieee/">Aerial Robotics</a>
                             </li>
@@ -124,7 +113,6 @@
                         <a href="/join.php">Join</a>
                     </li>
                     <!-- END TABS -->
-
 
                 </ul>
             </div>

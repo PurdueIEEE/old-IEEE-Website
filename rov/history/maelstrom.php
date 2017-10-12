@@ -1,4 +1,4 @@
-<?php 
+<?php
     $page_title = 'Maelstrom — History';
     $site_title = 'IEEE ROV';
     $site_index = '/rov';
@@ -16,7 +16,6 @@
                     <a href="/rov/history/" class="list-group-item active">History</a>
                     <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
                     <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
-                    <a href="http://rovwiki.pieee.org/" class="list-group-item">Wiki<i class="material-icons" style="font-size: 16px; margin-left: 5px;">exit_to_app</i></a>
                 </div>
             </div>
 
@@ -26,8 +25,8 @@
 
                 <p>FOR IMMEDIATE RELEASE<br>Contact: Sanay Shah<br>E-mail: <a href="mailto:shah196@purdue.edu">shah196@purdue.edu</a></p>
                 <h2 class="text-center">PURDUE STUDENTS COMPETE IN MATE INTERNATIONAL ROV COMPETITION</h2><br>
-                <h3 class="text-center">Purdue IEEE ROV Competes in MATE 2016
-</h3>
+                <h3 class="text-center">Purdue IEEE ROV Competes in MATE 2016</h3>
+
                 <p>Purdue IEEE ROV is an eight-year-old team of diverse Purdue students that compete in the Marine Advanced Technology Education (MATE) Center’s Remotely Operated underwater Vehicle (ROV) International Competition. The team has designed ROV <em>Maelstrom</em>, a top-notch ROV that is expected to produce top results.</p>
                 <p>The competition challenges students to create a vehicle that can complete underwater missions. ROVs are used in the world to conduct scientific missions, assist in oil extraction, retrieve items of interest, and more. This year’s competition is being held at NASA’s Neutral Buoyancy Lab in Houston, Texas from June 23-25.</p>
                 <p>MATE has created a mission profile based off of real life ROV needs. The mission, <em>From the Gulf of Mexico to Jupiter’s Moon Europa</em>, consists of both simulated underwater activity in the Gulf of Mexico and under the ice of Jupiter’s Moon, Europa. This mission will test ROV <em>Maelstrom</em> and the team’s ability to determine the qualitative attributes of the environment and objects of interest, survey underwater terrain, retrieve mission-critical items, conduct servicing of an underwater machine, and collect samples to be analyzed.</p>
@@ -48,9 +47,10 @@
                 <p>Proven Robotics worked to design ROV <em>Maelstrom</em>, the first Remotely Operated underwater Vehicle (ROV) capable of conducting reconnaissance, recovery, and maintenance under extreme oceanic environments on Earth and in outer space. <em>Maelstrom</em> is capable of delving into the depths of Europa and to the bottom of the Mariana Trench. This unrivaled versatility will push human exploration onwards.</p>
                 <p>Proven Robotics has delivered a multipurpose ROV that meets mission requirements to complete the Outer Space and Inner Space simulations at MATE’s 2016 international ROV competition. ROV <em>Maelstrom</em>’s design utilizes open-loop hydraulics and optimizes weight and volume, allowing for more electronics and tools. The company also features a tri-camera system and a sonar positioning system on ROV <em>Maelstrom</em>. In order to facilitate rapid and reliable development, the company is split into Mechanical, Software, Electrical, and Administrative departments, which are responsible for their respective ROV components. The departments were in constant communication throughout production in order to ensure continued progress and success.</p>
                 <p>ROV <em>Maelstrom</em> satisfies the mission stipulations and is equipped to accomplish these MATE mission tasks: seafloor exploration and discovery, maintenance and recovery of items of interest, and determination of sample origin. It is the product of methodical planning and iterative design. ROV <em>Maelstrom</em>’s ability has been tested in mock simulations and Proven Robotics is proud to exhibit its performance.</p>
+            </div>
 
-        </div> 
+        </div>
     </div>
-    <!-- /.well -->  
+    <!-- /.well -->
 
 <?php include '../../footer.php';?>
