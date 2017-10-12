@@ -93,7 +93,7 @@
                 <div class="row">
                     <!--Ellie-->
                     <div class= "col-md-4">
-                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <img src="../images/officers/Ellie_Topi.jpg" alt= "" class="img-circle" width=250px height=250px />
                         <h4>Ellie Topi</h4>
                         <p>Captain<br /><br /></p>
                     </div>
@@ -141,7 +141,7 @@
                     </div>
                     <!---->
                     <div class= "col-md-4">
-                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <img src="images/robert-mcintyre.jpg" alt= "" class="img-circle" width=250px height=250px />
                         <h4>Robert McIntyre</h4>
                         <p>AeroMechanical Manufacturing Head<br /><br /></p>
                     </div>
