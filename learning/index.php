@@ -11,7 +11,7 @@
                 <h1>IEEE Learning Workshops</h1>
 
                 <h1>Upcoming and In Progess Events:</h1>
-                <h2>3D Priting</h2>
+                <h2>3D Printing</h2>
                 <p>3D printing refers to the process of creating 3-dimensional objects from layers of material.This will be organized as a showcase with an introduction to 3D printer filaments, how to use slicers, and how to purchase your first printer. </p>
                 <h2>Soldering</h2>
                 <p>Soldering is joining of metals through melting one of them, or using a filler metal to join the metals together. Building a circuit board usually involves some form of soldering in order to join all supplemental components onto the board. This workshop will include the basics on how to correctly and safely solder boards in order to produce a functioning circuit. This is useful for those interested in electronics and in Senior Design.
