@@ -62,7 +62,7 @@
                         <a href="http://www.auvsi-suas.org/competitions/2017/">SUAS Competition Info</a>
                     </li>
                     <li>
-                        <a href="/professional/">Info for Sponsors</a>
+                        <a href="https://drive.google.com/file/d/0B_4FcTs3cVvKUUdLdDJaSms1eDg/view?usp=sharing">Info for Sponsors</a>
                     </li>
                     <li>
                         <a href="https://www.youtube.com/channel/UCDyoVLkPq5463PZMnQ-G2hA">Youtube</a>
