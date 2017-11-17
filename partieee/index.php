@@ -62,7 +62,7 @@
                         <a href="http://www.auvsi-suas.org/competitions/2017/">SUAS Competition Info</a>
                     </li>
                     <li>
-                        <a href="/professional/">Info for Sponsors</a>
+                        <a href="https://drive.google.com/file/d/0B_4FcTs3cVvKUUdLdDJaSms1eDg/view?usp=sharing">Info for Sponsors</a>
                     </li>
                     <li>
                         <a href="https://www.youtube.com/channel/UCDyoVLkPq5463PZMnQ-G2hA">Youtube</a>
@@ -93,7 +93,7 @@
                 <div class="row">
                     <!--Ellie-->
                     <div class= "col-md-4">
-                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <img src="../images/officers/Ellie_Topi.jpg" alt= "" class="img-circle" width=250px height=250px />
                         <h4>Ellie Topi</h4>
                         <p>Captain<br /><br /></p>
                     </div>
@@ -141,7 +141,7 @@
                     </div>
                     <!---->
                     <div class= "col-md-4">
-                        <img src="" alt= "" class="img-circle" width=250px height=250px />
+                        <img src="images/robert-mcintyre.jpg" alt= "" class="img-circle" width=250px height=250px />
                         <h4>Robert McIntyre</h4>
                         <p>AeroMechanical Manufacturing Head<br /><br /></p>
                     </div>
