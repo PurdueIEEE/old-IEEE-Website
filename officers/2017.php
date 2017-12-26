@@ -4,7 +4,7 @@
     $site_index = '/';
     include '../header.php';
 ?>
-
+<!--- Test Comment (Efe Tas) -->
     <div class="well card-1 text-dark">
 
         <!--- Pagination -->
