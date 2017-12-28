@@ -6,7 +6,6 @@
     $carousel = true;
     include 'header.php';
 ?>
-
     <div class="row">
         <div class="col-lg-12">
             <!-- Header Carousel -->
