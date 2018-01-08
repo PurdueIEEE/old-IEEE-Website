@@ -1,12 +1,10 @@
 <?php
-    $page_title = '2017 Officers';
+    $page_title = '2018 Officers';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
     include '../header.php';
 ?>
-<!--- Test Comment (Efe Tas) -->
     <div class="well card-1 text-dark">
-
         <!--- Pagination -->
         <div class="row text-center">
             <div class="col-lg-12">
@@ -18,12 +16,10 @@
                 </ul>
             </div>
         </div>
-
         <hr />
 
         <!-- President -->
         <div class="row">
-
             <div class="col-md-3">
                 <div class="officer-cropped"
                     style="background-image: url('/images/officers/Sanay_Shah.jpg')">
@@ -32,24 +28,24 @@
             <div class="col-md-9">
                 <h3>Sanay Shah</h3>
                 <h4>President</h4>
-                <p>Sanay Shah is a senior in Industrial Engineering. He joined IEEE in Fall 2014 as a Mechanical Team member on the Purdue IEEE ROV Team. Since joining IEEE, Sanay has worked on the ROV Mechanical and Administrative teams, has been the ROV Captain during the Spring 2016 semester, and Vice President during the 2016-2017 school year. His technical and administrative passions continue to grow as he focuses on the success of all the technical committees. As President, Sanay hopes to increase communication between student organizations and increase campus-wide collaborations. He also aims to work with all committees to develop camaraderie amongst the members. He has had internships at RSS Grinders &amp; Automation Inc. as a machinist operating manual and CNC machinery. He also enjoys playing and watching sports and is a huge fan of The Chicago Blackhawks.</p>
+                <p>Sanay Shah is a senior in Industrial Engineering. He joined IEEE in Fall 2014 as a Mechanical Team member on the Purdue IEEE ROV Team. Since joining IEEE, Sanay has worked on the ROV Mechanical and Administrative teams, has been the ROV Captain during the Spring 2016 semester, Vice President during the 2016-2017 school year, and President during the 2017-2018 school year. His technical and administrative passions continue to grow as he focuses on the success of all the technical committees. As President, Sanay hopes to increase communication between student organizations and increase campus-wide collaborations. He also aims to work with all committees to develop camaraderie amongst the members. He has had internships at RSS Grinders &amp; Automation Inc. as a machinist operating manual and CNC machinery. He also enjoys playing and watching sports and is a huge fan of The Chicago Blackhawks.</p>
                 <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/mtts">MTT-S</a>, <a href="/rov/">ROV</a></p>
             </div>
         </div>
 
         <hr>
-        <!-- Vice President -->
+        <!-- Vice President (Spring) -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Brandon_Stewart.jpg')">
+                    style="background-image: url('/images/officers/Jessica_Chin.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
-                <h3>Brandon Stewart</h3>
-                <h4>Vice President</h4>
-                <p>Brandon is a junior in Computer Science. He joined IEEE in the Fall of 2015 on the ROV Team. He plans to pursue the Systems Programming track in Computer Science. In his free time, he enjoys bike riding, programming, and watching movies. As VP, he plans to promote cross-committee collaboration.</p>
-                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/rov/">ROV</a></p>
+                <h3>Jessica Chin</h3>
+                <h4>Vice President (Spring)</h4>
+                <p>Jessica Chin is a sophomore majoring in Electrical Engineering. Since high school, Jessica has been involved with her FIRST robotics team and has always wanted to build an underwater robot. She decided to join Purdue IEEE in Fall 2016 as part of the ROV Committee. In ROV, Jessica is on the electrical team, where she works on the power and movement aspects of the ROV. In her spare time, Jessica enjoys playing tennis.</p>
+                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
 
@@ -70,21 +66,37 @@
         </div>
 
         <hr>
-        <!-- Secretary -->
+        <!-- Secretary (Spring)-->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Jessica_Chin.jpg')">
+                    style="background-image: url('/images/officers/Efe_Tas.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
-                <h3>Jessica Chin</h3>
-                <h4>Secretary</h4>
-                <p>Jessica Chin is a sophomore majoring in Electrical Engineering. Since high school, Jessica has been involved with her FIRST robotics team and has always wanted to build an underwater robot. She decided to join Purdue IEEE in Fall 2016 as part of the ROV Committee. In ROV, Jessica is on the electrical team, where she works on the power and movement aspects of the ROV. In her spare time, Jessica enjoys playing tennis.</p>
-                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
+                <h3>Efe Tas</h3>
+                <h4>Secretary (Spring)</h4>
+                <p>Efe Tas is a junior in Computer Engineering with an interest in Digital Signal Processing. He joined IEEE in the Fall of 2017 and became a member of the Computer Society. For the Spring of 2018 Efe will be the IEEE Secretary, and he looks forward to being able to contribute to the IEEE community and its media outlooks. Efe plans to work with the Quantum Computing Technology. In his free time Efe enjoys playing video games, running long distances, or reading a nice book.</p>
+                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a></p>
             </div>
         </div>
 
+        <hr>
+        <!-- Growth and Engagement Head & Purdue Aerial Robotics Team IEEE Captain -->
+        <div class="row">
+            <div class="col-md-3">
+                <div class="officer-cropped"
+                    style="background-image: url('/images/officers/Ellie_Topi.jpg')">
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h3>Ellie Topi</h3>
+                <h4>Growth and Engagement Head &amp Purdue Aerial Robotics Team IEEE Captain</h4>
+                <p> Ellie is a senior in Mechanical Engineering Technology. She joined Aerial Robotics in Fall 2016. She is passionate about organizing leadership and promoting interconnection of different projects. As the Captain, she aims to lead the team toward their goal of designing, building, and delivering a custom UAS to the AUVSI SUAS competition. In her spare time, she enjoys baking, crafting, and playing with aluminum.</p>
+                <p><em>Committee Involvement</em>: <a href="/partieee/">PARTIEEE</a></p>
+            </div>
+        </div>
+        
         <hr>
         <!-- Professional Committee Head -->
         <div class="row">
@@ -112,11 +124,11 @@
             <div class="col-md-9">
                 <h3>Justin Joco</h3>
                 <h4>Learning Committee Head</h4>
-                <p>Justin is a senior in Electrical Engineering. He joined the IEEE EMBS exec team in Spring 2016 and helped it grow into one of Purdue IEEE's bigger technical committees. Due to previous Learning committees, he has gained technical skills that are valuable in school and industry. As Learning Head, he aims to give back to IEEE and the community through technical/professional workshops and faculty outreach. In his spare time, he enjoys practicing card magic, playing guitar, gaming, and working out.</p>
+                <p>Justin is a junior in Electrical Engineering. He joined the IEEE EMBS exec team in Spring 2016 and helped it grow into one of Purdue IEEE's bigger technical committees. Due to previous Learning committees, he has gained technical skills that are valuable in school and industry. As Learning Head, he aims to give back to IEEE and the community through technical/professional workshops and faculty outreach. In his spare time, he enjoys practicing card magic, playing guitar, gaming, and working out.</p>
                 <p><em>Committee Involvement</em>: <a href="/embs/">EMBS</a></p>
             </div>
         </div>
-
+        
         <hr>
         <!-- Social Committee Head -->
         <div class="row">
@@ -132,7 +144,7 @@
                 <p><em>Committee Involvement</em>: <a href="/mtts">MTT-S</a>, <a href="/partieee/">PARTIEEE</a></p>
             </div>
         </div>
-
+        
         <hr>
         <!-- Committee Chair #1 -->
         <div class="row">
@@ -144,11 +156,11 @@
             <div class="col-md-9">
                 <h3>Raghav Malik</h3>
                 <h4>Computer Society Chair</h4>
-                <p>Raghav Malik is a sophomore in Computer Engineering, He joined IEEE in Fall 2016 as part of Computer Society. He was the learning delegate for CSociety in Spring 2017 and will be the CSociety Chair for Fall 2017. As chair, he hopes to get Computer Society involved with more long-term projects to increase membership, and hopes to work with the Learning Committee to expand Code Café this year. In his free time, Raghav enjoys reading papers, listening to music, playing card games, and programming.</p>
+                <p>Raghav Malik is a junior in Computer Engineering, He joined IEEE in Fall 2016 as part of Computer Society. He was the learning delegate for CSociety in Spring 2017 and will be the CSociety Chair for Fall 2017. As chair, he hopes to get Computer Society involved with more long-term projects to increase membership, and hopes to work with the Learning Committee to expand Code Café this year. In his free time, Raghav enjoys reading papers, listening to music, playing card games, and programming.</p>
                 <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a></p>
             </div>
         </div>
-
+        
         <hr>
         <!-- Committee Chair #2 -->
         <div class="row">
@@ -166,50 +178,18 @@
         </div>
 
         <hr>
-        <!-- Committee Chair #3 -->
+        <!-- Committee Chair #3 (Spring) -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Zach_Vander_Missen.jpg')">
+                    style="background-image: url('/images/officers/Ray_Chatrieux.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
-                <h3>Zach Vander Missen</h3>
-                <h4>IEEE Microwave Theory &amp; Techniques Society (MTT-S) Chair</h4>
-                <p>Zach Vander Missen is a second-year graduate student in Electrical and Computer Engineering. He first joined IEEE in Spring 2014 as a member of IEEE Computer Society. He hopes to continue the work of building up MTT-S in the coming year. Zach's research areas are RF and Microwave systems. He also enjoys playing in various ensembles with Purdue Bands and Orchestras.</p>
-                <p><em>Committee Involvement</em>: <a href="/mtts/">MTT-S</a>, <a href="/csociety/">Computer Society</a></p>
-            </div>
-        </div>
-
-        <hr>
-        <!-- Committee Chair #4 -->
-        <div class="row">
-            <div class="col-md-3">
-                <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Ellie_Topi.jpg')">
-                </div>
-            </div>
-            <div class="col-md-9">
-                <h3>Ellie Topi</h3>
-                <h4>Purdue Aerial Robotics Team IEEE Captain</h4>
-                <p> Ellie is a senior in Mechanical Engineering Technology. She joined Aerial Robotics in Fall 2016. She is passionate about organizing leadership and promoting interconnection of different projects. As the Captain, she aims to lead the team toward their goal of designing, building, and delivering a custom UAS to the AUVSI SUAS competition. In her spare time, she enjoys baking, crafting, and playing with aluminum.</p>
-                <p><em>Committee Involvement</em>: <a href="/partieee/">PARTIEEE</a></p>
-            </div>
-        </div>
-
-        <hr>
-        <!-- Committee Chair #5 (Summer) -->
-        <div class="row">
-            <div class="col-md-3">
-                <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Erick_Figueroa.png')">
-                </div>
-            </div>
-            <div class="col-md-9">
-                <h3>Erick Figueroa</h3>
-                <h4>Racing Committee Chair (Summer)</h4>
-                <p> Erick Figueroa is a junior in Electrical Engineering Technology with a minor in Spanish and an Entrepreneurship Certificate. He joined IEEE in the Fall of 2015 as a member of the Racing Committee. As a first-generation university student who appreciates the opportunities Purdue has offered him, he actively pursues to stay involved with campus activities and organizations. He has a wide range of experiences from an electrical engineering to leadership and public speaking. He is a very energetic and positive individual who always looks on the bright side and takes pride in his work ethic. In his spare time, he loves to work out and socialize and spend time with family and friends. He is currently on track to graduate in Spring 2019. </p>
-                <p><em>Committee Involvement</em>: <a href="/racing/">Racing</a></p>
+                <h3>Rayane Chatrieux</h3>
+                <h4>IEEE Microwave Theory &amp; Techniques Society (MTT-S) Chair (Spring)</h4>
+                <p>Ray is an EE Undergraduate since 2015, graduating in May 2018, interests in EE: Low-power and high-performance circuit design, memory circuits. His hobbies include: Judo, chess, Selected video games.</p>
+                <p><em>Committee Involvement</em>: <a href="/mtts/">MTT-S</a></p>
             </div>
         </div>
 
@@ -230,6 +210,22 @@
         </div>
 
         <hr>
+        <!-- Committee Chair #7 -->
+        <div class="row">
+            <div class="col-md-3">
+                <div class="officer-cropped"
+                    style="background-image: url('/images/officers/Ian_Sibley.jpg')">
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h3>Ian Sibley</h3>
+                <h4>Software Saturdays Chair</h4>
+                <p>Ian Sibley is a junior in Computer Engineering with a minor in Psychology. He joined IEEE ROV in the fall of 2016 and is currently the Surface Project Group Lead, as well as being the current founding chair for Software Saturdays during the Spring semester. As the founding chair, he hopes to start this new event on a good foot, and create a foundation for it to flourish. In his spare time, Ian enjoys swimming, hiking, and biking, as well as gaming online with his family.</p>
+                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
+            </div>
+        </div>
+
+        <hr>
         <!-- Committee Chair #6 -->
         <div class="row">
             <div class="col-md-3">
@@ -244,7 +240,5 @@
                 <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
-
     </div>
-
 <?php include '../footer.php'; ?>
