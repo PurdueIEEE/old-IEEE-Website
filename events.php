@@ -69,12 +69,11 @@
         Raghav Malik (malik22@purdue.edu)</p>
     </div>
 
-    <!-- EMBS
     <div class="col-md-4">
-        <h4 class="media-heading"><a href="/embs/">Engineering in Medicine & Biology Society (EMBS)</a></h4>
-        <p>Wed, September 6th 6:30-7:30pm at EE 234</br>
+        <h4 class="media-heading"><a href="/embs/">Engineering in Medicine &amp Biology Society (EMBS)</a></h4>
+        <p>Wed, 17th January 7:30pm-8:30pm at HAMP 2101</br>
         Apoorva Bhagwat (embs-info@purdueieee.org)</p>
-    </div> -->
+    </div>
 </div>
 <div class="col-md-12">
     <div class="col-md-4">
