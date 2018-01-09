@@ -48,6 +48,22 @@
                 <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
+       
+        <hr>
+        <!-- Vice President (Fall) -->
+        <div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/images/officers/Brandon_Stewart.jpg')">
+            </div>
+        </div>
+            <div class="col-md-9">
+                <h3>Brandon Stewart</h3>
+                <h4>Vice President (Fall)</h4>
+                <p>Brandon is a junior in Computer Science. He joined IEEE in the Fall of 2015 on the ROV Team. He plans to pursue the Systems Programming and Computer Graphics and Visualization tracks in Computer Science. In his free time, he enjoys running, programming, and watching movies. As Secretary, he plans to promote stronger communication among teams and will focus on ensuring members are informed of IEEE events.</p>
+                <p><em>Committee Involvement</em>: <a href="/csociety/">Computer Society</a>, <a href="/rov/">ROV</a></p>
+            </div>
+        </div>
 
         <hr>
         <!-- Treasurer -->
@@ -209,6 +225,22 @@
             </div>
         </div>
 
+        <hr>
+        <!-- Committee Chair #6 -->
+        <div class="row">
+            <div class="col-md-3">
+                <div class="officer-cropped"
+                    style="background-image: url('/images/officers/Erick_Figueroa.png')">
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h3>Erick Figueroa</h3>
+                <h4>Racing Committee Chair (Summer 2016)</h4>
+                <p> Erick Figueroa is a junior in Electrical Engineering Technology and with a minor in Spanish and Entrepreneurship Certificate. He joined IEEE in the Fall of 2015 as a member of the Racing Committee. As a first generation university student who appreciates the opportunities Purdue has offered him, he actively pursues to stay involved with campus activities and organizations. He has a wide range of experiences from an Electrical Engineering to Leadership and Public Speaking. He is a very energetic and positive individual who always looks on the bright side and takes pride in his work ethic. In his spare time, he loves to work out and socialize and spend time with family and friends. He is currently on track to graduate in Spring 2019. </p>
+                <p><em>Committee Involvement</em>: <a href="/racing/">Racing</a></p>
+            </div>
+        </div>
+        
         <hr>
         <!-- Committee Chair #7 -->
         <div class="row">
