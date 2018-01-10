@@ -47,13 +47,15 @@
         <p>Thurs, Jan 11th 6:30pm-7:15pm at PHYS 117</br>
         Yash Nain (ynain@purdue.edu)</p>
     </div>
-    
+</div>
+<div class="col-md-12">
     <div class="col-md-4">
         <h4 class="media-heading">Growth and Engagement<!--<a href="//">Link Here</a>--></h4>
         <p>Thurs, Jan 25th 7:00pm-7:30pm at TBD</br>
         Ellie Topi (etopi@purdue.edu)</p>
     </div>
 </div>
+
 <br><br><br>
 <h4>Technical Committees</h4>
 <div class="col-md-12">
