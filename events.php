@@ -35,10 +35,10 @@
         <p>Tues, January 16th 8:00pm-9:00pm at ME 2004</br>
          Justin Joco (jjoco@purdue.edu)</p>
     </div>
-    <!-- Professional
+
     <div class="col-md-4">
         <h4 class="media-heading"><a href="/professional/">Professional</a></h4>
-        <p>Wed, August 30th 7:30pm-8:30pm at ARMS 1021</br>
+        <p>Tues, Jan 23rd 6:00pm–7:00pm at GRIS 118</br>
         Reshef Elisha (relisha@purdue.edu)</p>
     </div> -->
 
