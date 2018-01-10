@@ -421,7 +421,6 @@
                <li>
                <p>Carry on all other communications necessary to the activities of the Branch.</p>
                </li>
-               <li></li>
                <li>
                <p>Review and submit the annual Student Branch Activity report online to IEEE Member and Geographic Activities, upon completion by the President and Treasurer and certification by the Branch Counselor.</p>
                </li>
