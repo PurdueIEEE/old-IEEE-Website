@@ -1,6 +1,6 @@
 <?php
     $site_title = 'IEEE Software Saturdays';
-    $site_index = '/softsat';
+    $site_index = '/software';
     include '../header.php';
 ?>
 <style>
