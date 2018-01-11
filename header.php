@@ -107,6 +107,13 @@
                             <li>
                                 <a href="/rov/">ROV</a>
                             </li>
+                            <hr/>
+                            <li class="dropdown-header">
+                                Events
+                            </li>
+                            <li>
+                                <a href="/software/">Software Saturdays</a>
+                            </li>
                         </ul>
                     </li>
                     <li>
