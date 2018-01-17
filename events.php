@@ -10,13 +10,16 @@
 </style>
 <h1 style="margin-top: 0; text-align: center"><a href="https://docs.google.com/presentation/d/1G6h-emUWy3I2ls_OqpoE0mWVIHU4ZSFBLvp1TrGXsik/edit?usp=sharing" target="_blank">Callout Slides Link</a></h1>
 
-<h1 style="margin-top: 0">Callout</h1>
+<!-- Callout Information
+    <h1 style="margin-top: 0">Callout</h1>
 <p>We will go over the different technical committees that make up IEEE along with the professional, learning, and social aspects. <font size="+0.2"> There will be free pizza and drinks provided.</font></p>
-<div id="leftside" style="float:left;">
+-->
+<!-- First Callout 
+    <div id="leftside" style="float:left;">
     <p><strong>Date:</strong> Tuesday 01/16</p>
     <p><strong>Time:</strong> 6:00pm - 7:30pm</p>
     <p><strong>Place:</strong> EE 129</p>
-</div>
+</div> -->
 <!-- Second Callout
     <div id="rightside" style="float:left;">
     <p><strong>Date:</strong> Thursday 08/31</p>
