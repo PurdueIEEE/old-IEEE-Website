@@ -1,5 +1,5 @@
 <?php
-    $site_title = 'IEEE Purdue';
+    $site_title = 'Purdue IEEE';
     $site_index = '/growth';
     include '../header.php';
 ?>
