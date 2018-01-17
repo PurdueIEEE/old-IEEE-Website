@@ -1,6 +1,6 @@
 <?php
-    $site_title = 'IEEE Software Saturdays';
-    $site_index = '/software';
+    $site_title = 'IEEE Purdue';
+    $site_index = '/growth';
     include '../header.php';
 ?>
 <style>
