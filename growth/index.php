@@ -1,6 +1,6 @@
 <?php
     $site_title = 'Purdue IEEE';
-    $site_index = '/growth';
+    $site_index = '/';
     include '../header.php';
 ?>
 <style>
