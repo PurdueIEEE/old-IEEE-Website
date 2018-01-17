@@ -8,7 +8,7 @@
     margin-left:100px;
 }
 </style>
-<h1 style="margin-top: 0; text-align: center"><a href="https://docs.google.com/presentation/d/1G6h-emUWy3I2ls_OqpoE0mWVIHU4ZSFBLvp1TrGXsik/edit?usp=sharing">Callout Slides Link</a></h1>
+<h1 style="margin-top: 0; text-align: center"><a href="https://docs.google.com/presentation/d/1G6h-emUWy3I2ls_OqpoE0mWVIHU4ZSFBLvp1TrGXsik/edit?usp=sharing" target="_blank">Callout Slides Link</a></h1>
 
 <h1 style="margin-top: 0">Callout</h1>
 <p>We will go over the different technical committees that make up IEEE along with the professional, learning, and social aspects. <font size="+0.2"> There will be free pizza and drinks provided.</font></p>
