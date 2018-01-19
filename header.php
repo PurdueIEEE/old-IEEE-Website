@@ -63,7 +63,7 @@
                                 <a href="/awardees/">Award Winners</a>
                             </li>
                             <li>
-                                <a href="/constitution.php">Constitution</a>
+                                <a href="/constitution-ieee.pdf">Constitution</a>
                             </li>
                         </ul>
                     </li>
