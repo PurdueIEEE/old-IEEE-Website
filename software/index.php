@@ -23,7 +23,7 @@
         <div class="col-md-7 text-dark col-md-offset-1">
             <h2 class="text-center">Software Saturdays</h2>
             <hr>
-            <img src="/software/images/tcoffecode.png" alt="Software Saturdays Image" style="width:100%" style="float:left" style="display:block">
+            <img src="/software/images/tcoffecode.jpg" alt="Software Saturdays Image" style="width:100%" style="float:left" style="display:block">
             <hr>
 
             <p class="text-justify">
