@@ -38,7 +38,7 @@
             <p class="text-justify">
             This semester's plan is to do a beginner's web development track, showing the basics of how a webpage is hosted by a server, and how information typically flows between the page, the server, and a database. We'll be using MySQL Workbench for the database, the Nodejs module Express for the server (and its mysql module to talk to the database), and a straightforward HTML, CSS, and JavaScript/jQuery webpage.            
             <p class="text-justify">
-            For further questions or interest, especially in attending or mentoring and teaching, feel free to email <!-- Add LINK: -->software-saturdays@purdueieee.org for more information.</p>
+            For further questions or interest, especially in attending or mentoring and teaching, feel free to email <b>software-saturdays@purdueieee.org</b> for more information.</p>
         </div>
     </div>
 </div>
