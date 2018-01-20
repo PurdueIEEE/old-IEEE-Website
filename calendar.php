@@ -32,9 +32,6 @@
                     <div class="calendar-box" style="background-color: #333333;">Software Saturdays</div>
 
                 </div>
-            </div> 
-        </div>
-    </div>  
                 <?php
                     $calendar_sources = array(
                         array('color' => '2952A3', 'src' => 'd5lo1ojucvmelsk9a54kndq1g8@group.calendar.google.com'), #IEEE Calendar
@@ -46,7 +43,7 @@
                         array('color' => 'AB8B00', 'src' => 'ce7l4e2pdhq23tqf3353pfmfp8@group.calendar.google.com'), #ROV 2015-2016
                         array('color' => 'AB8B00', 'src' => '87uv0bmrpiok3ghluf0v4fs5ag@group.calendar.google.com'), #ROV 2016-2017
                         array('color' => 'AB8B00', 'src' => 'iivv0f0bo0lvr1c42tn42g8cck@group.calendar.google.com'), #ROV 2017-2018
-                        array('color' =? '333333', 'src' => 'd606i7l0ahpasvr7gl3abatfi0@group.calendar.google.com' #Software Saturdays 2018
+                        array('color' =? '333333', 'src' => 'd606i7l0ahpasvr7gl3abatfi0@group.calendar.google.com') #Software Saturdays 2018
                     );
                     $list = "";
                     foreach ($calendar_sources as $cal) {
