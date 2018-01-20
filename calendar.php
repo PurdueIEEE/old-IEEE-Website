@@ -4,7 +4,6 @@
     $site_index = '/';
     include 'header.php';
 ?>
-
     <style>
         .calendar-box {
             float: left;
@@ -33,6 +32,8 @@
                     <div class="calendar-box" style="background-color: #333333;">Software Saturdays</div>
 
                 </div>
+        </div>
+    </div>  
                 <?php
                     $calendar_sources = array(
                         array('color' => '2952A3', 'src' => 'd5lo1ojucvmelsk9a54kndq1g8@group.calendar.google.com'), #IEEE Calendar
