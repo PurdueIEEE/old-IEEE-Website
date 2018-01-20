@@ -15,7 +15,7 @@
             text-align: center;
         }
     </style>
-
+<body>
     <div class="well card-1">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -67,5 +67,5 @@
             </div>
         </div>
     </div>
-
+</body>
 <?php include 'footer.php'; ?>
