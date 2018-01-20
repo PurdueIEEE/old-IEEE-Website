@@ -30,6 +30,8 @@
                     <div class="calendar-box" style="background-color: #CF5D5D;">PARTIEEE</div>
                     <div class="calendar-box" style="background-color: #6B3304;">Racing</div>
                     <div class="calendar-box" style="background-color: #E8CB4F;">ROV</div>
+                    <div class="calendar-box" style="background-color: #333333;">Software Saturdays</div>
+
                 </div>
                 <?php
                     $calendar_sources = array(
@@ -41,7 +43,9 @@
                         array('color' => '6B3304', 'src' => 'cptv9quqhvbder77uuq0n7nsi8@group.calendar.google.com'), #Racing
                         array('color' => 'AB8B00', 'src' => 'ce7l4e2pdhq23tqf3353pfmfp8@group.calendar.google.com'), #ROV 2015-2016
                         array('color' => 'AB8B00', 'src' => '87uv0bmrpiok3ghluf0v4fs5ag@group.calendar.google.com'), #ROV 2016-2017
-                        array('color' => 'AB8B00', 'src' => 'iivv0f0bo0lvr1c42tn42g8cck@group.calendar.google.com') #ROV 2017-2018
+                        array('color' => 'AB8B00', 'src' => 'iivv0f0bo0lvr1c42tn42g8cck@group.calendar.google.com'), #ROV 2017-2018
+                        array('color' =? '333333', 'src' =>
+'d606i7l0ahpasvr7gl3abatfi0@group.calendar.google.com' #Software Saturdays 2018
                     );
                     $list = "";
                     foreach ($calendar_sources as $cal) {
