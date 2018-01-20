@@ -32,6 +32,7 @@
                     <div class="calendar-box" style="background-color: #333333;">Software Saturdays</div>
 
                 </div>
+            </div> 
         </div>
     </div>  
                 <?php
