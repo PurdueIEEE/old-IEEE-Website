@@ -35,13 +35,13 @@
 	<div class="col-md-4">
         <h4 class="media-heading"><a href="/learning/">Learning</a></h4>
         <p>Tues, January 16th 8:00pm-9:00pm at ME 2004</br>
-         Justin Joco (jjoco@purdue.edu)</p>
+        Justin Joco (jjoco@purdue.edu)</p>
     </div>
 
     <div class="col-md-4">
         <h4 class="media-heading"><a href="/professional/">Professional</a></h4>
         <p>Tues, Jan 23rd 6:00pm–7:00pm at GRIS 118</br>
-        Reshef Elisha (relisha@purdue.edu)</p>
+        Joven Garces (garcesj@purdue.edu)</p>
 </div>
 
     <div class="col-md-4">
