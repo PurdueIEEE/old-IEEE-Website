@@ -51,7 +51,7 @@
             <div class="col-md-3 col-md-offset-3">
                 <img src="images/Gavin_Shanley.jpg" alt="Gavin Shanley" class="img-circle" width=200px height=200px/>
                 <h4>Gavin Shanley</h4>
-                <p>Vice President<br/><br/></p>
+                <p>Vice Chair<br/><br/></p>
             </div>
             <!--Ian Sibley-->
             <div class="col-md-3">
