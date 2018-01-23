@@ -33,17 +33,19 @@
         <h1 id="leaders">Leadership</h1>
         <hr/>
         <div class="row">
-            <!--Raghav Malik-->
+            <!--Gavin Shanley-->
             <div class="col-md-3 col-md-offset-3">
                 <img src="images/Gavin_Shanley.jpg" alt="Gavin Shanley" class="img-circle" width=200px height=200px/>
                 <h4>Gavin Shanley</h4>
                 <p>Vice President<br/><br/></p>
             </div>
+            <!--Ian Sibley-->
             <div class="col-md-3">
                 <img src="images/Ian_Sibley.jpg" alt="Ian Sibley" class="img-circle" width=200px height=200px/>
                 <h4>Ian Sibley</h4>
                 <p>Chair<br/><br/></p>
             </div>
+            <!--Rebecca Chow-->
         </div>
     </div>
 </div>
