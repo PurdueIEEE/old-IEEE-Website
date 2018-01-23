@@ -20,27 +20,34 @@
             </div>
         </div>
         <!-- Content Column -->
-        <div class="col-md-7 text-dark col-md-offset-1">
+        <div class="col-md-9 text-dark">
             <h2 class="text-center">Join as an Attendee</h2>
-            <p>
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfWHy0TBiUVPJMEpPcLlwTpl5hIlCYr91hxJUoRax_uXuHpoA/viewform" width="700" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-            </p>
+            <div class="col-md-12 text-dark">
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfWHy0TBiUVPJMEpPcLlwTpl5hIlCYr91hxJUoRax_uXuHpoA/viewform" width="100%" height="700" frameborder="0">Loading...</iframe>
+            </div>
         </div>
     </div>
 </div>
 <div class="well card-1 text-dark">
-        <div class="row text-center">
-            <h1 id="leaders">Leadership</h1>
-            <hr/>
-            <div class="row">
-                <!--Raghav Malik-->
-                <div class="col-md-4" id="centerside">
-                    <img src="images/Ian_Sibley.jpg" alt="Ian Sibley" class="img-circle" width=200px height=200px/>
-                    <h4>Ian Sibley</h4>
-                    <p>Chair<br/><br/></p>
-                </div>
+    <div class="row text-center">
+        <h1 id="leaders">Leadership</h1>
+        <hr/>
+        <div class="row">
+            <!--Gavin Shanley-->
+            <div class="col-md-3 col-md-offset-3">
+                <img src="images/Gavin_Shanley.jpg" alt="Gavin Shanley" class="img-circle" width=200px height=200px/>
+                <h4>Gavin Shanley</h4>
+                <p>Vice President<br/><br/></p>
             </div>
+            <!--Ian Sibley-->
+            <div class="col-md-3">
+                <img src="images/Ian_Sibley.jpg" alt="Ian Sibley" class="img-circle" width=200px height=200px/>
+                <h4>Ian Sibley</h4>
+                <p>Chair<br/><br/></p>
+            </div>
+            <!--Rebecca Chow-->
         </div>
     </div>
+</div>
 
 <?php include '../footer.php';?>
