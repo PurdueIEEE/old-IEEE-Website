@@ -52,7 +52,7 @@
 </div>
 <div class="col-md-12">
     <div class="col-md-4">
-        <h4 class="media-heading">Growth and Engagement<!--<a href="//">Link Here</a>--></h4>
+        <h4 class="media-heading"><a href="/growth/">Growth and Engagement</a></h4>
         <p>Thurs, Jan 25th 7:00pm-7:30pm at TBD</br>
         Ellie Topi (etopi@purdue.edu)</p>
     </div>
