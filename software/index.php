@@ -23,7 +23,7 @@
         <div class="col-md-7 text-dark col-md-offset-1">
             <h2 class="text-center">Software Saturdays</h2>
             <hr>
-            <img src="/software/images/tcoffecode.jpg" alt="Software Saturdays Image" style="width:100%" style="float:left" style="display:block">
+            <img src="/software/images/tcoffeecode.jpg" alt="Software Saturdays Image" style="width:100%" style="float:left" style="display:block">
             <hr>
 
             <p class="text-justify">
@@ -34,34 +34,15 @@
 
             <p class="text-justify">
             The plan is to introduce projects and concepts that are useful in the world of software development. The projects that will be pursued during each semester will be picked based on what would be useful in engineering contexts, but that doesn't mean they're not useful beyond the bounds of engineering. Regardless of what major our students are pursuing, we aim to teach them a skill that will be usefull no matter what job or hobbies they pursue in their future.            </p>
-            
+
             <p class="text-justify">
-            This semester's plan is to do a beginner's web development track, showing the basics of how a webpage is hosted by a server, and how information typically flows between the page, the server, and a database. We'll be using MySQL Workbench for the database, the Nodejs module Express for the server (and its mysql module to talk to the database), and a straightforward HTML, CSS, and JavaScript/jQuery webpage.            
+            This semester's plan is to do a beginner's web development track, showing the basics of how a webpage is hosted by a server, and how information typically flows between the page, the server, and a database. We'll be using MySQL Workbench for the database, the Nodejs module Express for the server (and its mysql module to talk to the database), and a straightforward HTML, CSS, and JavaScript/jQuery webpage.
             <p class="text-justify">
             For further questions or interest, especially in attending or mentoring and teaching, feel free to email <b>software-saturdays@purdueieee.org</b> for more information.</p>
         </div>
     </div>
 </div>
-<div class="well card-1 text-dark">
-    <div class="row text-center">
-        <h1 id="leaders">Leadership</h1>
-        <hr/>
-        <div class="row">
-            <!--Gavin Shanley-->
-            <div class="col-md-3 col-md-offset-3">
-                <img src="images/Gavin_Shanley.jpg" alt="Gavin Shanley" class="img-circle" width=200px height=200px/>
-                <h4>Gavin Shanley</h4>
-                <p>Vice President<br/><br/></p>
-            </div>
-            <!--Ian Sibley-->
-            <div class="col-md-3">
-                <img src="images/Ian_Sibley.jpg" alt="Ian Sibley" class="img-circle" width=200px height=200px/>
-                <h4>Ian Sibley</h4>
-                <p>Chair<br/><br/></p>
-            </div>
-            <!--Rebecca Chow-->
-        </div>
-    </div>
-</div>
+
+<?php include './staff.php';?>
 
 <?php include '../footer.php';?>
