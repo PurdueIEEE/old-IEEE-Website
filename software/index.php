@@ -11,17 +11,19 @@
 <!-- Content Row -->
 <div class="well card-1">
     <div class="row">
-        <!-- Sidebar Column -->
-        <div class="col-md-3">
-            <div class="list-group">
-                <a href="index.php" class="list-group-item">Software Saturdays</a>
-                <a href="attendee.php" class="list-group-item">Join as an Attendee</a>
-                <a href="mentor.php" class="list-group-item">Join as a Mentor</a>
-            </div>
-        </div>
         <!-- Content Column -->
-        <div class="col-md-7 text-dark col-md-offset-1">
+        <div class="col-md-8 text-dark col-md-offset-2">
             <h2 class="text-center">Software Saturdays</h2>
+            <h5 class="text-center">Email us at: <b>software-saturdays@purdueieee.org</b></h5>
+                <!-- Selection Row -->
+                <div class="col-md-12">
+                    <div class="list-group row">
+                      <h4>
+                        <a href="attendee.php" class="text-center list-group-item list-group-item-info col-xs-4 col-xs-offset-2">Join as an Attendee</a>
+                        <a href="mentor.php" class="text-center list-group-item list-group-item-info col-xs-4">Join as a Mentor</a>
+                      </h4>
+                    </div>
+                </div>
             <hr>
             <img src="/software/images/tcoffeecode.jpg" alt="Software Saturdays Image" style="width:100%" style="float:left" style="display:block">
             <hr>
