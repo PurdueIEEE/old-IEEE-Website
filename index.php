@@ -75,7 +75,7 @@
 
     <br><br>
     <!-- Upcoming Events List -->
-    <div class="well card-1 text-dark">
+    <!-- <div class="well card-1 text-dark">
         <div class="row">
             <div class="col-md-12">
                 <h2><b>Upcoming Events</b></h2>
@@ -86,12 +86,12 @@
             <div class="col-md-12">
                 <div class="media">
                     <div class="media-body">
-                        <?php include 'events.php' ?>
+                        <//?php include 'events.php' ?>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Committeee List -->
     <div class="well card-1 text-dark">

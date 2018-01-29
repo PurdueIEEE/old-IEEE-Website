@@ -80,7 +80,7 @@
                                 <a href="/learning/">Learning</a>
                             </li>
                             <li>
-                                <a href="/professional/">Professional</a>
+                                <a href="/professional/">Industrial Relations</a>
                             </li>
                             <li>
                                 <a href="/social/">Social</a>
