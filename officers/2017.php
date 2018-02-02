@@ -43,7 +43,7 @@
             </div>
             <div class="col-md-9">
                 <h3>Jessica Chin</h3>
-                <h4>Vice President (Spring)</h4>
+                <h4>Vice President (Spring) &amp Secretary (Fall)</h4>
                 <p>Jessica Chin is a sophomore majoring in Electrical Engineering. Since high school, Jessica has been involved with her FIRST robotics team and has always wanted to build an underwater robot. She decided to join Purdue IEEE in Fall 2016 as part of the ROV Committee. In ROV, Jessica is on the electrical team, where she works on the power and movement aspects of the ROV. In her spare time, Jessica enjoys playing tennis.</p>
                 <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
@@ -107,7 +107,7 @@
             </div>
             <div class="col-md-9">
                 <h3>Ellie Topi</h3>
-                <h4>Growth and Engagement Head (Spring) &amp Purdue Aerial Robotics Team IEEE Captain</h4>
+                <h4>Growth and Engagement Head &amp Purdue Aerial Robotics Team IEEE Captain</h4>
                 <p> Ellie is a senior in Mechanical Engineering Technology. She joined Aerial Robotics in Fall 2016. She is passionate about organizing leadership and promoting interconnection of different projects. As the Captain, she aims to lead the team toward their goal of designing, building, and delivering a custom UAS to the AUVSI SUAS competition. In her spare time, she enjoys baking, crafting, and playing with aluminum.</p>
                 <p><em>Committee Involvement</em>: <a href="/partieee/">PARTIEEE</a></p>
             </div>
@@ -210,7 +210,7 @@
         </div>
 
         <hr>
-        <!-- Committee Chair #3 (Spring) -->
+        <!-- Committee Chair #4 (Spring) -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
@@ -246,19 +246,19 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Erick_Figueroa.png')">
+                    style="background-image: url('/images/officers/Ian_Sibley.jpg')">
                 </div>
             </div>
             <div class="col-md-9">
-                <h3>Erick Figueroa</h3>
-                <h4>Racing Committee Chair (Summer 2016)</h4>
-                <p> Erick Figueroa is a junior in Electrical Engineering Technology and with a minor in Spanish and Entrepreneurship Certificate. He joined IEEE in the Fall of 2015 as a member of the Racing Committee. As a first generation university student who appreciates the opportunities Purdue has offered him, he actively pursues to stay involved with campus activities and organizations. He has a wide range of experiences from an Electrical Engineering to Leadership and Public Speaking. He is a very energetic and positive individual who always looks on the bright side and takes pride in his work ethic. In his spare time, he loves to work out and socialize and spend time with family and friends. He is currently on track to graduate in Spring 2019. </p>
-                <p><em>Committee Involvement</em>: <a href="/racing/">Racing</a></p>
+                <h3>Ian Sibley</h3>
+                <h4>Software Saturdays Chair</h4>
+                <p>Ian Sibley is a junior in Computer Engineering with a minor in Psychology. He joined IEEE ROV in the fall of 2016 and is currently the Surface Project Group Lead, as well as being the current founding chair for Software Saturdays during the Spring semester. As the founding chair, he hopes to start this new event on a good foot, and create a foundation for it to flourish. In his spare time, Ian enjoys swimming, hiking, and biking, as well as gaming online with his family.</p>
+                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
-        
+
         <hr>
-        <!-- Committee Chair #6 -->
+        <!-- Committee Chair #7 -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
@@ -269,22 +269,6 @@
                 <h3>Alexander Ruffino</h3>
                 <h4>Remotely Operated underwater Vehicle (ROV) Captain</h4>
                 <p> Alex is a junior in Mechanical Engineering. He joined IEEE at the start of his freshman year as a mechanical team member and a sponsorship coordinator on the ROV team. During his sophomore year, he was the Vice Captain in the fall and the Mechanical Team Lead in the spring. Outside of IEEE, he enjoys swimming as well as watching baseball and Purdue Basketball. His goal as Team Captain this year is to improve on last year's 8th place finish at the MATE International ROV Competition.</p>
-                <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
-            </div>
-        </div>
-                
-        <hr>
-        <!-- Committee Chair #7 -->
-        <div class="row">
-            <div class="col-md-3">
-                <div class="officer-cropped"
-                    style="background-image: url('/images/officers/Ian_Sibley.jpg')">
-                </div>
-            </div>
-            <div class="col-md-9">
-                <h3>Ian Sibley</h3>
-                <h4>Software Saturdays Chair</h4>
-                <p>Ian Sibley is a junior in Computer Engineering with a minor in Psychology. He joined IEEE ROV in the fall of 2016 and is currently the Surface Project Group Lead, as well as being the current founding chair for Software Saturdays during the Spring semester. As the founding chair, he hopes to start this new event on a good foot, and create a foundation for it to flourish. In his spare time, Ian enjoys swimming, hiking, and biking, as well as gaming online with his family.</p>
                 <p><em>Committee Involvement</em>: <a href="/rov/">ROV</a></p>
             </div>
         </div>
