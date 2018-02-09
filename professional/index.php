@@ -4,6 +4,12 @@
     $site_index = '/';
     include '../header.php';
 ?>
+<style>
+    .img-lectures {
+        
+        border-radius: 5%;
+    }
+</style>
 
 <div class="well card-1">
 
@@ -17,6 +23,42 @@
 
             </div>
 
+        </div>
+
+    </div>
+    <div class="well card-1">
+
+        <div class="row">
+
+            <h1 style="color: rgb(29,62,150); text-align: center;">Hosted by  IEEE</h1>
+            <h2 style="color: rgb(29,62,100); text-align: center;">In Partnership with BMES, IISE, Sigma Chi, Orbital</h2>
+            <br><br>
+
+            <img class = "img-lectures" src="images/prudueieee.png" alt="Cypress PSoC-BLE tech talk" height="150" width="220">
+            <img class = "img-lectures" src="images/BMES.png" alt="Cypress PSoC-BLE tech talk" height="150" width="220">
+            <img class = "img-lectures" src="images/IISE.png" alt="Cypress PSoC-BLE tech talk" height="150" width="220">
+            <img class = "img-lectures" src="images/SX.png" alt="Cypress PSoC-BLE tech talk" height="150" width="220">
+            <img class = "img-lectures" src="images/ATK.png" alt="Cypress PSoC-BLE tech talk" height="150" width="220">
+
+            <br><br>
+            <div class="col-md-8 text-dark col-md-offset-2 text-dark">
+                <h3 style="color: rgb(0,0,0); text-align: center;"> Find Your Job Role </h3>
+                <p>Learn from industry leaders what it takes to be successful 
+                in their job roles in a variety of different industries. 
+                This session will help you orient yourself to be a successful candidate 
+                when applying for internship and full-time opportunities.</p>
+            <br>
+                <p style="text-align: center; font-size: 19px;"> <b>
+                    2/13/18 Digital Security- DocuSign, Ariba- Marc Carlson ARMS B061 <br>
+                    2/19/18 Biotechnology- Zoll – Martha Drake ARMS 1010 <br>
+                    2/20/18 Consumer Products Company – Kimberly Clark – Neal Michal WALC 1032 <br>
+                    3/19/18 Academic Technology – Mitch Daniels WALC 1055 <br>
+                    3/26/18 Energy Industry – GE – Tony Denhart ARMS 1010 <br>
+                    4/9/18 Oil and Gas Industry- Shell ARMS 1010 <br></b>
+                </p>
+
+            </div>
+       
         </div>
 
     </div>
