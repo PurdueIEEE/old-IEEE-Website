@@ -8,8 +8,44 @@
     margin-left:100px;
 }
 </style>
-<h1 style="margin-top: 0; text-align: center"><a href="https://docs.google.com/presentation/d/1G6h-emUWy3I2ls_OqpoE0mWVIHU4ZSFBLvp1TrGXsik/edit?usp=sharing" target="_blank">Callout Slides Link</a></h1>
+<!--<h1 style="margin-top: 0; text-align: center"><a href="https://docs.google.com/presentation/d/1G6h-emUWy3I2ls_OqpoE0mWVIHU4ZSFBLvp1TrGXsik/edit?usp=sharing" target="_blank">Callout Slides Link</a></h1>-->
 
+<div class="well card-1">
+
+        <div class="row">
+
+            <h1 style="color: rgb(29,62,150); text-align: center;">Hosted by  IEEE</h1>
+            <h2 style="color: rgb(29,62,100); text-align: center;">In Partnership with BMES, IISE, Sigma Chi, Orbital</h2>
+            <br><br>
+
+            <img class = "img-lectures" src="images/eprudueieee.png" alt="Purdue IEEE" height="150" width="215">
+            <img class = "img-lectures" src="images/eBMES.png" alt="BMES" height="150" width="215">
+            <img class = "img-lectures" src="images/eIISE.png" alt="IISE" height="150" width="215">
+            <img class = "img-lectures" src="images/eSX.png" alt="Sigma Chi" height="150" width="215">
+            <img class = "img-lectures" src="images/eATK.png" alt="Orbital" height="150" width="215">
+
+            <br><br>
+            <div class="col-md-8 text-dark col-md-offset-2 text-dark">
+                <h3 style="color: rgb(0,0,0); text-align: center;"> Find Your Job Role </h3>
+                <p>Learn from industry leaders what it takes to be successful 
+                in their job roles in a variety of different industries. 
+                This session will help you orient yourself to be a successful candidate 
+                when applying for internship and full-time opportunities.</p>
+            <br>
+                <p style="text-align: center; font-size: 19px;"> <b>
+                    2/13/18 Digital Security- DocuSign, Ariba- Marc Carlson ARMS B061 <br>
+                    2/19/18 Biotechnology- Zoll – Martha Drake ARMS 1010 <br>
+                    2/20/18 Consumer Products Company – Kimberly Clark – Neal Michal WALC 1032 <br>
+                    3/19/18 Academic Technology – Mitch Daniels WALC 1055 <br>
+                    3/26/18 Energy Industry – GE – Tony Denhart ARMS 1010 <br>
+                    4/9/18 Oil and Gas Industry- Shell ARMS 1010 <br></b>
+                </p>
+
+            </div>
+       
+        </div>
+
+</div>
 <!-- Callout Information
     <h1 style="margin-top: 0">Callout</h1>
 <p>We will go over the different technical committees that make up IEEE along with the professional, learning, and social aspects. <font size="+0.2"> There will be free pizza and drinks provided.</font></p>
@@ -27,7 +63,7 @@
     <p><strong>Place:</strong> EE 129</p>
 </div> -->
 <br><br><br><br><br>
-<h1 style="margin-top: 0">Committee Meetings</h1>
+<!--<h1 style="margin-top: 0">Committee Meetings</h1>
 <p>Additionally, if you are interested in joining a committee after seeing them at our callout, their first meetings and contact info are listed below:<p>
 
 <h4>Cornerstones Committees</h4>
@@ -35,13 +71,13 @@
 	<div class="col-md-4">
         <h4 class="media-heading"><a href="/learning/">Learning</a></h4>
         <p>Tues, January 16th 8:00pm-9:00pm at ME 2004</br>
-        Justin Joco (jjoco@purdue.edu)</p>
+         Justin Joco (jjoco@purdue.edu)</p>
     </div>
 
     <div class="col-md-4">
         <h4 class="media-heading"><a href="/professional/">Professional</a></h4>
         <p>Tues, Jan 23rd 6:00pm–7:00pm at GRIS 118</br>
-        Joven Garces (garcesj@purdue.edu)</p>
+        Reshef Elisha (relisha@purdue.edu)</p>
 </div>
 
     <div class="col-md-4">
@@ -52,7 +88,7 @@
 </div>
 <div class="col-md-12">
     <div class="col-md-4">
-        <h4 class="media-heading"><a href="/growth/">Growth and Engagement</a></h4>
+        <h4 class="media-heading">Growth and Engagement<!--<a href="//">Link Here</a></h4>
         <p>Thurs, Jan 25th 7:00pm-7:30pm at TBD</br>
         Ellie Topi (etopi@purdue.edu)</p>
     </div>
@@ -103,8 +139,8 @@
 <h1 style="margin-top: 0">Software Saturdays</h1>
 <div class ="col-md-12">
     <div class="col-md-4">
-        <h4 class="media-heading">Software Saturdays First Meeting<!--<a href="//">Link Here</a>--></h4>
+        <h4 class="media-heading">Software Saturdays First Meeting<!--<a href="//">Link Here</a></h4>
         <p>Sat, Feburary 10th 3:30pm-6:30pm at WALC 1087</br>
         Ian Sibley (isibley@purdue.edu)</p>
     </div>
-</div>
+</div> -->
