@@ -34,11 +34,11 @@
             <h2 style="color: rgb(29,62,100); text-align: center;">In Partnership with BMES, IISE, Sigma Chi, Orbital</h2>
             <br><br>
 
-            <img class = "img-lectures" src="images/prudueieee.png" alt="Cypress PSoC-BLE tech talk" height="150" width="220">
-            <img class = "img-lectures" src="images/BMES.png" alt="Cypress PSoC-BLE tech talk" height="150" width="220">
-            <img class = "img-lectures" src="images/IISE.png" alt="Cypress PSoC-BLE tech talk" height="150" width="220">
-            <img class = "img-lectures" src="images/SX.png" alt="Cypress PSoC-BLE tech talk" height="150" width="220">
-            <img class = "img-lectures" src="images/ATK.png" alt="Cypress PSoC-BLE tech talk" height="150" width="220">
+            <img class = "img-lectures" src="images/prudueieee.png" alt="Purdue IEEE" height="150" width="220">
+            <img class = "img-lectures" src="images/BMES.png" alt="BMES" height="150" width="220">
+            <img class = "img-lectures" src="images/IISE.png" alt="IISE" height="150" width="220">
+            <img class = "img-lectures" src="images/SX.png" alt="Sigma Chi" height="150" width="220">
+            <img class = "img-lectures" src="images/ATK.png" alt="Purdue Orbital" height="150" width="220">
 
             <br><br>
             <div class="col-md-8 text-dark col-md-offset-2 text-dark">
