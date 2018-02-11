@@ -15,7 +15,7 @@
         <div class="row">
 
             <h1 style="color: rgb(29,62,150); text-align: center;">Hosted by  IEEE</h1>
-            <h2 style="color: rgb(29,62,100); text-align: center;">In Partnership with BMES, IISE, Sigma Chi, Orbital</h2>
+            <h2 style="color: rgb(29,62,100); text-align: center;">In Partnership with BMES, IISE, Sigma Chi, Orbital, PESC, Delta Sigma Pi</h2>
             <br><br>
 
             <img class = "img-lectures" src="images/eprudueieee.png" alt="Purdue IEEE" height="150" width="215">
