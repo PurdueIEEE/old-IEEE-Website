@@ -46,8 +46,8 @@
                 <p>Learn from industry leaders what it takes to be successful 
                 in their job roles in a variety of different industries. 
                 This session will help you orient yourself to be a successful candidate 
-                when applying for internship and full-time opportunities.<i>Dress code is formal,
-                there will be professioal headshots taken.</i></p>
+                when applying for internship and full-time opportunities.<i> Dress code is formal,
+                there will be professioal headshots taken. </i></p>
             <br>
                 <p style="text-align: center; font-size: 19px;"> <b>
                     2/13/18 Digital Security- DocuSign, Ariba- Marc Carlson ARMS B061 <br>
