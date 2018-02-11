@@ -24,6 +24,7 @@
             <img class = "img-lectures" src="images/eSX.png" alt="Sigma Chi" height="150" width="215">
             <img class = "img-lectures" src="images/eATK.png" alt="Orbital" height="150" width="215">
             <img class = "img-lectures" src="images/ePESC.png" alt="PESC" height="150" width="215">
+            <img class = "img-lectures" src="images/eDSP.png" alt="Delta Sigma Pi" height="150" width="215">
 
             <br><br>
             <div class="col-md-8 text-dark col-md-offset-2 text-dark">

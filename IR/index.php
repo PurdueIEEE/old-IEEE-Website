@@ -40,6 +40,7 @@
             <img class = "img-lectures" src="images/SX.png" alt="Sigma Chi" height="150" width="220">
             <img class = "img-lectures" src="images/ATK.png" alt="Purdue Orbital" height="150" width="220">
             <img class = "img-lectures" src="images/PESC.png" alt="PESC" height="150" width="220">
+            <img class = "img-lectures" src="images/DSP.png" alt="Delta Sigma Pi" height="150" width="220">
 
             <br><br>
             <div class="col-md-8 text-dark col-md-offset-2 text-dark">
