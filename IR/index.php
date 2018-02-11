@@ -39,14 +39,15 @@
             <img class = "img-lectures" src="images/IISE.png" alt="IISE" height="150" width="220">
             <img class = "img-lectures" src="images/SX.png" alt="Sigma Chi" height="150" width="220">
             <img class = "img-lectures" src="images/ATK.png" alt="Purdue Orbital" height="150" width="220">
-
+            
             <br><br>
             <div class="col-md-8 text-dark col-md-offset-2 text-dark">
                 <h3 style="color: rgb(0,0,0); text-align: center;"> Find Your Job Role </h3>
                 <p>Learn from industry leaders what it takes to be successful 
                 in their job roles in a variety of different industries. 
                 This session will help you orient yourself to be a successful candidate 
-                when applying for internship and full-time opportunities.</p>
+                when applying for internship and full-time opportunities.<i>Dress code is formal,
+                there will be professioal headshots taken.</i></p>
             <br>
                 <p style="text-align: center; font-size: 19px;"> <b>
                     2/13/18 Digital Security- DocuSign, Ariba- Marc Carlson ARMS B061 <br>
