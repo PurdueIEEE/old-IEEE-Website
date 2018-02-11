@@ -141,7 +141,7 @@
                 <h3>Joven Garces</h3>
                 <h4>Professional Committee Head (Spring)</h4>
                 <p>Joven Garces is a sophomore at Purdue studying Computer Engineering. He first joined IEEE in Fall 2017 as part of the Computer Society starting out as the sponsorship coordinator and will be serving as the new head of Industrial Relations Spring 2018. As Industrial Relations Head he hopes to engage students in multiple fields in engineering. In his free time, Joven enjoys doing research, programming, and baking.</p>
-                <p><em>Committee Involvement</em>: <a href="/csociety">Computer Societys</a></p>
+                <p><em>Committee Involvement</em>: <a href="/csociety">Computer Society</a></p>
             </div>
         </div>
 
