@@ -82,8 +82,8 @@
                             <td class="success">Formal (bring resume)</td>
                         </tr>
                         <tr class="success">
-                            <td class="success">Oil and Gas Industry - <b>Shell</b></td>
-                            <td class="warning">TBD</td>
+                            <td class="success">Energy Consulting - <b>Deloitte</b></td>
+                            <td class="success">Ajay Madwesh</td>
                             <td class="success">4/09/18</td>
                             <td class="success">6-7PM</td>
                             <td class="success">ARMS 1010</td>
