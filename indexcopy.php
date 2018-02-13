@@ -1,18 +1,11 @@
 <?php
-    $site_title = 'Purdue IEEE'; //Creates The Site Title Equivalent to <title>
-    $site_index = '/'; //Root Index.
+    $site_title = 'Purdue IEEE';
+    $site_index = '/';
+
     //Output js in footer to load carousel
-    $carousel = true; //Carousel Plugin (Slideshow) set true 
-    include 'header.php'; //Include keyword, preprocesses the header.php file
+    $carousel = true;
+    include 'header.php';
 ?>
-    <!-- Lecture Slide Streaming (Replaces Carousel)
-    <div class="row">
-        <div class="col-lg-12">
-             <header id="myCarousel" class="carousel slide card-2">
-                <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAnkit.M.ll%2Fvideos%2F10159779149470198%2F&show_text=0&width=1140" width="1140" height="960" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-            </header>
-        </div>
-    </div> -->
     <div class="row">
         <div class="col-lg-12">
             <!-- Header Carousel -->
@@ -80,7 +73,7 @@
         </div>
     </div>
 
-    <br><br><!--<br><br><br><br><br>-->
+    <br><br>
     <!-- Upcoming Events List -->
     <div class="well card-1 text-dark">
         <div class="row">
