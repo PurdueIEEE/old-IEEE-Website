@@ -14,37 +14,87 @@
 
         <div class="row">
 
-            <h1 style="color: rgb(29,62,150); text-align: center;">Hosted by  IEEE</h1>
-            <h2 style="color: rgb(29,62,100); text-align: center;">In Partnership with BMES, IISE, Sigma Chi, Orbital</h2>
-            <br><br>
+                <h1 style="color: rgb(29,62,150); text-align: center; font-size: 28px;">
+                    Hosted by Purdue IEEE</h1>
 
-            <img class = "img-lectures" src="images/eprudueieee.png" alt="Purdue IEEE" height="150" width="215">
-            <img class = "img-lectures" src="images/eBMES.png" alt="BMES" height="150" width="215">
-            <img class = "img-lectures" src="images/eIISE.png" alt="IISE" height="150" width="215">
-            <img class = "img-lectures" src="images/eSX.png" alt="Sigma Chi" height="150" width="215">
-            <img class = "img-lectures" src="images/eATK.png" alt="Orbital" height="150" width="215">
+                <h2 style="color: rgb(29,62,100); text-align: center; font-size: 24px;">
+                    In Partnership with BMES, IISE, Sigma Chi, Orbital, PESC, and Sigma Delta Pi</h2>
 
-            <br><br>
-            <div class="col-md-8 text-dark col-md-offset-2 text-dark">
-                <h3 style="color: rgb(0,0,0); text-align: center;"> Find Your Job Role </h3>
-                <p>Learn from industry leaders what it takes to be successful 
-                in their job roles in a variety of different industries. 
-                This session will help you orient yourself to be a successful candidate 
-                when applying for internship and full-time opportunities.</p>
-            <br>
-                <p style="text-align: center; font-size: 19px;"> <b>
-                    2/13/18 Digital Security- DocuSign, Ariba- Marc Carlson ARMS B061 <br>
-                    2/19/18 Biotechnology- Zoll – Martha Drake ARMS 1010 <br>
-                    2/20/18 Consumer Products Company – Kimberly Clark – Neal Michal WALC 1032 <br>
-                    3/19/18 Academic Technology – Mitch Daniels WALC 1055 <br>
-                    3/26/18 Energy Industry – GE – Tony Denhart ARMS 1010 <br>
-                    4/9/18 Oil and Gas Industry- Shell ARMS 1010 <br></b>
-                </p>
+                <div class="col-md-8 text-dark col-md-offset-2 text-dark">
+                
+                    <h3 style="color: rgb(0,0,0);"> Find Your Job Role </h3>
+                    <p>Learn from industry leaders what it takes to be successful 
+                    in their job roles in a variety of different industries. 
+                    This session will help you orient yourself to be a successful candidate 
+                    when applying for internship and full-time opportunities. <i>Dress code is formal, 
+                    there will be professioal headshots taken.</i>
+                    </p>
 
-            </div>
-       
+                    <br>                    
+
+                    <table class="table table-condensed">
+                        <tr class="active">
+                            <td class="active">Industry</td>
+                            <td class="active">Speaker</td>
+                            <td class="active">Date</td>
+                            <td class="active">Time</td>
+                            <td class="active">Location</td>
+                            <td class="active">Dress Code</td>
+                        </tr>
+                        <tr class="success">
+                            <td class="success">Digital Security - <b>DocuSign</b></td>
+                            <td class="success">Marc Carlson</td>
+                            <td class="success">2/13/18</td>
+                            <td class="success">6-7PM</td>
+                            <td class="success">ARMS B061</td>
+                            <td class="success">Formal (bring resume)</td>
+                        </tr>
+                        <tr class="success">
+                            <td class="success">Biotechnology - <b>Zoll</b></td>
+                            <td class="success">Martha Drake</td>
+                            <td class="success">2/19/18</td>
+                            <td class="success">6-7PM</td>
+                            <td class="success">ARMS 1010</td>
+                            <td class="success">Formal (bring resume)</td>
+                        </tr>
+                        <tr class="success">
+                            <td class="success">Consumer Products - <b>Kimberly Clark</b></td>
+                            <td class="success">Neal Michal</td>
+                            <td class="success">2/20/18</td>
+                            <td class="success">6-7PM</td>
+                            <td class="success">WALC 1032</td>
+                            <td class="success">Formal (bring resume)</td>
+                        </tr>
+                        <tr class="success">
+                            <td class="success">Academic Technology - <b> Purdue </b></td>
+                            <td class="success">Mitch Daniels</td>
+                            <td class="success">3/19/18</td>
+                            <td class="success">6-7PM</td>
+                            <td class="success">WALC 1055</td>
+                            <td class="success">Formal (bring resume)</td>
+                        </tr>
+                        <tr class="success">
+                            <td class="success">Energy Industry - <b>GE</b></td>
+                            <td class="success">Tony Denhart</td>
+                            <td class="success">3/26/18</td>
+                            <td class="success">6-7PM</td>
+                            <td class="success">ARMS 1010</td>
+                            <td class="success">Formal (bring resume)</td>
+                        </tr>
+                        <tr class="success">
+                            <td class="success">Oil and Gas Industry - <b>Shell</b></td>
+                            <td class="warning">TBD</td>
+                            <td class="success">4/09/18</td>
+                            <td class="success">6-7PM</td>
+                            <td class="success">ARMS 1010</td>
+                            <td class="success">Formal (bring resume)</td>
+                        </tr>
+
+                    </table>
+
+                </div>
+
         </div>
-
 </div>
 <!-- Callout Information
     <h1 style="margin-top: 0">Callout</h1>
