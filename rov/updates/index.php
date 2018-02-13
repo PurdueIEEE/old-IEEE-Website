@@ -14,7 +14,7 @@
             <div class="list-group">
                 <a href="/rov/updates/" class="list-group-item active">Updates</a>
                 <a href="/rov/history/" class="list-group-item">History</a>
-                <a href="/rov/bylaws/" class="list-group-item">Bylaws</a>
+                <a href="/rov/bylaws.pdf" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
                 <a href="/rov/join.php" class="list-group-item">Join ROV</a>
             </div>

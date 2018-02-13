@@ -114,7 +114,7 @@
         </div>
         
         <hr>
-        <!-- Professional Committee Head -->
+        <!-- Professional Committee Head (Fall) -->
         <div class="row">
             <div class="col-md-3">
                 <div class="officer-cropped"
@@ -123,9 +123,25 @@
             </div>
             <div class="col-md-9">
                 <h3>Reshef Elisha</h3>
-                <h4>Professional Committee Head</h4>
+                <h4>Professional Committee Head (Fall)</h4>
                 <p>Reshef is a senior at Purdue studying Electrical Engineering with a focus on control theory and signal processing. He has been a member of the IEEE since his freshman year and a member of the Purdue IEEE Student Branch since his transfer into Purdue in his Junior year. Reshef is the Professional Head of the Purdue IEEE Student Branch and oversees activities relating to the professional development of the branch's members. Outside of classes, he is involved in a number of aerospace activities as well as dance clubs.</p>
                 <p><em>Committee Involvement</em>: <a href="/rov">ROV</a></p>
+            </div>
+        </div>
+
+        <hr>
+        <!-- Professional Committee Head (Spring) -->
+        <div class="row">
+            <div class="col-md-3">
+                <div class="officer-cropped"
+                    style="background-image: url('/images/officers/Joven_Garces.png')">
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h3>Joven Garces</h3>
+                <h4>Professional Committee Head (Spring)</h4>
+                <p>Joven Garces is a sophomore at Purdue studying Computer Engineering. He first joined IEEE in Fall 2017 as part of the Computer Society starting out as the sponsorship coordinator and will be serving as the new head of Industrial Relations Spring 2018. As Industrial Relations Head he hopes to engage students in multiple fields in engineering. In his free time, Joven enjoys doing research, programming, and baking.</p>
+                <p><em>Committee Involvement</em>: <a href="/csociety">Computer Society</a></p>
             </div>
         </div>
 
