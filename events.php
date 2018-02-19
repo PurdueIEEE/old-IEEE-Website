@@ -45,49 +45,49 @@
                             <td class="success">Digital Security - <b>DocuSign</b></td>
                             <td class="success">Marc Carlson</td>
                             <td class="success">2/13/18</td>
-                            <td class="success">6-7PM</td>
+                            <td class="success">6-7 PM</td>
                             <td class="success">ARMS B061</td>
-                            <td class="success">Business Casual (bring resume)</td>
+                            <td class="success">Business Casual <br /> (bring resume)</td>
                         </tr>
                         <tr class="success">
                             <td class="success">Biotechnology - <b>Zoll</b></td>
                             <td class="success">Martha Drake</td>
                             <td class="success">2/19/18</td>
-                            <td class="success">6-7PM</td>
+                            <td class="success">6-7 PM</td>
                             <td class="success">ARMS 1010</td>
-                            <td class="success">Business Casual (bring resume)</td>
+                            <td class="success">Business Casual <br /> (bring resume)</td>
                         </tr>
                         <tr class="success">
                             <td class="success">Consumer Products - <b>Kimberly Clark</b></td>
                             <td class="success">Neal Michal</td>
                             <td class="success">2/20/18</td>
-                            <td class="success">6-7PM</td>
+                            <td class="success">6-7 PM</td>
                             <td class="success">WALC 1032</td>
-                            <td class="success">Business Casual (bring resume)</td>
+                            <td class="success">Business Casual <br /> (bring resume)</td>
                         </tr>
                         <tr class="success">
                             <td class="success">Academic Technology - <b> Purdue </b></td>
                             <td class="success">Mitch Daniels</td>
                             <td class="success">3/19/18</td>
-                            <td class="success">6-7PM</td>
+                            <td class="success">6-7 PM</td>
                             <td class="success">WALC 1055</td>
-                            <td class="success">Business Casual (bring resume)</td>
+                            <td class="success">Business Casual <br /> (bring resume)</td>
                         </tr>
                         <tr class="success">
                             <td class="success">Energy Industry - <b>GE</b></td>
                             <td class="success">Tony Denhart</td>
                             <td class="success">3/26/18</td>
-                            <td class="success">6-7PM</td>
+                            <td class="success">6-7 PM</td>
                             <td class="success">ARMS 1010</td>
-                            <td class="success">Business Casual (bring resume)</td>
+                            <td class="success">Business Casual <br /> (bring resume)</td>
                         </tr>
                         <tr class="success">
                             <td class="success">Energy Consulting - <b>Deloitte</b></td>
                             <td class="success">Ajay Madwesh</td>
                             <td class="success">4/09/18</td>
-                            <td class="success">6-7PM</td>
+                            <td class="success">6-7 PM</td>
                             <td class="success">ARMS 1010</td>
-                            <td class="success">Business Casual (bring resume)</td>
+                            <td class="success">Business Casual <br /> (bring resume)</td>
                         </tr>
 
                     </table>
