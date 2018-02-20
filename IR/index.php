@@ -78,7 +78,7 @@
                             <td class="success">Neal Michal</td>
                             <td class="success">2/20/18</td>
                             <td class="success">6-7PM</td>
-                            <td class="success">WALC 1032</td>
+                            <td class="success">WALC 1132</td>
                             <td class="success">Business Casual (bring resume)</td>
                         </tr>
                         <tr class="success">
