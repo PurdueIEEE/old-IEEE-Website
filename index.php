@@ -79,7 +79,7 @@
                 </a>
             </header>
         </div>
-    </div> -->
+    </div>
 
     <br><br><!--<br><br><br><br><br>-->
     <!-- Upcoming Events List -->
