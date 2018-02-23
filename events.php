@@ -33,38 +33,6 @@
                     <br>                    
 
                     <table class="table table-condensed">
-                        <tr class="active">
-                            <td class="active">Industry</td>
-                            <td class="active">Speaker</td>
-                            <td class="active">Date</td>
-                            <td class="active">Time</td>
-                            <td class="active">Location</td>
-                            <td class="active">Dress Code</td>
-                        </tr>
-                        <tr class="success">
-                            <td class="success">Digital Security - <b>DocuSign</b></td>
-                            <td class="success">Marc Carlson</td>
-                            <td class="success">2/13/18</td>
-                            <td class="success">6-7 PM</td>
-                            <td class="success">ARMS B061</td>
-                            <td class="success">Business Casual <br /> (bring resume)</td>
-                        </tr>
-                        <tr class="success">
-                            <td class="success">Biotechnology - <b>Zoll</b></td>
-                            <td class="success">Martha Drake</td>
-                            <td class="success">2/19/18</td>
-                            <td class="success">6-7 PM</td>
-                            <td class="success">ARMS 1010</td>
-                            <td class="success">Business Casual <br /> (bring resume)</td>
-                        </tr>
-                        <tr class="success">
-                            <td class="success">Consumer Products - <b>Kimberly Clark</b></td>
-                            <td class="success">Neal Michal</td>
-                            <td class="success">2/20/18</td>
-                            <td class="success">6-7 PM</td>
-                            <td class="success">WALC 1132</td>
-                            <td class="success">Business Casual <br /> (bring resume)</td>
-                        </tr>
                         <tr class="success">
                             <td class="success">Academic Technology - <b> Purdue </b></td>
                             <td class="success">Mitch Daniels</td>
