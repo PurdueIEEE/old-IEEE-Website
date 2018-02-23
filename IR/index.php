@@ -29,7 +29,7 @@
     <div class="well card-1">
     
         <div class="row">
-            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeR9yu000s8X1GMUcl494-91HGgna32dkNMsqkYWS8hLXK8EA/viewform?embedded=true" width="930" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeR9yu000s8X1GMUcl494-91HGgna32dkNMsqkYWS8hLXK8EA/viewform?embedded=true" width="1140" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
         </div>
     
     </div>
