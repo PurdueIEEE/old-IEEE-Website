@@ -33,6 +33,14 @@
                     <br>                    
 
                     <table class="table table-condensed">
+                        <tr class="active">
+                            <td class="active">Industry</td>
+                            <td class="active">Speaker</td>
+                            <td class="active">Date</td>
+                            <td class="active">Time</td>
+                            <td class="active">Location</td>
+                            <td class="active">Dress Code</td>
+                        </tr>
                         <tr class="success">
                             <td class="success">Academic Technology - <b> Purdue </b></td>
                             <td class="success">Mitch Daniels</td>
