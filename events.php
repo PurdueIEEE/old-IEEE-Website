@@ -71,7 +71,7 @@
                             <td class="success">3/19/18</td>
                             <td class="success">6-7 PM</td>
                             <td class="success">WALC 1055</td>
-                            <td class="success">Business Casual <br /> (bring resume)</td>
+                            <td class="success">Business Casual</td>
                         </tr>
                         <tr class="success">
                             <td class="success">Energy Industry - <b>GE</b></td>

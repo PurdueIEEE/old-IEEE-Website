@@ -29,7 +29,7 @@
     <div class="well card-1">
     
         <div class="row">
-            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeR9yu000s8X1GMUcl494-91HGgna32dkNMsqkYWS8hLXK8EA/viewform?embedded=true" width="1120" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeR9yu000s8X1GMUcl494-91HGgna32dkNMsqkYWS8hLXK8EA/viewform?embedded=true" width="1130" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
         </div>
     
     </div>
@@ -93,7 +93,7 @@
                             <td class="success">3/19/18</td>
                             <td class="success">6-7PM</td>
                             <td class="success">WALC 1055</td>
-                            <td class="success">Business Casual (bring resume)</td>
+                            <td class="success">Business Casual</td>
                         </tr>
                         <tr class="success">
                             <td class="success">Energy Industry - <b>GE</b></td>
