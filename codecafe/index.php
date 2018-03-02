@@ -58,11 +58,12 @@
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">How can I start?</h1>
             <p class="text-justified">Click on the sign up link on the top right to RSVP, or <a href="/codecafe/signup">click here.</a></p>
+            <p class="text-justified">However, if you want to be a mentor (accepted mentors get a free T-shirt), fill out this <a href="https://goo.gl/forms/2CTuHYrnyjSer8pM2">application.</a></p>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">I have more questions</h1>
-            <p class="text-center">Feel free to shoot us an email at <a href="mailto:codecafe@purdueieee.org">codecafe@purdueieee.org</a></p>
+            <p class="text-center">Feel free to shoot us an email at <a href="mailto:jjoco@purdue.edu">jjoco@purdue.edu</a></p>
         </div>
     </div>
 
