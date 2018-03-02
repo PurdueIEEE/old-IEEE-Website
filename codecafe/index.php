@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">IEEE Code Cafe</h1>
-            <h2 class="text-center">Saturday, October 14th, 2017</h2>
+            <h2 class="text-center">Saturday, March 31st, 2018</h2>
             <h2 class="text-center">WALC B074</h2>
             <h2 class="text-center">1 - 6 PM</h2>
         </div>
@@ -39,7 +39,7 @@
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="codecafe3.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
+            <p class="text-center"><img src="codecafe4.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
         </div>
     </div>
 
@@ -75,7 +75,7 @@
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="jpmc_logo.png" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
+            <p class="text-center"><img src="csociety_emailheader.png" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
         </div>
     </div>
 </div>
