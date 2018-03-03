@@ -88,7 +88,7 @@
     <p><strong>Time:</strong> 6:30pm - 7:30pm</p>
     <p><strong>Place:</strong> EE 129</p>
 </div> -->
-<br><br>
+<br>
 <!--<h1 style="margin-top: 0">Committee Meetings</h1>
 <p>Additionally, if you are interested in joining a committee after seeing them at our callout, their first meetings and contact info are listed below:<p>
 
