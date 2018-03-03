@@ -101,6 +101,18 @@
         </div>
     </div>
 
+    <!-- Code Cafe Banner -->
+    <a href="codecafe/index.php" style="text-decoration:none" target="_blank">
+    <div class="codewrapper">
+        <br><br>
+            <h1 style = "text-align: center; color: #FFFFFF;"> Code Cafe </h1>
+            <h2 style = "text-align: center; color: #FFFFFF;"> Saturday, March 31 </h2>
+            <h3 style = "text-align: center; color: #FFFF88;"> Click to Learn More </h2>
+        <br><br>
+    </div>
+    </a>
+    <br>
+    
     <!-- Committeee List -->
     <div class="well card-1 text-dark">
         <div class="row">
