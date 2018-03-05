@@ -34,64 +34,76 @@
     
     </div>
     <div class="well card-1">
+        <div class="row">
+            <h1 style="color: rgb(29,62,150); text-align: center; font-size: 28px;">
+                Hosted by Purdue IEEE</h1>
+    
+            <h2 style="color: rgb(29,62,100); text-align: center; font-size: 24px;">
+                In Partnership with Sigma Chi, PESC, and Sigma Delta Pi</h2>
 
-            <div class="row">
-
-                <h1 style="color: rgb(29,62,150); text-align: center; font-size: 28px;">
-                    Hosted by Purdue IEEE</h1>
-
-                <h2 style="color: rgb(29,62,100); text-align: center; font-size: 24px;">
-                    In Partnership with BMES, IISE, Sigma Chi, Orbital, PESC, and Sigma Delta Pi</h2>
-
-                <div class="col-md-8 text-dark col-md-offset-2 text-dark">
-                    <h3 style="color: rgb(0,0,0);"> Find Your Job Role </h3>
-                    <p>Learn from industry leaders what it takes to be successful 
-                    in their job roles in a variety of different industries. 
-                    This session will help you orient yourself to be a successful candidate 
-                    when applying for internship and full-time opportunities. <i>Dress code is formal, 
-                    there will be professioal headshots taken.</i>
-                    </p>
-
-                <br>                    
-
-                    <table class="table table-condensed">
-                        <tr class="active">
-                            <td class="active">Industry</td>
-                            <td class="active">Speaker</td>
-                            <td class="active">Date</td>
-                            <td class="active">Time</td>
-                            <td class="active">Location</td>
-                            <td class="active">Dress Code</td>
-                        </tr>
-                        <tr class="success">
-                            <td class="success">Academic Technology - <b> Purdue </b></td>
-                            <td class="success">Mitch Daniels</td>
-                            <td class="success">3/19/18</td>
-                            <td class="success">6-7PM</td>
-                            <td class="success">WALC 1055</td>
-                            <td class="success">Business Casual</td>
-                        </tr>
-                        <tr class="success">
-                            <td class="success">Energy Industry - <b>GE</b></td>
-                            <td class="success">Tony Denhart</td>
-                            <td class="success">3/26/18</td>
-                            <td class="success">6-7PM</td>
-                            <td class="success">ARMS 1010</td>
-                            <td class="success">Business Casual (bring resume)</td>
-                        </tr>
-                        <tr class="success">
-                            <td class="success">Energy Consulting - <b>Deloitte</b></td>
-                            <td class="success">Ajay Madwesh</td>
-                            <td class="success">4/09/18</td>
-                            <td class="success">6-7PM</td>
-                            <td class="success">ARMS 1010</td>
-                            <td class="success">Business Casual (bring resume)</td>
-                        </tr>
-
-                    </table>
-
-                </div>
-
+                    <div class="col-md-8 text-dark col-md-offset-2 text-dark">
+                    
+                        <h3 style="color: rgb(0,0,0);"> Find Your Job Role </h3>
+                        <p>Learn from industry leaders what it takes to be successful 
+                            in their job roles in a variety of different industries. 
+                            This session will help you orient yourself to be a successful candidate 
+                            when applying for internship and full-time opportunities. <i>Dress code is formal, 
+                            there will be professioal headshots taken.</i></p>
+                        <br>                    
+                        <table class="table table-condensed">
+                            <tr class="active">
+                                <td class="active">Industry</td>
+                                <td class="active">Speaker</td>
+                                <td class="active">Date</td>
+                                <td class="active">Time</td>
+                                <td class="active">Location</td>
+                            </tr>
+                            <tr class="success">
+                                <td class="success">IP Law</td>
+                                <td class="success">IU Mauer</td>
+                                <td class="success">3/06/18</td>
+                                <td class="success">6-7 PM</td>
+                                <td class="success">ARMS 1109</td>
+                            </tr>
+                            <tr class="success">
+                                <td class="success">Clinical Engineering Industry - <b> Franciscan Alliance </b></td>
+                                <td class="success">John Zurisk</td>
+                                <td class="success">4/02/18</td>
+                                <td class="success">6-7 PM</td>
+                                <td class="success">ARMS 1010</td>
+                            </tr>
+                            <tr class="success">
+                                <td class="success">Academic Technology - <b> Purdue </b></td>
+                                <td class="success">Mitch Daniels</td>
+                                <td class="success">3/19/18</td>
+                                <td class="success">6-7 PM</td>
+                                <td class="success">WALC 1055</td>
+                            </tr>
+                            <tr class="success">
+                                <td class="success">Energy Industry - <b>GE</b></td>
+                                <td class="success">Tony Denhart</td>
+                                <td class="success">3/26/18</td>
+                                <td class="success">6-7 PM</td>
+                                <td class="success">ARMS 1010</td>
+                            </tr>
+                            <tr class="success">
+                                <td class="success">Energy Consulting - <b>Deloitte</b></td>
+                                <td class="success">Ajay Madwesh</td>
+                                <td class="success">4/09/18</td>
+                                <td class="success">6-7 PM</td>
+                                <td class="success">ARMS 1010</td>
+                            </tr>
+                            <tr class="success">
+                                <td class="success">Pharmaceutical Industry - <b>Ultragenyx</b></td>
+                                <td class="success">Shalini Sharp</td>
+                                <td class="success">4/16/18</td>
+                                <td class="success">6-7 PM</td>
+                                <td class="success">WALC 1087</td>
+                            </tr>
+                        </table>
+    
+                    </div>
+    
             </div>
     </div>
 

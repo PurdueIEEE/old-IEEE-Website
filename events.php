@@ -18,7 +18,7 @@
                     Hosted by Purdue IEEE</h1>
 
                 <h2 style="color: rgb(29,62,100); text-align: center; font-size: 24px;">
-                    In Partnership with BMES, IISE, Sigma Chi, Orbital, PESC, and Sigma Delta Pi</h2>
+                    In Partnership with Sigma Chi, PESC, and Sigma Delta Pi</h2>
 
                 <div class="col-md-8 text-dark col-md-offset-2 text-dark">
                 
@@ -39,7 +39,20 @@
                             <td class="active">Date</td>
                             <td class="active">Time</td>
                             <td class="active">Location</td>
-                            <td class="active">Dress Code</td>
+                        </tr>
+                        <tr class="success">
+                            <td class="success">IP Law</td>
+                            <td class="success">IU Mauer</td>
+                            <td class="success">3/06/18</td>
+                            <td class="success">6-7 PM</td>
+                            <td class="success">ARMS 1109</td>
+                        </tr>
+                        <tr class="success">
+                            <td class="success">Clinical Engineering Industry - <b> Franciscan Alliance </b></td>
+                            <td class="success">John Zurisk</td>
+                            <td class="success">4/02/18</td>
+                            <td class="success">6-7 PM</td>
+                            <td class="success">ARMS 1010</td>
                         </tr>
                         <tr class="success">
                             <td class="success">Academic Technology - <b> Purdue </b></td>
@@ -47,7 +60,6 @@
                             <td class="success">3/19/18</td>
                             <td class="success">6-7 PM</td>
                             <td class="success">WALC 1055</td>
-                            <td class="success">Business Casual</td>
                         </tr>
                         <tr class="success">
                             <td class="success">Energy Industry - <b>GE</b></td>
@@ -55,7 +67,6 @@
                             <td class="success">3/26/18</td>
                             <td class="success">6-7 PM</td>
                             <td class="success">ARMS 1010</td>
-                            <td class="success">Business Casual <br /> (bring resume)</td>
                         </tr>
                         <tr class="success">
                             <td class="success">Energy Consulting - <b>Deloitte</b></td>
@@ -63,9 +74,14 @@
                             <td class="success">4/09/18</td>
                             <td class="success">6-7 PM</td>
                             <td class="success">ARMS 1010</td>
-                            <td class="success">Business Casual <br /> (bring resume)</td>
                         </tr>
-
+                        <tr class="success">
+                            <td class="success">Pharmaceutical Industry - <b>Ultragenyx</b></td>
+                            <td class="success">Shalini Sharp</td>
+                            <td class="success">4/16/18</td>
+                            <td class="success">6-7 PM</td>
+                            <td class="success">WALC 1087</td>
+                        </tr>
                     </table>
 
                 </div>
