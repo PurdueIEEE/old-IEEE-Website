@@ -48,13 +48,6 @@
                             <td class="success">ARMS 1109</td>
                         </tr>
                         <tr class="success">
-                            <td class="success">Clinical Engineering Industry - <b> Franciscan Alliance </b></td>
-                            <td class="success">John Zurisk</td>
-                            <td class="success">4/02/18</td>
-                            <td class="success">6-7 PM</td>
-                            <td class="success">ARMS 1010</td>
-                        </tr>
-                        <tr class="success">
                             <td class="success">Academic Technology - <b> Purdue </b></td>
                             <td class="success">Mitch Daniels</td>
                             <td class="success">3/19/18</td>
@@ -65,6 +58,13 @@
                             <td class="success">Energy Industry - <b>GE</b></td>
                             <td class="success">Tony Denhart</td>
                             <td class="success">3/26/18</td>
+                            <td class="success">6-7 PM</td>
+                            <td class="success">ARMS 1010</td>
+                        </tr>
+                        <tr class="success">
+                            <td class="success">Clinical Engineering Industry - <b> Franciscan Alliance </b></td>
+                            <td class="success">John Zurisk</td>
+                            <td class="success">4/02/18</td>
                             <td class="success">6-7 PM</td>
                             <td class="success">ARMS 1010</td>
                         </tr>
