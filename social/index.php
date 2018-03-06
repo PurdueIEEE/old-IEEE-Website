@@ -17,6 +17,23 @@
 
                 <h2>2017–2018 Events</h2>
 
+                <h3>IEEE Day</h3>
+                <p>
+                    IEEE Day is the more important IEEE-themed holiday (the second is the IEEE Honor Ceremony
+                    Day), held annually on the first Tuesday in October. It celebrates the first time in
+                    history when engineers worldwide and IEEE members gathered to share their technical ideas
+                    in 1884. For 2017, Purdue IEEE members squared off in a game of jeapordy about Purdue IEEE's technical committees.
+                </p>
+                <img src="./images/2017_2018_ieee_day.jpg" alt="2017 2018 IEEE Day" style="width: 100%"/>
+                <br /> <br />
+
+                 <h3>IEEE Paintball</h3>
+                <p>
+                    IEEE members engaged in a fun day of paintball on October 21st, 2017. 
+                </p>
+                <img src="./images/2017_2018_paintball.jpg" alt="2017 2018 Paintball" style="width: 100%"/>
+                <br /> <br />
+
                 <h3>IEEE Grad Student Night</h3>
                 <p>
                     Graduate students can be nearly invisible on campus, but IEEE certainly wants to give them
