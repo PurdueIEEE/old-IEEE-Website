@@ -80,7 +80,6 @@
             </header>
         </div>
     </div>
-
     <br><br><!--<br><br><br><br><br>-->
     <!-- Upcoming Events List -->
     <div class="well card-1 text-dark">
