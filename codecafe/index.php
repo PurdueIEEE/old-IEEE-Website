@@ -72,11 +72,14 @@
             <h1 class="text-center">Sponsors</h1>
         </div>
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="IEEE_logo.svg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
+            <p class="text-center"><img src="IEEE_logo.svg" alt="Code Cafe Sponsor: IEEE" style="width:80%" style="display:block"></p>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="csociety_emailheader.png" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
+            <p class="text-center"><img src="csociety_emailheader.png" alt="Code Cafe Sponsor: CS" style="width:80%" style="display:block"></p>
+        </div>
+        <div class="col-md-5 text-dark col-md-offset-1">
+            <p class="text-center"><img src="ece_logo.jpg" alt="Code Cafe Sponsor: ECE" style="width:80%" style="display:block"></p>
         </div>
     </div>
 </div>
