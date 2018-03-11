@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-md-8 text-dark col-md-offset-2 text-dark">
                 <h1>IEEE Learning</h1>
-				<p>We have regular planning meetings in ME 2004 on Tuesdays at 6:30PM. Come to these meetings if you want to get involved in IEEE by helping plan and organize learning events! Please contact the current chair, Justin Joco, at jjoco@purdue.edu or visit the IEEE office in EE 014 if you have any questions or concerns.
+				<p>We have regular planning meetings in ME 2004 on Tuesdays at 6:30PM. Come to these meetings if you want to get involved in IEEE by helping plan and organize learning events! Please contact the current chair, Justin Joco, at <a href="mailto:jjoco@purdue.edu">jjoco@purdue.edu</a> or visit the IEEE office in EE 014 if you have any questions or concerns.
 				</p>
 				<hr>
                 <h2>Upcoming in Spring 2018</h2>
