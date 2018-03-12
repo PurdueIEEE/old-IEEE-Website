@@ -24,7 +24,7 @@
             <header id="myCarousel" class="carousel slide card-2">
                 <!-- Wrapper for slides -->
                     <div class="fill" style="background-image:url('./images/TeamPhoto.jpg');"></div>
-                    <div class="carousel-caption"><h2>PARTIEEE Team 2017-2018</h2></div>
+                    <div class="carousel-caption"><h2>2017-2018 Purdue Aerial Robotics Team</h2></div>
             </header>
         </div>
     </div>
