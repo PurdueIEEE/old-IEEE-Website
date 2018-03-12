@@ -23,145 +23,39 @@
             <!-- Header Carousel -->
             <header id="myCarousel" class="carousel slide card-2">
                 <!-- Wrapper for slides -->
-                <div class="carousel-inner">
-                    <div class="item active">
-                        <div class="fill" style="background-image:url('./images/cad.png');"></div>
-                        <div class="carousel-caption">
-                            <h2>UAV P17</h2>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="fill" style="background-image:url('./images/fcskp.png');"></div>
-                        <div class="carousel-caption">
-                            <h2>Flight Controller v2.0</h2>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="fill" style="background-image:url('./images/arceustaxi.png');"></div>
-                        <div class="carousel-caption">
-                            <h2>Arceus</h2>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Controls -->
-                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                    <span class="icon-prev"></span>
-                </a>
-                <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                    <span class="icon-next"></span>
-                </a>
+                    <div class="fill" style="background-image:url('./images/TeamPhoto.jpg');"></div>
+                    <div class="carousel-caption"><h2>PARTIEEE Team 2017-2018</h2></div>
             </header>
         </div>
     </div>
-    <div class="text-dark">
+    <?php
+        include 'navigation.php';
+    ?>
+    <div class="well card-1 text-light">
+
         <div class="row text-center">
-            <div class="col-lg-12">
-                <ul class="pagination">
-                    <li>
-                        <a href="http://www.auvsi-suas.org/competitions/2017/">SUAS Competition Info</a>
-                    </li>
-                    <li>
-                        <a href="https://drive.google.com/file/d/0B_4FcTs3cVvKUUdLdDJaSms1eDg/view?usp=sharing">Info for Sponsors</a>
-                    </li>
-                    <li>
-                        <a href="https://www.youtube.com/channel/UCDyoVLkPq5463PZMnQ-G2hA">Youtube</a>
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/purdueaerial/">Facebook</a>
-                    </li>
-                    <li>
-                        <a href="https://drive.google.com/folderview?id=0B5107H94KnS1Q0dDOEJ5TTU0OEk&usp=sharing">Pictures</a>
-                    </li>
-                </ul>
-            </div>
+            <h1 id="mission">Mission</h1>
+            <hr />
+			<p>The Purdue Aerial Robotics Team IEEE was founded back in 1996 as a committee within the Purdue IEEE Student Organization. The team's mission is to create an Unmanned Aerial System (UAS) to compete in the Association for Unmanned Vehicle Systems International Student Unmanned Air Systems (AUVSI SUAS) Competition. This competition will take place in Webster Field, Maryland in 2018. The team, consisting of AeroMechanical, Electrical, and Software sub-teams, develops a comprehensive system that performs various autonomous tasks.
+			<br /><br />
+			The Aerial Robotics Team consists of both engineering and non-engineering focuses. The engineering goals are to create mathematical and physical models, construct prototypes, and develop a final, mission-ready system. The non-engineering goals are to develop relationships with companies, encourage a collaborative work environment, communicate effectively with team members, and provide learning opportunities for students of any discipline and experience level. Achieving these goals will help us develop a UAS that meets the rigorous standards demanded by the competition, in order to succeed as a team.
+			<br /><br />
+			Purdue Aerial Robotics Team prides itself on its student leadership, perseverance, and desire to excel in all frontiers. Furthermore, team members are constantly striving to learn the technical skills necessary to bring the design to fruition, including 3D-modeling in SolidWorks and CATIA V5, designing the PCB in Eagle Pro, and programming in C, C++, Python, and JavaScript. 
+			</p>
+        </div>
     </div>
+    <div class="well card-1 text-light">
+        <div class="row text-center">
+            <h1 id="officers">Contact Us</h1>
+            <hr />
+            <div class="row text-center">
+                <!--Ellie-->
+                <img src="images/ellie-topi.jpg" alt= "" class="img-circle" width=250px height=250px />
+                <h4>Ellie Topi</h4>
+                <p>Captain</p>
+                <p><a href="mailto:etopi@purdue.edu"> etopi@purdue.edu</a><br /></p>
+            </div>
+        </div>
     </div>
-       <div class="well card-1 text-light">
-
-            <div class="row text-center">
-                <h1 id="mission">Mission</h1>
-                <hr />
-                <p>Purdue Aerial Robotics Team IEEE (PARTIEEE), founded in 1996, consists of four teams: AeroMechanical, Electrical, Software, and Writing. The AeroMechanical team designs and manufactures a custom, stable fixed wing aircraft based on mathematical models. The Electrical team develops custom hardware for the plane, such as power supply boards, sensor boards, and flight controllers. The Software team writes autopilot and image processing algorithms that will guide the system through waypoints and targets. The Writing team works on the technical journal paper, documentation, and presentation displays. The contributions from each team are blended into an unmanned aerial system (UAS) and evaluated at the AUVSI SUAS Competition at Webster Field, Maryland during the summer. For more information contact <a href="mailto:partieee@purdue.edu">Ellie Topi</a></p>
-                <br />
-            </div>
-        </div>
-        <div class="well card-1 text-light">
-            <div class="row text-center">
-                <h1 id="officers">Officers</h1>
-                <hr />
-                <div class="row">
-                    <!--Ellie-->
-                    <div class= "col-md-4">
-                        <img src="../images/officers/Ellie_Topi.jpg" alt= "" class="img-circle" width=250px height=250px />
-                        <h4>Ellie Topi</h4>
-                        <p>Captain<br /><br /></p>
-                    </div>
-                    <!--Anthony-->
-                    <div class= "col-md-4">
-                        <img src="" alt= "" class="img-circle" width=250px height=250px />
-                        <h4>Anthony Goeckner</h4>
-                        <p>Vice Captain<br /><br /></p>
-                    </div>
-                    <!--Erik-->
-                    <div class= "col-md-4">
-                        <img src="" alt= "" class="img-circle" width=250px height=250px />
-                        <h4>Erik VanderWerf</h4>
-                        <p>Vice Captain<br /> <br /></p>
-                    </div>
-                </div>
-                <br />
-                <div class="row">
-                    <!--Mark -->
-                    <div class= "col-md-4">
-                        <img src="" alt= "" class="img-circle" width=250px height=250px />
-                        <h4>Mark Benati </h4>
-                        <p>Software Lead<br /><br /></p>
-                    </div>
-                    <!--Patrick-->
-                    <div class= "col-md-4">
-                        <img src="" alt= "" class="img-circle" width=250px height=250px />
-                        <h4>Patrick May</h4>
-                        <p>Electrical Lead<br /><br /></p>
-                    </div>
-                    <!--Landon-->
-                    <div class= "col-md-4">
-                        <img src="" alt= "" class="img-circle" width=250px height=250px />
-                        <h4>Landon Glunt</h4>
-                        <p>AeroMechanical Lead<br /><br /></p>
-                    </div>
-                </div>
-                    <br />
-                <div class="row">
-                    <!--George Xu-->
-                    <div class= "col-md-4">
-                        <img src="" alt= "" class="img-circle" width=250px height=250px />
-                        <h4>George Xu</h4>
-                        <p>AeroMechanical Technical Head<br /><br /></p>
-                    </div>
-                    <!---->
-                    <div class= "col-md-4">
-                        <img src="images/robert-mcintyre.jpg" alt= "" class="img-circle" width=250px height=250px />
-                        <h4>Robert McIntyre</h4>
-                        <p>AeroMechanical Manufacturing Head<br /><br /></p>
-                    </div>
-                    <div class= "col-md-4">
-                        <img src="" alt= "" class="img-circle" width=250px height=250px />
-                        <h4>Milan Bidare</h4>
-                        <p>Sponsorship Lead<br /><br /></p>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-        <div class="well card-1 text-light">
-            <div class="row text-center">
-                <h1 id="events">Project Updates</h1>
-                <hr />
-
-                <br /><br />
-            </div>
-        </div>
-
 
 <?php include '../footer.php'; ?>
