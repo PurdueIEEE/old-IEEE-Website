@@ -20,8 +20,8 @@
             </div>
         </div>
 
-        <div class="well card-1 text-dark">
-            <div class="row text-center">
+        <div class="col-md-9 text-dark">
+            <h1 class="text-center">Racing Alumni</h1>
                 <div class="row">
                     <!--Adrian White-->
                     <div class="col-md-4">
