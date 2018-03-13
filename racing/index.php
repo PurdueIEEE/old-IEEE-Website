@@ -15,6 +15,7 @@
                 <a href="/racing/history/" class="list-group-item">History</a>
                 <a href="/racing/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/racing/sponsors/" class="list-group-item">Sponsors</a>
+                <a href="/racing/alumni/" class="list-group-item">Alumni</a>
             </div>
         </div>
 
@@ -56,32 +57,46 @@
                     <div class="row">
                         <!--Adrian White-->
                         <div class="col-md-4">
-                            <img src="/racing/images/Adrian.png" alt="Michael Hayashi" class="img-circle" width=200px
+                            <img src="/racing/images/Adrian.jpg" alt="Adrian White" class="img-circle" width=200px
                                  height=200px/>
                             <h4>Adrian White</h4>
                             <p>Chair<br/>Electrical Engineering<br/>Senior</p>
                         </div>
-                        <!--Dakota Demaegd-->
+                        <!--Charlie Watts-->
                         <div class="col-md-4">
-                            <img src="/racing/images/Dakota.png" alt="Michael Anderson" class="img-circle" width=200px
+                            <img src="/racing/images/Charlie.jpg" alt="Charlie Watts" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Dakota Demaegd</h4>
-                            <p>Social Chair<br/>Computer and Information Technology<br/>Senior</p>
+                            <h4>Charlie Watts</h4>
+                            <p>Vice Chair<br/>Electrical Engineering<br/>Sophomore</p>
                         </div>
-                        <!--Erick Figueroa-->
+                        <!--Micaela Salmon-->
                         <div class="col-md-4">
-                            <img src="/racing/images/Erick.png" alt="Alan Han" class="img-circle" width=200px height=200px/>
-                            <h4>Erick Figueroa</h4>
-                            <p>Technical Lead<br/> Electrical Engineering Technology<br/>Junior</p>
+                            <img src="/racing/images/Micaela.jpg" alt="Micaela Salmon" class="img-circle" width=200px height=200px/>
+                            <h4>Micaela Salmon</h4>
+                            <p>Electrical Lead<br/>Robotics Engineering Technology<br/>Freshman</p>
                         </div>
                     </div>
-
+                    <div class="row">
+                        <!--Anthony Huo-->
+                        <div class="col-md-4">
+                            <img src="/racing/images/Anthony.jpg" alt="Adrian White" class="img-circle" width=200px
+                                 height=200px/>
+                            <h4>Anthony Huo</h4>
+                            <p>Controls Lead<br/>Electrical Engineering<br/>Sophomore</p>
+                        </div>
+                        <!--Chuck Vamos-->
+                        <div class="col-md-4">
+                            <img src="/racing/images/Chuck.jpg" alt="Chuck Vamos" class="img-circle" width=200px
+                                 height=200px/>
+                            <h4>Chuck Vamos</h4>
+                            <p>Mechanical Lead<br/>Electrical Engineering<br/>Sophomore</p>
+                        </div>
+                    </div>
                 </div>
             </div>
 
         </div>
         <!-- /Content Column -->
-
     </div>
 </div>
 <!-- /.well -->

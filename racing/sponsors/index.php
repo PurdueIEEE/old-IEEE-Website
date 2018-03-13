@@ -16,27 +16,27 @@
                 <a href="/racing/history/" class="list-group-item">History</a>
                 <a href="/racing/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/racing/sponsors/" class="list-group-item active">Sponsors</a>
+                <a href="/racing/alumni/" class="list-group-item">Alumni</a>
             </div>
         </div>
 
         <!-- Content Column -->
         <div class="col-md-9 text-dark">
-        <h1 class="text-center">Sponsors</h1>
-
-            <div class="row">
-                <div class="col-md-4 text-center">
-                    <a href="http://www.bechtel.com/" target="_blank"><img src="/racing/images/Bechtel.png" alt="Bechtel" style="width:100%"></a>
+            <h1 class="text-center">Gold Sponsor</h1>
+                <div class="row">
+                    <div class="col-md-4 text-center">
+                            <a href="http://www.purdue.edu/provost/" target="_blank"><img src="/racing/images/Provost.png" alt="Bechtel" style="width:100%"></a>
+                    </div>
                 </div>
-
-                <div class="col-md-4 text-center">
-
+            <br /><br />
+            <h1 class="text-center">Silver Sponsor</h1>
+                <div class="row">
+                    <div class="col-md-4 text-center">
+                        <a href="https://www.harmonyhit.com" target="_blank"><img src="/racing/images/HHIT.png" alt="Exxon Mobil" style="width:100%"></a>
+                    </div>
                 </div>
-                <div class="col-md-4 text-center">
-                    <a href="http://corporate.exxonmobil.com/" target="_blank"><img src="/racing/images/ExxonMobil.png" alt="Exxon Mobil" style="width:100%"></a>
-                </div>
-            </div>
-         </div>
-     </div>
+        </div>
+    </div>
 </div>
 
-    <?php include '../../footer.php';?>
+<?php include '../../footer.php';?>

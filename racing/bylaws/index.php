@@ -16,6 +16,7 @@ include '../../header.php';
                 <a href="/racing/history/" class="list-group-item">History</a>
                 <a href="/racing/bylaws/" class="list-group-item active">Bylaws</a>
                 <a href="/racing/sponsors/" class="list-group-item">Sponsors</a>
+                <a href="/racing/alumni/" class="list-group-item">Alumni</a>
             </div>
         </div>
 

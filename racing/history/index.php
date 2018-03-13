@@ -16,6 +16,7 @@ include '../../header.php';
                 <a href="/racing/history/" class="list-group-item active">History</a>
                 <a href="/racing/bylaws/" class="list-group-item">Bylaws</a>
                 <a href="/racing/sponsors/" class="list-group-item">Sponsors</a>
+                <a href="/racing/alumni/" class="list-group-item">Alumni</a>
             </div>
         </div>
 
@@ -23,7 +24,7 @@ include '../../header.php';
         <div class="col-md-9 text-dark">
             <h1 class="text-center">Racing Team History</h1><br>
 
-            <h3 class="text-center">2016</h3>
+            <h3 class="text-center">2016-2017 Season</h3>
 
 
             <p class="text-justify">The 2016 season was challenging for us due to many members leaving. Our focus this
