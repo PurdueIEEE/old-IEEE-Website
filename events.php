@@ -65,9 +65,9 @@
                     <a href="https://www.google.com/calendar/event?action=TEMPLATE&pprop=eidmsgid%3A_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6sqj2gi265244d9k88qk8cpg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g8h14cc9i6ksk2h248cqjig9k7513ce2270r3cc1i8gpjechg64pg_161fba726e9f7872&dates=20180319T180000%2F20180319T190000&text=Academics%20%26%20Technology%20Q%26A%20with%20Purdue%20President%20Mitch%20Daniels&location=WALC%201055&details=Join%20us%20for%20a%20Q%26A%20with%20Mitch%20Daniels.%20Please%20be%2010%20minutes%20early.%0A%0AProfessional%20headshots%20will%20be%20taken.%0A%0AMore%20info%20on%20PurdueIEEE.org%0A%0AIf%20you%20cannot%20attend%20the%20event%20Livestream%20at%3A%0A%0APurdueIEEE.org%0A&add=ankit.maewall%40gmail.com&ctok=YW5raXQubWFld2FsbEBnbWFpbC5jb20" target="_blank" style="text-decoration: none;"><img src="images/logo_lockup_calendar_icon.png"></a>
                 </div>
         </div>
-        <div class="row">
+        <!-- <div class="row">
             <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdnlhyjN7CslLFx-KYKXZ3EAnb-layl2ucR1yXe5JJj6Y9UVw/viewform?embedded=true" width="1130" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-        </div>
+        </div> -->
 </div>
 <!-- Callout Information
     <h1 style="margin-top: 0">Callout</h1>
