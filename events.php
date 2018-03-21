@@ -40,13 +40,6 @@
                             <td class="active">Time</td>
                             <td class="active">Location</td>
                         </tr>
-                        <tr class="success">
-                            <td class="success">IP Law</td>
-                            <td class="success">IU Mauer</td>
-                            <td class="success">3/06/18</td>
-                            <td class="success">6-7 PM</td>
-                            <td class="success">ARMS 1109</td>
-                        </tr>
                         <tr class="warning">
                             <td class="success">Academic Technology - <b> Purdue </b></td>
                             <td class="success">Mitch Daniels</td>
@@ -54,35 +47,12 @@
                             <td class="success"></td>
                             <td class="success"></td>
                         </tr>
-                        <tr class="danger">
-                            <td class="success">Energy Industry - <b>GE</b></td>
-                            <td class="success">Tony Denhart</td>
-                            <td class="success">CANCELLED</td>
-                            <td class="success"></td>
-                            <td class="success"></td>
-                            <!--<td class="success">3/26/18</td>
-                            <td class="success">6-7 PM</td>
-                            <td class="success">ARMS 1010</td>-->
-                        </tr>
-                        <tr class="danger">
+                        <tr class="success">
                             <td class="success">Clinical Engineering Industry - <b> Franciscan Alliance </b></td>
                             <td class="success">John Zurisk</td>
-                            <td class="success">CANCELLED</td>
-                            <td class="success"></td>
-                            <td class="success"></td>
-                            <!--<td class="success">4/02/18</td>
+                            <td class="success">4/02/18</td>
                             <td class="success">6-7 PM</td>
-                            <td class="success">ARMS 1010</td>-->
-                        </tr>
-                        <tr class="danger">
-                            <td class="success">Energy Consulting - <b>Deloitte</b></td>
-                            <td class="success">Ajay Madwesh</td>
-                            <td class="success">CANCELLED</td>
-                            <td class="success"></td>
-                            <td class="success"></td>
-                            <!--<td class="success">4/09/18</td>
-                            <td class="success">6-7 PM</td>
-                            <td class="success">ARMS 1010</td>-->
+                            <td class="success">ARMS 1010</td>
                         </tr>
                         <tr class="success">
                             <td class="success">Pharmaceutical Industry - <b>Ultragenyx</b></td>

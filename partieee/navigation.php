@@ -15,7 +15,7 @@
                         <a href="http://www.auvsi-suas.org/" target="_blank">SUAS Competition</a>
                     </li>
                     <li>
-                        <a href="sponorship.php">Sponsorship</a>
+                        <a href="sponorships.php">Sponsorship</a>
                     </li>
                     <li>
                         <a href="https://www.youtube.com/channel/UCDyoVLkPq5463PZMnQ-G2hA" target="_blank">Media</a>

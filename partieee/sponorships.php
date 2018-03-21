@@ -28,7 +28,7 @@
     </script>
 <div class="well card-1 text-light">
     <div class="row text-center">
-        <h1 id="events">Sponors</h1>
+        <h1 id="events">Sponsors</h1>
         <p>Without our generous sponsors, it would not be possible for our team to go to competition. We are very thankful for the support provided by our sponsors.
         </p>
         <br />
