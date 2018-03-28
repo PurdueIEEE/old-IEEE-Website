@@ -81,6 +81,26 @@
         </div>
     </div>
     <br><br><!--<br><br><br><br><br>-->
+
+ <!-- Upcoming Events List -->
+ <div class="well card-1 text-dark">
+        <div class="row">
+            <div class="col-md-12">
+                <h2><b>Elections</b></h2>
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-md-12">
+                <div class="media">
+                    <div class="media-body">
+                        <?php include 'elections.php' ?>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Upcoming Events List -->
     <div class="well card-1 text-dark">
         <div class="row">
