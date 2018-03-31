@@ -129,7 +129,7 @@
 
                     <b>Ellie Topi  -- Vice President and Growth and Engagement Chair </b> <br>
                     <p> <b> Vice President: </b> <br>
-                    As the current Aerial Captain, I’m looking to take my experience and IEEE involvement to the next level. I pride myself on my ability to effectively organize people, and hope to bring that ability to IEEE at large by promoting communication and interaction between the committees, maintaining oversight over the committees, and helping the President out. Enabling the smooth functioning of IEEE is a top priority. </p>
+                    As the current Aerial Captain, I’m looking to take my experience and IEEE involvement to the next level by running for VP. I pride myself on my ability to effectively organize people, and hope to bring that ability to IEEE at large by promoting communication and interaction between the committees, maintaining oversight over the committees, and helping the President out. Enabling the smooth functioning of IEEE is a top priority.</p>
 
                     <p> <b> Growth and Engagement Chair: </b> <br>
                     I’m currently the G&E Chair, and have prided myself on formalizing recruiting and outreach efforts. By placing a special effort on finding and recruiting more specialized members for our technical committees. I’ve also made outreach with our local community a higher priority. I hope to continue this effort next year.</p>
