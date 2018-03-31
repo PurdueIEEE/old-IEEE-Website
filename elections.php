@@ -126,6 +126,13 @@
 
                     <b>Jacob Cottrell  -- Industrial Relations Chair </b> <br>
                     <p> IEEE is one of the most organized and professional student organizations I have had the pleasure of being a part of, and I want to play a role in maintaining that level of professionalism and esteem by bringing in corporate sponsors and speakers to interact with members. I joined IEEE in spring of 2017 as a member of the basestation team in the ROV committee and more recently became a member of the PARTIEEE committee, within which I mostly worked with the sponsorship sub-committee to acquire funding and material donations for the team. I want to take that role a step further in becoming the Industrial Relations Chair for IEEE to continue bringing professional opportunities and career building events to members by using both previously existing connections as well as my own connections to multiple departments on campus. I believe I have both the relevant experience and relevant connections necessary to successfully facilitate and lead the IEEE industrial relations committee to fruition.</p>
+
+                    <b>Ellie Topi  -- Vice President and Growth and Engagement Chair </b> <br>
+                    <p> <b> Vice President: </b> <br>
+                    As the current Aerial Captain, I’m looking to take my experience and IEEE involvement to the next level. I pride myself on my ability to effectively organize people, and hope to bring that ability to IEEE at large by promoting communication and interaction between the committees, maintaining oversight over the committees, and helping the President out. Enabling the smooth functioning of IEEE is a top priority. </p>
+
+                    <p> <b> Growth and Engagement Chair: </b> <br>
+                    I’m currently the G&E Chair, and have prided myself on formalizing recruiting and outreach efforts. By placing a special effort on finding and recruiting more specialized members for our technical committees. I’ve also made outreach with our local community a higher priority. I hope to continue this effort next year.</p>
                    
                 </div>
         </div>
