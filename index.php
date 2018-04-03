@@ -102,6 +102,15 @@
     </div> -->
 
     <!-- Upcoming Events List -->
+    <div class="well card-1">
+        <div class="row">
+            <a href="IR/index.php" target="_blank" style="text-decoration: none;">
+                <div class="msft-logo">Microsoft</div>
+                <br><br>
+                <div class="msft-undertext">6:30PM Monday April 9th WALC 1087</div>
+            </a>
+        </div>
+    </div>
     <div class="well card-1 text-dark">
         <div class="row">
             <div class="col-md-12">

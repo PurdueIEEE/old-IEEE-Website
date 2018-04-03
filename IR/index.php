@@ -34,6 +34,14 @@
     
     </div> -->
     <div class="well card-1">
+
+        <div class="row">
+            <img src = "images/microsoft_flyer.jpg" 
+            style = "display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+        </div>
+
+    </div>
+    <div class="well card-1">
         <div class="row">
                 <h1 style="color: rgb(29,62,150); text-align: center; font-size: 28px;">
                 Hosted by Purdue IEEE</h1>

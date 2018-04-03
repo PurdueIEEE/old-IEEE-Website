@@ -21,7 +21,7 @@
     <![endif]-->
     <link rel="SHORTCUT ICON" href="/favicon.ico">
     <link rel="apple-touch-icon" href="https://www.ieee.org/ucm/groups/webassets/@ieee/@web/@org/documents/images/ieee_apple_touch_icon.png">
-    <link href="gradient.css" rel="stylesheet">
+    <link href="microsoft.css" rel="stylesheet"> <!-- Microsoft Logo CSS -->
 </head>
 <body>
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
