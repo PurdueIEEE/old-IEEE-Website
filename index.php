@@ -121,7 +121,7 @@
     </div>
 
     <!-- Code Cafe Banner -->
-    <a href="codecafe/index.php" style="text-decoration:none" target="_blank">
+    <!-- <a href="codecafe/index.php" style="text-decoration:none" target="_blank">
     <div class="codewrapper">
         <br><br>
             <h1 style = "text-align: center; color: #FFFFFF;"> Code Cafe </h1>
@@ -130,7 +130,7 @@
         <br><br>
     </div>
     </a>
-    <br>
+    <br> -->
     
     <!-- Committeee List -->
     <div class="well card-1 text-dark">
