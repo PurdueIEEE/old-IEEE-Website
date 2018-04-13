@@ -24,7 +24,53 @@
             <h2 class="text-center">Remotely Operated underwater Vehicle (ROV) Team</h2>
             <br>
 
+            <hr>
 
+            <p><em>April 13th, 2018 Update</em></p>
+            <div>
+                <p> 
+                    <!-- Insert New Update Here -->
+                </p>
+                <div class="row">
+                    <div class="col-md-4 text-dark">
+                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSDQ5ZkdZcnBMSUU">Season Pictures</a></p>
+                    </div>
+                    <div class="col-md-4 text-dark">
+                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSkxCQ21xa051REk">Spec Sheet</a></p>
+                    </div>
+                    <div class="col-md-4 text-dark">
+                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZjlJVXdBc0dWQUU">Tech Report</a></p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 text-dark">
+                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZ0VnalJiMmJ2bEk">Team Poster</a></p>
+                    </div>
+                    <div class="col-md-4 text-dark">
+                        <p class="text-center"><a href="https://www.youtube.com/watch?v=n5yur2sxvFY&feature=youtu.be">Qualifying Video</a></p>
+                    </div>
+                    <div class="col-md-4 text-dark">
+                        <p class="text-center"><a href="/rov/files/June2017PressRelease.pdf">Press Release</a></p>
+                    </div>
+                </div>
+                <p class="text-center"><img src="/rov/images/2018Full.JPG" alt="Purdue ROV Full Team Picture" style="width:85%"></p>
+                <p class="text-center">Purdue ROV Full Team Picture</p>
+                <br>
+                <p class="text-center"><img src="/rov/images/2018Leadership.JPG" alt="Purdue ROV Leadership Team Picture" style="width:85%"></p>
+                <p class="text-center">Purdue ROV Leadership Team Picture</p>
+                <br>
+                <p class="text-center"><img src="/rov/images/2018Software.JPG" alt="Purdue ROV Software Team Picture" style="width:85%"></p>
+                <p class="text-center">Purdue ROV Software Team Picture</p>
+                <br>
+                <p class="text-center"><img src="/rov/images/2018Electrical.JPG" alt="Purdue ROV Electrical Team Picture" style="width:85%"></p>
+                <p class="text-center">Purdue ROV Electrical Team Picture</p>
+                <br>
+                <p class="text-center"><img src="/rov/images/2018Mechanical.JPG" alt="Purdue ROV Mechanical Team Picture" style="width:85%"></p>
+                <p class="text-center">Purdue ROV Mechanical Team Picture</p>
+                <br>
+            </div>
+            
             <hr>
 
             <p><em>June 28, 2017 Update</em></p>
