@@ -5,16 +5,10 @@
     $carousel = true; //Carousel Plugin (Slideshow) set true 
     include 'header.php'; //Include keyword, preprocesses the header.php file
 ?>
-    <!-- Lecture Slide Streaming (Replaces Carousel)
-    <div class="row">
-        <div class="col-lg-12">
-            <header id="myCarousel" class="carousel slide card-2">
-            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpurdueieee%2Fvideos%2F1695660087162220%2F&show_text=0&width=1140" width="1140" height="960" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>           
-            </header>
-        </div>
-    </div> -->
+    
+  
    
-    <div class="row">
+     <div class="row">
         <div class="col-lg-12">
             <!-- Header Carousel -->
             <header id="myCarousel" class="carousel slide card-2">
@@ -109,6 +103,14 @@
                 <br><br>
                 <div class="msft-undertext">6:30PM Monday April 9th WALC 1087</div>
             </a>
+         <br> <br>
+    <div class="row">
+        <div class="col-lg-12">
+            <header id="myCarousel" class="carousel slide card-2">
+            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpurdueieee%2Fvideos%2F1748427341885494%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+            </header>
+        </div>
+    </div> 
         </div>
     </div>
     <div class="well card-1 text-dark">
