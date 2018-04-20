@@ -95,41 +95,6 @@
         </div>
     </div> -->
 
-    <!-- Upcoming Events List -->
-    <div class="well card-1">
-        <div class="row">
-            <a href="IR/index.php" target="_blank" style="text-decoration: none;">
-                <div class="msft-logo">Microsoft</div>
-                <br><br>
-                <div class="msft-undertext">6:30PM Monday April 9th WALC 1087</div>
-            </a>
-         <br> <br>
-    <div class="row">
-        <div class="col-lg-12">
-            <header id="myCarousel" class="carousel slide card-2">
-            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpurdueieee%2Fvideos%2F1748427341885494%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-            </header>
-        </div>
-    </div> 
-        </div>
-    </div>
-    <div class="well card-1 text-dark">
-        <div class="row">
-            <div class="col-md-12">
-                <h2><b>Upcoming Events</b></h2>
-            </div>
-        </div>
-        <hr />
-        <div class="row">
-            <div class="col-md-12">
-                <div class="media">
-                    <div class="media-body">
-                        <?php include 'events.php' ?>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <!-- Code Cafe Banner -->
     <!-- <a href="codecafe/index.php" style="text-decoration:none" target="_blank">
