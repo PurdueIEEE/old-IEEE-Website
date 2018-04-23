@@ -15,7 +15,7 @@
                 <a href="/rov/history/" class="list-group-item">History</a>
                 <a href="/rov/bylaws.pdf" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
-                <a href="join.php" class="list-group-item">Join ROV</a>
+                <a href="/rov/join.php" class="list-group-item">Join ROV</a>
             </div>
         </div>
 
@@ -26,83 +26,11 @@
 
             <hr>
 
-            <p><em>April 13th, 2018 Update</em></p>
-            <div>
-                <p> 
-                    <!-- Insert New Update Here -->
-                </p>
-                <div class="row">
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSDQ5ZkdZcnBMSUU">Season Pictures</a></p>
-                    </div>
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSkxCQ21xa051REk">Spec Sheet</a></p>
-                    </div>
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZjlJVXdBc0dWQUU">Tech Report</a></p>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZ0VnalJiMmJ2bEk">Team Poster</a></p>
-                    </div>
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="https://www.youtube.com/watch?v=n5yur2sxvFY&feature=youtu.be">Qualifying Video</a></p>
-                    </div>
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="/rov/files/June2017PressRelease.pdf">Press Release</a></p>
-                    </div>
-                </div>
-                <p class="text-center"><img src="/rov/images/2018Full.JPG" alt="Purdue ROV Full Team Picture" style="width:85%"></p>
-                <p class="text-center">Purdue ROV Full Team Picture</p>
-                <br>
-                <p class="text-center"><img src="/rov/images/2018Leadership.JPG" alt="Purdue ROV Leadership Team Picture" style="width:85%"></p>
-                <p class="text-center">Purdue ROV Leadership Team Picture</p>
-                <br>
-                <p class="text-center"><img src="/rov/images/2018Software.JPG" alt="Purdue ROV Software Team Picture" style="width:85%"></p>
-                <p class="text-center">Purdue ROV Software Team Picture</p>
-                <br>
-                <p class="text-center"><img src="/rov/images/2018Electrical.JPG" alt="Purdue ROV Electrical Team Picture" style="width:85%"></p>
-                <p class="text-center">Purdue ROV Electrical Team Picture</p>
-                <br>
-                <p class="text-center"><img src="/rov/images/2018Mechanical.JPG" alt="Purdue ROV Mechanical Team Picture" style="width:85%"></p>
-                <p class="text-center">Purdue ROV Mechanical Team Picture</p>
-                <br>
-            </div>
-            
-            <hr>
-
-            <p><em>June 28, 2017 Update</em></p>
+            <p><em>April 13, 2018 Update</em></p>
             <div>
                 <p>
-                The ROV Team finished eight overall in the 2017 MATE International Competition! We also won awards for the best technical documentation and the best product presentation! Furthermore, rising sophomore, Katherine Mao, won the Flying Fish for her mechanical designs and passion for the ROV field. Read the <a href="/rov/files/June2017PressRelease.pdf">full press release here</a>. Also view our official team documents and pictures throughout the season by selecting the links below. We already have plans underway for next year where we hope to claim first place in Seattle!
+                The 2018 ROV Team pictures are now posted. See the complete team picture below and <a href=/rov/team/2018pictures.php>individual technical and administrative team pictures here</a>.
                 </p>
-                <div class="row">
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSDQ5ZkdZcnBMSUU">Season Pictures</a></p>
-                    </div>
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSkxCQ21xa051REk">Spec Sheet</a></p>
-                    </div>
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZjlJVXdBc0dWQUU">Tech Report</a></p>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZ0VnalJiMmJ2bEk">Team Poster</a></p>
-                    </div>
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="https://www.youtube.com/watch?v=n5yur2sxvFY&feature=youtu.be">Qualifying Video</a></p>
-                    </div>
-                    <div class="col-md-4 text-dark">
-                        <p class="text-center"><a href="/rov/files/June2017PressRelease.pdf">Press Release</a></p>
-                    </div>
-                </div>
-                <p class="text-center"><img src="/rov/images/Winning_tech_report.jpg" alt="2017 Competition Team with Tech Report Award" style="width:85%"></p>
-                <p class="text-center">The Purdue ROV attendees posing with the first-place technical documentation award</p>
             </div>
             <hr>
 
@@ -128,16 +56,16 @@
             </p>
 
             <p class="text-justify">
-                For more current and past information view the links to the left or contact <a href="mailto:rov@purdueieee.org">Alexander Ruffino</a>. The ROV team will be accepting new members at the beginning of the Fall 2017 semester. The current team members are below.
+                For more current and past information view the links to the left or contact <a href="mailto:rov@purdueieee.org">Alexander Ruffino</a>. The ROV team will be accepting new members at the beginning of the Fall 2018 semester. The current team picture is below.
             </p>
 
-            <h2 class="text-center">2016-2017 Team Picture</h2>
-            <a href="/rov/images/2017FinalTeamPicture.png"
-                <p class="text-center"><img src="/rov/images/2017FinalTeamPicture_small.png" alt="2017 Team" style="width:100%"></p>
+            <h2 class="text-center">2017-2018 Team Picture</h2>
+            <a href="/rov/images/2018Full.jpg"
+                <p class="text-center"><img src="/rov/images/2018Full.jpg" alt="2018 Team" style="width:100%"></p>
             </a>
             <br>
 
-            <p><a href="2017otherpictures.php">See individual technical team pictures here</a></p>
+            <p><a href="/rov/team/2018pictures.php">See individual technical team pictures here</a></p>
             <br>
 
             <p class="text-center"><a href="https://www.facebook.com/purdueieeerov"><i class="fa fa-facebook-square fa-4x"></i></a></p>
