@@ -29,7 +29,7 @@
             <p><em>April 13, 2018 Update</em></p>
             <div>
                 <p>
-                The 2018 ROV Team pictures are now posted. See the complete team picture below and <a href=/rov/team/2018pictures.php>individul technical and administrative team pictures here</a>.
+                The 2018 ROV Team pictures are now posted. See the complete team picture below and <a href=/rov/team/2018pictures.php>individual technical and administrative team pictures here</a>.
                 </p>
             </div>
             <hr>

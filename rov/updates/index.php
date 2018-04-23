@@ -30,7 +30,7 @@
             <p><em>April 13, 2018</em></p>
             <div class="col-md-5">
                 <p class="text-justify">
-                The 2018 ROV Team pictures are now posted. See the <a href=/rov/team/2018pictures.php>individul technical and administrative team pictures here</a>.
+                The 2018 ROV Team pictures are now posted. See the <a href=/rov/team/2018pictures.php>individual technical and administrative team pictures here</a>.
                 </p><br>
             </div>
             <div class="col-md-7">
