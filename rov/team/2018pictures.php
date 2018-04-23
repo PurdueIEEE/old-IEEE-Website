@@ -16,6 +16,7 @@
                 <a href="/rov/history/" class="list-group-item">History</a>
                 <a href="/rov/bylaws.pdf" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
+                <a href="/rov/join.php" class="list-group-item">Join ROV</a>
             </div>
         </div>
 
@@ -35,107 +36,105 @@
             <p class="text-center"><img src="/rov/images/2018Electrical.jpg" alt="Electrical Team" style="width:100%"></p><br>
 
 
-            <!-- 
             <div class="row">
-                <div class="col-sm-2"><p class="text-center">Rodolfo<br>Leiva</p></div>
-                <div class="col-sm-1"><p class="text-center">Alan<br>Han</p></div>
-                <div class="col-sm-2"><p class="text-center">Nick<br>Loffredo</p></div>
+                <div class="col-sm-3"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">Luke<br>McBee</p></div>
                 <div class="col-sm-2"><p class="text-center">Jason<br>King</p></div>
-                <div class="col-sm-2"><p class="text-center">Ryan<br>McBee</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
             </div>
             <br>
             <div class="row">
-                <div class="col-sm-1"><p class="text-center"><br></p></div>
-                <div class="col-sm-1"><p class="text-center"><br></p></div>
-                <div class="col-sm-2"><p class="text-center">Jessica<br>Chin</p></div>
-                <div class="col-sm-2"><p class="text-center">Carolyn<br>Lewelling</p></div>
-                <div class="col-sm-2"><p class="text-center">David<br>Bustamante</p></div>
+                <div class="col-sm-3"><p class="text-center">Carolyn<br>Lewelling</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
             </div>
 
             <div>
-                <p>Not Pictured: Samuel Deghuee, Kyla Hayes, David Bustamante, John Brankamp, Nick Loffredo, Richard Shen, Romita Biswas, &amp; Xi Wu</p>
+                <p>Not Pictured: </p>
             </div>
-            -->
+            
 
             <h3 class="text-center">Mechanical Team</h3>
             <p class="text-center"><img src="/rov/images/2018Mechanical.jpg" alt="Mechanical Team" style="width:100%"></p><br>
-            <!--
+            
             <div class="row">
-                <div class="col-sm-2"><p class="text-center">Amandeep<br>Singh</p></div>
-                <div class="col-sm-2"><p class="text-center">Rohit<br>Srivastava</p></div>
-                <div class="col-sm-2"><p class="text-center">Alex<br>Gebhardt</p></div>
-                <div class="col-sm-1"><p class="text-center">Joe<br>Pejril</p></div>
-                <div class="col-sm-2"><p class="text-center">Jacob<br>Cottrell</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
                 <div class="col-sm-2"><p class="text-center">Jonathan<br>Kline</p></div>
-                <div class="col-sm-1"><p class="text-center">Reed<br>Trende</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-1"><p class="text-center">Joshua<br>Berg</p></div>
+                <div class="col-sm-2"><p class="text-center">Amandeep<br>Singh</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-1"><p class="text-center">Alex<br>Gebhardt</p></div>
             </div>
             <br>
 
             <div class="row">
-                <div class="col-sm-2"><p class="text-center">Seth<br>Emond</p></div>
-                <div class="col-sm-2"><p class="text-center">Enlee<br>Choo</p></div>
-                <div class="col-sm-2"><p class="text-center">Monica<br>Mah</p></div>
-                <div class="col-sm-1"><p class="text-center">Logan<br>Walters</p></div>
-                <div class="col-sm-2"><p class="text-center">Ben<br>Hutchins</p></div>
-                <div class="col-sm-2"><p class="text-center"><br></p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-1"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">Logan<br>Walters</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
                 <div class="col-sm-1"><p class="text-center">Tyler<br>Stagge</p></div>
             </div>
             <div>
-                <p>Not Pictured: Joshua Berg, Alex Ruffino, Teal Dowd, Dan Schillizi, Katie Mao, &amp; Bayley Clausen </p>
+                <p>Not Pictured: Tyler Stagge &amp; Reed Trende</p>
             </div>
-            -->
+            
 
             <h3 class="text-center">Software Team</h3>
             <p class="text-center"><img src="/rov/images/2018Software.jpg" alt="Software Team" style="width:100%"></p><br>
-            <!--
+
             <div class="row">
-                <div class="col-sm-2"><p class="text-center">Amandeep<br>Singh</p></div>
-                <div class="col-sm-2"><p class="text-center">Rohit<br>Srivastava</p></div>
-                <div class="col-sm-2"><p class="text-center">Alex<br>Gebhardt</p></div>
-                <div class="col-sm-1"><p class="text-center">Joe<br>Pejril</p></div>
-                <div class="col-sm-2"><p class="text-center">Jacob<br>Cottrell</p></div>
-                <div class="col-sm-2"><p class="text-center">Jonathan<br>Kline</p></div>
-                <div class="col-sm-1"><p class="text-center">Reed<br>Trende</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">Andrew<br>Bostock</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">Ryan<br>McBee</p></div>
+                <div class="col-sm-2"><p class="text-center">Ian<br>Sibley</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
             </div>
             <br>
 
             <div class="row">
-                <div class="col-sm-2"><p class="text-center">Amandeep<br>Singh</p></div>
-                <div class="col-sm-2"><p class="text-center">Rohit<br>Srivastava</p></div>
-                <div class="col-sm-2"><p class="text-center">Alex<br>Gebhardt</p></div>
-                <div class="col-sm-1"><p class="text-center">Joe<br>Pejril</p></div>
-                <div class="col-sm-2"><p class="text-center">Jacob<br>Cottrell</p></div>
-                <div class="col-sm-2"><p class="text-center">Jonathan<br>Kline</p></div>
-                <div class="col-sm-1"><p class="text-center">Reed<br>Trende</p></div>
+                <div class="col-sm-1"><p class="text-center"><br></p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-2"><p class="text-center">Charles<br>Li</p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
+                <div class="col-sm-1"><p class="text-center"><br></p></div>
             </div>
             <div>
-                <p>Not Pictured: Matthew Molo, Ben Maxfield, Mimansa Verma, Kendal Norman, Dominic Miller, Keith Aylwin, Dimple Dhawan, Ajay Gopakumar, &amp; Charles Li </p>
+                <p>Not Pictured: </p>
             </div>
-            -->
+            
 
             <h3 class="text-center">Administrative Team</h3>
             <p class="text-center"><img src="/rov/images/2018Leadership.jpg" alt="Administrative Team" style="width:100%"></p><br>
-             <!-- 
+            
             <div class="row">
-                <div class="col-sm-2"><p class="text-center">Rodolfo<br>Leiva</p></div>
-                <div class="col-sm-1"><p class="text-center">Alan<br>Han</p></div>
-                <div class="col-sm-2"><p class="text-center">Nick<br>Loffredo</p></div>
-                <div class="col-sm-2"><p class="text-center">Jason<br>King</p></div>
+                <div class="col-sm-3"><p class="text-center">Alex<br>Gebhardt</p></div>
                 <div class="col-sm-2"><p class="text-center">Ryan<br>McBee</p></div>
+                <div class="col-sm-2"><p class="text-center">Joshua<br>Berg</p></div>
+                <div class="col-sm-2"><p class="text-center">Jason<br>King</p></div>
+                <div class="col-sm-3"><p class="text-center">Ian<br>Sibley</p></div>     
             </div>
             <br>
             <div class="row">
-                <div class="col-sm-1"><p class="text-center"><br></p></div>
-                <div class="col-sm-1"><p class="text-center"><br></p></div>
-                <div class="col-sm-2"><p class="text-center">Jessica<br>Chin</p></div>
+                <div class="col-sm-2"><p class="text-center"><br></p></div>
+                <div class="col-sm-2"><p class="text-center">First<br>Last</p></div>
                 <div class="col-sm-2"><p class="text-center">Carolyn<br>Lewelling</p></div>
-                <div class="col-sm-2"><p class="text-center">David<br>Bustamante</p></div>
+                <div class="col-sm-2"><p class="text-center">Charles<br>Li</p></div>
+                <div class="col-sm-4"><p class="text-center">Alex<br>Ruffino</p></div>
             </div>
 
             <div>
-                <p>Not Pictured: Samuel Deghuee, Kyla Hayes, David Bustamante, John Brankamp, Nick Loffredo, Richard Shen, Romita Biswas, &amp; Xi Wu</p>
+                <p>Not Pictured: </p>
             </div>
-            -->
+            
 
             <p class="text-center"><a href="https://www.facebook.com/purdueieeerov"><i class="fa fa-facebook-square fa-4x"></i></a></p>
             <br>

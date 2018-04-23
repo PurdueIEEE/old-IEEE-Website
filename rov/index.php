@@ -15,7 +15,7 @@
                 <a href="/rov/history/" class="list-group-item">History</a>
                 <a href="/rov/bylaws.pdf" class="list-group-item">Bylaws</a>
                 <a href="/rov/sponsors/" class="list-group-item">Sponsors</a>
-                <a href="join.php" class="list-group-item">Join ROV</a>
+                <a href="/rov/join.php" class="list-group-item">Join ROV</a>
             </div>
         </div>
 
