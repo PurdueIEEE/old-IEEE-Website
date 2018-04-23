@@ -24,7 +24,7 @@
         <div class="col-md-7 text-dark col-md-offset-1">
         <h1 class="text-center">2015-2016 Sponsors</h1>
             <p>Without the help of our generous sponsors, the ROV team would be unable to compete. We are very thankful for their support. </p>
-            <p>If you are interested in supporting the team at various levels please contact <a href="mailto:krakos@purdue.edu">Kyle Rakos</a>.</p><br>
+            <p>If you are interested in supporting the team at various levels please see <a href=/rov/sponsors>our current sponsor's page</a> for contact information.</p><br>
 
             <h2 class="text-center">Platinum Partner</h2>
             <div class="row">

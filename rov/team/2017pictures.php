@@ -113,7 +113,7 @@
                 <div class="col-sm-2"><p class="text-center">Kyle Rakos<br><em>Captain</em></p></div>
                 <div class="col-sm-2"><p class="text-center">Luke McBee<br><em>Electrical Lead</em></p></div>
             </div>
-            <p>Not Pictured: Sanay Shah <em>(Vice-Captain)</em>, Ben Maxfield <em>(Spring Software Lead)</em>, &amp; Henry Shi <em>(Technical Writter)</em></p>
+            <p>Not Pictured: Sanay Shah <em>(Vice-Captain)</em>, Ben Maxfield <em>(Spring Software Lead)</em>, &amp; Henry Shi <em>(Technical Writer)</em></p>
 
             <p class="text-center"><a href="https://www.facebook.com/purdueieeerov"><i class="fa fa-facebook-square fa-4x"></i></a></p>
             <br>

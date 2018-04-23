@@ -22,15 +22,14 @@
 
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1">
-        <h1 class="text-center">Sponsors</h1>
+        <h1 class="text-center">2016-2017 Sponsors</h1>
             <p>Without the help of our generous sponsors, the ROV team would be unable to compete. We are very thankful for their support. </p>
-            <p>If you are interested in supporting the team at various levels please contact <a href="mailto:rov@purdueieee.org">Alexander Ruffino</a>.
-            Also feel free to check out our <a href="2017.php">2016 - 2017 sponsors page</a> or <a href="2016.php">2015 - 2016 sponsors page</a></p><br>
+            <p>If you are interested in supporting the team at various levels please see <a href=/rov/sponsors>our current sponsor's page</a> for contact information.</p><br>
 
             <h2 class="text-center">Platinum Partner</h2>
             <div class="row">
                 <div class="col-md-4 text-center">
-                    <a href="http://www.purdue.edu/provost" target="_blank"><img src="/rov/images/Provost.png" alt="Purdue Provost" style="width:100%"></a>
+                    <a href="http://engineering.purdue.edu/INSGC" target="_blank"><img src="/rov/images/INSGC.png" alt="INSGC" style="width:100%"></a>
                 </div>
                 <div class="col-md-4 text-center">
                     <a href="http://www.solidworks.com/" target="_blank"><img src="/rov/images/solidworks.png" alt="SolidWorks" style="width:100%"></a>
@@ -43,7 +42,7 @@
                 <div class="col-md-4 text-center">
                 </div>
                 <div class="col-md-4 text-center">
-                    
+                    <a href="http://www.purdue.edu/provost" target="_blank"><img src="/rov/images/Provost.png" alt="Purdue Provost" style="width:100%"></a>
                 </div>
                 <div class="col-md-4 text-center">
                 </div>
@@ -57,7 +56,7 @@
                 </div>
 
                 <div class="col-md-4 text-center">
-                	 <a href="http://www.northropgrumman.com/Pages/default.aspx" target="_blank"><img src="/rov/images/northrop.png" alt="Northrop Grumman" style="width:100%"></a>
+                
                 </div>
                 <div class="col-md-4 text-center">
                     <a href="https://engineering.purdue.edu/ECE" target="_blank"><img src="/rov/images/ece.gif" alt="Purdue ECE" style="width:100%"></a>
@@ -101,7 +100,7 @@
                         <a href="http://www.waterjetcuttingofindiana.com/" target="_blank"><img src="/rov/images/wciLogo.jpg" alt="Waterjet Cutting of Indiana" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
-                       <a href="http://www.cis-ieee.org/" target="_blank"><img src="/rov/images/ieee.png" alt="CIS IEEE" style="width:80%"></a>
+                        <a href="http://www.northropgrumman.com/Pages/default.aspx" target="_blank"><img src="/rov/images/northrop.png" alt="Northrop Grumman" style="width:100%"></a>
                     </div>
                 </div>
 
@@ -110,7 +109,7 @@
                         <a href="http://www.colorsinc.com/" target="_blank"><img src="/rov/images/colorsinc.JPG" alt="Colors Inc" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
-                        
+                        <a href="http://www.cis-ieee.org/" target="_blank"><img src="/rov/images/ieee.png" alt="CIS IEEE" style="width:80%"></a>
                     </div>
                     <div class="col-md-4 text-center">
                         <a href="http://www.advancedcircuits.com/" target="_blank"><img src="/rov/images/Advanced_Circuits.jpg" alt="Advanced Circuits" style="width:100%"></a>
@@ -121,7 +120,7 @@
                     <div class="col-md-4 text-center">
                     </div>
                     <div class="col-md-4 text-center">
-                       
+                        <a href="https://www.seemecnc.com/" target="_blank"><img src="/rov/images/seemecnc.png" alt="SeeMeCNC" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
                     </div>
