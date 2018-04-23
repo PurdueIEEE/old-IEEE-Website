@@ -61,24 +61,25 @@
             <p class="text-center"><img src="/rov/images/2018Mechanical.jpg" alt="Mechanical Team" style="width:100%"></p><br>
             
             <div class="row">
+                <div class="col-sm-1"><p class="text-center">Lexi<br>Marks</p></div>
                 <div class="col-sm-1"><p class="text-center">Haley<br>Nelson</p></div>
                 <div class="col-sm-2"><p class="text-center">Jonathan<br>Kline</p></div>
                 <div class="col-sm-2"><p class="text-center">Aidan<br>Molnar</p></div>
                 <div class="col-sm-2"><p class="text-center">Joshua<br>Berg</p></div>
                 <div class="col-sm-2"><p class="text-center">Amandeep<br>Singh</p></div>
-                <div class="col-sm-2"><p class="text-center">Matthew<br>Eagon</p></div>
+                <div class="col-sm-1"><p class="text-center">Matthew<br>Eagon</p></div>
                 <div class="col-sm-1"><p class="text-center">Alexander<br>Gebhardt</p></div>
             </div>
             <br>
 
             <div class="row">
-                <div class="col-sm-1"><p class="text-center">Lexi<br>Marks</p></div>
-                <div class="col-sm-2"><p class="text-center">Katherine<br>Mao</p></div>
+                <div class="col-sm-1"><p class="text-center"><br></p></div>
+                <div class="col-sm-1"><p class="text-center">Katherine<br>Mao</p></div>
                 <div class="col-sm-2"><p class="text-center">Scott<br>Hotchkiss</p></div>
                 <div class="col-sm-2"><p class="text-center">Alyssa<br>Cwidak</p></div>
                 <div class="col-sm-2"><p class="text-center">Logan<br>Walters</p></div>
-                <div class="col-sm-2"><p class="text-center">Yun-Jui<br>"Jeremy" Tu</p></div>
-                <div class="col-sm-1"><p class="text-center">Max<br>Mergentime</p></div>
+                <div class="col-sm-2"><p class="text-center">Yun-Jui<br>(Jeremy) Tu</p></div>
+                <div class="col-sm-2"><p class="text-center">Max<br>Mergentime</p></div>
             </div>
             <div>
                 <p>Not Pictured: Tyler Stagge, Ashley Truver, Ben Hutchins, Brittany Ammerman, Rohit Srivastava, &amp; Reed Trende</p>
@@ -108,7 +109,7 @@
                 <div class="col-sm-1"><p class="text-center"><br></p></div>
             </div>
             <div>
-                <p>Not Pictured: Benjamin Maxfield, Jeremy Chang, Jieun Lee, Keith Alywin, Kendal Norman, Nicholas Rosato, Sophia Duan, Sam Jenkins, &amp; Viktoryia Zhuleva</p>
+                <p>Not Pictured: Benjamin Maxfield, Jeremy Chang, Jieun Lee, Keith Alywin, Kendal Norman, Nicholas Rosato, Yuqin (Sophia) Duan, Sam Jenkins, &amp; Viktoryia Zhuleva</p>
             </div>
             
 
