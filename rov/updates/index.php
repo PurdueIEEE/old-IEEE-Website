@@ -26,6 +26,23 @@
             <p>Here is a list of updates that have been posted on the ROV website! You can also find an overview about our previous seasons under the history tab to the left.</p>
             <hr>
 
+            <h3>2018 Team Pictures</h3>
+            <p><em>April 13, 2018</em></p>
+            <div class="col-md-5">
+                <p class="text-justify">
+                The 2018 ROV Team pictures are now posted. See the <a href=/rov/team/2018pictures.php>individul technical and administrative team pictures here</a>.
+                </p><br>
+            </div>
+            <div class="col-md-7">
+                <p class="text-justify">
+                <img src="/rov/images/2018Full.jpg" alt="2018 Team" style="width:100%" style="float:left" style="display:block">
+                <p class="text-center">The 2018 ROV Team</p>
+                </p>
+            </div>
+
+            <hr>
+
+
             <h3>Post-Competition Update</h3>
             <p><em>June 28, 2017</em></p>
             <div class="col-md-4">
