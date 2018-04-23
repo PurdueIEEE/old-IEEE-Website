@@ -28,7 +28,7 @@
                 The ROV team brings together expertise in electronics, mechanics, and software in order to create an unrivled vehicle. We strive to finish first place in the world, and we are therefore looking for dedicated and talented members to help us achieve this goal! If you enjoy beign a part of a fast-paced team and learn quickly look no further.
             </p>
             <p>
-                Applications for the 2018 season are now closed. We will again open applictions at the beginning of the 2018 semester.
+                Applications for the 2018 season are now closed. We will again open applictions at the beginning of the Fall 2018 semester.
             </p>
             
             <!--
