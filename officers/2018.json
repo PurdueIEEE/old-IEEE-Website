@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Jessica Chin",
+    "image": "/images/officers/2018_Chin_Jessica.jpg",
+    "position": "President",
+    "description": "Jessica Chin is a senior majoring in Electrical Engineering. Since high school, Jessica has been involved with her FIRST robotics team and has always wanted to build an underwater robot. She decided to join Purdue IEEE in Fall 2016 as part of the ROV Committee. In ROV, Jessica was on the Electrical Team, where she worked on the power and movement aspects of the ROV. In her spare time, Jessica enjoys playing tennis.",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Ellie Topi",
+    "image": "/images/officers/2018_Topi_Ellie.jpg",
+    "position": "Vice President",
+    "description": "Ellie is a senior in Mechanical Engineering Technology. She joined Aerial Robotics in Fall 2016. She is passionate about organizing leadership and promoting interconnection of different projects. As the Captain, she aims to lead the team toward their goal of designing, building, and delivering a custom UAS to the AUVSI SUAS competition. In her spare time, she enjoys baking, crafting, and playing with aluminum.",
+    "committees": "<a href=\"/partieee/\">PARTIEEE</a>"
+  },
+  {
+    "name": "Gavin Shanley",
+    "image": "/images/officers/2018_Shanley_Gavin.jpg",
+    "position": "Treasurer",
+    "description": "#TODO",
+    "committees": "<a href=\"/software/\">Software Saturdays</a>"
+  },
+  {
+    "name": "Erik VanderWerf",
+    "image": "/images/officers/2018_VanderWerf_Erik.jpg",
+    "position": "Secretary",
+    "description": "Erik is a senior in Computer Engineering. He joined ROV in spring 2015. In the fall of 2015 he switched to Aerial Robotics, and was a member of the software team before becoming Vice Captain for the 2017-2018 season. He strives for excellence in everything he does, and will bring this to the role of Secretary during the 2018-2019 school year. In his free time, Erik enjoys getting outside or playing board games.",
+    "committees": "<a href=\"/partieee/\">PARTIEEE</a>, <a href=\"/software\">Software Saturdays</a>"
+  },
+  {
+    "name": "Jacob Cottrell",
+    "image": "/images/officers/2018_Cottrell_Jacob.jpg",
+    "position": "Industrial Relations Head",
+    "description": "Jacob is a junior majoring in Aeronautical and Aerospace Engineering. He plans on pursuing structures or design to find himself in a career related to general aviation or experimental and proof-of-concept aviation. He joined IEEE in the spring semester of 2016 on the ROV team and later joined Aerial Robotics the following year. Jacob’s role as the Industrial Relations Head for Purdue IEEE and Sponsorship Coordinator for Aerial Robotics helps IEEE members to gain direct access to key figures within industry and provides them with valuable professional development opportunities. In his free time, Jacob likes flying, ultimate frisbee, playing cooperative GameCube games, and eating cheese curds.",
+    "committees": "<a href=\"/partieee/\">PARTIEEE</a>"
+  },
+  {
+    "name": "Erin McDonnell",
+    "image": "/images/officers/2018_McDonnell_Erin.jpg",
+    "position": "Growth & Engagement Head",
+    "description": "Erin McDonnell is a sophomore majoring in Electrical Engineering with a minor in Computer Science. Passionate about developing new or modifying current technology to be more accessible, she joined EMBS in Spring 2018. As Growth & Engagement Head, she looks forward to enabling IEEE to have a positive impact on its community.",
+    "committees": "<a href=\"/embs/\">EMBS</a>"
+  },
+  {
+    "name": "Jason King",
+    "image": "/images/officers/2018_King_Jason.jpg",
+    "position": "Learning Head",
+    "description": "#TODO",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Eric Sibley",
+    "image": "/images/officers/2018_Sibley_Eric.jpg",
+    "position": "Social Head",
+    "description": "Eric is a sophomore in Computer Engineering with a minor in poetry. He joined ROV as a freshman when his older brother told him to and never regretted it. Except during Saturday morning meetings when he should still be sleeping. Eric enjoys bringing people together, either by spontaneous excursion or a well organized event and can’t wait to make IEEE more cohesive as a whole as Social Head.",
+    "committees": "<a href=\"/rov/\">ROV</a>, <a href=\"/software/\">Software Saturdays</a>, <a href=\"/social/\">Social</a>"
+  },
+  {
+    "name": "Brandon Stewart",
+    "image": "/images/officers/2018_Stewart_Brandon.jpg",
+    "position": "Computer Society Chair",
+    "description": "Brandon is a senior in Computer Science. He joined IEEE in the Fall of 2015 on the ROV Team. He is pursuing the Systems Programming track in Computer Science. He has served in the past as the Vice President and Secretary. This year he is the Computer Society Chair.",
+    "committees": "<a href=\"/csociety/\">Computer Society</a>, <a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Eugene Kim",
+    "image": "/images/officers/2018_Kim_Eugene.jpg",
+    "position": "EMBS Chair",
+    "description": "Eugene Kim is a senior in the Weldon School of Biomedical Engineering. He is from Lexington, MA. He joined IEEE in Spring 2016 as a member of Purdue IEEE EMBS where he has worked on multiple projects including prosthetics, EMGs, and diagnostics. As Chair of EMBS, Eugene hopes to add members to the committee and increase involvement in more diverse projects and competitions. He currently is doing research in rapid diagnostics in a low-cost environment with microfluidics chips. He also enjoys playing ultimate frisbee and eating calamari. (He also loves Dunkin' Donuts.)",
+    "committees": "<a href=\"/embs/\">EMBS</a>"
+  },
+  {
+    "name": "Alden Fisher",
+    "image": "/images/officers/2018_Fisher_Alden.jpg",
+    "position": "MTT-S Chair",
+    "description": "Alden Fisher is a master’s student in Electrical Engineering. He joined IEEE as a member of MTT-S in 2017. He brought undergraduate students to the IEEE MTT-S premier conference, IMS, last summer where they successfully competed internationally. He hopes to continue to expand Purdue’s MTT-S chapter by engaging the students with more hands-on workshops. Alden’s research area is in RF and microwave systems with a focus in wireless power transfer. He also enjoys staying active by cycling and rock climbing.",
+    "committees": "<a href=\"/mtts/\">MTT-S</a>"
+  },
+  {
+    "name": "Milan Bidare",
+    "image": "/images/officers/2018_Bidare_Milan.jpg",
+    "position": "Aerial Robotics Chair",
+    "description": "Milan Bidare is a junior majoring in Aeronautical and Astronautical Engineering with a minor in Mathematics. Her first involvement with IEEE started as a freshman when she joined Aerial Robotics as a member of the Aeromech Subteam. She then became Sponsorship Coordinator, serving as a liaison between industry and Aerial Robotics while raising money for the team. She is currently the Aerial Robotics Captain and hopes to lead the team to place well at the AUVSI SUAS competition with a UAV completely built by members. In her free time, Milan enjoys listening to music, climbing, and writing about herself in third person.",
+    "committees": "<a href=\"/partieee/\">PARTIEEE</a>"
+  },
+  {
+    "name": "Anthony Hou",
+    "image": "/images/officers/2018_Hou_Anthony.jpg",
+    "position": "Racing Chair",
+    "description": "#TODO",
+    "committees": "<a href=\"/racing/\">Racing</a>"
+  },
+  {
+    "name": "Alexander Ruffino",
+    "image": "/images/officers/2018_Ruffino_Alexander.jpg",
+    "position": "ROV Chair",
+    "description": "Alex is a senior in Mechanical Engineering in his second year as the captain of the ROV team. He joined ROV at the start of his freshman year as a Mechanical Team member and a Sponsorship Coordinator. During his sophomore year, he was the Vice Captain in the fall and the Mechanical Team Lead in the spring. Outside of IEEE, he enjoys swimming as well as watching baseball and Purdue Basketball. His goal as Team Captain this year is to improve on last year's 18th place finish at the MATE International ROV Competition.",
+    "committees": "<a href=\"/rov/\">ROV</a>, <a href=\"/learning/\">Learning</a>, <a href=\"/ir/\">Industrial Relations</a>, <a href=\"/growth/\">Growth & Engagement</a>"
+  },
+  {
+    "name": "Ian Sibley",
+    "image": "/images/officers/2018_Sibley_Ian.jpg",
+    "position": "Software Saturdays Chair",
+    "description": "Ian Sibley is a senior in Computer Engineering with a minor in Psychology. He joined IEEE ROV in the fall of 2016 and is currently Software Team Co-Lead. He is also the Founding Chair for Software Saturdays, who built a foundation for it to continue to educate his peers after he graduates, especially in areas Purdue does not currently cover. In his spare time, Ian enjoys swimming, hiking, and biking, as well as gaming online with his family, if he is not picking up a good book or coding the night away.",
+    "committees": "<a href=\"/rov/\">ROV</a>, <a href=\"/software/\">Software Saturdays</a>"
+  }
+]
