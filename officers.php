@@ -68,7 +68,12 @@
 </head>
 <body>
 
-<div id ="header"></div>
+<?php
+    $page_title = '2018 Officers';
+    $site_title = 'Purdue IEEE';
+    $site_index = '/';
+    include 'header.php';
+?>
 <div class="container" style="padding-top: 10px;">
     <div class="well card-1 text-dark">
         <div class="row text-center">

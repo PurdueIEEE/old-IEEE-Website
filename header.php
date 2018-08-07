@@ -39,7 +39,13 @@
                     <img src="/images/IEEE-Kite.svg" style="height: 32px; margin-top: 8px">
                 </div>
                 </a>
-                <a class="navbar-brand" href="/">Purdue IEEE</a>
+                <a class="navbar-brand" href="<?php echo $site_index;?>">
+                    <?php /*
+                     * Site title is set dynamically. Do not modify.
+                     * The site title indicates the current navigational scope.
+                     */ ?>
+                    <b><?php echo $site_title;?></b>
+                </a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
@@ -52,7 +58,7 @@
                                 <a href="/about.php">About IEEE</a>
                             </li>
                             <li>
-                                <a href="officers.html">Officers</a>
+                                <a href="/officers.php">Officers</a>
                             </li>
                             <li>
                                 <a href="/awardees/">Award Winners</a>
@@ -123,4 +129,4 @@
             </div>
         </div>
     </nav>
-</body>
+    <div class="container" style="padding-top: 10px;">
