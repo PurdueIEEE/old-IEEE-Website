@@ -15,8 +15,9 @@ $etime = function ($month, $day, $hour, $minute=0) use ($year) {
 $info_sessions = array(
     array($etime(8, 28, 18, 30), $etime(8, 28, 20, 0), 'EE 129', 'Purdue IEEE'),
     array($etime(8, 29, 18, 30), $etime(8, 29, 20, 0), 'EE 129', 'Purdue IEEE'),
-    array($etime(8, 30, 18, 30), $etime(8, 30, 19, 30), 'ME 2061', 'Learning'),
     array($etime(8, 30, 18), $etime(8, 30, 19), 'EE 115', 'Racing'),
+    array($etime(8, 30, 18, 30), $etime(8, 30, 19, 30), 'ME 2061', 'Learning'),
+    array($etime(8, 30, 19), $etime(8, 30, 20), 'ARMS 3109', 'Social'),
     array($etime(8, 30, 20), $etime(8, 30, 21), 'EE 115', 'Industrial Relations'),
     array($etime(8, 31, 18), $etime(8, 31, 19), 'HEAV 206', 'EMBS'),
     array($etime(9, 1, 11), $etime(9, 1, 12, 30), 'ME 1130', 'Software Saturdays'),
