@@ -26,8 +26,7 @@ $info_sessions = array(
     array($etime(9, 5, 18, 30), $etime(9, 5, 20), 'ME 1061', ROV),
     array($etime(9, 6, 18), $etime(9, 6, 19), 'EE 222', GROWTH),
     array($etime(9, 6, 18), $etime(9, 6, 19), 'EE 224', MTTS),
-    array($etime(9, 8, 11), $etime(9, 8, 12, 30), 'ME 1130', SOFTWARE_SATURDAYS),
-    array(null, null, null, COMPUTER_SOCIETY),
+    array($etime(9, 8, 11), $etime(9, 8, 12, 30), 'ME 1130', SOFTWARE_SATURDAYS)
 );
 
 $info_session_text = '';
@@ -68,4 +67,13 @@ foreach ($info_sessions as $session) {
     </div>
     <hr />
     <?php echo $info_session_text ?>
+    <div class="row">
+        <div class="col-sm-3">
+            <h4><b>Undetermined</b></h4>
+        </div>
+        <div class="col-sm-9">
+            <div class="col-xs-4"><h4><?php echo COMPUTER_SOCIETY;?></h4></div>
+            <div class="col-xs-4"><h4><a href="https://docs.google.com/forms/d/e/1FAIpQLScbvOZP0GRESs_IZpcrx5GGAFYGFI3PjxGiXl2dWW9Hn2RXuA/viewform?usp=sf_link">Fill out to be Notified</a></h4></div>
+        </div>
+    </div>
 </div>
