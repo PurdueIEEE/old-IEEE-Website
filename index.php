@@ -107,7 +107,12 @@
     </div>
     </a>
     <br> -->
-    
+
+<!-- Info Sessions -->
+<?php
+    include 'info_sessions.php';
+?>
+
     <!-- Committeee List -->
     <div class="well card-1 text-dark">
         <div class="row">
