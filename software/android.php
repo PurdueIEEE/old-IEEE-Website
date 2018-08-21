@@ -1,4 +1,10 @@
 <?php
+/**
+ * Created by IntelliJ IDEA.
+ * User: Erik
+ * Date: 8/21/2018
+ * Time: 11:05 AM
+ */
     $site_title = 'IEEE Software Saturdays';
     $site_index = '/software';
     include '../header.php';
@@ -22,9 +28,9 @@
         </div>
         <!-- Content Column -->
         <div class="col-md-9 text-dark">
-            <h2 class="text-center">Join as an Attendee</h2>
+            <h2 class="text-center">Join as an Android Assistant</h2>
             <div class="col-md-12 text-dark">
-                <iframe src="https://goo.gl/forms/SoOQ9PwvPT7C8mbZ2" width="100%" height="700" frameborder="0">Loading...</iframe>
+                <iframe src="https://goo.gl/forms/9KeD624LDjBhTAsv1" width="100%" height="700" frameborder="0">Loading...</iframe>
             </div>
         </div>
     </div>
