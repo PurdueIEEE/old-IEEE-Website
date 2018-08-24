@@ -23,56 +23,36 @@
                 <h1 id="officers">Officers</h1>
                 <hr />
                 <div class="row">
-                    <!--Ellie-->
                     <div class= "col-md-4">
-                        <h4>Ellie Topi</h4>
+                        <h4>Milan Bidare</h4>
                         <p>Captain<br /><br /></p>
                     </div>
-                    <!--Erik-->
-                        <div class= "col-md-4">
-                        <h4>Erik VanderWerf</h4>
-                        <p>Vice-Captain<br /> <br /></p>
-                    </div>
-                    <!--Anthony-->
                     <div class= "col-md-4">
-                        <h4>Anthony Goeckner</h4>
+                        <h4>Mark Benati</h4>
                         <p>Vice-Captain<br /><br /></p>
+                    </div>
+                    <div class="col-md-4">
+                        <h4>Humza Nasir</h4>
+                        <p>Project Lead<br /><br /></p>
                     </div>
                 </div>
                 <br />
                 <div class="row">
-                    <!-- Milan -->
                     <div class= "col-md-4">
-                        <h4>Milan Bidare</h4>
+                        <h4>Jacob Cottrell</h4>
                         <p>Sponsorship Coordinator<br /><br /></p>
                     </div>
-                    <!--Patrick-->
-                    <div class= "col-md-4">
-                        <h4>Patrick May</h4>
-                        <p>Electrical Co-Lead<br /><br /></p>
-                    </div>
-                    <!--Brian-->
                     <div class= "col-md-4">
                         <h4>Brian Helfrecht</h4>
-                        <p>Electrical Co-Lead<br /><br /></p>
+                        <p>Electrical Lead<br /><br /></p>
                     </div>
-                </div>
-                    <br />
-                <div class="row">
-                    <!--Mark -->
-                        <div class= "col-md-4">
-                        <h4>Mark Benati </h4>
+                    <div class= "col-md-4">
+                        <h4>Chris Jovanovic</h4>
                         <p>Software Lead<br /><br /></p>
                     </div>
-                    <!--Landon-->
-                        <div class= "col-md-4">
-                        <h4>Landon Glunt</h4>
-                        <p>AeroMechanical Co-Lead<br /><br /></p>
-                    </div>
-                    <!--George Xu-->
                     <div class= "col-md-4">
-                        <h4>George Xu</h4>
-                        <p>AeroMechanical Co-Lead<br /><br /></p>
+                        <h4>Prateek Chamakura</h4>
+                        <p>AeroMechanical Lead<br /><br /></p>
                     </div>
                 </div>
 
