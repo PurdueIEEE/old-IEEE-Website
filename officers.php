@@ -32,7 +32,7 @@
             url: `officers/${year}.json`,
             success: function (data) {
                 let tmp = document.createDocumentFragment();
-                for (let i =0; i < data.length; i++) {
+                for (let i=0; i < data.length; i++) {
                     let officer = data[i];
                     tmp.appendChild(document.createElement("hr"));
                     let row = document.createElement("div");
