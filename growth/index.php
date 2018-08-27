@@ -1,57 +1,97 @@
 <?php
-    $site_title = 'Purdue IEEE';
-    $site_index = '/';
-    include '../header.php';
+$site_title = 'Purdue IEEE';
+$site_index = '/';
+include '../header.php';
 ?>
-<style>
-    #centerside{
-        width: 100%;
+<script type="text/javascript">
+    $(document).ready( function () {
+        populateImages();
+    });
+
+    function populateImages() {
+        $.ajax({
+            url: 'carousel.json',
+            success: function (data) {
+                let tmp = document.createDocumentFragment();
+                for (let i=0; i < data.length; i++) {
+                    let img = data[i];
+                    let item = document.createElement('div');
+                    item.className = "item";
+                    if (i === 0)
+                        item.classList.add("active");
+                    let fill = document.createElement("div");
+                    fill.className = "fill";
+                    fill.style.backgroundImage = "url(" + img["url"] + ")";
+                    item.appendChild(fill);
+                    // let caption = document.createElement("div");
+                    // caption.className = "carousel-caption";
+                    // item.appendChild(caption);
+                    tmp.appendChild(item);
+                }
+                document.getElementById("carousel_inner").appendChild(tmp);
+            }
+        })
     }
-</style>
-<!-- Content Row -->
-<div class="well card-1">
-    <div class="row">
-        <!-- Content Column -->
-        <div class="col-md-10 text-dark col-md-offset-1">
-            <h2 class="text-center">Growth &amp Engagement</h2>
-            <br>
-            <p class="text-justify">
-                Looking to spread the word about IEEE? Join the G&ampE committee, where we plan, organize, and staff recruitment events and create growth opportunities. At our info session we'll brainstorm growth areas for IEEE and make plans to make IEEE the best it can be!            </p>
-            <hr>
-            <h3 class="text-center">Planner</h3>
-            <p class="text-justify">
-                Help us plan and organize advertising events, create advertisements, and generally spread the glory of the almighty IEEE            </p>
-            <hr>
-            <h3 class="text-center">Advertiser</h3>
-            <p class="text-justify">
-                Spread the glory of the almighty IEEE by staffing and assisting with advertising events such as Show&Tells, flyering, chalking, and other promotional activities.   </p>
-            <hr>
-            <div class="col-md-12">
-                <div class="col-md-4" style="float: left;">
-                    <h4 class="media-heading">Info Session</h4>
-                    <p class="text-justify">Wednesday, January 17th, 7pm, EE 226</p>
-                </div>
-                <div class="col-md-4" style="float: right;">
-                    <h4 class="media-heading">Regular Meetings</h4>
-                    <p>Thursdays, 7pm, EE 226</p>
+</script>
+    <style>
+        #centerside {
+            width: 100%;
+        }
+    </style>
+    <!-- Content Row -->
+    <div class="well card-1">
+        <div class="row">
+            <!-- Content Column -->
+            <h1 class="text-dark text-center">Growth &amp Engagement</h1>
+            <div class="row">
+                <div class="col-md-8 text-dark col-md-offset-2">
+                    <br>
+                    <h4 class="text-center">
+                        Interested in meeting new people and making community connections? Join G&E to create member
+                        expansion and community outreach opportunities for Purdue IEEE!
+                    </h4>
+                    <hr>
+                    <p class="text-justify">
+                        As part of the Growth & Engagement committee, you will help plan, advertise, and staff Purdue
+                        IEEE's new member recruitment and community events.
+                    </p>
+                    <p>
+                        In the past, G&E has put on educational STEM activities for PESC's Engineering Tomorrow event
+                        and National Engineer Day at the Indianapolis Children's Museum.
+                    </p>
+                    <p>
+                        If you're interested in learning more about Purdue IEEE's Growth & Engagement committee, please
+                        come to the 2018 fall info session on Thursday 9/6 6:00pm - 7:00pm in EE 222.
+                    </p>
+                    <hr>
+                    <div class="col-md-12">
+                        <div class="col-md-6" style="float: left;">
+                            <h5 class="media-heading">Info Session</h5>
+                            <p class="text-justify">Thursday 9/6 6:00pm - 7:00pm in EE 222</p>
+                        </div>
+                        <div class="col-md-6" style="float: right;">
+                            <h5 class="media-heading">Regular Meetings</h5>
+                            <p>Thursdays, 6:00pm, in EE 222</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-<div class="well card-1 text-dark">
+    <div class="well card-1 text-dark">
         <div class="row text-center">
-            <h1 id="leaders">Leadership</h1>
-            <hr/>
-            <div class="row">
-                <!--Ellie Topi-->
-                <div class="col-md-4" id="centerside">
-                    <img src="images/Ellie_Topi.jpg" alt="Ellie Topi" class="img-circle" width=200px height=200px/>
-                    <h4>Ellie Topi</h4>
-                    <p>Chair<br/><br/></p>
-                </div>
-            </div>
+            <h1>Previous Events</h1>
+            <header id="growth_carousel" class="carousel slide card-2">
+                <div id="carousel_inner" class="carousel-inner"></div>
+                <!-- Controls -->
+                <a class="left carousel-control" href="#growth_carousel" data-slide="prev">
+                    <span class="icon-prev"></span>
+                </a>
+                <a class="right carousel-control" href="#growth_carousel" data-slide="next">
+                    <span class="icon-next"></span>
+                </a>
+            </header>
         </div>
     </div>
 
-<?php include '../footer.php';?>
+<?php include '../footer.php'; ?>
