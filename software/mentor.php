@@ -1,6 +1,6 @@
 <?php
     $site_title = 'IEEE Software Saturdays';
-    $site_index = '/software';
+    $site_index = '/software/';
     include '../header.php';
 ?>
 <style>
