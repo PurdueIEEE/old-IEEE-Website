@@ -9,8 +9,9 @@
 include '_committees.php';
 
 $year = 2018;
-$etime = function ($month, $day, $hour, $minute=0) use ($year) {
-    return mktime($hour, $minute, 0, $month, $day, $year);
+$tz = new DateTimeZone("America/Indiana/Indianapolis");
+$etime = function ($month, $day, $hour, $minute=0) use ($year, $tz) {
+    return new DateTime("$year-$month-$day $hour:$minute:00", $tz);
 };
 
 $info_sessions = array(
@@ -36,8 +37,12 @@ $previous_day = null;
 foreach ($info_sessions as $session) {
     $start = $session[0]; $end = $session[1]; $place = $session[2]; $committee = $session[3];
     if (isset($start)) {
-        $day = '<b>' . date('l', $start) . '</b> - ' . date('n/j', $start);
-        $time = date('g:i a', $start) . ' - ' . date('g:i a', $end);
+        $day = '<b>' . $start->format('l') . '</b> - ' . $start->format('n/j');
+        $time = $start->format('g:i a') . ' - ' . $end->format('g:i a');
+        $today = new DateTime('now midnight', $tz);
+        if ($today > $end) {
+            $day = '<s>'.$day.'</s>';
+        }
     } else {
         $day = '<b>Undetermined</b>';
         $time = '';
