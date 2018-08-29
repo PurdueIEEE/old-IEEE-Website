@@ -27,8 +27,8 @@ $info_sessions = array(
     array($etime(9, 6, 18), $etime(9, 6, 19), 'EE 222', GROWTH),
     array($etime(9, 6, 18), $etime(9, 6, 19), 'EE 224', MTTS),
     array($etime(9, 6, 19), $etime(9, 6, 20), 'EE 222', COMPUTER_SOCIETY),
-    array($etime(9, 8, 15), $etime(9, 8, 17), 'POTR 234', ROV),
-    array($etime(9, 8, 11), $etime(9, 8, 12, 30), 'ME 1130', SOFTWARE_SATURDAYS)
+    array($etime(9, 8, 11), $etime(9, 8, 12, 30), 'ME 1130', SOFTWARE_SATURDAYS),
+    array($etime(9, 8, 15), $etime(9, 8, 17), 'POTR 234', ROV)
 );
 
 $info_session_text = '';
