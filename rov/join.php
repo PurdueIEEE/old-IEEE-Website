@@ -29,11 +29,11 @@
             </p>
             
             <p>
-                The application can be filled out below or in a seperate window <a href="https://goo.gl/forms/ZZligChCWP0X8gFW2">here</a>.
+                The application can be filled out below or in a seperate window <a href="https://docs.google.com/forms/d/e/1FAIpQLSexGw94l6bBn8-Qdz9Iu0a5WPC2iurEe5SN-zE_ifQkJzPYrg/viewform">here</a>.
             </p>
             
             <p>
-                <iframe src="https://goo.gl/forms/ZZligChCWP0X8gFW2" width="700" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexGw94l6bBn8-Qdz9Iu0a5WPC2iurEe5SN-zE_ifQkJzPYrg/viewform" width="700" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
             </p>
 
         </div>
