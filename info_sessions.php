@@ -63,6 +63,8 @@ foreach ($info_sessions as $session) {
 <div class="well card-1 text-dark">
     <div class="row">
         <div class="col-md-12">
+        <h1 style="margin-top: 0; text-align: center"><a href="https://docs.google.com/presentation/d/1v9gJERh6Cpj3SQ7jt9nZCBmDKg6vA7V_4CRNHPdIqhE/edit?usp=sharing" target="_blank">Callout Slides Link</a></h1>
+
             <h2><b>2018 Info Sessions</b></h2>
         </div>
     </div>
