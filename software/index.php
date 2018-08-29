@@ -35,13 +35,15 @@
             </div>
             <hr>
 
+            <h5 class="text-center bg-success">Spring Info Sessions are in <b>ME 1130</b> from <b>11:00 am to 12:30 pm</b> on <b>September 1st & 8th</b></h5>
+
             <p class="text-justify">Software Saturdays is the brand new event fostering the learning of coding and languages, with an aim to give the Attendees a more rounded learning experience.</p>
             <p class="text-justify">The plan is to introduce projects and concepts that are useful in the world of Software Development. Regardless of what major our Attendees are pursuing, we aim to teach skills that will be usefull no matter what job or hobbies they pursue in their future.</p>
             <p class="text-justify">This semester's plan is to do a beginner's Web Development track showing the basics of databases, servers, web page is hosting, and how information flows between them. We'll be using SQLite for the database, ExpressJS for the server (a NodeJS library), and a straightforward HTML, CSS, and JavaScript web page, with helpful Frameworks like jQuery and Bootstrap to minimize code (and work).</p>
             <p class="text-justify">The track is comprised of 5 semi bi-weekly sessions, 2-3 hours long with refreshments and breaks included, for learning the concepts and tools. There will be two 4 hour Project Day sessions afterwards, for Mentors to aid Attendees with the final project. Each Thursday following a session there will be afternoon review hours for questions, general help, and review as well.</p>
             <p class="text-justify">Also, look out for next semester when we take a look into the basics of Android App Development. The curriculum is currently under development, so we'll post more details closer to the Spring semester.</p>
-            <p class="text-justify">For further questions, feel free to email <b>software-saturdays@purdueieee.org</b> for more information.
-            </p>
+            <p class="text-justify">For further questions, feel free to email <b>software-saturdays@purdueieee.org</b> for more information.</p>
+
         </div>
     </div>
 </div>
