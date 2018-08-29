@@ -35,39 +35,11 @@
                     <h1 id="leaders">Leadership</h1>
                     <hr />
                     <div class="row">
-                        <!--Zachary Vander Missen-->
-                        <div class= "col-md-6">
-                            <img src="../images/officers/Zach_Vander_Missen.jpg" alt= "Zachary Vander Missen" class="img-circle" width=250px height=250px />
-                            <h4>Zachary Vander Missen</h4>
-                            <p>Chair<br />Electrical Engineering<br />Second-Year PhD Student</p>
-                        </div>
-                        <!--Michael Anderson-->
-                        <div class= "col-md-6">
-                            <img src="images/michael_anderson.jpg" alt= "Michael Anderson" class="img-circle" width=250px height=250px />
-                            <h4>Michael Anderson</h4>
-                            <p>Vice Chair<br />Industrial Engineering<br />Senior</p>
-                        </div>
-                    </div>
-                    <br />
-                    <div class="row">
                         <!--Alden Fisher-->
                         <div class= "col-md-4">
                             <img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />
                             <h4>Alden Fisher</h4>
-                            <p>Sponsorship Coordinator<br />Electrical Engineering<br />First-Year Master's Student<p>
-                        </div>
-                        <!--Rayane Chatrieux-->
-                        <div class= "col-md-4">
-                            <img src="" alt= "Rayane Chatrieux" class="img-circle" width=250px height=250px />
-                            <h4>Rayane Chatrieux</h4>
-                            <p>Workshop Coordinator<br />Electrical Engineering<br />Senior</p>
-                        </div>
-                        <!--Alan Han-->
-                        <div class= "col-md-4">
-                            <img src="images/alan_han.jpg" alt= "Alan Han" class="img-circle" width=250px height=250px />
-                            <h4>Alan Han</h4>
-                            <p>Event Coordinator<br />Electrical Engineering<br />Senior</p>
-                        </div>
+                            <p>Chair<br />Electrical Engineering<br />Master's Student</p>
                         </div>
                     </div>
 
