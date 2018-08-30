@@ -3,7 +3,11 @@
     $site_title = 'Purdue IEEE';
     $site_index = '/';
     include 'header.php';
-    require_once 'DirectoryServices/lists.php';
+
+    $list = true;
+    if (!@include_once('DirectoryServices/lists.php')) {
+        $list = false;
+    }
 ?>
 
     <div class="well card-1">
@@ -18,9 +22,14 @@
 
                     <label>Which technical committees would you like to additionally receive emails from?</label>
                     <div class="checkbox" style="margin-top: 0">
-                        <?php foreach (Lists::all(true) as $key => $value): if ($key !== 'ieee-announcements'): ?>
-                        <label><input class="tc-check" type="checkbox" name="list[]" value="<?php echo $key; ?>"><?php echo $value; ?></label><br>
-                        <?php endif; endforeach; ?>
+                        <?php if ($list):
+                            foreach (Lists::all(true) as $key => $value):
+                                if ($key !== 'ieee-announcements'): ?>
+                                    <label><input class="tc-check" type="checkbox" name="list[]"
+                                                  value="<?php echo $key; ?>"><?php echo $value; ?></label><br>
+                                <?php endif;
+                            endforeach;
+                            else: print("Did not properly load form. Contact the site manager."); endif; ?>
                         <input type="checkbox" name="list[]" checked="true" value="ieee-announcements" hidden>
                     </div>
 
