@@ -86,6 +86,20 @@
     <div class="well card-1">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-dark">
+                <h1 class="text-center">IEEE Slack</h1>
+                <h3 class="text-center"><a href="http://purdueieee.slack.com">purdueieee.slack.com</a></h3>
+                <p>
+                    Purdue IEEE uses Slack to communicate with it's members. Anyone with a Purdue email can sign up and
+                    get involved with the club. Sign up by clicking the link above and registering for an account. Slack
+                    is available on Google Play and the Apple Store.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="well card-1">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-dark">
                 <h1 class="text-center">IEEE Dues</h1>
                 <p>
                     Purdue IEEE Student Organization follows a simple dues basis for membership. Membership fees are $10 for two semesters, which allows each person to have access to IEEE resources, such as:
