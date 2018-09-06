@@ -36,7 +36,7 @@ include '../header.php';
             society, Purdue IEEE EMBS members diligently contribute to research initiatives, participate in
             competitions, attend conferences, and organize technical workshops for the cultivation of shared knowledge.
         </p>
-        <p><a href="mailto:embs-info@purdueieee.org">Contact us for more information.</a></p>
+        <p><a href="mailto:info-embs@purdueieee.org">Contact us for more information.</a></p>
     </div>
 </div>
 <div class="well card-1 text-dark">
