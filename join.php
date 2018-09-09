@@ -1,22 +1,23 @@
 <?php
-    $page_title = 'Join';
-    $site_title = 'Purdue IEEE';
-    $site_index = '/';
-    include 'header.php';
+$page_title = 'Join';
+$site_title = 'Purdue IEEE';
+$site_index = '/';
+include 'header.php';
 
-    $list = true;
-    if (!@include_once('DirectoryServices/lists.php')) {
-        $list = false;
-    }
+$list = true;
+if (!@include_once('DirectoryServices/lists.php')) {
+    $list = false;
+}
 ?>
 
-    <div class="well card-1">
-        <div class="row">
-            <div class="col-lg-12 text-dark">
-                <h1 class="text-center">Subscribe to our Mailing Lists</h1>
+<div class="well card-1">
+    <div class="row">
+        <div class="col-lg-12 text-dark">
+            <h1 class="text-center">Subscribe to our Mailing Lists</h1>
 
-                <div class="col-md-8 col-md-offset-2 text-dark" id="content">
-                <form id="signup-form" action="DirectoryServices/directories.php" title="" method="post" style="font-size: 18px">
+            <div class="col-md-8 col-md-offset-2 text-dark" id="content">
+                <form id="signup-form" action="DirectoryServices/directories.php" title="" method="post"
+                      style="font-size: 18px">
                     <label>Signup for our announcements mailing list (Email): </label><br>
                     <input type="email" id="email" name="email" class="form-control"><br>
 
@@ -29,99 +30,107 @@
                                                   value="<?php echo $key; ?>"><?php echo $value; ?></label><br>
                                 <?php endif;
                             endforeach;
-                            else: print("Did not properly load form. Contact the site manager."); endif; ?>
+                        else: print("Did not properly load form. Contact the site manager."); endif; ?>
                         <input type="checkbox" name="list[]" checked="true" value="ieee-announcements" hidden>
                     </div>
 
-                    <button class="btn btn-primary btn-raised ripple-effect" type="submit" value="submit">Submit</button>
-                    <button class="btn btn-danger btn-raised ripple-effect" type="button" onclick="clearEntries();">Clear</button><br><br>
+                    <button class="btn btn-primary btn-raised ripple-effect" type="submit" value="submit">Submit
+                    </button>
+                    <button class="btn btn-danger btn-raised ripple-effect" type="button" onclick="clearEntries();">
+                        Clear
+                    </button>
+                    <br><br>
                 </form>
-                </div>
+            </div>
 
-                <script type="application/javascript">
-                    $("#signup-form").submit(function(event) {
+            <script type="application/javascript">
+                $("#signup-form").submit(function (event) {
 
-                        /* stop form from submitting normally */
-                        event.preventDefault();
+                    /* stop form from submitting normally */
+                    event.preventDefault();
 
-                        var $form = $( this ),
-                         url = $form.attr( 'action' );
+                    var $form = $(this),
+                        url = $form.attr('action');
 
-                        var list = $('input:checked').map(function(){
-                            return $(this).val();
-                        }).get();
+                    var list = $('input:checked').map(function () {
+                        return $(this).val();
+                    }).get();
 
-                        var posting = $.post(url, {
-                            email: $('#email').val(),
-                            list: list
-                        });
-
-                        posting.done(function(data) {
-                            var messages = data.split("%%");
-
-                            $("#content > .alert-info").remove();
-                            $("#content > .alert-danger").remove();
-
-                            if (messages[0].length > 0) {
-                                $("#content").append('<div class="alert alert-info"><strong>'+messages[0]+'</strong></div>');
-                            }
-
-                            if (messages[1].length > 0) {
-                                //There were some errors
-                                $("#content").append('<div class="alert alert-danger"><strong>'+messages[1]+'</strong></div>');
-                            }
-
-                        });
+                    var posting = $.post(url, {
+                        email: $('#email').val(),
+                        list: list
                     });
 
-                    function clearEntries() {
-                        $('#email').val("");
-
-                        $('.tc-check').each(function(){
-                            $(this).removeAttr("checked");
-                        })
+                    posting.done(function (data) {
+                        var messages = data.split("%%");
 
                         $("#content > .alert-info").remove();
                         $("#content > .alert-danger").remove();
 
-                        $('#email').focus();
-                    }
-                </script>
+                        if (messages[0].length > 0) {
+                            $("#content").append('<div class="alert alert-info"><strong>' + messages[0] + '</strong></div>');
+                        }
 
-            </div>
+                        if (messages[1].length > 0) {
+                            //There were some errors
+                            $("#content").append('<div class="alert alert-danger"><strong>' + messages[1] + '</strong></div>');
+                        }
+
+                    });
+                });
+
+                function clearEntries() {
+                    $('#email').val("");
+
+                    $('.tc-check').each(function () {
+                        $(this).removeAttr("checked");
+                    })
+
+                    $("#content > .alert-info").remove();
+                    $("#content > .alert-danger").remove();
+
+                    $('#email').focus();
+                }
+            </script>
+
         </div>
     </div>
+</div>
 
-    <div class="well card-1">
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2 text-dark">
-                <h1 class="text-center">IEEE Slack</h1>
-                <h3 class="text-center"><a href="http://purdueieee.slack.com">purdueieee.slack.com</a></h3>
-                <p>
-                    Purdue IEEE uses Slack to communicate with it's members. Anyone with a Purdue email can sign up and
-                    get involved with the club. Sign up by clicking the link above and registering for an account. Slack
-                    is available on Google Play and the Apple Store.
-                </p>
-            </div>
+<div class="well card-1">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2 text-dark">
+            <h1 class="text-center">IEEE Slack</h1>
+            <h3 class="text-center"><a href="http://purdueieee.slack.com">purdueieee.slack.com</a></h3>
+            <p>
+                Purdue IEEE uses Slack to communicate with it's members. Anyone with a Purdue email can sign up and
+                get involved with the club. Sign up by clicking the link above and registering for an account. Slack
+                is available on Google Play and the Apple Store.
+            </p>
         </div>
     </div>
+</div>
 
-    <div class="well card-1">
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2 text-dark">
-                <h1 class="text-center">IEEE Dues</h1>
-                <p>
-                    Purdue IEEE Student Organization follows a simple dues basis for membership. Membership fees are $10 for two semesters, which allows each person to have access to IEEE resources, such as:
-                    <ul>
-                        <li>Access to extras at Learning Events by Learning Committee</li>
-                        <li>Trip expense coverage for committee competitions and social events</li>
-                        <li>Free food at General Assemblies</li>
-                        <li>Recognition for contributed work with final projects</li>
-                    </ul>
-                    To pay dues, please contact the Treasurer, Michael Anderson, at <a href="mailto:IEEE-Treas@purdueieee.org">IEEE-Treas@purdueieee.org</a>, go to EE 014 and use leave your email and dues with a Treasurer-authorized attendant inside the office, or give it to the Treasurer at General Assemblies.
-                </p>
-            </div>
+<div class="well card-1">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2 text-dark">
+            <h1 class="text-center">IEEE Dues</h1>
+            <p>
+                Purdue IEEE Student Organization follows a simple dues basis for membership. Membership fees are $15 for
+                two semesters, which allows each person to have access to IEEE resources, such as:
+            <ul>
+                <li>Access to extras at Learning Events by Learning Committee</li>
+                <li>Trip expense coverage for committee competitions and social events</li>
+                <li>Free food at General Assemblies</li>
+                <li>Recognition for contributed work with final projects</li>
+            </ul>
+            To pay dues, please contact the Treasurer, Gavin Shanley, at
+            <a href="mailto:IEEE-Treas@purdueieee.org">IEEE-Treas@purdueieee.org</a>, go to EE 014 and use leave your
+            email and dues with a Treasurer-authorized attendant inside the office, or give it to the Treasurer at
+            General Assemblies.
+            </p>
         </div>
     </div>
+</div>
 
 <?php include 'footer.php'; ?>
