@@ -75,9 +75,9 @@
         <div style="padding-left: 34%;">
             <div class="center-box">
                 <h2 id="events">CONTACT:</h2>
-                <h4 id="events">Milan Bidare</h4>
+                <h4 id="events">Jacob Cottrell</h4>
                 <h4 id="events">Sponsorship Coordinator</h4>
-                <h4 id="events"><a href="mailto:mbidare@purdue.edu">mbidare@purdue.edu</a>
+                <h4 id="events"><a href="mailto:cottrej@purdue.edu">cottrej@purdue.edu</a>
             </div>
         </div>
         <br />
