@@ -30,7 +30,7 @@
         <div class="col-md-9 text-dark">
             <h2 class="text-center">Join as an Android Assistant</h2>
             <div class="col-md-12 text-dark">
-                <iframe src="https://goo.gl/forms/9KeD624LDjBhTAsv1" width="100%" height="700" frameborder="0">Loading...</iframe>
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSekqojQnI46aDJoW4evjQ36lf-8wKvQwye0YahIEvQj2ytV0A/viewform?usp=sf_link" width="100%" height="700" frameborder="0">Loading...</iframe>
             </div>
         </div>
     </div>
