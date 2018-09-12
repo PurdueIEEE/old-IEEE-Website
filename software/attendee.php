@@ -24,7 +24,7 @@
         <div class="col-md-9 text-dark">
             <h2 class="text-center">Join as an Attendee</h2>
             <div class="col-md-12 text-dark">
-                <iframe src="https://goo.gl/forms/SoOQ9PwvPT7C8mbZ2" width="100%" height="700" frameborder="0">Loading...</iframe>
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdqp00tJjIPkRjLcFvd5Bu34VxZiSwliLMyjhgI-R9zAn1uoQ/viewform?usp=sf_link" width="100%" height="700" frameborder="0">Loading...</iframe>
             </div>
         </div>
     </div>

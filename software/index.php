@@ -35,7 +35,8 @@
             </div>
             <hr>
 
-            <h5 class="text-center bg-success">Spring Info Sessions are in <b>ME 1130</b> from <b>11:00 am to 12:30 pm</b> on <b>September 1st & 8th</b></h5>
+            <h5 class="text-center bg-success">Learning Sessions are semi-bi-weekly, starting in <b>ARMS B061</b> from <b>3:30 pm to 6:30 pm</b> on <b>September 15th</b></h5>
+            <h5 class="text-center bg-success">Please see our calendar in the Calendar tab above for more details and further sessions</h5>
 
             <p class="text-justify">Software Saturdays is the brand new event fostering the learning of coding and languages, with an aim to give the Attendees a more rounded learning experience.</p>
             <p class="text-justify">The plan is to introduce projects and concepts that are useful in the world of Software Development. Regardless of what major our Attendees are pursuing, we aim to teach skills that will be usefull no matter what job or hobbies they pursue in their future.</p>
