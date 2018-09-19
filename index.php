@@ -106,7 +106,12 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
     <br> -->
 
     <!-- Info Sessions -->
-    <?php //include 'info_sessions.php'; ?>
+    <div class="well card-1 text-dark">
+        <h1 style="margin-top: 0; text-align: center">
+            <a href="https://docs.google.com/presentation/d/1v9gJERh6Cpj3SQ7jt9nZCBmDKg6vA7V_4CRNHPdIqhE/edit?usp=sharing"
+               target="_blank">Callout Slides Link</a></h1>
+        <?php //include 'info_sessions.php'; ?>
+    </div>
 
     <!-- Committeee List -->
     <div class="well card-1 text-dark">
