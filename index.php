@@ -106,9 +106,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
     <br> -->
 
     <!-- Info Sessions -->
-<?php
-include 'info_sessions.php';
-?>
+    <?php //include 'info_sessions.php'; ?>
 
     <!-- Committeee List -->
     <div class="well card-1 text-dark">
