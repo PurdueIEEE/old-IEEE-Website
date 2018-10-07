@@ -1,5 +1,5 @@
 <?php
-  header('Location: https://drive.google.com/file/d/1Zvx71Vm4a2kr0J8SVh498vBFnGig8B6f/view?usp=sharing',
-      true, 301);
+  header('Location: https://drive.google.com/open?id=11l6KGQr808FmRXHKno-7du_G2x0R8hDv',
+      true, 307); // 307 = Temporary redirect. No caching.
   exit();
 ?>
