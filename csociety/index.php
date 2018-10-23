@@ -27,36 +27,27 @@
             <h1 id="leaders">Leadership</h1>
             <hr/>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <h4>Brandon Stewart</h4>
                     <p>Chair<br/><br/></p>
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <h4>Christopher Potter</h4>
                     <p>Vice Chair<br/><br/></p>
                 </div>
-
-                <div class="col-md-4">
+            </div>
+            <div class="row">
+                <div class="col-md-6">
                     <h4>Sidharth</h4>
                     <p>Sponsorship Coordinator<br/> <br/></p>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <h4>Jeremy Patterson</h4>
-                    <p>Learning Coordinator<br/><br/></p>
-                </div>
 
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <h4>Jasmine Singh</h4>
                     <p>Event Coordinator<br/><br/></p>
                 </div>
 
-                <div class="col-md-4">
-                    <h4>Joven Garces</h4>
-                    <p>Project Coordinator<br/> <br/></p>
-                </div>
             </div>
         </div>
 
