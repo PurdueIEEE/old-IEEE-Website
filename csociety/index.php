@@ -39,13 +39,13 @@
             </div>
             <div class="row">
                 <div class="col-md-6">
-                    <h4>Sidharth</h4>
-                    <p>Sponsorship Coordinator<br/> <br/></p>
+                    <h4>Sharan Ramjee</h4>
+                    <p>Event Coordinator<br/> <br/></p>
                 </div>
 
                 <div class="col-md-6">
                     <h4>Jasmine Singh</h4>
-                    <p>Event Coordinator<br/><br/></p>
+                    <p>Sponsorship Coordinator<br/><br/></p>
                 </div>
 
             </div>
