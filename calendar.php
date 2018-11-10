@@ -8,30 +8,38 @@
     <style>
         .calendar-box {
             float: left;
-            height: 20px;
-            width: 140px;
-            margin: 0 5px;
+            height: 100%;
+            width: 20%;
+            margin: 15px;
             background-color: #547AC4;
             color: white;
             text-align: center;
         }
     </style>
 
+
+
+
     <div class="well card-1">
+
         <div class="row">
             <div class="col-lg-12 text-center">
-                <div style="margin: 10px auto; width: 600px; height: 20px; font-weight: 600">
+                <div style="margin: 10px auto; width: 100%; height: 40px; font-weight: 600">
                     <div class="calendar-box" style="background-color: #547AC4;">IEEE Events</div>
                     <div class="calendar-box" style="background-color: #55D4C3;">Computer Society</div>
                     <div class="calendar-box" style="background-color: #891DDB;">EMBS</div>
                     <div class="calendar-box" style="background-color: #0D7813;">MTT-S</div>
                 </div>
-                <div style="margin: 10px auto; width: 600px; height: 20px; font-weight: 600">
+            </div>
+            <div class="col-lg-12 text-center">
+               
+                <div style="margin: 10px auto; width: 100%; height: 40px; font-weight: 600">
                     <div class="calendar-box" style="background-color: #CF5D5D;">PARTIEEE</div>
                     <div class="calendar-box" style="background-color: #6B3304;">Racing</div>
                     <div class="calendar-box" style="background-color: #E8CB4F;">ROV</div>
                     <div class="calendar-box" style="background-color: #333333;">Software Saturdays</div>                    
                 </div>
+            </div>
                 <?php
                     $calendar_sources = array(
                         array('color' => '2952A3', 'src' => 'd5lo1ojucvmelsk9a54kndq1g8@group.calendar.google.com'), #IEEE Calendar
@@ -54,15 +62,17 @@
                         $list .= $url_encode;
                     }
 
-                    $iframe = "https://calendar.google.com/calendar/embed?mode=WEEK&showTitle=0&amp;showPrint=0&amp;height=750&amp;wkst=1&amp;bgcolor=%23F5F5F5&#10;&amp;".$list."ctz=America/New_York";
+                    $iframe = "https://calendar.google.com/calendar/embed?mode=AGENDA&showTitle=0&amp;showPrint=0&amp;height=750&amp;wkst=1&amp;bgcolor=%23F5F5F5&#10;&amp;".$list."ctz=America/New_York";
                     $link = "https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=650&amp;wkst=1&amp;bgcolor=%23ffffff&amp;".$list."ctz=America/New_York";
 
                 ?>
-                    <iframe src="<?php echo $iframe ?>" style=" border-width:0" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
+                
+                    <iframe src="<?php echo $iframe ?>" style=" border-width:0" width="100%" height="750" frameborder="0" scrolling="no"></iframe>
                 <p>
+                
                     <span style="font-weight: 600; padding-left: 10px;"><a href="<?php echo $link?>" target="_blank">Bigger View</a></span>
                 </p>
-            </div>
+            
         </div>
     </div>
 
