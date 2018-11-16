@@ -24,8 +24,8 @@ include '../header.php';
                     <li>Eagle Workshop
                         <ul>
                             <li><a href="https://tinyurl.com/EAGLEPresentation1">Session 1</a></li>
-                            <li><a href="https://tinyurl.com/EAGLEPresentation2">Sesison 2</a></li>
-                            <li><a href="https://tinyurl.com/EAGLEPresentation3">Sesison 3</a></li>
+                            <li><a href="https://tinyurl.com/EAGLEPresentation2">Session 2</a></li>
+                            <li><a href="https://tinyurl.com/EAGLEPresentation3">Session 3</a></li>
                         </ul>
                     </li>
                     <li><a href="https://tinyurl.com/GITHUBPresentation">Git and Github</a></li>
