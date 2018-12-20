@@ -37,19 +37,19 @@
                     <div class="row">
                         <!--Alden Fisher-->
                         <div class= "col-md-4">
-                            <img src="images/Alden_Fisher.png" alt= "Alden Fisher" class="img-circle" width=250px height=250px />
+                            <img src="images/Alden_Fisher.PNG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />
                             <h4>Alden Fisher</h4>
                             <p>Chair<br />Electrical Engineering<br />Master's Student</p>
                         </div>
                         <!--George Luo-->
                         <div class= "col-md-4">
-                            <img src="images/George_Luo.png" alt= "George Luo" class="img-circle" width=250px height=250px />
+                            <img src="images/George_Luo.PNG" alt= "George Luo" class="img-circle" width=250px height=250px />
                             <h4>George Luo</h4>
                             <p>Vice Chair<br />Robotics Engineering Technology<br />Undergraduate Student</p>
                         </div>
                         <!--Zachary Loy-->
                         <div class= "col-md-4">
-                            <img src="images/Zachary_Loy.png" alt= "Zachary Loy" class="img-circle" width=250px height=250px />
+                            <img src="images/Zachary_Loy.PNG" alt= "Zachary Loy" class="img-circle" width=250px height=250px />
                             <h4>Zachary Loy</h4>
                             <p>Workshop Coordinator<br />Electrical Engineering<br />Undergraduate Student</p>
                         </div>
