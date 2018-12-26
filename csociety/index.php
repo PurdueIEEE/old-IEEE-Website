@@ -28,18 +28,18 @@
             <hr/>
             <div class="row">
                 <div class="col-md-6">
-                    <h4>Brandon Stewart</h4>
+                    <h4>Christopher Potter</h4>
                     <p>Chair<br/><br/></p>
                 </div>
 
                 <div class="col-md-6">
-                    <h4>Christopher Potter</h4>
+                    <h4>Sharan Ramjee</h4>
                     <p>Vice Chair<br/><br/></p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6">
-                    <h4>Sharan Ramjee</h4>
+                    <h4>Jerome Schweitzer</h4>
                     <p>Event Coordinator<br/> <br/></p>
                 </div>
 
