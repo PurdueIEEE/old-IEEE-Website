@@ -6,30 +6,28 @@
  * Time: 2:44 PM
  */
 
-include '_committees.php';
-
-$year = 2018;
+$year = 2019;
 $tz = new DateTimeZone("America/Indiana/Indianapolis");
 $etime = function ($month, $day, $hour, $minute = 0) use ($year, $tz) {
     return new DateTime("$year-$month-$day $hour:$minute:00", $tz);
 };
 
 $info_sessions = array(
-    array($etime(8, 28, 18, 30), $etime(8, 28, 20, 0), 'EE 129', GENERAL),
-    array($etime(8, 29, 18, 30), $etime(8, 29, 20, 0), 'EE 129', GENERAL),
-    array($etime(8, 30, 18), $etime(8, 30, 19), 'EE 115', RACING),
-    array($etime(8, 30, 18, 30), $etime(8, 30, 19, 30), 'ME 2061', LEARNING),
-    array($etime(8, 30, 19), $etime(8, 30, 20), 'ARMS 3109', SOCIAL),
-    array($etime(8, 30, 20), $etime(8, 30, 21), 'EE 115', INDUSTRIAL_RELATIONS),
-    array($etime(8, 31, 18), $etime(8, 31, 19), 'HEAV 206', EMBS),
-    array($etime(9, 1, 11), $etime(9, 1, 12, 30), 'ME 1130', SOFTWARE_SATURDAYS),
-    array($etime(9, 4, 18, 30), $etime(9, 4, 19, 30), 'ARMS 1010', PARTIEEE),
-    array($etime(9, 5, 18, 30), $etime(9, 5, 20), 'ME 1061', ROV),
-    array($etime(9, 6, 18), $etime(9, 6, 19), 'EE 222', GROWTH),
-    array($etime(9, 6, 18), $etime(9, 6, 19), 'EE 224', MTTS),
-    array($etime(9, 6, 19), $etime(9, 6, 20), 'EE 222', COMPUTER_SOCIETY),
-    array($etime(9, 8, 11), $etime(9, 8, 12, 30), 'ME 1130', SOFTWARE_SATURDAYS),
-    array($etime(9, 8, 15), $etime(9, 8, 17), 'POTR 234', ROV)
+    array($etime(1, 15, 18, 30), $etime(1, 15, 20, 0), 'EE 129', GENERAL),
+    array($etime(1, 16, 18, 30), $etime(1, 16, 20), 'POTR 234', ROV),
+//    array($etime(8, 29, 18, 30), $etime(8, 29, 20, 0), 'EE 129', GENERAL),
+//    array($etime(8, 30, 18), $etime(8, 30, 19), 'EE 115', RACING),
+    array($etime(1, 17, 18), $etime(1, 17, 19), 'ME 2063', LEARNING),
+//    array($etime(8, 30, 19), $etime(8, 30, 20), 'ARMS 3109', SOCIAL),
+//    array($etime(8, 30, 20), $etime(8, 30, 21), 'EE 115', INDUSTRIAL_RELATIONS),
+//    array($etime(8, 31, 18), $etime(8, 31, 19), 'HEAV 206', EMBS),
+//    array($etime(9, 1, 11), $etime(9, 1, 12, 30), 'ME 1130', SOFTWARE_SATURDAYS),
+    array($etime(1, 17, 18, 30), $etime(1, 17, 19, 30), 'ARMS 1010', PARTIEEE),
+//    array($etime(9, 5, 18, 30), $etime(9, 5, 20), 'ME 1061', ROV),
+    array($etime(1, 22, 18), $etime(1, 22, 19), 'EE 222', GROWTH),
+//    array($etime(9, 6, 18), $etime(9, 6, 19), 'EE 224', MTTS),
+//    array($etime(9, 6, 19), $etime(9, 6, 20), 'EE 222', COMPUTER_SOCIETY),
+//    array($etime(9, 8, 11), $etime(9, 8, 12, 30), 'ME 1130', SOFTWARE_SATURDAYS),
 );
 
 $info_session_text = '<h2><b>' . $year . ' Info Sessions</b></h2>';
