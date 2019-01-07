@@ -34,6 +34,7 @@ include '../header.php';
             <p>
                 The application can be filled out below or in a separate window <u><a
                         href="https://docs.google.com/forms/d/e/1FAIpQLSc7fbvWB0cuSVcmkLZicYjMOU92TB-NiI9wg4uHr78g1nPjKg/viewform">here</a></u>.
+                Applications must be filled out by 11:59 pm on January 17th.
             </p>
 
             <p>
