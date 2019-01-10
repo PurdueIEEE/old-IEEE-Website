@@ -1,8 +1,8 @@
 <?php
-    $page_title = 'Updates';
-    $site_title = 'IEEE ROV';
-    $site_index = '/rov';
-    include '../../header.php';
+$page_title = 'Updates';
+$site_title = 'IEEE ROV';
+$site_index = '/rov';
+include '../../header.php';
 ?>
 
 <!-- Content Row -->
@@ -23,19 +23,37 @@
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1">
             <h1 class="text-center">Updates</h1>
-            <p>Here is a list of updates that have been posted on the ROV website! You can also find an overview about our previous seasons under the history tab to the left.</p>
+            <p>Here is a list of updates that have been posted on the ROV website! You can also find an overview about
+                our previous seasons under the history tab to the left.</p>
             <hr>
+
+            <h3>2018 Competition</h3>
+            <p><em>January 9, 2019</em></p>
+            <div>
+                <p class="text-justify">
+                    Purdue ROV competed in Federal Way, WA at the Weyerhaueser King County Aquatic Center from June 21st
+                    to June 23rd. In the first year under captain Alex Ruffino, the team placed 18th out of 28
+                    registered team, and won the Guts and Glory Award for overcoming technical hardship with resolve.
+                    Power issues prevented ROV Cetacean from as well as expected, but several technical advances were
+                    made with the ROV. A new stabilization system made the ROV easier to pilot, and a magnetic slip
+                    coupling quick release system revolutionized tool design. We look forward to the 2018-19 season. See
+                    full team pictures
+                    <u><a href=/rov/team/2018pictures.php>here</a></u>.
+                </p>
+            </div>
 
             <h3>2018 Team Pictures</h3>
             <p><em>April 13, 2018</em></p>
             <div class="col-md-5">
                 <p class="text-justify">
-                The 2018 ROV Team pictures are now posted. See the <a href=/rov/team/2018pictures.php>individual technical and administrative team pictures here</a>.
+                    The 2018 ROV Team pictures are now posted. See the <a href=/rov/team/2018pictures.php>individual
+                        technical and administrative team pictures here</a>.
                 </p><br>
             </div>
             <div class="col-md-7">
                 <p class="text-justify">
-                <img src="/rov/images/2018Full.jpg" alt="2018 Team" style="width:100%" style="float:left" style="display:block">
+                    <img src="/rov/images/2018Full.jpg" alt="2018 Team" style="width:100%" style="float:left"
+                         style="display:block">
                 <p class="text-center">The 2018 ROV Team</p>
                 </p>
             </div>
@@ -47,13 +65,20 @@
             <p><em>June 28, 2017</em></p>
             <div class="col-md-4">
                 <p class="text-justify">
-                <img src="/rov/images/Winning_tech_report.jpg" alt="2017 Competition Team with Tech Report Award" style="width:100%" style="float:left" style="display:block">
+                    <img src="/rov/images/Winning_tech_report.jpg" alt="2017 Competition Team with Tech Report Award"
+                         style="width:100%" style="float:left" style="display:block">
                 <p class="text-center">Purdue posing with the first-place tech report award</p>
                 </p>
             </div>
             <div class="col-md-8">
                 <p class="text-justify">
-                The ROV Team finished eighth overall in the 2017 MATE International Competition! We also won awards for the best technical documentation and the best product presentation! Furthermore, rising sophomore, Katherine Mao, won the Flying Fish for her mechanical designs and passion for the ROV field. Read the <a href="/rov/files/June2017PressRelease.pdf">full press release here</a>. Also view our official team documents and pictures throughout the season by selecting the <a href="/rov/history">history tab</a>. We already have plans underway for next year where we hope to claim first place in Seattle!
+                    The ROV Team finished eighth overall in the 2017 MATE International Competition! We also won awards
+                    for the best technical documentation and the best product presentation! Furthermore, rising
+                    sophomore, Katherine Mao, won the Flying Fish for her mechanical designs and passion for the ROV
+                    field. Read the <a href="/rov/files/June2017PressRelease.pdf">full press release here</a>. Also view
+                    our official team documents and pictures throughout the season by selecting the <a
+                            href="/rov/history">history tab</a>. We already have plans underway for next year where we
+                    hope to claim first place in Seattle!
                 </p><br>
             </div>
 
@@ -64,11 +89,18 @@
             <p><em>June 20, 2017</em></p>
             <div class="col-md-8">
                 <p class="text-justify">
-                The ROV Team is competing in the MATE International Competition June 23-25. Read our pre-competition <a href="../files/June2017Newsletter.pdf">newsletter here</a> and follow us live at <a href="https://www.marinetech.org/live-videostream">MATE's website.</a> We are proud to present our ninth ROV in Long Beach, CA, ROV <em>Cephalopod!</em> Feel free to check out <a href="https://drive.google.com/open?id=0B7b8J6sbp7ReSkxCQ21xa051REk">our spec sheet</a>. We will release more of our documents and pictures after the competition!
+                    The ROV Team is competing in the MATE International Competition June 23-25. Read our pre-competition
+                    <a href="../files/June2017Newsletter.pdf">newsletter here</a> and follow us live at <a
+                            href="https://www.marinetech.org/live-videostream">MATE's website.</a> We are proud to
+                    present our ninth ROV in Long Beach, CA, ROV <em>Cephalopod!</em> Feel free to check out <a
+                            href="https://drive.google.com/open?id=0B7b8J6sbp7ReSkxCQ21xa051REk">our spec sheet</a>. We
+                    will release more of our documents and pictures after the competition!
                 </p>
             </div>
             <div class="col-md-4">
-                <a href="/rov/images/ROV_Cephalopod_isolated.png"><img src="/rov/images/ROV_Cephalopod_isolated_small.png" alt="Cephalopod" style="width:80%" style="float:left" style="display:block"></a>
+                <a href="/rov/images/ROV_Cephalopod_isolated.png"><img
+                            src="/rov/images/ROV_Cephalopod_isolated_small.png" alt="Cephalopod" style="width:80%"
+                            style="float:left" style="display:block"></a>
                 <p class="text-center">ROV <em>Cephalopod</em> Picture</p>
             </div>
             <hr>
@@ -77,7 +109,10 @@
             <p><em>March 2017</em></p>
             <div class="col-md-12">
                 <p class="text-justify">
-                The ROV Team is currently finishing up manufacturing and integration of key ROV components. Checkout our <b><a href=/rov/files/March2017Newsletter.pdf>March newsletter here.</a></b> We are well on our way to success in the <a href="http://www.marinetech.org/rov-competition-2/">MATE International ROV competition</a> in Long Beach, CA!
+                    The ROV Team is currently finishing up manufacturing and integration of key ROV components. Checkout
+                    our <b><a href=/rov/files/March2017Newsletter.pdf>March newsletter here.</a></b> We are well on our
+                    way to success in the <a href="http://www.marinetech.org/rov-competition-2/">MATE International ROV
+                        competition</a> in Long Beach, CA!
                 </p>
             </div>
             <hr>
@@ -86,7 +121,11 @@
             <p><em>January 2017</em></p>
             <div class="col-md-12">
                 <p class="text-justify">
-                The ROV Team began its ninth season with over 50 members! The team has made tremendous progress on the ROV designs the first semester and are now eagerly ready to manufacture the ROV. Checkout our  <b><a href=/rov/files/Fall2016Newsletter.pdf> our newsletter here.</a></b> We are well on our way for the 2017 competition in Long Beach, CA. Designs for the <a href="http://www.marinetech.org/rov-competition-2/">MATE competition!</a>
+                    The ROV Team began its ninth season with over 50 members! The team has made tremendous progress on
+                    the ROV designs the first semester and are now eagerly ready to manufacture the ROV. Checkout our
+                    <b><a href=/rov/files/Fall2016Newsletter.pdf> our newsletter here.</a></b> We are well on our way
+                    for the 2017 competition in Long Beach, CA. Designs for the <a
+                            href="http://www.marinetech.org/rov-competition-2/">MATE competition!</a>
                 </p>
             </div>
             <hr>
@@ -95,7 +134,11 @@
             <p><em>August 2016</em></p>
             <div class="col-md-12">
                 <p class="text-justify">
-                Interested in joining the team this year? Come to our first meeting on Wednesday, August 31 at 5:30pm in Hampton 1144! We have lots of exciting plans for this year and hope to finish first in 2017! You will be asked to fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPntz4UBPkGUmPngaLSoxhe6kaNKxhHUveHme7nMFi-du0HQ/viewform">this brief application to join</a>
+                    Interested in joining the team this year? Come to our first meeting on Wednesday, August 31 at
+                    5:30pm in Hampton 1144! We have lots of exciting plans for this year and hope to finish first in
+                    2017! You will be asked to fill out <a
+                            href="https://docs.google.com/forms/d/e/1FAIpQLSdPntz4UBPkGUmPngaLSoxhe6kaNKxhHUveHme7nMFi-du0HQ/viewform">this
+                        brief application to join</a>
                 </p>
             </div>
             <hr>
@@ -104,7 +147,12 @@
             <p><em>June 2016</em></p>
             <div class="col-md-12">
                 <p class="text-justify">
-                Purdue ROV competed in Houston, TX from June 22 - 25, 2016 at NASA's Neutral Buoyancy Lab! Thanks for all who supported our team at the competition and throughout the year! We had a wonderful technical presentation, an excellent poster, and great technical documentation. We had some electronics issues during the mission runs but were still able to place 13th internationally! Additionally, Kyle Rakos was awarded with the Flying Fish award for his passion and demonstrated leadership in the field!  We will soon add more details under Past Seasons and Pictures!
+                    Purdue ROV competed in Houston, TX from June 22 - 25, 2016 at NASA's Neutral Buoyancy Lab! Thanks
+                    for all who supported our team at the competition and throughout the year! We had a wonderful
+                    technical presentation, an excellent poster, and great technical documentation. We had some
+                    electronics issues during the mission runs but were still able to place 13th internationally!
+                    Additionally, Kyle Rakos was awarded with the Flying Fish award for his passion and demonstrated
+                    leadership in the field! We will soon add more details under Past Seasons and Pictures!
                 </p>
             </div>
             <hr>
@@ -115,4 +163,4 @@
 </div>
 <!-- /.well -->
 
-<?php include '../../footer.php';?>
+<?php include '../../footer.php'; ?>
