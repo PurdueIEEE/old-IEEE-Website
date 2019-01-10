@@ -22,7 +22,7 @@ $info_sessions = array(
 //    array($etime(8, 30, 20), $etime(8, 30, 21), 'EE 115', INDUSTRIAL_RELATIONS),
     array($etime(1, 18, 18), $etime(1, 18, 19), 'ME 1006', EMBS),
     array($etime(1, 19, 15, 30), $etime(1, 19, 17, 30), 'ARMS B061', SOFTWARE_SATURDAYS),
-    array($etime(1, 17, 18, 30), $etime(1, 17, 19, 30), 'ARMS 1010', PARTIEEE),
+//    array($etime(1, 17, 18, 30), $etime(1, 17, 19, 30), 'ARMS 1010', PARTIEEE),
 //    array($etime(9, 5, 18, 30), $etime(9, 5, 20), 'ME 1061', ROV),
     array($etime(1, 22, 18), $etime(1, 22, 19), 'EE 222', GROWTH),
 //    array($etime(9, 6, 18), $etime(9, 6, 19), 'EE 224', MTTS),
