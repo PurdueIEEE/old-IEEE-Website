@@ -35,8 +35,12 @@
             <hr>
 
             <div class="border border-dark">
+<<<<<<< HEAD
                 <h3 class="text-center text-primary bg-info">Info Session will be in <b>ARMS B061</b> at <b>3:30 pm</b> on January 19th!</h3>
                 <h4 class="text-center bg-success">Learning Sessions are pending approval for <b>ARMS B061</b> at <b>3:30 pm</b> on Saturdays. Finalized details are aimed to be in place by the end of our first week back.</h4>
+=======
+                <h5 class="text-center bg-success">Learning Sessions are pending approval for <b>ARMS B061</b> at <b>3:30 pm</b> on Saturdays. Finalized details are aimed to be in place by the end of our first week back.</h5>
+>>>>>>> master
                 <h5 class="text-center bg-info">Please see our calendar in the Calendar tab above for more details and sessions as they're finalized</h5>
 
                 <p class="text-justify">Software Saturdays aims to foster the learning of coding and languages, and give the Attendees a more rounded learning experience.</p>
