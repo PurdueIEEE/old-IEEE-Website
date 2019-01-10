@@ -14,7 +14,7 @@
         <!-- Content Column -->
         <div class="col-xs-8 text-dark col-xs-offset-2">
             <h2 class="text-center">Software Saturdays</h2>
-            <h5 class="text-center">Email us at: <b>software-saturdays@purdueieee.org</b></h5>
+            <h4 class="text-center"><b>software-saturdays@purdueieee.org</b></h4>
             <!-- Selection Row -->
             <div class="row">
                 <div class="col-xs-12">
@@ -35,7 +35,8 @@
             <hr>
 
             <div class="border border-dark">
-                <h5 class="text-center bg-success">Learning Sessions are pending approval for <b>ARMS B061</b> at <b>3:30 pm</b> on Saturdays. Finalized details are aimed to be in place by the end of our first week back.</h5>
+                <h3 class="text-center text-primary bg-info">Info Session will be in <b>ARMS B061</b> at <b>3:30 pm</b> on January 19th!</h3>
+                <h4 class="text-center bg-success">Learning Sessions are pending approval for <b>ARMS B061</b> at <b>3:30 pm</b> on Saturdays. Finalized details are aimed to be in place by the end of our first week back.</h4>
                 <h5 class="text-center bg-info">Please see our calendar in the Calendar tab above for more details and sessions as they're finalized</h5>
 
                 <p class="text-justify">Software Saturdays aims to foster the learning of coding and languages, and give the Attendees a more rounded learning experience.</p>
