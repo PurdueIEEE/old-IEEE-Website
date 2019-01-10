@@ -26,12 +26,17 @@ include '../header.php';
 
             <hr>
 
-            <p><em>April 13, 2018 Update</em></p>
+            <p><em>January 9, 2019 Update</em></p>
             <div>
                 <p>
-                    The 2018 ROV Team pictures are now posted. See the complete team picture below and <a
-                            href=/rov/team/2018pictures.php>individual technical and administrative team pictures
-                        here</a>.
+                    Purdue ROV competed in Federal Way, WA at the Weyerhaueser King County Aquatic Center from June 21st
+                    to June 23rd. In the first year under captain Alex Ruffino, the team placed 18th out of 28
+                    registered team, and won the Guts and Glory Award for overcoming technical hardship with resolve.
+                    Power issues prevented ROV Cetacean from as well as expected, but several technical advances were
+                    made with the ROV. A new stabilization system made the ROV easier to pilot, and a magnetic slip
+                    coupling quick release system revolutionized tool design. We look forward to the 2018-19 season. See
+                    full team pictures
+                    <u><a href=/rov/team/2018pictures.php>here</a></u>.
                 </p>
             </div>
             <hr>
