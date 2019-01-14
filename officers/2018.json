@@ -35,9 +35,16 @@
     "committees": "<a href=\"/partieee/\">Aerial Robotics</a>"
   },
   {
+    "name": "YuKai Bao",
+    "image": "/images/officers/2018_Bao_Yukai.jpg",
+    "position": "Growth & Engagement Head",
+    "description": "YuKai is a sophomore majoring in Electrical Engineering. She joined IEEE in 2018. As the head of Growth & Engagement in IEEE, she strives to introduce IEEE to a broader array of majors and make a more significant impact on the community by introducing future generations to engineering.",
+    "committees": "<a href=\"/growth/\">Growth & Engagement</a>"
+  },
+  {
     "name": "Zamaan Bagban",
     "image": "/images/officers/2018_Bagban_Zamaan.jpg",
-    "position": "Growth & Engagement Head",
+    "position": "Former Growth & Engagement Head",
     "description": "Zamaan Bagban is a Junior majoring in Aeronautical & Astronautical Engineering. He is passionate about systems engineering, and joined PARTIEEE in Fall 2017. As the Growth & Engagement Head, he aims to make more students aware of the wonderful opportunities available in IEEE to all majors, and to help inspire the next generation of engineers in the community.",
     "committees": "<a href=\"/partieee/\">Aerial Robotics</a>"
   },
