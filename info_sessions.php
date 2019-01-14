@@ -15,19 +15,16 @@ $etime = function ($month, $day, $hour, $minute = 0) use ($year, $tz) {
 $info_sessions = array(
     array($etime(1, 15, 18, 30), $etime(1, 15, 20, 0), 'EE 129', GENERAL),
     array($etime(1, 16, 18, 30), $etime(1, 16, 20), 'POTR 234', ROV),
-//    array($etime(8, 29, 18, 30), $etime(8, 29, 20, 0), 'EE 129', GENERAL),
-//    array($etime(8, 30, 18), $etime(8, 30, 19), 'EE 115', RACING),
-    array($etime(1, 17, 18), $etime(1, 17, 19), 'ME 2063', LEARNING),
-//    array($etime(8, 30, 19), $etime(8, 30, 20), 'ARMS 3109', SOCIAL),
-//    array($etime(8, 30, 20), $etime(8, 30, 21), 'EE 115', INDUSTRIAL_RELATIONS),
-//    array($etime(8, 31, 18), $etime(8, 31, 19), 'HEAV 206', EMBS),
-//    array($etime(9, 1, 11), $etime(9, 1, 12, 30), 'ME 1130', SOFTWARE_SATURDAYS),
+    array($etime(1, 17, 18),     $etime(1, 17, 19), 'ME 2063', LEARNING),
     array($etime(1, 17, 18, 30), $etime(1, 17, 19, 30), 'ARMS 1010', PARTIEEE),
-//    array($etime(9, 5, 18, 30), $etime(9, 5, 20), 'ME 1061', ROV),
-    array($etime(1, 22, 18), $etime(1, 22, 19), 'EE 222', GROWTH),
-//    array($etime(9, 6, 18), $etime(9, 6, 19), 'EE 224', MTTS),
-//    array($etime(9, 6, 19), $etime(9, 6, 20), 'EE 222', COMPUTER_SOCIETY),
-//    array($etime(9, 8, 11), $etime(9, 8, 12, 30), 'ME 1130', SOFTWARE_SATURDAYS),
+    array($etime(1, 17, 19), $etime(1, 17, 20), 'ME 1006', RACING),
+    array($etime(1, 17, 19, 30), $etime(1, 17, 20, 30), 'ARMS 3109', SOCIAL),
+//    array($etime(8, 30, 20), $etime(8, 30, 21), 'EE 115', INDUSTRIAL_RELATIONS),
+    array($etime(1, 18, 18), $etime(1, 18, 19), 'ME 1006', EMBS),
+    array($etime(1, 19, 15, 30), $etime(1, 19, 17, 30), 'ARMS B061', SOFTWARE_SATURDAYS),
+    array($etime(1, 22, 18), $etime(1, 22, 19), 'EE 115', GROWTH),
+    array($etime(1, 23, 18), $etime(1, 23, 19), 'EE 222', COMPUTER_SOCIETY),
+    array($etime(1, 24, 18), $etime(1, 24, 19), 'EE 226', MTTS)
 );
 
 $info_session_text = '<h2><b>' . $year . ' Info Sessions</b></h2>';

@@ -3,36 +3,36 @@ $site_title = 'Purdue IEEE';
 $site_index = '/';
 include '../header.php';
 ?>
-<script type="text/javascript">
-    $(document).ready( function () {
-        populateImages();
-    });
+    <script type="text/javascript">
+        $(document).ready(function () {
+            populateImages();
+        });
 
-    function populateImages() {
-        $.ajax({
-            url: 'carousel.json',
-            success: function (data) {
-                let tmp = document.createDocumentFragment();
-                for (let i=0; i < data.length; i++) {
-                    let img = data[i];
-                    let item = document.createElement('div');
-                    item.className = "item";
-                    if (i === 0)
-                        item.classList.add("active");
-                    let fill = document.createElement("div");
-                    fill.className = "fill";
-                    fill.style.backgroundImage = "url(" + img["url"] + ")";
-                    item.appendChild(fill);
-                    // let caption = document.createElement("div");
-                    // caption.className = "carousel-caption";
-                    // item.appendChild(caption);
-                    tmp.appendChild(item);
+        function populateImages() {
+            $.ajax({
+                url: 'carousel.json',
+                success: function (data) {
+                    let tmp = document.createDocumentFragment();
+                    for (let i = 0; i < data.length; i++) {
+                        let img = data[i];
+                        let item = document.createElement('div');
+                        item.className = "item";
+                        if (i === 0)
+                            item.classList.add("active");
+                        let fill = document.createElement("div");
+                        fill.className = "fill";
+                        fill.style.backgroundImage = "url(" + img["url"] + ")";
+                        item.appendChild(fill);
+                        // let caption = document.createElement("div");
+                        // caption.className = "carousel-caption";
+                        // item.appendChild(caption);
+                        tmp.appendChild(item);
+                    }
+                    document.getElementById("carousel_inner").appendChild(tmp);
                 }
-                document.getElementById("carousel_inner").appendChild(tmp);
-            }
-        })
-    }
-</script>
+            })
+        }
+    </script>
     <style>
         #centerside {
             width: 100%;
@@ -61,7 +61,7 @@ include '../header.php';
                     </p>
                     <p>
                         If you're interested in learning more about Purdue IEEE's Growth & Engagement committee, please
-                        come to the 2018 fall info session on Thursday 9/6 6:00pm - 7:00pm in EE 222.
+                        come to the 2018 spring info session on Tuesday, 1/22 6:00pm - 7:00pm in EE 115.
                     </p>
                     <hr>
                     <div class="col-md-12">
