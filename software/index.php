@@ -35,8 +35,8 @@
             <hr>
 
             <div class="border border-dark">
-                <h3 class="text-center text-primary bg-info">Info Session will be in <b>ARMS B061</b> at <b>3:30 pm</b> on January 19th!</h3>
-                <h4 class="text-center bg-success">Learning Sessions are in <b>ARMS B061</b> at <b>3:30 pm</b> on Saturdays, starting January 26th and continuing weekly.</h4>
+                <h3 class="text-center text-primary bg-info">Learning Sessions will be in <b>ARMS B061</b> at <b>3:30 pm</b> starting February 2nd, weekly!</h3>
+                <h4 class="text-center bg-success"><b>Project Day #2</b>, April 13th, is in <b>ARMS 1010</b> from <b>2:30 to 6:30 pm</b>. The rest of the project days will be at the same time, but in <b>ARMS B061</b>.</h4>
                 <h5 class="text-center bg-info">Please see our calendar in the Calendar tab above for more details on sessions, review hours, and project days</h5>
 
                 <p class="text-justify">Software Saturdays aims to foster the learning of coding and languages, and give the Attendees a more rounded learning experience.</p>
