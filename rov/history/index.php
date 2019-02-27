@@ -24,6 +24,43 @@
         <div class="col-md-7 text-dark col-md-offset-1">
             <h1 class="text-center">ROV Team History</h1><br>
 
+            <h3 class="text-center">2017 - 2018: ROV <em>Cetacean</em></h3>
+            <div class="row">
+                <div class="col-md-4 text-dark">
+                    <p class="text-center"><a href="https://drive.google.com/drive/folders/19eC-axvuhQY5E2BVIHMtJZG3kDjlYuen?usp=sharing">Season Pictures</a></p>
+                </div>
+                <div class="col-md-4 text-dark">
+                    <p class="text-center"><a href="https://drive.google.com/file/d/1w0KZPNPATV4hdrJuJQR-4nZfBfe8oz6h/view?usp=sharing">Spec Sheet</a></p>
+                </div>
+                <div class="col-md-4 text-dark">
+                    <p class="text-center"><a href="https://drive.google.com/file/d/1mRLHuegH-IFjD2IL0gEoUkV6qrC0NQOq/view?usp=sharing">Tech Report</a></p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 text-dark">
+                    <p class="text-center"><a href="https://drive.google.com/file/d/1yhD2i8VRCmaH9aF6OBZ2QHvjermY6V04/view?usp=sharing">Team Poster</a></p>
+                </div>
+                <div class="col-md-6 text-dark">
+                    <p class="text-center"><a href="https://www.youtube.com/watch?v=BbJfedwz87Q&t=4s&fbclid=IwAR1RTnKREvAuByyvOL5bXZ3pRU5UITqi2aDHx5z4Ye0MOpCqWG2waHu8Y3U">Qualifying Video</a></p>
+                </div>
+            </div>
+
+            <p class="text-justify">
+                The team faced its fourth change in captaincy, with Alex Ruffino taking over. The team kept its large
+                size, with more than 50 people working on the project over the year. The competition moved to Seattle
+                this year, and the team brought with them a strong technical report and presentation. Technical issues
+                with the electronics prevented the team from reaching its full potential, but they kept trying to make
+                the ROV function properly at both mission runs and the bonus point run. The team finished 18th out of
+                28, and was awarded the Guts and Glory award for overcoming technical hardship with resolve. The team
+                is proud of their achievements, and looks forward to the upcoming season!
+                See <a href="/rov/team/2017pictures.php">pictures of the team here.</a>
+            </p>
+            <a href="/rov/images/ROV_Cetacean.png"><p class="text-center">
+                    <img src="/rov/images/ROV_Cetacean.png" alt="ROV Cephalopod" style="width:70%"></p><br>
+            </a>
+            <br>
+
             <h3 class="text-center">2016 - 2017: ROV <em>Cephalopod</em></h3>
             <div class="row">
                 <div class="col-md-4 text-dark">
@@ -38,18 +75,23 @@
             </div>
 
             <div class="row">
-                <div class="col-md-4 text-dark">
+                <div class="col-md-6 text-dark">
                     <p class="text-center"><a href="https://drive.google.com/open?id=0B7b8J6sbp7ReZ0VnalJiMmJ2bEk">Team Poster</a></p>
                 </div>
-                <div class="col-md-4 text-dark">
+                <div class="col-md-6 text-dark">
                     <p class="text-center"><a href="https://www.youtube.com/watch?v=n5yur2sxvFY&feature=youtu.be">Qualifying Video</a></p>
-                </div>
-                <div class="col-md-4 text-dark">
-                    <p class="text-center"><a href="/rov/history/cephalopod.php">Press Release</a></p>
                 </div>
             </div>
 
-            <p class="text-justify">Purdue ROV competed in Long Beach, CA from June 23 - 25 The team continued its trend of increasing results and growing in size. The 50 member team finished in 8th place and took home first in both the technical documentation and the product presentation. Furthermore, Katherine Mao won the Flying Fish award for her technical designs and passion for the field. ROV <em>Cephalopod</em> performed well; however, a loose cable connection during the final product run prevented a shot at first place. Regardless, the team was thrilled with their success and are proud of one of their most advanced and capable vehicles to date! See <a href="/rov/team/2017pictures.php">pictures of the team here.</a></p>
+            <p class="text-justify">
+                Purdue ROV competed in Long Beach, CA from June 23 - 25 The team continued its trend of increasing
+                results and growing in size. The 50 member team finished in 8th place and took home first in both the
+                technical documentation and the product presentation. Furthermore, Katherine Mao won the Flying Fish
+                award for her technical designs and passion for the field. ROV <em>Cephalopod</em> performed well;
+                however, a loose cable connection during the final product run prevented a shot at first place.
+                Regardless, the team was thrilled with their success and are proud of one of their most advanced and
+                capable vehicles to date! See <a href="/rov/team/2017pictures.php">pictures of the team here.</a>
+            </p>
             <a href="/rov/images/ROV_Cephalopod_isolated.png"><p class="text-center"> <img src="/rov/images/CephalopodByPool.jpg" alt="ROV Cephalopod" style="width:70%"></p><br>
             </a>
             <br>
@@ -79,10 +121,15 @@
                 </div>
             </div>
 
-            <p class="text-justify">Purdue ROV competed in Houston, TX from June 23 - 25 at NASA's Neutral Buoyancy Lab! The team reached its largest size yet at 42 members
-                with Kyle Rakos captaining the team first semester and for the competition while Sanay Shah took over for the second semester. At the international competition
-                we had a wonderful technical presentation, an excellent poster, and great technical documentation. We had some electronics issues during the mission runs but were
-                still able to place 13th internationally! Additionally, Kyle Rakos was awarded with the Flying Fish award for his passion and demonstrated leadership in the field!</p>
+            <p class="text-justify">
+                Purdue ROV competed in Houston, TX from June 23 - 25 at NASA's Neutral Buoyancy Lab! The team reached
+                its largest size yet at 42 members with Kyle Rakos captaining the team first semester and for the
+                competition while Sanay Shah took over for the second semester. At the international competition
+                we had a wonderful technical presentation, an excellent poster, and great technical documentation. We
+                had some electronics issues during the mission runs but were still able to place 13th internationally!
+                Additionally, Kyle Rakos was awarded with the Flying Fish award for his passion and demonstrated
+                leadership in the field!
+            </p>
             <p class="text-center"> <img src="/rov/images/ROVMaelstrom.jpg" alt="ROV Maelstrom" style="width:80%"></p><br>
             <br>
 
