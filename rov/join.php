@@ -32,16 +32,16 @@ include '../header.php';
             </p>
 
             <p>
-                The application can be filled out below or in a separate window <u>
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSc7fbvWB0cuSVcmkLZicYjMOU92TB-NiI9wg4uHr78g1nPjKg/viewform">here</a>
-                </u>.
-                Applications must be filled out by 11:59 pm on January 17th.
-            </p>
-
-            <p>
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7fbvWB0cuSVcmkLZicYjMOU92TB-NiI9wg4uHr78g1nPjKg/viewform"
-                        width="700" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...
-                </iframe>
+<!--                The application can be filled out below or in a separate window-->
+<!--                <u><a href="https://docs.google.com/forms/d/e/1FAIpQLSc7fbvWB0cuSVcmkLZicYjMOU92TB-NiI9wg4uHr78g1nPjKg/viewform">here</a></u>.-->
+<!--                Applications must be filled out by 11:59 pm on January 17th.-->
+<!--                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7fbvWB0cuSVcmkLZicYjMOU92TB-NiI9wg4uHr78g1nPjKg/viewform"-->
+<!--                        width="700" height="700" frameborder="0" marginheight="0" marginwidth="0">-->
+<!--                    Loading...-->
+<!--                </iframe>-->
+                Applications for the 2019 spring semester are now closed. There will be another round of applications at
+                the beginning of the fall semester in August. If you have any questions please reach out to Alex
+                Ruffino at <a href="mailto:aruffino@purdue.edu">aruffino@purdue.edu</a>.
             </p>
 
         </div>
