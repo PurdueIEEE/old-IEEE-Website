@@ -1,0 +1,19 @@
+[
+  {
+    "year": 2018,
+    "events": [
+      {
+        "name": "Eagle Workshop",
+        "sessions": {
+          "Session 1": "https://tinyurl.com/EAGLEPresentation1",
+          "Session 2": "https://tinyurl.com/EAGLEPresentation2",
+          "Session 3": "https://tinyurl.com/EAGLEPresentation3"
+        }
+      },
+      {
+        "name": "Git and Github",
+        "url": "https://tinyurl.com/GITHUBPresentation"
+      }
+    ]
+  }
+]
