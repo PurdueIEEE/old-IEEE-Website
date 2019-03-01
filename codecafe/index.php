@@ -63,7 +63,7 @@
 
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">I have more questions</h1>
-            <p class="text-center">Feel free to shoot us an email at <a href="mailto:jjoco@purdue.edu">jjoco@purdue.edu</a></p>
+            <p class="text-center">Feel free to shoot us an email at <a href="mailto:king316@purdue.edu">king316@purdue.edu</a></p>
         </div>
     </div>
 
