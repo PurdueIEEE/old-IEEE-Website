@@ -23,6 +23,16 @@
         <div class="col-md-7 text-dark col-md-offset-1">
             <h1 class="text-center">MTT-S Project History</h1><br>
 
+            <h3 class="text-center">2017 - 2018: RailFUN and FM Radio Workshop</h3>
+            <p class="text-justify">
+                This year has been an exciting year for MTT-S! In addition to working on the power amplifier and
+                wireless harvester to prepare for IMS (International Microwave Symposium), we worked on an
+                electromagnetically powered projectile launcher. This involved three main tasks including circuit
+                design, mechanical design, and CAD design. We also worked on a FM radio workshop where we designed PCB
+                and worked with radio signal logics to make personal FM radios. This summer, we plan to travel to
+                Boston, Massachusetts to compete in IMS. We expect to do great at IMS and have a ton of fun!
+            </p>
+
             <h3 class="text-center">2016 - 2017: Microwaves in Internet Delivery</h3>
             <div class="row">
                 <div class="col-md-4 text-dark">
