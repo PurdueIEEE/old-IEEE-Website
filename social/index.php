@@ -15,8 +15,14 @@
                     paintball and go karts.
                 </p>
 
-                <h2>2017–2018 Events</h2>
+                <h2>2018-2019 Events</h2>
+                <h3>Ice Skating</h3>
+                <img src="./images/2018_2019_ice_skating.jpg" alt="2017 2018 Ice Skating" style="width: 100%"/>
 
+                <h3>Flag Football with HKN</h3>
+                <img src="./images/2018_2019_hkn_flag_football.jpg" alt="2017 2018 Flag Football" style="width: 100%"/>
+
+                <h2>2017–2018 Events</h2>
                 <h3>IEEE Day</h3>
                 <p>
                     IEEE Day is the more important IEEE-themed holiday (the second is the IEEE Honor Ceremony
