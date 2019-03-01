@@ -3,7 +3,7 @@
     "name": "Jessica Chin",
     "image": "/images/officers/2018_Chin_Jessica.jpg",
     "position": "President",
-    "description": "Jessica Chin is a senior majoring in Electrical Engineering. Since high school, Jessica has been involved with her FIRST robotics team and has always wanted to build an underwater robot. She decided to join Purdue IEEE in Fall 2016 as part of the ROV Committee. In ROV, Jessica was on the Electrical Team, where she worked on the power and movement aspects of the ROV. In her spare time, Jessica enjoys playing tennis.",
+    "description": "Jessica Chin is a junior majoring in Electrical Engineering. Since high school, Jessica has been involved with her FIRST robotics team and has always wanted to build an underwater robot. She decided to join Purdue IEEE in Fall 2016 as part of the ROV Committee. In ROV, Jessica was on the Electrical Team, where she worked on the power and movement aspects of the ROV. In her spare time, Jessica enjoys playing tennis.",
     "committees": "<a href=\"/rov/\">ROV</a>"
   },
   {
@@ -14,9 +14,16 @@
     "committees": "<a href=\"/partieee/\">Aerial Robotics</a>"
   },
   {
+    "name": "Efe Tas",
+    "image": "/images/officers/Efe_Tas.jpg",
+    "position": "Treasurer (Spring)",
+    "description": "Efe Tas is a junior in Computer Science with an interest in Systems Programming. He joined IEEE in the Fall of 2017 and became a member of the Computer Society. For the Spring of 2019 Efe will be the IEEE Treasurer. Efe plans to work with the Quantum Computing Technology. In his free time Efe enjoys playing video games, running long distances, and reading fictional books.",
+    "committees": "<a href=\"/csociety/\">Computer Society</a>"
+  },
+  {
     "name": "Gavin Shanley",
     "image": "/images/officers/2018_Shanley_Gavin.jpg",
-    "position": "Treasurer",
+    "position": "Treasurer (Fall)",
     "description": "Gavin is a senior majoring in Visual Effects Compositing and Web Development and Design. He has always loved web design, and joined IEEE in the Spring of 2018 to be a part of Software Saturdays. He is currently the Vice Chair for Software Saturdays, and focuses on front end development. Gavin is an artist and works on animation and cartoons in his free time.",
     "committees": "<a href=\"/software/\">Software Saturdays</a>"
   },

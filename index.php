@@ -110,7 +110,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
         <h1 style="margin-top: 0; text-align: center">
             <a href="https://docs.google.com/presentation/d/1_fUzONclKdEbad58eaDOvLDupfv5c7YNpPEcFTePIhM/edit?usp=sharing"
                target="_blank">Spring 2019 Callout Slides Link</a></h1>
-        <?php include 'info_sessions.php'; ?>
+        <?php //include 'info_sessions.php'; ?>
     </div>
 
     <!-- Committeee List -->
@@ -255,7 +255,27 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                     </div>
                 </div>
             </div>
-
+            <div class="col-md-12">
+                <div class="col-md-6">
+                    <div class="media">
+                        <div class="pull-left">
+                            <style>#software:before {
+                                    content: "developer_board";
+                                }</style>
+                            <i id="software" class="material-icons" style="color:#072a40; font-size: 32px;"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading"><a href="/software/">Software Saturday's</a></h4>
+                            <p>
+                                Software Saturday's is committed to developing comprehensive software development skills
+                                in attendees. Lessons are open to the public and are funded by the College of Engineering.
+                                Skills taught in the past have included Web and Android Development. Emphasis is placed on
+                                teaching a comprehensive set of skills over a single language.
+                            </p><br>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
