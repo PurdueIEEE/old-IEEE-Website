@@ -9,65 +9,83 @@ include '../header.php';
         $.ajax({
             url: 'decks.json',
             success: function (data) {
-                let tmp = document.createDocumentFragment();
-                let li;
-
-                for (let i=0; i < data.length; i++) {
-                    let deck = data[i];
-                    let year = deck["year"];
-                    li = new_li_a(year, "#");
-                    li.onclick = function() {displayDeckYear(data, year)};
-                    tmp.appendChild(li);
-                }
-                li.classList.add("active");
-                tmp.appendChild(li);
-
+                let [tmp, liArray] = populatePagiation(data, (item) => item["year"], displayDeckYear);
                 let deck_index = document.getElementById("deck_index");
                 deck_index.innerHTML = "";
                 deck_index.appendChild(tmp);
-
-                displayDeckYear(data, data.length-1);
+                displayDeckYear(data, liArray, data.length-1);
             }
         });
         $.ajax({
             url: "events.json",
             success: function (data) {
-                let currentYear = new Date().getFullYear();
+                let now = new Date();
+                let upcoming = {"year": "Upcoming", "events": []};
+                let yearMap = {"Upcoming": upcoming};
+                let eventArray = [upcoming];
 
-                console.log(data);
-
-                for (let index in data) {
-                    let event = data[index];
-
-                    console.log(event);
+                for (let i=0; i < data.length; i++) {
+                    let event = data[i];
+                    let date = new Date(event["date"]);
+                    let events;
+                    if (date < now) {
+                        let year = date.getFullYear();
+                        if (!yearMap.hasOwnProperty(year)) {
+                            let events = {"year": year, "events": []};
+                            sortedSplice(eventArray, (a) => a["year"].toString(), events);
+                            yearMap[year] = events;
+                        }
+                        events = yearMap[year];
+                    } else {
+                        events = yearMap["Upcoming"];
+                    }
+                    sortedSplice(events["events"], (a) => a["date"], event);
                 }
-                // li = new_li("Upcoming", "#upcoming");
+                let [tmp, liArray] = populatePagiation(eventArray, (item) => item["year"], displayEventYear);
+                let deck_index = document.getElementById("event_index");
+                deck_index.appendChild(tmp);
+                displayEventYear(eventArray, liArray, eventArray.length - 1);
             }
         });
     });
 
-    // function onHashChange (data) {
-    //     console.log(data);
-    //     let hash = window.location.hash.replace("#", "");
-    //     let year = hash.slice(-4);
-    //     if (hash.startsWith("deck")) {
-    //         displayDeckYear(data, year);
-    //     } else {
-    //         displayYear(data, year);
-    //     }
-    // }
-
-    function displayDeckYear(data, index) {
-        // console.log(`Display Deck ${index}`);
-        let deck = data[index];
-        let events = deck["events"];
-
+    function displayDeckYear(data, liArray, index) {
+        replaceActive(liArray, index);
+        let events = data[index]["events"];
         let tmp = document.createDocumentFragment();
         traverseDeck(tmp, events);
-
         let decks = document.getElementById("decks");
         decks.innerHTML = "";
         decks.appendChild(tmp);
+    }
+
+    function displayEventYear(data, liArray, index) {
+        replaceActive(liArray, index);
+        let events = data[index].events;
+        let tmp = document.createDocumentFragment();
+        for (let i=0; i < events.length; i++) {
+            let event = events[i];
+            let div = document.createElement("div");
+            if ("img" in event) {
+                let img = document.createElement("img");
+                img.src = event["img"];
+                img.style = "width: 100%";
+                div.appendChild(img);
+            }
+            let title = document.createElement("h3");
+            title.innerHTML = event["title"];
+            div.appendChild(title);
+            let desc = document.createElement("p");
+            desc.innerHTML = event["desc"];
+            div.appendChild(desc);
+            let hr = document.createElement("hr");
+            div.appendChild(hr);
+            tmp.appendChild(div);
+        }
+
+        let eventElement = document.getElementById("events");
+        eventElement.innerHTML = "";
+        eventElement.appendChild(tmp);
     }
 
     function traverseDeck(root, events) {
@@ -80,30 +98,62 @@ include '../header.php';
                 li.innerText = event["name"];
                 let ul = document.createElement("ul");
                 for (let [key, value] of Object.entries(sess)) {
-                    let li = new_li_a(key, value);
+                    let li = pagiationElement(key, value);
                     ul.appendChild(li);
                 }
                 li.appendChild(ul);
                 root.appendChild(li);
             } else {
-                let li = new_li_a(event["name"], event["url"]);
+                let li = pagiationElement(event["name"], event["url"]);
                 root.appendChild(li);
             }
         }
     }
 
-    function displayYear(data, year) {
-
+    function populatePagiation(arr, titleLambda, onClickHandler) {
+        let tmp = document.createDocumentFragment();
+        let liArray = [];
+        for (let i=0; i < arr.length; i++) {
+            let item = arr[i];
+            let title = titleLambda(item);
+            let li = pagiationElement(title);
+            liArray.push(li);
+            li.onclick = function() {onClickHandler(arr, liArray, i)};
+            tmp.appendChild(li);
+        }
+        return [tmp, liArray];
     }
 
-    function new_li_a(name, hash) {
-        let li, a;
-        li = document.createElement("li");
-        a = document.createElement("a");
+    function pagiationElement(name, hash="#") {
+        let li = document.createElement("li");
+        let a = document.createElement("a");
+        a.classList.add("page-link");
         a.innerText = name;
         a.href = hash;
         li.appendChild(a);
         return li;
+    }
+
+    function replaceActive(elementArray, index) {
+        for (let i=0; i < elementArray.length; i++) {
+            elementArray[i].classList.remove("active");
+        }
+        elementArray[index].classList.add("active");
+    }
+
+    function sortedSplice(arr, key, item) {
+        let cmp = key(item);
+        let i = 0;
+        if (arr.length) {
+            for (; i < arr.length; i++) {
+                let comp = key(arr[i]);
+                if (comp > cmp) {
+                    break;
+                }
+            }
+        }
+        arr.splice(i, 0, item);
+        return i;
     }
 </script>
 

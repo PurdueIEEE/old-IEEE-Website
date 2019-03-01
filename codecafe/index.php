@@ -10,8 +10,8 @@
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">IEEE Code Cafe</h1>
-            <h2 class="text-center">Saturday, March 31st, 2018</h2>
-            <h2 class="text-center">WALC B074</h2>
+            <h2 class="text-center">Saturday, March 30st, 2018</h2>
+            <h2 class="text-center">Location TBD</h2>
             <h2 class="text-center">1 - 6 PM</h2>
         </div>
 
@@ -58,7 +58,7 @@
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">How can I start?</h1>
             <p class="text-justified">Click on the sign up link on the top right to RSVP, or <a href="/codecafe/signup"><b>click here.</b></a></p>
-            <p class="text-justified">However, if you want to be a mentor (accepted mentors get a free T-shirt), fill out this <a href="https://goo.gl/forms/2CTuHYrnyjSer8pM2"><b>application.</b></a></p>
+            <p class="text-justified">However, if you want to be a mentor (accepted mentors get a free T-shirt), fill out this <a href="https://goo.gl/forms/0qHywbCFUusUs64e2"><b>application.</b></a></p>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
