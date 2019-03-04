@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">IEEE Code Cafe</h1>
-            <h2 class="text-center">Saturday, March 30st, 2018</h2>
+            <h2 class="text-center">Saturday, March 30st, 2019</h2>
             <h2 class="text-center">Location TBD</h2>
             <h2 class="text-center">1 - 6 PM</h2>
         </div>
@@ -22,12 +22,24 @@
 
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="logo.jpg" alt="Code Cafe Logo" style="width:80%" style="display:block"> </p>
+            <h1 class="text-center">How can I start?</h1>
+            <p class="text-justified">Click on the sign up link on the top right to RSVP, or <a href="/codecafe/signup"><b>click here.</b></a></p>
+            <p class="text-justified">However, if you want to be a mentor (accepted mentors get a free T-shirt), fill out this <a href="https://goo.gl/forms/0qHywbCFUusUs64e2"><b>application.</b></a></p>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
         <h2>What is Code Cafe?</h2>
             <p class="text-justified">Code Cafe is an open learning event made to help you get started with learning how to code. At this event, we want you to be as relaxed as possible. There will be free beverages (it is a cafe after all), and refreshments.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-5 text-dark col-md-offset-1">
+            <p class="text-center"><img src="logo.jpg" alt="Code Cafe Logo" style="width:80%" style="display:block"> </p>
+        </div>
+
+        <div class="col-md-5 text-dark col-md-offset-1">
+            <p class="text-center"><img src="codecafe4.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
         </div>
     </div>
 
@@ -39,16 +51,6 @@
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="codecafe4.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"></p>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="codecafe2.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"> </p>
-        </div>
-
-        <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">What to bring?</h1>
             <p class="text-justified">Please bring a laptop, charger and the curiosity to be the Picasso of the art of programming.</p>
         </div>
@@ -56,9 +58,7 @@
 
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
-            <h1 class="text-center">How can I start?</h1>
-            <p class="text-justified">Click on the sign up link on the top right to RSVP, or <a href="/codecafe/signup"><b>click here.</b></a></p>
-            <p class="text-justified">However, if you want to be a mentor (accepted mentors get a free T-shirt), fill out this <a href="https://goo.gl/forms/0qHywbCFUusUs64e2"><b>application.</b></a></p>
+            <p class="text-center"><img src="codecafe2.jpg" alt="Code Cafe Mentorship" style="width:80%" style="display:block"> </p>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
