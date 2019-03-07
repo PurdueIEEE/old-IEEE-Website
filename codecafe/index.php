@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">IEEE Code Cafe</h1>
-            <h2 class="text-center">Saturday, March 30st, 2019</h2>
+            <h2 class="text-center">Saturday, March 30th, 2019</h2>
             <h2 class="text-center">Location TBD</h2>
             <h2 class="text-center">1 - 6 PM</h2>
         </div>
