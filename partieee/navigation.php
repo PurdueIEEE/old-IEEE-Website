@@ -9,10 +9,6 @@
                         <a href="about.php">About Us</a>
                     </li>
                     <li>
-                        <a href="updates.php">Project Updates</a>
-                    </li>
-                    <br />
-                    <li>
                         <a href="http://www.auvsi-suas.org/" target="_blank">SUAS Competition</a>
                     </li>
                     <li>
