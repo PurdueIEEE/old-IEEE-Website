@@ -25,14 +25,24 @@
             <h1 class="text-center">Gold Sponsor</h1>
                 <div class="row">
                     <div class="col-md-4 text-center">
-                            <a href="http://www.purdue.edu/provost/" target="_blank"><img src="/racing/images/Provost.png" alt="Bechtel" style="width:100%"></a>
+                            <a href="http://www.purdue.edu/provost/">
+                                <img src="/racing/images/sponsor_gold_Provost.png" alt="Purdue Provost" style="width:100%"></a>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a href="https://www.trumpf.com/">
+                            <img src="/racing/images/sponsor_gold_trumpf.png" alt="TRUMPF" style="width:100%"></a>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a href="https://www.purdueesc.org/">
+                            <img src="/racing/images/sponsor_gold_pesc.png" alt="Purdue PESC" style="width:100%"></a>
                     </div>
                 </div>
             <br /><br />
             <h1 class="text-center">Silver Sponsor</h1>
                 <div class="row">
                     <div class="col-md-4 text-center">
-                        <a href="https://www.harmonyhit.com" target="_blank"><img src="/racing/images/HHIT.png" alt="Exxon Mobil" style="width:100%"></a>
+                        <a href="https://www.harmonyhit.com">
+                            <img src="/racing/images/sponsor_silver_HHIT.png" alt="Harmony Healthcare IT" style="width:100%"></a>
                     </div>
                 </div>
         </div>

@@ -1,13 +1,12 @@
 <?php
-    $site_title = 'IEEE Racing';
-    $site_index = '/racing';
-    include '../header.php';
+$site_title = 'IEEE Racing';
+$site_index = '/racing';
+include '../header.php';
 ?>
 
 <!-- Content Row -->
 <div class="well card-1">
     <div class="row">
-
         <!-- Sidebar Column -->
         <div class="col-md-3">
             <div class="list-group">
@@ -18,13 +17,10 @@
                 <a href="/racing/alumni/" class="list-group-item">Alumni</a>
             </div>
         </div>
-
         <!-- Content Column -->
         <div class="col-md-9 text-dark">
-
             <h2 class="text-center">Racing Team</h2>
-            <br>
-
+            <br/>
             <p class="text-justify">
                 IEEE Racing builds an electric go-kart that competes in the Purdue evGrandPrixthat takes place annually
                 at the Indianapolis Motor Speedway. We are looking for members to redesign electrical systems, get
@@ -36,65 +32,60 @@
                 into planning time where we discuss our project and budget and build sessions where members get hands-on
                 with the go-kart.
             </p>
-
             <p class="text-justify">
-                All majors are welcome!! Contact <a href="mailto:white378@purdue.edu">Adrian White</a> for more details.
+                All majors are welcome!! Contact <a href="mailto:hou71@purdue.edu">Anthony Hou</a> for more details.
             </p>
-
-
-            <h2 class="text-center">2016-2017 Team Picture</h2>
-            <a href="/racing/images/GoKart.jpg"
-                <p class="text-center"><img src="/racing/images/GoKart.jpg" alt="2016 Team" style="width:100%"></p>
+            <h2 class="text-center">2018-2019 Team Picture</h2>
+            <a href="/racing/images/2018_GoKart.png"
+            <p class="text-center"><img src="/racing/images/2018_GoKart.png" alt="2018 Team" style="width:100%"></p>
             </a>
-            <br>
-
-
+            <br/>
             <div class="well card-1 text-dark">
                 <div class="row text-center">
-
                     <h1 id="leaders">Leadership</h1>
                     <hr/>
                     <div class="row">
-                        <!--Adrian White-->
                         <div class="col-md-4">
-                            <img src="/racing/images/Adrian.jpg" alt="Adrian White" class="img-circle" width=200px
+                            <img src="/racing/images/2018_Hou.png" alt="Anthony Hou" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Adrian White</h4>
-                            <p>Chair<br/>Electrical Engineering<br/>Senior</p>
+                            <h4>Anthony Hou</h4>
+                            <p>Chair<br/>Computer Engineering<br/>Junior</p>
                         </div>
-                        <!--Charlie Watts-->
                         <div class="col-md-4">
-                            <img src="/racing/images/Charlie.jpg" alt="Charlie Watts" class="img-circle" width=200px
+                            <img src="/racing/images/2018_Watts.png" alt="Charlie Watts" class="img-circle" width=200px
                                  height=200px/>
                             <h4>Charlie Watts</h4>
-                            <p>Vice Chair<br/>Electrical Engineering<br/>Sophomore</p>
+                            <p>Vice Chair<br/>Electrical Engineering<br/>Junior</p>
                         </div>
-                        <!--Micaela Salmon-->
                         <div class="col-md-4">
-                            <img src="/racing/images/Micaela.jpg" alt="Micaela Salmon" class="img-circle" width=200px height=200px/>
-                            <h4>Micaela Salmon</h4>
-                            <p>Electrical Lead<br/>Robotics Engineering Technology<br/>Freshman</p>
+                            <img src="/racing/images/2018_Vamos.png" alt="Chuck Vamos" class="img-circle" width=200px
+                                 height=200px/>
+                            <h4>Chuck Vamos</h4>
+                            <p>Mechanical Lead<br/>Electrical Engineering<br/>Junior</p>
                         </div>
                     </div>
                     <div class="row">
-                        <!--Anthony Huo-->
                         <div class="col-md-4">
-                            <img src="/racing/images/Anthony.jpg" alt="Adrian White" class="img-circle" width=200px
+                            <img src="/racing/images/2018_Wall.jpg" alt="Elliott Wall" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Anthony Huo</h4>
-                            <p>Controls Lead<br/>Electrical Engineering<br/>Sophomore</p>
+                            <h4>Elliott Wall</h4>
+                            <p>Electrical Lead<br/>Electrical Engineering<br/>Senior</p>
                         </div>
-                        <!--Chuck Vamos-->
                         <div class="col-md-4">
-                            <img src="/racing/images/Chuck.jpg" alt="Chuck Vamos" class="img-circle" width=200px
+                            <img src="/racing/images/2018_Arora.jpg" alt="Raj Arora" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Chuck Vamos</h4>
-                            <p>Mechanical Lead<br/>Electrical Engineering<br/>Sophomore</p>
+                            <h4>Raj Arora</h4>
+                            <p>Controls Lead<br/>Computer Engineering<br/>Junior</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="/racing/images/2018_Singhal.jpg" alt="Vidush Singhal" class="img-circle" width=200px
+                                 height=200px/>
+                            <h4>Vidush Singhal</h4>
+                            <p>Controls Lead<br/>Computer Engineering<br/>Sophomore</p>
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
         <!-- /Content Column -->
     </div>
