@@ -66,6 +66,9 @@
                     <li>
                         <a href="https://repl.it">Code Cafe IDE</a>
                     </li>
+                    <li>
+                        <a href="faq.php">FAQ</a>
+                    </li>
                     <!-- END TABS -->
 
 
