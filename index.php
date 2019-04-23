@@ -94,16 +94,16 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
 
 
     <!-- Code Cafe Banner -->
-    <a href="codecafe/index.php" style="text-decoration:none" target="_blank">
-    <div class="well card-1 text-dark">
-        <br><br>
-            <h1 style = "text-align: center;"> Code Cafe </h1>
-            <h2 style = "text-align: center;"> Saturday, March 30 </h2>
-            <h3 style = "text-align: center;"> Click to Learn More </h3>
-        <br><br>
-    </div>
-    </a>
-    <br>
+<!--    <a href="codecafe/index.php" style="text-decoration:none" target="_blank">-->
+<!--    <div class="well card-1 text-dark">-->
+<!--        <br><br>-->
+<!--            <h1 style = "text-align: center;"> Code Cafe </h1>-->
+<!--            <h2 style = "text-align: center;"> Saturday, March 30 </h2>-->
+<!--            <h3 style = "text-align: center;"> Click to Learn More </h3>-->
+<!--        <br><br>-->
+<!--    </div>-->
+<!--    </a>-->
+<!--    <br>-->
 
     <!-- Info Sessions -->
     <div class="well card-1 text-dark">
