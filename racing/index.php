@@ -36,8 +36,8 @@ include '../header.php';
                 All majors are welcome!! Contact <a href="mailto:hou71@purdue.edu">Anthony Hou</a> for more details.
             </p>
             <h2 class="text-center">2018-2019 Team Picture</h2>
-            <a href="/racing/images/2018_GoKart.png"
-            <p class="text-center"><img src="/racing/images/2018_GoKart.png" alt="2018 Team" style="width:100%"></p>
+            <a href="/racing/images/2018_GoKart.jpg"
+            <p class="text-center"><img src="/racing/images/2019_GoKart.jpg" alt="2018 Team" style="width:100%"></p>
             </a>
             <br/>
             <div class="well card-1 text-dark">
@@ -78,10 +78,10 @@ include '../header.php';
                             <p>Controls Lead<br/>Computer Engineering<br/>Junior</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="/racing/images/2018_Singhal.jpg" alt="Vidush Singhal" class="img-circle" width=200px
+                            <img src="/racing/images/2019_Cao.jpg" alt="Yupei Cao" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Vidush Singhal</h4>
-                            <p>Controls Lead<br/>Computer Engineering<br/>Sophomore</p>
+                            <h4>Yupei Cao</h4>
+                            <p>  <br/> <br/> </p>
                         </div>
                     </div>
                 </div>

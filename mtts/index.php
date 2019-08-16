@@ -35,35 +35,29 @@
                     <h1 id="leaders">Leadership</h1>
                     <hr />
                     <div class="row">
-                        <!--Alden Fisher-->
+                        <!--Insoo Hyun-->
                         <div class= "col-md-4">
-                            <img src="images/Alden_Fisher.PNG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />
-                            <h4>Alden Fisher</h4>
-                            <p>Chair<br />Electrical Engineering<br />Master's Student</p>
+                            <img src="../images/officers/2019_Hyun_Insoo.jpg" alt= "Insoo Hyun" class="img-circle" width=250px height=250px />
+                            <h4>Insoo Hyun</h4>
+                            <p>Chair<br />Computer Engineering<br />Junior</p>
                         </div>
-                        <!--George Luo-->
+                        <!--Matt Spangler-->
                         <div class= "col-md-4">
-                            <img src="images/George_Luo.PNG" alt= "George Luo" class="img-circle" width=250px height=250px />
-                            <h4>George Luo</h4>
-                            <p>Vice Chair<br />Robotics Engineering Technology<br />Undergraduate Student</p>
+                            <!--No picture yet<img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />-->
+                            <h4>Matt Spangler</h4>
+                            <p>Vice Chair<br />Electrical Engineering<br />Junior</p>
                         </div>
-                        <!--Zachary Loy-->
+                        <!--Michel Raskin-->
                         <div class= "col-md-4">
-                            <img src="images/Zachary_Loy.PNG" alt= "Zachary Loy" class="img-circle" width=250px height=250px />
-                            <h4>Zachary Loy</h4>
-                            <p>Workshop Coordinator<br />Electrical Engineering<br />Undergraduate Student</p>
+                            <!--No picture yet<img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />-->
+                            <h4>Michel Raskin</h4>
+                            <p>Workshop Coordinator<br />Electrical Engineering<br />Sophomore</p>
                         </div>
-                        <!--Harsh Ranawat-->
+                        <!--George Jiayu Luo-->
                         <div class= "col-md-4">
-                            <!--No picture from harsh yet<img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />-->
-                            <h4>Harsh Ranawat</h4>
-                            <p>Sponsorship Coordinator<br />First Year Engineering<br />Undergraduate Student</p>
-                        </div>
-                        <!--InSoo Hyun-->
-                        <div class= "col-md-4">
-                            <!--No image from InSoo yet<img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />-->
-                            <h4>InSoo Hyun</h4>
-                            <p>Event Coordinator<br />Computer Engineering<br />Undergraduate Student</p>
+                            <!--No picture yet<img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />-->
+                            <h4>George Jiayu Luo</h4>
+                            <p>Sponsorship Coordinator<br />Student Success<br />Junior</p>
                         </div>
                     </div>
 

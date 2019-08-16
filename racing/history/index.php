@@ -33,6 +33,10 @@ include '../../header.php';
                 improve the torque vectoring.
             </p>
             <br />
+                        <a href="/racing/images/2018_GoKart.png">
+                            <img src="/racing/images/2018_GoKart.png" alt="2018 Team" style="width:100%">
+                        </a>
+            <br />
             <h3 class="text-center">2016-2017 Season</h3>
             <p class="text-justify">
                 The 2016 season was challenging for us due to many members leaving. Our focus this year was repairing

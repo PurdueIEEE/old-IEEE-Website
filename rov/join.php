@@ -39,9 +39,7 @@ include '../header.php';
 <!--                        width="700" height="700" frameborder="0" marginheight="0" marginwidth="0">-->
 <!--                    Loading...-->
 <!--                </iframe>-->
-                Applications for the 2019 spring semester are now closed. There will be another round of applications at
-                the beginning of the fall semester in August. If you have any questions please reach out to Alex
-                Ruffino at <a href="mailto:aruffino@purdue.edu">aruffino@purdue.edu</a>.
+                Applications for the 2019 fall semester are now open! If you have any questions please reach out to Grant Geyer at <a href="mailto:geyerg@purdue.edu">geyerg@purdue.edu</a>.
             </p>
 
         </div>

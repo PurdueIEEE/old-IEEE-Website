@@ -108,8 +108,8 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
     <!-- Info Sessions -->
     <div class="well card-1 text-dark">
         <h1 style="margin-top: 0; text-align: center">
-            <a href="https://docs.google.com/presentation/d/1_fUzONclKdEbad58eaDOvLDupfv5c7YNpPEcFTePIhM/edit?usp=sharing"
-               target="_blank">Spring 2019 Callout Slides Link</a></h1>
+            <a href="https://docs.google.com/presentation/d/1xJdEwEnVSBGegmbvK1HYGepmHXPr_YkA4BTlXT5e2Hc/edit?usp=sharing"
+               target="_blank">Fall 2019 Callout Slides Link</a></h1>
         <?php //include 'info_sessions.php'; ?>
     </div>
 

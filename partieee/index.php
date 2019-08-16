@@ -15,7 +15,7 @@
     </div>
     <script type="text/javascript">
       /* set playback rate for bg video */
-      document.getElementById("bg-vid").playbackRate = .7;
+      document.getElementById("bg-vid").playbackRate = .0;
 
     </script>
         <div class="row well nopad">
@@ -38,7 +38,7 @@
 			<p>The Purdue Aerial Robotics Team IEEE was founded back in 1996 as a committee within the Purdue IEEE
                 Student Organization. The team's mission is to create an Unmanned Aerial System (UAS) to compete in the
                 Association for Unmanned Vehicle Systems International Student Unmanned Air Systems (AUVSI SUAS)
-                Competition. This competition will take place in Webster Field, Maryland in 2018. The team, consisting
+                Competition. This competition will take place in Webster Field, Maryland in 2020. The team, consisting
                 of AeroMechanical, Electrical, and Software sub-teams, develops a comprehensive system that performs
                 various autonomous tasks.
 			<br /><br />
@@ -62,10 +62,10 @@
             <hr />
             <div class="row text-center">
                 <!--Ellie-->
-                <img src="../images/officers/2018_Bidare_Milan.jpg" alt= "" class="img-circle" width=250px height=250px />
-                <h4>Milan Bidare</h4>
+                <img src="../images/officers/2019_Zhang_Alex.jpg" alt= "" class="img-circle" width=250px height=250px />
+                <h4>Alex Zhang</h4>
                 <p>Captain</p>
-                <p><a href="mailto:mbidare@purdue.edu">mbidare@purdue.edu</a><br /></p>
+                <p><a href="mailto:zhan2926@purdue.edu">zhan2926@purdue.edu</a><br /></p>
             </div>
         </div>
     </div>

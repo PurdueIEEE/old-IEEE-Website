@@ -1,5 +1,5 @@
 <?php
-    $page_title = '2018 Officers';
+    $page_title = '2019 Officers';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
     include 'header.php';
@@ -7,8 +7,8 @@
 <script type="text/javascript">
     $(document).ready( function() {
         $("#header").load("header.php");
-        populateYears(2008, 2018);
-        let year = window.location.hash.replace("#", "") || 2018;
+        populateYears(2008, 2019);
+        let year = window.location.hash.replace("#", "") || 2019;
         displayYear(year);
     });
 
