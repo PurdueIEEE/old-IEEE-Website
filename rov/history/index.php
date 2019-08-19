@@ -24,6 +24,42 @@
         <div class="col-md-7 text-dark col-md-offset-1">
             <h1 class="text-center">ROV Team History</h1><br>
 
+            <h3 class="text-center">2018 - 2019: ROV <em>Remora</em></h3>
+                        <div class="row">
+                            <div class="col-md-4 text-dark">
+                                <p class="text-center"><a href="https://drive.google.com/drive/folders/19eC-axvuhQY5E2BVIHMtJZG3kDjlYuen?usp=sharing">Season Pictures</a></p>
+                            </div>
+                            <div class="col-md-4 text-dark">
+                                <p class="text-center"><a href="https://drive.google.com/file/d/1J8hZhf4wCF4xPYUjmq3qSzgsU9t233l2/view?usp=sharing">Spec Sheet</a></p>
+                            </div>
+                            <div class="col-md-4 text-dark">
+                                <p class="text-center"><a href="https://drive.google.com/file/d/1DEOIFj0Ps23MdPuZrdiOhDCPmdY_Ezox/view?usp=sharing">Tech Report</a></p>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 text-dark">
+                                <p class="text-center"><a href="https://drive.google.com/file/d/1Ol3hHDaJ5nhWz80sjZ7m5HAsWmo7faT6/view?usp=sharing">Team Poster</a></p>
+                            </div>
+                            <div class="col-md-6 text-dark">
+                                <p class="text-center"><a href="https://www.youtube.com/watch?v=v-kfQgZYeDQ&t=146s">Qualifying Video</a></p>
+                            </div>
+                        </div>
+
+                        <p class="text-justify">
+                            The year 2019 marked an improvement for the team, which many leaders returning to their positions.
+                            The team improved 6 places to finish 12th at the competition and had the second best technical report.
+                            The team maintained a similar size of students. In 2019, the competition was hosted in Kingsport, TN by Eastman.
+                            The team aimed for an ambitious design, changing the tools system to use pneumatics, the electrical system to CAN and ethernet cameras,
+                            and the software system to Robot Operating System. These switches made ROV Remora more robust, but delayed testing and made integration more difficult.
+                            The team is very proud of its achievements and excited to see where the upcoming season goes under the new leadership.
+                            See <a href="/rov/team/2017pictures.php">pictures of the team here.</a>
+                        </p>
+                        <a href="/rov/images/X11.png"><p class="text-center">
+                                            <img src="/rov/images/X11.png" alt="ROV X11" style="width:70%"></p><br>
+            </a>
+            <br>
+
             <h3 class="text-center">2017 - 2018: ROV <em>Cetacean</em></h3>
             <div class="row">
                 <div class="col-md-4 text-dark">

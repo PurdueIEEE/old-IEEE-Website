@@ -32,7 +32,7 @@
             <h3>Ellie Topi</h3>
             <h4>Executive Choice Award</h4>
             <p>Ellie exemplifies the traits of IEEE leadership. Over this past year, she has taken on a responsibility much greater than that which was simply assigned. </p>
-            <p><em>Committee Involvement</em>: <?php echo AERIAL?></p>
+            <p><em>Committee Involvement</em>: <?php echo PARTIEEE?></p>
         </div>
     </div>
 

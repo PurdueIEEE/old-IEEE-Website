@@ -22,7 +22,7 @@ include '../header.php';
             <h2 class="text-center">Racing Team</h2>
             <br/>
             <p class="text-justify">
-                IEEE Racing builds an electric go-kart that competes in the Purdue evGrandPrixthat takes place annually
+                IEEE Racing builds an electric go-kart that competes in the Purdue evGrandPrix that takes place annually
                 at the Indianapolis Motor Speedway. We are looking for members to redesign electrical systems, get
                 sponsors and build industry contacts, improve safety features, and most importantly, have a great time
                 learning about electric vehicle technology.
@@ -80,8 +80,8 @@ include '../header.php';
                         <div class="col-md-4">
                             <img src="/racing/images/2019_Cao.jpg" alt="Yupei Cao" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Yupei Cao</h4>
-                            <p>  <br/> <br/> </p>
+                            <h4>Yupei (Felix) Cao</h4>
+                            <p>Controls Lead<br/>Computer Engineering<br/>Junior</p>
                         </div>
                     </div>
                 </div>
