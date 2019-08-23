@@ -37,7 +37,7 @@
                     <div class="row">
                         <!--Insoo Hyun-->
                         <div class= "col-md-4">
-                            <img src="../images/officers/2019_Hyun_Insoo.jpg" alt= "Insoo Hyun" class="img-circle" width=250px height=250px />
+                            <img src="../images/officers/2019_Hyun_Insoo.JPG" alt= "Insoo Hyun" class="img-circle" width=250px height=250px />
                             <h4>Insoo Hyun</h4>
                             <p>Chair<br />Computer Engineering<br />Junior</p>
                         </div>
