@@ -46,7 +46,7 @@ include '../header.php';
         <div class="row">
             <!--Chair-->
             <div class="col-md-4">
-                <img src="/images/officers/2019_Obeng-Gyasi_Barnabas.jpg" alt="Barnabas Obeng-Gyasi" class="img-circle"
+                <img src="/images/officers/2019_Obeng-Gyasi_Barnabas.JPG" alt="Barnabas Obeng-Gyasi" class="img-circle"
                      width=250px height=250px/>
                 <h4>Barnabas Obeng-Gyasi</h4>
                 <p>Chair<br/>Neurology and Physiology<br/>Senior</p>
