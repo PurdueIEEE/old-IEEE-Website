@@ -24,7 +24,7 @@
     </div>
     <script type="text/javascript">
       /* set playback rate for bg video */
-      document.getElementById("bg-vid").playbackRate = .0;
+      document.getElementById("bg-vid").playbackRate = .6;
     </script>
 <div class="well card-1 text-light">
     <div class="row text-center">
@@ -75,10 +75,11 @@
         <div style="padding-left: 34%;">
             <div class="center-box">
                 <h2 id="events">CONTACT:</h2>
-                <h4 id="events">Alex Zhang</h4>
+                <h4 id="events">Dakota Do</h4>
                 <h4 id="events">Sponsorship Coordinator</h4>
-                <h4 id="events"><a href="mailto:zhan2926@purdue.edu">zhan2926@purdue.edu</a>
+                <h4 id="events"><a href="mailto:do18@purdue.edu">do18@purdue.edu</a>
             </div>
+
         </div>
         <br />
     </div>

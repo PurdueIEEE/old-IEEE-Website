@@ -15,7 +15,7 @@
     </div>
     <script type="text/javascript">
       /* set playback rate for bg video */
-      document.getElementById("bg-vid").playbackRate = .0;
+      document.getElementById("bg-vid").playbackRate = .6;
 
     </script>
         <div class="row well nopad">
@@ -61,12 +61,41 @@
             <h1 id="officers">Contact Us</h1>
             <hr />
             <div class="row text-center">
-                <!--Ellie-->
+                <!--Alex-->
                 <img src="../images/officers/2019_Zhang_Alex.jpg" alt= "" class="img-circle" width=250px height=250px />
                 <h4>Alex Zhang</h4>
                 <p>Captain</p>
                 <p><a href="mailto:zhan2926@purdue.edu">zhan2926@purdue.edu</a><br /></p>
             </div>
+                        <hr />
+                        <h2>Officers</h2>
+                        <div class="row text-center">
+                                                <!--Nathan Broman-->
+                                                <div class= "col-md-2">
+                                                    <h4>Nathan Broman</h4>
+                                                    <p>Technical Lead</p>
+                                                </div>
+                                                <!--Wesley Kuo-->
+                                                <div class= "col-md-2">
+                                                    <h4>Wesley Kuo</h4>
+                                                    <p>Aeromechanical Lead</p>
+                                                </div>
+                                                <!--Praneeth Medepalli-->
+                                                <div class= "col-md-2">
+                                                    <h4>Praneeth Medepalli</h4>
+                                                    <p>Electrical Lead</p>
+                                                </div>
+                                                <!--Alex Gokan-->
+                                                <div class= "col-md-2">
+                                                    <h4>Alex Gokan</h4>
+                                                    <p>Software Lead</p>
+                                                </div>
+                                                <!--Dakota Do-->
+                                                <div class= "col-md-2">
+                                                    <h4>Dakota Do</h4>
+                                                    <p>Sponsorship Coordinator</p>
+                                                </div>
+                        </div>
         </div>
     </div>
 

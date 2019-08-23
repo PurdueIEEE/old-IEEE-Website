@@ -22,23 +22,23 @@
   },
   {
     "name": "Joseph Choi",
-    "image": "/images/officers/.jpg",
+    "image": "/images/officers/2019_Choi_Joseph.jpg",
     "position": "Secretary",
-    "description": "",
+    "description": "Joseph is a Sophomore who is majoring in Mechanical Engineering and is currently an RA at Owen. He joined IEEE in 2018 as part of EMBS and takes interest in bio-mechanics and 3D modelling. When he has free time he can be found playing piano, playing video games, and taking enthusiastic walks in the woods.",
     "committees": "<a href=\"/embs/\">EMBS</a>"
   },
   {
     "name": "Dakota Do",
-    "image": "/images/officers/.jpg",
+    "image": "/images/officers/2019_Do_Dakota.jpg",
     "position": "Industrial Relations Head",
-    "description": "",
-    "committees": "<a href=\"/IR/\">Industrial Relations</a>"
+    "description": "Dakota is a Junior majoring in aeronautical and aerospace engineering. He currently serves as the head of the Industrial Relations committee and is also in charge of sponsorships for the Aerial Robotics team. For 2019 he aims to expand the scope of Industrial Relations by recruiting more members for the committee from a wide range of academic backgrounds.",
+    "committees": "<a href=\"/partieee/\">Aerial Robotics</a>, <a href=\"/IR/\">Industrial Relations</a>"
   },
   {
     "name": "Leinelle Frederick",
     "image": "/images/officers/2019_Frederick_Leinelle.jpg",
     "position": "Growth & Engagement Head",
-    "description": "Leinelle is a graduate student in the college of Engineering Technology majoring in IT Business Analysis. Originally from the Caribbean (not Jamaica) she joined IEEE in 2018 and is currently the head of Growth and Engagement. Her goal for the group is to welcome new and old members of all disciplines into Purdue IEEE. In her spare time, Leinelle enjoys cycling, reading, listening to music and trying new experiences.",
+    "description": "Leinelle is a Graduate student in the college of Engineering Technology majoring in IT Business Analysis. Originally from the Caribbean (not Jamaica) she joined IEEE in 2018 and is currently the head of Growth and Engagement. Her goal for the group is to welcome new and old members of all disciplines into Purdue IEEE. In her spare time, Leinelle enjoys cycling, reading, listening to music and trying new experiences.",
     "committees": "<a href=\"/growth/\">Growth & Engagement</a>, <a href=\"/csociety/\">Computer Society</a>"
   },
   {
@@ -66,7 +66,7 @@
     "name": "Barnabas Obeng-Gyasi",
     "image": "/images/officers/2019_Obeng-Gyasi_Barnabas.jpg",
     "position": "EMBS Chair",
-    "description": "",
+    "description": "Barnabas is a senior in Neurobiology and Physiology. He joined EMBS in Fall 2016. He enjoys applying biology for direct application to projects that can help a wide variety of people. As a part of EMBS he has worked on multiple projects including prosthetics, EMGs, and diagnostics. In his spare time, he enjoys reading, flying planes, playing guitar, and coding.",
     "committees": "<a href=\"/embs/\">EMBS</a>"
   },
   {

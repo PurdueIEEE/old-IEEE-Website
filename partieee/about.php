@@ -16,7 +16,7 @@
     </div>
     <script type="text/javascript">
       /* set playback rate for bg video */
-      document.getElementById("bg-vid").playbackRate = .0;
+      document.getElementById("bg-vid").playbackRate = .6;
     </script>
     <div class="well card-1 text-light">
             <div class="row text-center">

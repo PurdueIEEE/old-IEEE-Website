@@ -14,14 +14,15 @@
         <!-- Content Column -->
         <div class="col-xs-8 text-dark col-xs-offset-2">
             <h2 class="text-center">Software Saturdays</h2>
-            <h4 class="text-center"><b>software-saturdays@purdueieee.org</b></h4>
+        <h4 class="text-center"><b>Contact us at: <a href="mailto:software-saturdays@purdueieee.org">software-saturdays@purdueieee.org</a>  </b></h4>
             <!-- Selection Row -->
             <div class="row">
                 <div class="col-xs-12">
                     <div class="list-group row">
                       <h4>
-                          <a href="attendee.php" class="text-center list-group-item list-group-item-info col-xs-4 col-xs-offset-2">Join as an Attendee</a>
-                          <a href="mentor.php" class="text-center list-group-item list-group-item-info col-xs-4">Join as a Mentor</a>
+                          <a href="attendee.php" class="text-center list-group-item list-group-item-info col-xs-3 col-xs-offset-1">Join as an Attendee</a>
+                          <a href="reactmentor.php" class="text-center list-group-item list-group-item-info col-xs-3 col-xs-offset-1">Join as a React Mentor</a>
+                          <a href="androidmentor.php" class="text-center list-group-item list-group-item-info col-xs-3">Join as an Android Mentor</a>
                       </h4>
                     </div>
                 </div>
@@ -35,9 +36,8 @@
             <hr>
 
             <div class="border border-dark">
-                <h3 class="text-center text-primary bg-info">Learning Sessions will be Saturdays in <b>ARMS B061</b> at <b>3:30 pm</b> starting February 2nd, weekly!</h3>
-                <h4 class="text-center bg-success"><b>Project Day #2</b>, April 13th, is in <b>ARMS 1010</b> from <b>2:30 to 6:30 pm</b>. The rest of the project days will be at the same time, but in <b>ARMS B061</b>.</h4>
-                <h5 class="text-center bg-info">Please see the <b><i>Calendar</i></b>  tab above for more details on sessions, review hours, and project days</h5>
+                <h3 class="text-center text-primary bg-info">Learning Sessions will be Saturdays in <b>ARMS B061</b> or <b>LILY G126</b> at <b>3:30 pm</b> starting September 7th, weekly!</h3>
+                <h5 class="text-center bg-info">Please see the <b><i>Calendar</i></b> tab above for more details on sessions, review hours, and project days</h5>
 
                 <p class="text-justify">Software Saturdays aims to foster the learning of coding and languages, and give the Attendees a more rounded learning experience.</p>
                 <p class="text-justify">The plan is to introduce projects and concepts that are useful in the world of Software Development. Regardless of what major our Attendees are pursuing, we aim to teach skills that will be usefull no matter what job or hobbies they pursue in their future.</p>
