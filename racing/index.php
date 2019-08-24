@@ -36,8 +36,8 @@ include '../header.php';
                 All majors are welcome!! Contact <a href="mailto:hou71@purdue.edu">Anthony Hou</a> for more details.
             </p>
             <h2 class="text-center">2018-2019 Team Picture</h2>
-            <a href="/racing/images/2018_GoKart.jpg"
-            <p class="text-center"><img src="/racing/images/2019_GoKart.jpg" alt="2018 Team" style="width:100%"></p>
+            <a href="/racing/images/2019_GoKart.JPG"
+            <p class="text-center"><img src="/racing/images/2019_GoKart.JPG" alt="2018 Team" style="width:100%"></p>
             </a>
             <br/>
             <div class="well card-1 text-dark">
@@ -66,10 +66,10 @@ include '../header.php';
                     </div>
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="/racing/images/2018_Wall.jpg" alt="Elliott Wall" class="img-circle" width=200px
+                            <img src="/racing/images/2019_Chui.jpg" alt="Alex Chui" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Elliott Wall</h4>
-                            <p>Electrical Lead<br/>Electrical Engineering<br/>Senior</p>
+                            <h4>Alex Chui</h4>
+                            <p>Mechanical Lead<br/>Mechanical Engineering Technology<br/>Sophomore</p>
                         </div>
                         <div class="col-md-4">
                             <img src="/racing/images/2018_Arora.jpg" alt="Raj Arora" class="img-circle" width=200px
@@ -83,9 +83,13 @@ include '../header.php';
                             <h4>Yupei (Felix) Cao</h4>
                             <p>Controls Lead<br/>Computer Engineering<br/>Junior</p>
                         </div>
+                    </div>
+                    <div class = "row">
                         <div class="col-md-4">
-                            <h4>Alex Chui</h4>
-                            <p>Controls Lead<br/>Mechanical Engineering Technology<br/>Sophomore</p>
+                            <img src="/racing/images/2018_Wall.jpg" alt="Elliott Wall" class="img-circle" width=200px
+                                 height=200px/>
+                            <h4>Elliott Wall</h4>
+                            <p>Electrical Lead<br/>Electrical Engineering<br/>Senior</p>
                         </div>
                     </div>
                 </div>
