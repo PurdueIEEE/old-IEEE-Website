@@ -1,5 +1,41 @@
 [
   {
+    "img": "images/ROS.png",
+    "title": "Robot Operating System (ROS)",
+    "date": "2019-09-24",
+    "desc": "Join us at KNOY B031 on September 24 from 6 pm to learn the basics of Robot Operating System (ROS). ROS is a widely used framework utilized to create complex, yet robust robot functionality across many platforms."
+  },
+  {
+    "img": "images/github.png",
+    "title": "Git + GitHub",
+    "date": "2019-09-16",
+    "desc": "Join us at WALC 3090 on September 16 from 6 pm to learn the basics of using Git and GitHub. Git is a version control software that makes saving your old code and reverting changes much easier. GitHub is a remote location to store your code and collaborate with other people through merging and code reviews. The session will cover only command line tools, so familiarity with the command line is helpful."
+  },
+  {
+    "img": "images/solidworks.png",
+    "title": "SolidWorks Training Session",
+    "date": "2019-09-19",
+    "desc": "Join us at LILY G428 on September 12, 17, and 19 from 6 pm to learn the basics of 3D modeling with one of the most widely utilized software’s in industry, SolidWorks! This introductory series will cover basic parametric modeling with a focus on best practices so that you can create better, more robust models."
+  },
+  {
+    "img": "images/Cypress.png",
+    "title": "Cypress Bluetooth Low Energy (BLE)",
+    "date": "2019-09-11",
+    "desc": "Join us at WALC 3122 on September 11 from 6 pm to get hands-on leaning with latest Cypress PSoC 4 technology. PSoC is a family of analog, digital, and embedded MCU – all on one chip, programmable devices. Faculty and Students involved in senior project, digital, analog, and embedded classes and design; as well as topics as diverse as robotics, mechatronics, industrial controls, automotive, and aeronautics are encouraged to attend! Cypress will be providing FREE PIZZA and a FREE CY8CKIT-145 PSoC 4 BLE kit!"
+  },
+  {
+    "img": "images/Professional.jpg",
+    "title": "Resume and Professionalism",
+    "date": "2019-09-07",
+    "desc": "Join us at REC 112 on September 7 from 3:30 pm to polish your resume and build your professional skills for the Purdue Industrial Roundtable or other occasions."
+  },
+  {
+    "img": "images/eagle.png",
+    "title": "EAGLE Training Session",
+    "date": "2019-09-10",
+    "desc": "These training sessions on September 3, 5, and 10 from 6 pm will cover the basics of EAGLE, an electrical board schematic and layout tool. The locations for the sessions on 9/3, 9/5, and 9/10 are WTHR 420, WTHR 420, and UNIV 119, respectively. The training is split into three parts, that will teach how to create schematics, board layouts, and parts. No prior knowledge is required. Additional details below: <p><strong>TODO: Before you come to this session, there are a few requirements.</strong></p><ul><li>Download EAGLE and the Sparkfun Libraries. Instructions on downloading and setup can be found on <a href=\"https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle\">Sparkfun's website.</a></li><li>Suggested Reading: To get an overview of the topics we will cover at the first lesson, read <a href=\"https://learn.sparkfun.com/tutorials/using-eagle-schematic\">Sparkfun's schematic tutorial</a></li></ul><p><strong>Things to bring:</strong></p><ul><li>Laptop with EAGLE installed, a mouse (recommended), charged battery (some outlets available)</li></ul>"
+  },
+  {
     "img": "../codecafe/logo.jpg",
     "title": "Code Cafe",
     "date": "2019-03-30",

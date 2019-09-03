@@ -163,8 +163,8 @@ include '../header.php';
             <h1>IEEE Learning Committee</h1>
             <hr />
             <p>
-                Please contact the current chair, Jason King, at
-                <a href="mailto:king316@purdue.edu">king316@purdue.edu</a> or visit the IEEE office in EE 014 if you
+                Please contact the current chair, Justin Zhang, at
+                <a href="mailto:zhan3243@purdue.edu">zhan3243@purdue.edu</a> or visit the IEEE office in EE 014 if you
                 have any questions or concerns.
             </p>
         </div>
