@@ -18,9 +18,9 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                         </div>
                     </div>
                     <div class="item">
-                        <div class="fill" style="background-image:url('/images/2018_fall_ieee_callout.jpg');"></div>
+                        <div class="fill" style="background-image:url('/images/2019_fall_ieee_callout.jpg');"></div>
                         <div class="carousel-caption">
-                            <h2>IEEE Callout: Fall 2018</h2>
+                            <h2>IEEE Callout: Fall 2019</h2>
                         </div>
                     </div>
                     <div class="item">
@@ -94,16 +94,16 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
 
 
     <!-- Code Cafe Banner -->
-<!--    <a href="codecafe/index.php" style="text-decoration:none" target="_blank">-->
-<!--    <div class="well card-1 text-dark">-->
-<!--        <br><br>-->
-<!--            <h1 style = "text-align: center;"> Code Cafe </h1>-->
-<!--            <h2 style = "text-align: center;"> Saturday, March 30 </h2>-->
-<!--            <h3 style = "text-align: center;"> Click to Learn More </h3>-->
-<!--        <br><br>-->
-<!--    </div>-->
-<!--    </a>-->
-<!--    <br>-->
+    <a href="codecafe/index.php" style="text-decoration:none" target="_blank">
+    <div class="well card-1 text-dark">
+        <br><br>
+            <h1 style = "text-align: center;"> Code Cafe </h1>
+            <h2 style = "text-align: center;"> Saturday, November 9 </h2>
+            <h3 style = "text-align: center;"> Click to Learn More </h3>
+        <br><br>
+    </div>
+    </a>
+    <br>
 
     <!-- Info Sessions -->
     <div class="well card-1 text-dark">

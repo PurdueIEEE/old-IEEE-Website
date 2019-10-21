@@ -1,5 +1,23 @@
 [
   {
+    "img": "images/CodeCafe2019.png",
+    "title": "Code Cafe",
+    "date": "2019-11-09",
+    "desc": "Join us at WALC 1087/1121 on November 9th from 1-6 pm to either learn the basics of Python or to help others learn (and get a free t-shirt for helping out). You will be divided into groups based on your programming level and what you want to learn. Please bring your laptop, charger, and curiousity to this event!"
+  },
+  {
+    "img": "images/cnc.jpg",
+    "title": "Machining",
+    "date": "2019-10-22",
+    "desc": "Join us at EE 226 on October 22 from 6 pm to learn how to use a few standard machining tools and their safety protocols."
+  },
+  {
+    "img": "images/neuralNetDiagram.png",
+    "title": "Machine Learning",
+    "date": "2019-10-29",
+    "desc": "Join us at KRAN G020 on October 29 from 6 pm to learn some of the basics behind machine learning (ml). ml is the hype right now, and with a bit of training (no pun intended), you can use it to do pretty clever things."
+  },
+  {
     "img": "images/ROS.png",
     "title": "Robot Operating System (ROS)",
     "date": "2019-09-24",

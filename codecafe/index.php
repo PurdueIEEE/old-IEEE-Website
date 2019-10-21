@@ -10,8 +10,8 @@ include 'header.php';
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">IEEE Code Cafe</h1>
-            <h2 class="text-center">Saturday, March 30th, 2019</h2>
-            <h2 class="text-center">Location: WALC 1087</h2>
+            <h2 class="text-center">Saturday, November 9th, 2019</h2>
+            <h2 class="text-center">Location: WALC 1087/1121</h2>
             <h2 class="text-center">1 - 6 PM</h2>
         </div>
 
@@ -29,7 +29,7 @@ include 'header.php';
             </p>
             <p class="text-justified">
                 However, if you want to be a mentor (accepted mentors get a free T-shirt), fill out this
-                <a href="https://goo.gl/forms/0qHywbCFUusUs64e2"><b>application.</b></a>
+                <a href="https://forms.gle/bgawcecGgKK9PxhF8"><b>application.</b></a>
             </p>
         </div>
 

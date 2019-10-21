@@ -7,7 +7,7 @@
 
 <!-- Content Row -->
 <div class="well card-1">
-    <iframe src="https://goo.gl/forms/fvymG4XWmJ41NCo32" width="100%" height="1000px" frameborder="0" marginheight="0" marginwidth="0">Loading ...</iframe>
+    <iframe src="https://forms.gle/nn8RQYkaKTDmE3AY8" width="100%" height="1000px" frameborder="0" marginheight="0" marginwidth="0">Loading ...</iframe>
 </div>
 <!-- /.well -->
 

@@ -43,22 +43,22 @@
                         </div>
                         <!--Matt Spangler-->
                         <div class= "col-md-4">
-                            <!--No picture yet<img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />-->
+                            <img src="images/2019_Matt_Spangler.jpg" alt= "Matt Spangler" class="img-circle" width=250px height=250px />
                             <h4>Matt Spangler</h4>
                             <p>Vice Chair<br />Electrical Engineering<br />Junior</p>
                         </div>
-                        <!--Michel Raskin-->
-                        <div class= "col-md-4">
-                            <!--No picture yet<img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />-->
-                            <h4>Michel Raskin</h4>
-                            <p>Workshop Coordinator<br />Electrical Engineering<br />Sophomore</p>
-                        </div>
                         <!--George Jiayu Luo-->
                         <div class= "col-md-4">
-                            <!--No picture yet<img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />-->
+                            <img src="images/2019_Jiayu_Luo.jpg" alt= "Jiayu Luo" class="img-circle" width=250px height=250px />
                             <h4>George Jiayu Luo</h4>
                             <p>Sponsorship Coordinator<br />Student Success<br />Junior</p>
                         </div>
+                        <!--Michel Raskin-->
+                                                <div class= "col-md-4">
+                                                    <!--No picture yet<img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />-->
+                                                    <h4>Michel Raskin</h4>
+                                                    <p>Workshop Coordinator<br />Electrical Engineering<br />Sophomore</p>
+                                                </div>
                     </div>
 
                 </div>

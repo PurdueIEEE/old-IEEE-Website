@@ -73,17 +73,12 @@
                                                 <!--Nathan Broman-->
                                                 <div class= "col-md-2">
                                                     <h4>Nathan Broman</h4>
-                                                    <p>Technical Lead</p>
+                                                    <p>Electrical Lead</p>
                                                 </div>
                                                 <!--Wesley Kuo-->
                                                 <div class= "col-md-2">
                                                     <h4>Wesley Kuo</h4>
                                                     <p>Aeromechanical Lead</p>
-                                                </div>
-                                                <!--Praneeth Medepalli-->
-                                                <div class= "col-md-2">
-                                                    <h4>Praneeth Medepalli</h4>
-                                                    <p>Electrical Lead</p>
                                                 </div>
                                                 <!--Alex Gokan-->
                                                 <div class= "col-md-2">
