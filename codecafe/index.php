@@ -25,11 +25,11 @@ include 'header.php';
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">How can I start?</h1>
             <p class="text-justified">
-                Click on the sign up link on the top right to RSVP, or <a href="/codecafe/signup"><b>click here.</b></a>
+                Click on the sign up link on the top right to RSVP, or <a href="/codecafe/signup.php"><b>click here.</b></a>
             </p>
             <p class="text-justified">
                 However, if you want to be a mentor (accepted mentors get a free T-shirt), fill out this
-                <a href="https://forms.gle/bgawcecGgKK9PxhF8"><b>application.</b></a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGZnx8UVp9sJGRVRr7f0LnIYRESTyWsWxSYC77E9WhJOD0jg/viewform?usp=sf_link"><b>application.</b></a>
             </p>
         </div>
 

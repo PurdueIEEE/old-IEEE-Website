@@ -53,6 +53,9 @@
                             <h4>George Jiayu Luo</h4>
                             <p>Sponsorship Coordinator<br />Student Success<br />Junior</p>
                         </div>
+                    </div>
+                    <br/>
+                    <div class="row">
                         <!--Michel Raskin-->
                                                 <div class= "col-md-4">
                                                     <!--No picture yet<img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />-->
