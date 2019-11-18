@@ -94,8 +94,8 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
 
 
     <!-- Code Cafe Banner -->
-    <a href="codecafe/index.php" style="text-decoration:none" target="_blank">
-    <div class="well card-1 text-dark">
+    <!--<a href="codecafe/index.php" style="text-decoration:none" target="_blank">
+    <<div class="well card-1 text-dark">
         <br><br>
             <h1 style = "text-align: center;"> Code Cafe </h1>
             <h2 style = "text-align: center;"> Saturday, November 9 </h2>
@@ -103,17 +103,17 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
         <br><br>
     </div>
     </a>
-    <br>
+    <br> -->
 
     <!-- Info Sessions -->
-    <div class="well card-1 text-dark">
+    <!--<div class="well card-1 text-dark">
         <h1 style="margin-top: 0; text-align: center">
             <a href="https://docs.google.com/presentation/d/1xJdEwEnVSBGegmbvK1HYGepmHXPr_YkA4BTlXT5e2Hc/edit?usp=sharing"
                target="_blank">Fall 2019 Callout Slides Link</a></h1>
         <?php //include 'info_sessions.php'; ?>
         <h2 style = "text-align: center;"> Callouts are on Wed 8/28 and Thurs 8/29 from 6:30-8:00 PM at EE 129 </h2>
-        <h2 style = "text-align: center;"> Free Pizza and Drinks! </h2>
-    </div>
+        <h2 style = "text-align: center;"> Free Pizza and Drinks! </h2> 
+    </div> -->
 
     <!-- Committeee List -->
     <div class="well card-1 text-dark">
