@@ -77,9 +77,16 @@
     "committees": "<a href=\"/mtts/\">MTT-S</a>"
   },
   {
+    "name": "Dhruv Swarup",
+    "image": "/images/officers/2019_Swarup_Dhruv.jpg",
+    "position": "Racing Chair (Spring 2020)",
+    "description": "Dhruv is a Junior in Computer Engineering and joined IEEE Racing in August 2018 as a part of the Controls sub-team. Even as the Racing Chair, he will continue to develop computer vision software for the kart. He loves working with micro-controllers and using them to build fun projects. In his free time, he enjoys playing table-tennis with friends, watching movies, and playing video games.",
+    "committees": "<a href=\"/racing/\">Racing</a>"
+  },
+  {
     "name": "Anthony Hou",
     "image": "/images/officers/2019_Hou_Anthony.jpg",
-    "position": "Racing Chair",
+    "position": "Racing Chair (Fall 2019)",
     "description": "Anthony is a senior studying Computer Engineering at Purdue. In his free time, he enjoys outdoor activities and chilling with friends. He has been involved in IEEE Racing for 3 years. In his Junior year, he took on the role as the committee chair and continues to lead and develop the team.",
     "committees": "<a href=\"/racing/\">Racing</a>"
   },

@@ -106,16 +106,85 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
     <br> -->
 
     <!-- Info Sessions -->
-    <!--<div class="well card-1 text-dark">
+    <div class="well card-1 text-dark">
         <h1 style="margin-top: 0; text-align: center">
-            <a href="https://docs.google.com/presentation/d/1xJdEwEnVSBGegmbvK1HYGepmHXPr_YkA4BTlXT5e2Hc/edit?usp=sharing"
-               target="_blank">Fall 2019 Callout Slides Link</a></h1>
+            <a href="https://docs.google.com/presentation/d/1guU6irVzhfY988nDsTyu7t7UCeGDDLV8ALkgMJcWzQc/edit?usp=sharing"
+               target="_blank">Spring 2020 Callout Slides Link</a></h1>
         <?php //include 'info_sessions.php'; ?>
-        <h2 style = "text-align: center;"> Callouts are on Wed 8/28 and Thurs 8/29 from 6:30-8:00 PM at EE 129 </h2>
+        <h2 style = "text-align: center;"> The General Callout is on Wed 1/22 from 6:30-8:00 PM at EE 170 </h2>
         <h2 style = "text-align: center;"> Free Pizza and Drinks! </h2> 
-    </div> -->
+		<h3 style = "text-align: left;">Committee Information Sessions:</h3>
 
-    <!-- Committeee List -->
+		<table style="width:100%">
+		  <tr>
+			<th>Committee</th>
+			<th>Info Session Date/Time</th>
+			<th>Info Session Room</th>
+		  </tr>
+		  <tr>
+			<td>Aerial Robotics</td>
+			<td>1/30, 6:30 PM</td>
+			<td>ARMS 1028</td>
+		  </tr>
+		  <tr>
+			<td>C-Society</td>
+			<td>1/29, 6:00 PM</td>
+			<td>EE 115</td>
+		  </tr>
+		  <tr>
+			<td>EMBS</td>
+			<td>1/27, 6:00 PM</td>
+			<td>EE 226</td>
+		  </tr>
+		  <tr>
+			<td>MTT-S</td>
+			<td>1/28, 6:00 PM</td>
+			<td>EE 224</td>
+		  </tr>
+		  <tr>
+			<td>Racing</td>
+			<td>1/28, 7:00 PM</td>
+			<td>ME 1009</td>
+		  </tr>
+		  <tr>
+			<td>ROV</td>
+			<td>1/23, 6:30 PM</td>
+			<td>POTR 234</td>
+		  </tr>
+		  <tr>
+			<td>Software Saturdays</td>
+			<td>1/25, 3:30 PM</td>
+			<td>ARMS B061</td>
+		  </tr>
+		  <tr>
+			<td>C-Society</td>
+			<td>1/29, 6:00 PM</td>
+			<td>EE 115</td>
+		  </tr>
+		  <tr>
+		  <tr>
+			<td>G&E</td>
+			<td>1/27, 7:30 PM</td>
+			<td>EE 115</td>
+		  </tr>
+			<td>Industrial Relations</td>
+			<td>1/29, 6:00 PM</td>
+			<td>EE 224</td>
+		  </tr>
+		  <tr>
+			<td>Learning</td>
+			<td>1/28, 6:30 PM</td>
+			<td>EE 222</td>
+		  </tr>
+		  <tr>
+			<td>Social</td>
+			<td>1/27, 7:30 PM</td>
+			<td>EE 115</td>
+		  </tr>
+		</table>
+    </div>
+
+    <!-- Committee List -->
     <div class="well card-1 text-dark">
         <div class="row">
             <div class="col-md-12">

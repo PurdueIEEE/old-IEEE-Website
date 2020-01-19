@@ -32,11 +32,11 @@ include '../header.php';
             </p>
 
             <p>
-               Applications for the 2019 fall semester are now open! The application can be filled out below or in a separate window
-               <u><a href="https://docs.google.com/forms/d/e/1FAIpQLSelbEzakDGROLNcHz5Ez9xzMKH2YN5Hi-7A73HTdY-F5myenw/viewform?usp=sf_link">here</a></u>.
-               Applications must be filled out by 11:59 pm on September 7th. If you have any questions please reach out to Grant Geyer at <a href="mailto:geyerg@purdue.edu">geyerg@purdue.edu</a>.
+               Applications for the 2020 spring semester are now open! The application can be filled out below or in a separate window
+               <u><a href="https://docs.google.com/forms/d/e/1FAIpQLSfH-CqASDCHd7Ufl6dEkFcpMXlWsgE0pazMNHB8NVjM82jhiA/viewform?usp=sf_link">here</a></u>.
+               Applications must be filled out by 11:59 pm on Friday, January 24. If you have any questions please reach out to Grant Geyer at <a href="mailto:rov@purdueieee.org">rov@purdueieee.org</a>.
                <hr>
-               <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelbEzakDGROLNcHz5Ez9xzMKH2YN5Hi-7A73HTdY-F5myenw/viewform?usp=sf_link"
+               <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfH-CqASDCHd7Ufl6dEkFcpMXlWsgE0pazMNHB8NVjM82jhiA/viewform?usp=sf_link"
                        width="700" height="700" frameborder="0" marginheight="0" marginwidth="0">
                    Loading...
                </iframe>

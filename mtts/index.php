@@ -55,15 +55,18 @@
                         </div>
                     </div>
                     <br/>
+					<div class= "col-md-4">
+					</div>
                     <div class="row">
-                        <!--Michel Raskin-->
-                                                <div class= "col-md-4">
-                                                    <!--No picture yet<img src="images/Alden_Fisher.JPG" alt= "Alden Fisher" class="img-circle" width=250px height=250px />-->
-                                                    <h4>Michel Raskin</h4>
-                                                    <p>Workshop Coordinator<br />Electrical Engineering<br />Sophomore</p>
-                                                </div>
+                        <!--Duhan Eroglu-->
+						<div class= "col-md-4">
+							<img src="images/Duhan_Eroglu.png" alt= "Duhan Eroglu" class="img-circle" width=250px height=250px />
+							<h4>Duhan Eroglu</h4>
+							<p>Workshop Coordinator<br />Electrical Engineering<br />Sophomore</p>
+						</div>
                     </div>
-
+					<div class= "col-md-4">
+					</div>
                 </div>
             </div>
 

@@ -47,13 +47,12 @@
                         </div>
 
                         <p class="text-justify">
-                            The year 2019 marked an improvement for the team, which many leaders returning to their positions.
-                            The team improved 6 places to finish 12th at the competition and had the second best technical report.
+                            The year 2019 marked an improvement for the team, with many leaders returning to their positions.
+                            The team improved 5 places to finish 13th at the competition and had the second best technical report.
                             The team maintained a similar size of students. In 2019, the competition was hosted in Kingsport, TN by Eastman.
                             The team aimed for an ambitious design, changing the tools system to use pneumatics, the electrical system to CAN and ethernet cameras,
                             and the software system to Robot Operating System. These switches made ROV Remora more robust, but delayed testing and made integration more difficult.
-                            The team is very proud of its achievements and excited to see where the upcoming season goes under the new leadership.
-                            See <a href="/rov/team/2017pictures.php">pictures of the team here.</a>
+                            The team is very proud of its achievements and excited to see where the upcoming season goes under the new leadership.</a>
                         </p>
                         <a href="/rov/images/X11.png"><p class="text-center">
                                             <img src="/rov/images/X11.png" alt="ROV X11" style="width:70%"></p><br>
@@ -90,7 +89,7 @@
                 the ROV function properly at both mission runs and the bonus point run. The team finished 18th out of
                 28, and was awarded the Guts and Glory award for overcoming technical hardship with resolve. The team
                 is proud of their achievements, and looks forward to the upcoming season!
-                See <a href="/rov/team/2017pictures.php">pictures of the team here.</a>
+                See <a href="/rov/team/2018pictures.php">pictures of the team here.</a>
             </p>
             <a href="/rov/images/ROV_Cetacean.png"><p class="text-center">
                     <img src="/rov/images/ROV_Cetacean.png" alt="ROV Cephalopod" style="width:70%"></p><br>

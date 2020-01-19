@@ -26,17 +26,14 @@ include '../header.php';
 
             <hr>
 
-            <p><em>January 9, 2019 Update</em></p>
+            <p><em>July, 2019 Update</em></p>
             <div>
                 <p>
-                    Purdue ROV competed in Federal Way, WA at the Weyerhaueser King County Aquatic Center from June 21st
-                    to June 23rd. In the first year under captain Alex Ruffino, the team placed 18th out of 28
-                    registered team, and won the Guts and Glory Award for overcoming technical hardship with resolve.
-                    Power issues prevented ROV Cetacean from as well as expected, but several technical advances were
-                    made with the ROV. A new stabilization system made the ROV easier to pilot, and a magnetic slip
-                    coupling quick release system revolutionized tool design. We look forward to the 2018-19 season. See
-                    full team pictures
-                    <u><a href=/rov/team/2018pictures.php>here</a></u>.
+                    The year 2019 marked an improvement for the team, which many leaders returning to their positions.
+                    The team maintained a similar size of students and improved 5 places to finish 13th at the MATE competition and had the second best technical report.
+                    The team aimed for an ambitious design, changing the tools system to use pneumatics, the electrical system to CAN and ethernet cameras,
+                    and the software system to Robot Operating System. These switches made ROV Remora more robust, but delayed testing and made integration more difficult.
+                    The team is very proud of its achievements and excited to see where the upcoming season goes under the new leadership.
                 </p>
             </div>
             <hr>
@@ -46,9 +43,9 @@ include '../header.php';
 
             <h2 class="text-center">About The ROV Team</h2>
             <div class="col-md-6">
-                <img src="/rov/images/CephalopodByPool.jpg" alt="ROV Cephalopod by the pool" style="width:100%"
+                <img src="/rov/images/X11.png" alt="ROV X11" style="width:100%"
                      style="float:left" style="display:block">
-                <p class="text-center">ROV <em>Cephalopod</em></p>
+                <p class="text-center">ROV <em>Remora</em></p>
             </div>
 
             <p class="text-justify">
@@ -80,13 +77,10 @@ include '../header.php';
                 members at the beginning of the Fall 2018 semester. The current team picture is below.
             </p>
 
-            <h2 class="text-center">2017-2018 Team Picture</h2>
-            <a href="/rov/images/2018Full.jpg"
-            <p class="text-center"><img src="/rov/images/2018Full.jpg" alt="2018 Team" style="width:100%"></p>
+            <h2 class="text-center">2018-2019 Team Picture</h2>
+            <a href="/rov/images/2019_MATE_Competition_Team.jpg"
+            <p class="text-center"><img src="/rov/images/2019_MATE_Competition_Team.jpg" alt="2018 Team" style="width:100%"></p>
             </a>
-            <br>
-
-            <p><a href="/rov/team/2018pictures.php">See individual technical team pictures here</a></p>
             <br>
 
             <p class="text-center"><a href="https://www.facebook.com/purdueieeerov"><i
