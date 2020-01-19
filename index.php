@@ -122,32 +122,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
 			<th>Info Session Room</th>
 		  </tr>
 		  <tr>
-			<td>Aerial Robotics</td>
-			<td>1/30, 6:30 PM</td>
-			<td>ARMS 1028</td>
-		  </tr>
-		  <tr>
-			<td>C-Society</td>
-			<td>1/29, 6:00 PM</td>
-			<td>EE 115</td>
-		  </tr>
-		  <tr>
-			<td>EMBS</td>
-			<td>1/27, 6:00 PM</td>
-			<td>EE 226</td>
-		  </tr>
-		  <tr>
-			<td>MTT-S</td>
-			<td>1/28, 6:00 PM</td>
-			<td>EE 224</td>
-		  </tr>
-		  <tr>
-			<td>Racing</td>
-			<td>1/28, 7:00 PM</td>
-			<td>ME 1009</td>
-		  </tr>
-		  <tr>
-			<td>ROV</td>
+			<td>Remotely Operated underwater Vehicle (ROV)</td>
 			<td>1/23, 6:30 PM</td>
 			<td>POTR 234</td>
 		  </tr>
@@ -157,18 +132,23 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
 			<td>ARMS B061</td>
 		  </tr>
 		  <tr>
-			<td>C-Society</td>
-			<td>1/29, 6:00 PM</td>
-			<td>EE 115</td>
+			<td>Engineering in Medicine & Biology Society (EMBS)</td>
+			<td>1/27, 6:00 PM</td>
+			<td>EE 226</td>
 		  </tr>
 		  <tr>
-		  <tr>
-			<td>G&E</td>
+			<td>Growth and Engagement (G&E)**</td>
 			<td>1/27, 7:30 PM</td>
 			<td>EE 115</td>
 		  </tr>
-			<td>Industrial Relations</td>
-			<td>1/29, 6:00 PM</td>
+		  <tr>
+			<td>Social**</td>
+			<td>1/27, 7:30 PM</td>
+			<td>EE 115</td>
+		  </tr>
+		  <tr>
+			<td>Microwave Theory & Techniques Society (MTT-S)</td>
+			<td>1/28, 6:00 PM</td>
 			<td>EE 224</td>
 		  </tr>
 		  <tr>
@@ -177,11 +157,27 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
 			<td>EE 222</td>
 		  </tr>
 		  <tr>
-			<td>Social</td>
-			<td>1/27, 7:30 PM</td>
+			<td>Racing</td>
+			<td>1/28, 7:00 PM</td>
+			<td>ME 1009</td>
+		  </tr>
+		  <tr>
+			<td>Computer Society</td>
+			<td>1/29, 6:00 PM</td>
 			<td>EE 115</td>
 		  </tr>
+			<td>Industrial Relations</td>
+			<td>1/29, 6:00 PM</td>
+			<td>EE 224</td>
+		  </tr>
+		  <tr>
+			<td>Aerial Robotics</td>
+			<td>1/30, 6:30 PM</td>
+			<td>ARMS 1028</td>
+		  </tr>
 		</table>
+		<hr/>
+		<h5 style = "text-align: left;">** Information Session Held Jointly</h5>
     </div>
 
     <!-- Committee List -->
@@ -240,7 +236,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/embs/">EMBS</a></h4>
-                            <p>The IEEE EMBS (Engineering in Medicine and Biology Society) focuses on the development
+                            <p>The IEEE Engineering in Medicine and Biology Society (EMBS) focuses on the development
                                 and application of engineering concepts and methods to provide new solutions to
                                 biological, medical, and healthcare problems while also providing its members the
                                 ability to learn skills and gain experience beneficial throughout the rest of their
@@ -261,7 +257,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/mtts/">MTT-S</a></h4>
-                            <p>IEEE MTT-S (Microwave Theory &amp; Techniques Society) holds events to further the
+                            <p>IEEE Microwave Theory & Techniques Society (MTT-S) holds events to further the
                                 understanding and applications of radio-frequency and microwave circuits. The growth of
                                 communications and imaging techniques around us relies on the continued development of
                                 high-frequency technologies that students here develop.</p><br>
@@ -278,8 +274,8 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                             <i id="local_airport" class="material-icons" style="color:#072a40; font-size: 32px;"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/partieee/">PARTIEEE</a></h4>
-                            <p>Purdue Aerial Robotics Team IEEE creates an unmanned aerial system (UAS) to compete in
+                            <h4 class="media-heading"><a href="/partieee/">Aerial Robotics</a></h4>
+                            <p>The IEEE Aerial Robotics Team creates an unmanned aerial system (UAS) to compete in
                                 AUVSI SUAS Competition. The end goal is to develop an autonomous system complete with a
                                 Ground Control Station (GCS). They are looking for members to help design the airframe,
                                 develop autopilot and image processing algorithms, and design electrical hardware such
@@ -300,8 +296,8 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="/rov/">ROV</a></h4>
-                            <p>ROV (Remotely Operated underwater Vehicle) designs and constructs an ROV to compete in
-                                the MATE (Marine Advanced Technology Education) International ROV Competition each year.
+                            <p>Remotely Operated underwater Vehicle (ROV) designs and constructs an ROV to compete in
+                                the Marine Advanced Technology Education (MATE) International ROV Competition each year.
                                 They are looking for members to model designs in 3D, populate circuit boards, and
                                 develop the control software.</p><br>
                         </div>
@@ -336,9 +332,9 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                             <i id="software" class="material-icons" style="color:#072a40; font-size: 32px;"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="/software/">Software Saturday's</a></h4>
+                            <h4 class="media-heading"><a href="/software/">Software Saturdays</a></h4>
                             <p>
-                                Software Saturday's is committed to developing comprehensive software development skills
+                                Software Saturdays is committed to developing comprehensive software development skills
                                 in attendees. Lessons are open to the public and are funded by the College of Engineering.
                                 Skills taught in the past have included Web and Android Development. Emphasis is placed on
                                 teaching a comprehensive set of skills over a single language.

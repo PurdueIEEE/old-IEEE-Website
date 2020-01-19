@@ -72,9 +72,8 @@ include '../header.php';
             </p>
 
             <p class="text-justify">
-                For more current and past information view the links to the left or contact <a
-                        href="mailto:rov@purdueieee.org">Alexander Ruffino</a>. The ROV team will be accepting new
-                members at the beginning of the Fall 2018 semester. The current team picture is below.
+                For more current and past information view the links to the left or contact <a href="mailto:rov@purdueieee.org">Grant Geyer</a>. The ROV team will be accepting new
+                members at the beginning of each semester. The current team picture is below.
             </p>
 
             <h2 class="text-center">2018-2019 Team Picture</h2>

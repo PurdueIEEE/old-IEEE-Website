@@ -22,7 +22,7 @@
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1">
         <h1 class="text-center">Coming Soon!</h1>
-            <p>For now, if you are interested in seeing past C-Society projects, please check out our <a href="https://github.com/PurdueIEEEComputerSociety/">GitHub Repositories</a>!</p><br>
+            <p>For now, if you are interested in seeing past Computer Society projects, please check out our <a href="https://github.com/PurdueIEEEComputerSociety/">GitHub Repositories</a>!</p><br>
         </div>
 		
     </div>

@@ -24,7 +24,7 @@ include '../header.php';
             <br>
             <hr>
 
-            <h2 class="text-center">About C-Society</h2>
+            <h2 class="text-center">About Computer Society</h2>
             <div class="col-md-6">
                 <img src="/csociety/images/csociety.jpg" alt="2016 Team" style="width:100%"
                      style="float:left" style="display:block">
@@ -36,7 +36,7 @@ include '../header.php';
             </p>
 			<br>
 
-            <h2 class="text-center">2019-2020 C-Society Leadership</h2>
+            <h2 class="text-center">2019-2020 Computer Society Leadership</h2>
             <a href="/csociety/images/2019_Leadership.jpg"
             <p class="text-center"><img src="/csociety/images/2019_Leadership.jpg" alt="2019 Leaders" style="width:100%"></p>
             </a>

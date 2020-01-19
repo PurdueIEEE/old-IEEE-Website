@@ -52,7 +52,7 @@
 			Purdue Aerial Robotics Team prides itself on its student leadership, perseverance, and desire to excel in
                 all frontiers. Furthermore, team members are constantly striving to learn the technical skills necessary
                 to bring the design to fruition, including 3D-modeling in SolidWorks and CATIA V5, designing the PCB in
-                Eagle Pro, and programming in C, C++, Python, and JavaScript.
+                Eagle Pro, and programming in C, C++, Python, MATLAB, and JavaScript.
 			</p>
         </div>
     </div>
@@ -70,20 +70,27 @@
                         <hr />
                         <h2>Officers</h2>
                         <div class="row text-center">
+						<div class= "col-md-1">
+						</div>
                                                 <!--Nathan Broman-->
                                                 <div class= "col-md-2">
                                                     <h4>Nathan Broman</h4>
-                                                    <p>Electrical Lead</p>
+                                                    <p>Project Lead</p>
                                                 </div>
-                                                <!--Wesley Kuo-->
+                                                <!--Steven Lim-->
                                                 <div class= "col-md-2">
-                                                    <h4>Wesley Kuo</h4>
+                                                    <h4>Steven Lim</h4>
                                                     <p>Aeromechanical Lead</p>
                                                 </div>
                                                 <!--Alex Gokan-->
                                                 <div class= "col-md-2">
                                                     <h4>Alex Gokan</h4>
                                                     <p>Software Lead</p>
+                                                </div>
+                                                <!--Akshay Aravind-->
+                                                <div class= "col-md-2">
+                                                    <h4>Akshay Aravind</h4>
+                                                    <p>Electrical Lead</p>
                                                 </div>
                                                 <!--Dakota Do-->
                                                 <div class= "col-md-2">
