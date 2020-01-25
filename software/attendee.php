@@ -16,15 +16,14 @@
             <div class="list-group">
                 <a href="/software/" class="list-group-item">Software Saturdays</a>
                 <a href="attendee.php" class="list-group-item">Join as an Attendee</a>
-                <a href="reactmentor.php" class="list-group-item">Join as a React Mentor</a>
-                <a href="androidmentor.php" class="list-group-item">Join as an Android Mentor</a>
+                <a href="mentor.php" class="list-group-item">Join as a Mentor</a>
             </div>
         </div>
         <!-- Content Column -->
         <div class="col-md-9 text-dark">
             <h2 class="text-center">Join as an Attendee</h2>
             <div class="col-md-12 text-dark">
-                <iframe src="https://forms.gle/hMqrXfRmLomn2q9z7" width="100%" height="700" frameborder="0">Loading...</iframe>
+                <iframe src="https://forms.gle/Ar9yr9MAfmVCMXMJ9" width="100%" height="700" frameborder="0">Loading...</iframe>
             </div>
         </div>
     </div>

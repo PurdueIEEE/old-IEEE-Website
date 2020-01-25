@@ -20,9 +20,8 @@
                 <div class="col-xs-12">
                     <div class="list-group row">
                       <h4>
-                          <a href="attendee.php" class="text-center list-group-item list-group-item-info col-xs-3 col-xs-offset-1">Join as an Attendee</a>
-                          <a href="reactmentor.php" class="text-center list-group-item list-group-item-info col-xs-3 col-xs-offset-1">Join as a React Mentor</a>
-                          <a href="androidmentor.php" class="text-center list-group-item list-group-item-info col-xs-3">Join as an Android Mentor</a>
+                          <a href="attendee.php" class="text-center list-group-item list-group-item-info col-xs-4 col-xs-offset-1">Join as an Attendee</a>
+                          <a href="mentor.php" class="text-center list-group-item list-group-item-info col-xs-4 col-xs-offset-2">Join as a Mentor</a>
                       </h4>
                     </div>
                 </div>
@@ -36,13 +35,13 @@
             <hr>
 
             <div class="border border-dark">
-                <h3 class="text-center text-primary bg-info">Learning Sessions will be Saturdays in <b>ARMS B061</b> or <b>LILY G126</b> at <b>3:30 pm</b> starting September 7th, weekly!</h3>
+                <h3 class="text-center text-primary bg-info">Learning Sessions will be in Wang Hall starting February 1st, weekly!</h3>
                 <h5 class="text-center bg-info">Please see the <b><i>Calendar</i></b> tab above for more details on sessions, review hours, and project days</h5>
 
                 <p class="text-justify">Software Saturdays aims to foster the learning of coding and languages, and give the Attendees a more rounded learning experience.</p>
-                <p class="text-justify">The plan is to introduce projects and concepts that are useful in the world of Software Development. Regardless of what major our Attendees are pursuing, we aim to teach skills that will be usefull no matter what job or hobbies they pursue in their future.</p>
-                <p class="text-justify">This semester we're teaching an Android Application Development track, showing the basics of Android Studio and healthy application design practices, both in a functional application and in a game aspect.</p>
-                <p class="text-justify">The track will be comprised of weekly Saturday sessions around 1.5 hours long with refreshments included, as well as review hours and two to four ending project days that attendees can attend to work during or for help.</p>
+                <p class="text-justify">The plan is to introduce projects and concepts that are useful in the world of Software Development. Regardless of what major our Attendees are pursuing, we aim to teach skills that will be useful no matter what job or hobbies they pursue in their future.</p>
+                <p class="text-justify">This semester we're teaching a Web Application Development curriculum, showing the basics of React.js and healthy application design practices, both in a functional application and project based curriculum building a YouTube Clone.</p>
+                <p class="text-justify">The track will be comprised of weekly Saturday sessions around 1.5 hours long with refreshments included, as well as review hours that attendees can attend to work during or for help.</p>
                 <p class="text-center">For further questions, feel free to email <b>software-saturdays@purdueieee.org</b> for more information.</p>
             </div>
 

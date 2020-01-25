@@ -64,7 +64,10 @@ include "_committees.php";
                                 <a href="/officers.php">Officers</a>
                             </li>
                             <li>
-                                <a href="/awardees/">Award Winners</a>
+                                <a href="/awardees/">Annual Award Winners</a>
+                            </li>
+							<li>
+                                <a href="/studentwinners/">Students of the Week</a>
                             </li>
                             <li>
                                 <a href="/constitution-ieee.pdf">Constitution</a>
