@@ -37,7 +37,6 @@
             <p><em>Committee Involvement</em>: <?php echo ROV?>, <?php echo LEARNING?></p>
         </div>
     </div>
-    <br>
 
     
 

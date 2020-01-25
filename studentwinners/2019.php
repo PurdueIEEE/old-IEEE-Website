@@ -37,7 +37,7 @@
             <p><em>Committee Involvement</em>: <?php echo EMBS?>
         </div>
     </div>
-    <br>
+    <br/>
 
 <!-- New Awardee -->
     <div class="row">
@@ -53,7 +53,7 @@
             <p><em>Committee Involvement</em>: <?php echo ROV?></p>
         </div>
     </div>
-    <br>
+    <br/>
 
 <!-- New Awardee -->
     <div class="row">
@@ -69,7 +69,6 @@
             <p><em>Committee Involvement</em>: <?php echo LEARNING?>, <?php echo ROV?></p>
         </div>
     </div>
-    <br>
 
 </div>
 

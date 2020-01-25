@@ -115,8 +115,9 @@ if (!@include_once('DirectoryServices/lists.php')) {
     <div class="row">
         <div class="col-md-8 col-md-offset-2 text-dark">
             <h1 class="text-center">IEEE Dues</h1>
+			<br/>
             <p>
-                Purdue IEEE Student Organization follows a simple dues basis for membership. Membership fees are $15 for
+                Purdue IEEE Student Organization follows a simple dues basis for membership. Local membership dues are $15** for
                 two semesters, which allows each person to have access to IEEE resources, such as:
             <ul>
                 <li>Access to extras at Learning Events by Learning Committee</li>
@@ -129,6 +130,8 @@ if (!@include_once('DirectoryServices/lists.php')) {
             email and dues with a Treasurer-authorized attendant or IEEE officer inside the office, or give it to the Treasurer at
             General Assemblies.
             </p>
+			<hr/>
+			<p>**If you are a graduate student with an active International IEEE Membership and wish to join Purdue IEEE, you are excused from the local dues! However, please see a Purdue IEEE officer to register with the student branch.</p>
         </div>
     </div>
 </div>

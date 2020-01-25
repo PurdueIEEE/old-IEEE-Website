@@ -111,8 +111,8 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
             <a href="https://docs.google.com/presentation/d/1guU6irVzhfY988nDsTyu7t7UCeGDDLV8ALkgMJcWzQc/edit?usp=sharing"
                target="_blank">Spring 2020 Callout Slides Link</a></h1>
         <?php //include 'info_sessions.php'; ?>
-        <h2 style = "text-align: center;"> The General Callout is on Wed 1/22 from 6:30-8:00 PM at EE 170 </h2>
-        <h2 style = "text-align: center;"> Free Pizza and Drinks! </h2> 
+        <!--<h2 style = "text-align: center;"> The General Callout is on Wed 1/22 from 6:30-8:00 PM at EE 170 </h2>
+        <h2 style = "text-align: center;"> Free Pizza and Drinks! </h2> -->
 		<h3 style = "text-align: left;">Committee Information Sessions:</h3>
 
 		<table style="width:100%">
