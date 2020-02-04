@@ -43,6 +43,16 @@ include '../../header.php';
                            style="text-decoration: underline">
                             Linked In</a></p>
                 </div>
+				 <!--Anthony Hou-->
+                <div class="col-md-4">
+                    <img src="/racing/images/2018_Hou.png" alt="Anthony Hou" class="img-circle" width=200px
+                         height=200px/>
+                    <h4>Anthony Hou</h4>
+                    <p>Graduated May 2020 with B.S. in Computer Engineering<br/><br/>
+                        <a href="linkedin.com/in/ahou1122" target="_blank"
+                           style="text-decoration: underline">
+                            Linked In</a></p>
+                </div>
             </div>
             <br />
             <p class="text-dark">

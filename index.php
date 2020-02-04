@@ -113,7 +113,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
         <?php //include 'info_sessions.php'; ?>
         <!--<h2 style = "text-align: center;"> The General Callout is on Wed 1/22 from 6:30-8:00 PM at EE 170 </h2>
         <h2 style = "text-align: center;"> Free Pizza and Drinks! </h2> -->
-		<h3 style = "text-align: left;">Committee Information Sessions:</h3>
+		<!--<h3 style = "text-align: left;">Committee Information Sessions:</h3>
 
 		<table style="width:100%">
 		  <tr>
@@ -177,7 +177,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
 		  </tr>
 		</table>
 		<hr/>
-		<h5 style = "text-align: left;">** Information Session Held Jointly</h5>
+		<h5 style = "text-align: left;">** Information Session Held Jointly</h5> -->
     </div>
 
     <!-- Committee List -->

@@ -35,7 +35,7 @@
             <hr>
 
             <div class="border border-dark">
-                <h3 class="text-center text-primary bg-info">Learning Sessions will be in Wang Hall starting February 1st, weekly!</h3>
+                <h3 class="text-center text-primary bg-info">Learning Sessions will be in WALC 1087 from 3:30pm-5:30pm, every Saturday!</h3>
                 <h5 class="text-center bg-info">Please see the <b><i>Calendar</i></b> tab above for more details on sessions, review hours, and project days</h5>
 
                 <p class="text-justify">Software Saturdays aims to foster the learning of coding and languages, and give the Attendees a more rounded learning experience.</p>

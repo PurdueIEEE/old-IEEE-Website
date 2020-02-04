@@ -46,10 +46,10 @@ include '../header.php';
                     <hr/>
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="/racing/images/2018_Hou.png" alt="Anthony Hou" class="img-circle" width=200px
+                            <img src="/racing/images/2020_Swarup.jpg" alt="Dhruv Swarup" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Anthony Hou</h4>
-                            <p>Chair<br/>Computer Engineering<br/>Senior</p>
+                            <h4>Dhruv Swarup</h4>
+                            <p>Chair<br/>Computer Engineering<br/>Junior</p>
                         </div>
                         <div class="col-md-4">
                             <img src="/racing/images/2018_Watts.png" alt="Charlie Watts" class="img-circle" width=200px
@@ -61,7 +61,7 @@ include '../header.php';
                             <img src="/racing/images/2018_Vamos.png" alt="Chuck Vamos" class="img-circle" width=200px
                                  height=200px/>
                             <h4>Chuck Vamos</h4>
-                            <p>Mechanical Lead<br/>Electrical Engineering<br/>Senior</p>
+                            <p>Mechanical Lead (Driver Kart)<br/>Electrical Engineering<br/>Senior</p>
                         </div>
                     </div>
                     <div class="row">
@@ -69,7 +69,7 @@ include '../header.php';
                             <img src="/racing/images/2019_Chui.jpg" alt="Alex Chui" class="img-circle" width=200px
                                  height=200px/>
                             <h4>Alex Chui</h4>
-                            <p>Mechanical Lead<br/>Mechanical Engineering Technology<br/>Sophomore</p>
+                            <p>Mechanical Lead (Autonomous Kart)<br/>Mechanical Engineering Technology<br/>Sophomore</p>
                         </div>
                         <div class="col-md-4">
                             <img src="/racing/images/2018_Arora.jpg" alt="Raj Arora" class="img-circle" width=200px
@@ -82,14 +82,6 @@ include '../header.php';
                                  height=200px/>
                             <h4>Yupei (Felix) Cao</h4>
                             <p>Controls Lead<br/>Computer Engineering<br/>Junior</p>
-                        </div>
-                    </div>
-                    <div class = "row">
-                        <div class="col-md-4">
-                            <img src="/racing/images/2018_Wall.jpg" alt="Elliott Wall" class="img-circle" width=200px
-                                 height=200px/>
-                            <h4>Elliott Wall</h4>
-                            <p>Electrical Lead<br/>Electrical Engineering<br/>Senior</p>
                         </div>
                     </div>
                 </div>

@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\csociety",
-    "\\csociety\\images",
-    "\\csociety\\projects",
-    "\\rov",
-    "\\rov\\sponsors"
+    "\\racing",
+    "\\racing\\alumni",
+    "\\software"
   ],
-  "SelectedNode": "\\csociety\\images\\Raghav_Malik.jpg",
+  "SelectedNode": "\\software\\index.php",
   "PreviewInSolutionExplorer": false
 }
