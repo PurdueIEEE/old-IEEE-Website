@@ -66,16 +66,16 @@ include '../header.php';
                     </div>
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="/racing/images/2019_Chui.jpg" alt="Alex Chui" class="img-circle" width=200px
+                            <img src="/racing/images/2020_Chui.png" alt="Alex Chui" class="img-circle" width=200px
                                  height=200px/>
                             <h4>Alex Chui</h4>
                             <p>Mechanical Lead (Autonomous Kart)<br/>Mechanical Engineering Technology<br/>Sophomore</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="/racing/images/2018_Arora.jpg" alt="Raj Arora" class="img-circle" width=200px
+                            <img src="/racing/images/2020_Moon.jpg" alt="Daniel Moon" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Raj Arora</h4>
-                            <p>Controls Lead<br/>Computer Engineering<br/>Senior</p>
+                            <h4>Daniel Moon</h4>
+                            <p>Electrical Lead<br/>Electrical Engineering<br/>Sophomore</p>
                         </div>
                         <div class="col-md-4">
                             <img src="/racing/images/2019_Cao.jpg" alt="Yupei Cao" class="img-circle" width=200px

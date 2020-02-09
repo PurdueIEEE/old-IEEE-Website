@@ -23,6 +23,22 @@
 	</div>
     <hr />
 
+	    <!-- New Awardee -->
+    <div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/Daniel_Chen_2020.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Daniel Chen</h3>
+            <h4>Week of February 3</h4>
+            <p> Daniel wrote the best code for the Computer Society machine learning/AI pong competition. His pong algorithm beat human players and clearly stood out from the others. Thanks for your hard work Daniel!</p>
+            <p><em>Committee Involvement</em>: <?php echo COMPUTER_SOCIETY?></p>
+        </div>
+    </div>
+
+
     <!-- New Awardee -->
     <div class="row">
         <div class="col-md-3">
