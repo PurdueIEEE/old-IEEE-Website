@@ -9,8 +9,15 @@
   {
     "name": "Swagat Bhattacharyya",
     "image": "/images/officers/2019_Bhattacharyya_Swagat.jpg",
-    "position": "Vice President",
+    "position": "Vice President of Technical Committees",
     "description": "Swagat is a sophomore majoring in Electrical Engineering. He joined Purdue IEEE in 2018 and also serves as electrical lead in EMBS. Bio-electrical signals fascinate him. Swagat strives to expand involvement in IEEE and to facilitate the professional development of all IEEE members. In his free time, Swagat enjoys working out with friends and playing his bamboo flute.",
+    "committees": "<a href=\"/embs/\">EMBS</a>"
+  },
+  {
+    "name": "Joseph Choi",
+    "image": "/images/officers/2019_Choi_Joseph.jpg",
+    "position": "Secretary (Fall), Vice President of Member Involvement (Spring)",
+    "description": "Joseph is a sophomore who is majoring in Mechanical Engineering and is currently an RA at Owen. He joined IEEE in 2018 as part of EMBS and takes interest in bio-mechanics and 3D modelling. When he has free time he can be found playing piano, playing video games, and taking enthusiastic walks in the woods.",
     "committees": "<a href=\"/embs/\">EMBS</a>"
   },
   {
@@ -21,16 +28,23 @@
     "committees": "<a href=\"/rov/\">ROV</a>"
   },
   {
-    "name": "Joseph Choi",
-    "image": "/images/officers/2019_Choi_Joseph.jpg",
-    "position": "Secretary",
-    "description": "Joseph is a sophomore who is majoring in Mechanical Engineering and is currently an RA at Owen. He joined IEEE in 2018 as part of EMBS and takes interest in bio-mechanics and 3D modelling. When he has free time he can be found playing piano, playing video games, and taking enthusiastic walks in the woods.",
-    "committees": "<a href=\"/embs/\">EMBS</a>"
+    "name": "Sebastian Gruenwald",
+    "image": "/images/officers/2020_Gruenwald_Sebastian.jpg",
+    "position": "Secretary (Spring)",
+    "description": "Sebastian is a freshmen planning to major in Civil Engineering with minors in Engineering Public Policy and Economics. He joined IEEE in Fall 2019 as part of the ROV team. In his free time, Sebastian enjoys working out, reading transportation maps, and fashion.",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Duhan Eroglu",
+    "image": "/images/officers/2020_Duhan_Eroglu.png",
+    "position": "Industrial Relations Head (Spring)",
+    "description": "Duhan is a sophomore in electrical engineering. He has been a part of MTT-S since 2018. He also enjoys watching and playing sports in his spare time.",
+    "committees":  "<a href=\"/mtts/\">MTT-S</a>, <a href=\"/IR/\">Industrial Relations</a>"
   },
   {
     "name": "Dakota Do",
     "image": "/images/officers/2019_Do_Dakota.jpg",
-    "position": "Industrial Relations Head",
+    "position": "Industrial Relations Head (Fall)",
     "description": "Dakota is a junior majoring in aeronautical and aerospace engineering. He currently serves as the head of the Industrial Relations committee and is also in charge of sponsorships for the Aerial Robotics team. For 2019 he aims to expand the scope of Industrial Relations by recruiting more members for the committee from a wide range of academic backgrounds.",
     "committees": "<a href=\"/partieee/\">Aerial Robotics</a>, <a href=\"/IR/\">Industrial Relations</a>"
   },
