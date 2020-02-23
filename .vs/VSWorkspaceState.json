@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\racing",
     "\\racing\\alumni",
-    "\\software"
+    "\\studentwinners",
+    "\\studentwinners\\images"
   ],
-  "SelectedNode": "\\software\\index.php",
+  "SelectedNode": "\\studentwinners",
   "PreviewInSolutionExplorer": false
 }

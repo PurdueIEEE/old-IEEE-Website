@@ -23,6 +23,21 @@
 	</div>
     <hr />
 
+	<!-- New Awardee -->
+    <div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/Tyler_Stagge_2020.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Tyler Stagge</h3>
+            <h4>Week of February 17</h4>
+            <p> Tyler Stagge is ROV Co-mechanical Lead. He is from Ohio and is in his last semester studying mechanical engineering at Purdue. Tyler has done 4 co-op rotations with Detroit Diesel. Tyler has brought lots of innovations to the ROV team like custom thruster ducts, and has mentored members on CAD skills, CAM for making their designs, and the actual machining of their parts. He plans to continue his education with a master's degree at Purdue University next year. Tyler has been heavily involved with the recent rennovations in the IEEE workspace. Thanks for your hard work Tyler!</p>
+            <p><em>Committee Involvement</em>: <?php echo ROV?></p>
+        </div>
+    </div>
+
 	    <!-- New Awardee -->
     <div class="row">
         <div class="col-md-3">

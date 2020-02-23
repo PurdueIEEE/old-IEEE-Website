@@ -66,7 +66,7 @@
             <h3>Aidan Fisher</h3>
             <h4>Week of November 11</h4>
             <p>We want to recognize Aidan for his help administrating Code Cafe. He helped a lot of students with his clear instructions and made lots of important announcements. Thanks Aidan!</p>
-            <p><em>Committee Involvement</em>: <?php echo LEARNING?>, <?php echo ROV?></p>
+            <p><em>Committee Involvement</em>: <?php echo LEARNING?></p>
         </div>
     </div>
 
