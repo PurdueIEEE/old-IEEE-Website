@@ -10,16 +10,11 @@
     <div class="row">
 
         <!-- Sidebar Column -->
-        <div class="col-md-3">
-            <div class="list-group">
-                <a href="/rov/updates/" class="list-group-item">Updates</a>
-                <a href="/rov/history/" class="list-group-item">History</a>
-                <a href="/rov/bylaws.pdf" class="list-group-item">Bylaws</a>
-                <a href="/rov/sponsors/" class="list-group-item active">Sponsors</a>
-                <a href="/rov/join.php" class="list-group-item">Join ROV</a>
-				<a href="/rov/retro.php" class="list-group-item">Retro Page</a>
-            </div>
-        </div>
+        <?php include "../sidebar.html"; ?>
+        <script>
+        	var currentLink = "rov-sponsors-sidelink";
+        	document.getElementsByClassName(currentLink)[0].classList.add("active");
+        </script>
 
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1">
