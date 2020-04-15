@@ -26,6 +26,34 @@ include '../../header.php';
             <p>Here is a list of updates that have been posted on the ROV website! You can also find an overview about
                 our previous seasons under the history tab to the left.</p>
             <hr>
+			
+			<h3>2020 Suspension</h3>
+            <p><em>July, 2019</em></p>
+            <div>
+                <p class="text-justify">
+                    The 2019-2020 season marked an exciting and bustling new season for the team. The team experienced its fourth change in captaincy with Grant Geyer heading the team. 
+					Also new are many of the leads for technical teams. The team pursued many new designs and approaches toward making X12, in addition to several refinements from ROV <i>Remora</i>. 
+					The R&D department found new ethernet camera that were more reliable and PoE compatible for an nearly independent camera system. 
+					The major mechanical improvements include a faster and effective method of using a ring clamp to seal the logic electronics tube and 
+					the use of 3D prints to house thrusters and to provide buoyancy in conjuntion with expanding marine foam. 
+					With the suspension of all Purdue activities and the cancellation of the MATE competition, the team is now working at a very limited capacity to prepare ROV X12 for a pool test when available. 
+					The team is excited to see its hard work come to completion when normal activities resume. 
+                </p>
+            </div>
+
+			
+			<h3>2019 Competition</h3>
+            <p><em>July, 2019</em></p>
+            <div>
+                <p class="text-justify">
+                    The year 2019 marked an improvement for the team, with many leaders returning to their positions.
+					The team improved 5 places to finish 13th at the competition and had the second best technical report.
+					The team maintained a similar size of students. In 2019, the competition was hosted in Kingsport, TN by Eastman.
+					The team aimed for an ambitious design, changing the tools system to use pneumatics, the electrical system to CAN and ethernet cameras,
+					and the software system to Robot Operating System. These switches made ROV Remora more robust, but delayed testing and made integration more difficult.
+					The team is very proud of its achievements and excited to see where the upcoming season goes under the new leadership.
+                </p>
+            </div>
 
             <h3>2018 Competition</h3>
             <p><em>January 9, 2019</em></p>
