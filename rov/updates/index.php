@@ -28,7 +28,7 @@ include '../../header.php';
             <hr>
 			
 			<h3>2020 Suspension</h3>
-            <p><em>July, 2019</em></p>
+            <p><em>March, 2020</em></p>
             <div>
                 <p class="text-justify">
                     The 2019-2020 season marked an exciting and bustling new season for the team. The team experienced its fourth change in captaincy with Grant Geyer heading the team. 
