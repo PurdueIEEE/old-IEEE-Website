@@ -51,9 +51,14 @@
 
             <h2 class="text-center">Silver Partner</h2>
             <div class="row">
+				<!--
                 <div class="col-md-4 text-center">
                     <a href="https://engineering.purdue.edu" target="_blank"><img src="/rov/images/Engineering.png" alt="College of Engineering" style="width:100%"></a>
                 </div>
+				-->
+                <div class="col-md-4 text-center">
+                    <img src="/rov/images/ME_Logo.png" alt="Purdue Mechanical Engineering" style="width:100%">
+                </div>				
                 <div class="col-md-4 text-center">
                     <a href="http://purdueesc.org/" target="_blank"><img src="/rov/images/PESC.png" alt="PESC" style="width:100%"></a>
                 </div>
@@ -63,9 +68,11 @@
             </div>
 			<br>
             <div class="row">
+				<!--
                 <div class="col-md-4 text-center">
                     <a href="https://www.exxon.com/en" target="_blank"><img src="/rov/images/exxon.jpg" alt="Exxon Mobil" style="width:100%"></a>
                 </div>
+				-->
                 <div class="col-md-4 text-center">
                 </div>
                 <div class="col-md-4 text-center">
@@ -79,9 +86,11 @@
 					<div class="col-md-4 text-center">
 					<a href="https://www.binder-usa.com/" target="_blank"><img src="/rov/images/Binder.png" alt="Binder USA" style="width:100%"></a>
                     </div>
+					<!--
                     <div class="col-md-4 text-center">
                     <a href="https://www.bluerobotics.com/" target="_blank"><img src="/rov/images/bluerobotics.png" alt="Bechtel" style="width:100%"></a>                      
                     </div>
+					-->
                     <div class="col-md-4 text-center">
                     <a href="https://www.bechtel.com/" target="_blank"><img src="/rov/images/Bechtel.png" alt="Bechtel" style="width:100%"></a>
                     </div>
