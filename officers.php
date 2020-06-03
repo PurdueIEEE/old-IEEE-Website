@@ -7,8 +7,11 @@
 <script type="text/javascript">
     $(document).ready( function() {
         $("#header").load("header.php");
-        populateYears(2008, 2019);
-        let year = window.location.hash.replace("#", "") || 2019;
+        
+        // This finds the last file in the officers directory and assumes it to be the json file for the current year in YYYY.json filename. 
+        let maxYear = parseInt(<?php echo json_encode(substr(end(scandir("./officers/")), 0, 4), JSON_HEX_TAG); ?>);
+        populateYears(2008, maxYear);
+        let year = window.location.hash.replace("#", "") || maxYear;
         displayYear(year);
     });
 
@@ -32,7 +35,7 @@
             url: `officers/${year}.json`,
             success: function (data) {
                 let tmp = document.createDocumentFragment();
-                for (let i=0; i < data.length; i++) {
+                for (let i = 0; i < data.length; ++i) {
                     let officer = data[i];
                     tmp.appendChild(document.createElement("hr"));
                     let row = document.createElement("div");
@@ -53,6 +56,7 @@
                 let officers = document.getElementById("officers");
                 officers.innerHTML = "";
                 officers.appendChild(tmp);
+                document.title = `${year}` + document.title.substring(4);
             }
         });
 
