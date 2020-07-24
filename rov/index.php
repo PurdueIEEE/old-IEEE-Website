@@ -41,9 +41,9 @@ include '../header.php';
 
             <h2 class="text-center">About The ROV Team</h2>
             <div class="col-md-6">
-                <img src="/rov/images/X11.png" alt="ROV X11" style="width:100%"
+                <img src="/rov/images/ROV X12 transparent small.png" alt="ROV X12" style="width:100%"
                      style="float:left" style="display:block">
-                <p class="text-center">ROV <em>Remora</em></p>
+                <p class="text-center">ROV <em>X12</em></p>
             </div>
 
             <p class="text-justify">
