@@ -29,7 +29,7 @@ include '../../header.php';
                 <p class="text-justify">
                     The 2019-2020 season marked an exciting and bustling new season for the team. The team experienced its fourth change in captaincy with Grant Geyer heading the team. 
 					Also new are many of the leads for technical teams. The team pursued many new designs and approaches toward making X12, in addition to several refinements from ROV <i>Remora</i>. 
-					The R&D department found new ethernet camera that were more reliable and PoE compatible for an nearly independent camera system. 
+					The R&D department found new ethernet cameras that were more reliable and PoE compatible for an nearly independent camera system. 
 					The major mechanical improvements include a faster and effective method of using a ring clamp to seal the logic electronics tube and 
 					the use of 3D prints to house thrusters and to provide buoyancy in conjuntion with expanding marine foam. 
 					With the suspension of all Purdue activities and the cancellation of the MATE competition, the team is now working at a very limited capacity to prepare ROV X12 for a pool test when available. 
