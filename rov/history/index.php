@@ -52,13 +52,13 @@
 							With the suspension of all Purdue activities and the cancellation of the MATE competition, the team is now working at a very limited capacity to prepare ROV X12 for a pool test when available. 
 							The team is excited to see its hard work come to completion when normal activities resume. 
                         </p>
-                        <!-- 
-						<a href="/rov/images/X11.png">
+
+						<a href="/rov/images/ROV X12 transparent small.png">
 							<p class="text-center">
-								<img src="/rov/images/X11.png" alt="ROV X11" style="width:70%">
+								<img src="/rov/images/ROV X12 transparent small.png" alt="ROV X12" style="width:70%">
 							</p><br> 
 						</a>
-						-->
+
 			<hr>
             <br>
 			
