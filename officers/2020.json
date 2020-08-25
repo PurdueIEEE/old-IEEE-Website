@@ -24,7 +24,7 @@
     "name": "Ryan Pearson",
     "image": "/images/officers/2020_Ryan_Pearson.jpg",
     "position": "Treasurer",
-    "description": "Ryan is a senior studying Electrical Engineering, and is especially interested in digital design. Outside of class and IEEE he enjoys hiking, camping and photography.",
+    "description": "Ryan is a senior studying Electrical Engineering, and is especially interested in digital design. Outside of class and IEEE he enjoys hiking, camping, and photography.",
     "committees": "<a href=\"/rov/\">ROV</a>"
   },
   {
@@ -50,7 +50,7 @@
   },
   {
     "name": "Angelo Guarnero",
-    "image": "/images/officers/2020_Angelo_Guernero.jpg",
+    "image": "/images/officers/2020_Angelo_Guarnero.png",
     "position": "Learning Head",
     "description": "Angelo is a Junior majoring in Mechanical Engineering. He has been a part of ROV since 2018, and he now serves as the head of the IEEE Learning Committee. Some of Angelo’s hobbies include running, tabletop games, and synthesizers.",
     "committees": "<a href=\"/rov/\">ROV</a>, <a href=\"/learning/\">Learning</a>"
@@ -66,19 +66,19 @@
     "name": "Erik Wilson",
     "image": "/images/officers/2019_Wilson_Erik.jpg",
     "position": "Computer Society Chair",
-    "description": "Erik is a sophomore in Computer Engineering from Cleveland, Ohio. He is passionate about football, baseball, and all things computers.",
+    "description": "Erik is a junior in Computer Engineering from Cleveland, Ohio. He is passionate about football, baseball, and all things computers.",
     "committees": "<a href=\"/csociety/\">Computer Society</a>"
   },
   {
-    "name": "Barnabas Obeng-Gyasi",
-    "image": "/images/officers/2019_Obeng-Gyasi_Barnabas.JPG",
-    "position": "EMBS Chair (2019-2020)",
-    "description": "Barnabas is a senior in Neurobiology and Physiology. He joined EMBS in Fall 2016. He enjoys applying biology for direct application to projects that can help a wide variety of people. As a part of EMBS he has worked on multiple projects including prosthetics, EMGs, and diagnostics. In his spare time, he enjoys reading, flying planes, playing guitar, and coding.",
+    "name": "Ryan",
+    "image": "/studentwinners/images/Ryan_Donoghue_2019.jpg",
+    "position": "EMBS Chair",
+    "description": "He is a junior in electrical engineering, currently serving as the chair of IEEE EMBS. His hobbies include music, Computer Aided Design, Gaming, and 3D-printing.",
     "committees": "<a href=\"/embs/\">EMBS</a>"
   },
   {
     "name": "George Luo",
-    "image": "/studentwinnders/images/2019_Jiayu_Luo.jpg",
+    "image": "/studentwinners/images/2019_Jiayu_Luo.jpg",
     "position": "MTT-S Chair",
     "description": "Jiayu Luo, also known as George, is the chair of MTT-S. He is a senior in Robotics and Mechatronics. He comes from a city in the southwestern mountains of China, the Spring City of Kunming.",
     "committees": "<a href=\"/mtts/\">MTT-S</a>"
@@ -86,7 +86,7 @@
   {
     "name": "Alex Zhang",
     "image": "/images/officers/2019_Zhang_Alex.jpg",
-    "position": "Aerial Robotics Chair and Treasurer (Fall)",
+    "position": "Aerial Robotics Chair",
     "description": "Alex is a senior double majoring in Finance and Supply Chain Information Analytics. He currently serves as the Aerial Robotics Team Captain and Purdue IEEE Treasurer. His goal for 2020 is to lead Aerial Robotics in developing a high performance UAS for strong competitive performance and maintain a strong financial standing for Purdue IEEE. In his free time, he enjoys boxing and tinkering with electronics.",
     "committees": "<a href=\"/partieee/\">Aerial Robotics</a>, <a href=\"/IR/\">Industrial Relations</a>"
   },
@@ -101,7 +101,7 @@
     "name": "Grant Geyer",
     "image": "/images/officers/2019_Geyer_Grant.jpg",
     "position": "ROV Captain",
-    "description": "Grant Geyer is a senior majoring in Computer Engineering. He joined ROV in Fall 2017 as an electrical member. He is also a part of Run Club and InterVarsity and is willing to talk to anyone about movies.",
+    "description": "Grant Geyer is a senior majoring in Computer Engineering. He joined ROV in Fall 2017 as an electrical member. He is also a part of InterVarsity and Run Club and has ran the Purdue half marathon each of his years at Purdue. In his freetime, Grant enjoys playing dumb games with his friends and is willing to talk to anyone about movies.",
     "committees": "<a href=\"/rov/\">ROV</a>"
   },
   {
