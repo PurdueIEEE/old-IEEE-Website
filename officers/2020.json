@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Swagat Bhattacharyya",
+    "image": "/images/officers/2019_Bhattacharyya_Swagat.jpg",
+    "position": "President",
+    "description": "Swagat is a junior majoring in Electrical Engineering. He joined Purdue IEEE in 2018 and also serves as electrical lead in EMBS. Bio-electrical signals fascinate him. Swagat strives to expand involvement in IEEE and to facilitate the professional development of all IEEE members. In his free time, Swagat enjoys working out with friends and playing his bamboo flute.",
+    "committees": "<a href=\"/embs/\">EMBS</a>"
+  },
+  {
+    "name": "Carrie Li",
+    "image": "/images/officers/2019_Li_Carrie.jpg",
+    "position": "Vice President of Technical Committees (Fall)",
+    "description": "Carrie is a junior majoring in Computer Engineering. She joined Purdue IEEE in Fall 2018 as part of ROV's software subteam. She is interested in embedded software. In her free time, she enjoys reading fiction and playing tennis.",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Joseph Choi",
+    "image": "/images/officers/2019_Choi_Joseph.jpg",
+    "position": "Vice President of Member Involvement",
+    "description": "Joseph is a junior who is majoring in Mechanical Engineering and is currently an RA at Owen. He joined IEEE in 2018 as part of EMBS and takes interest in bio-mechanics and 3D modelling. When he has free time he can be found playing piano, playing video games, and taking enthusiastic walks in the woods.",
+    "committees": "<a href=\"/embs/\">EMBS</a>"
+  },
+  {
+    "name": "Ryan Pearson",
+    "image": "/images/officers/2020_Ryan_Pearson.jpg",
+    "position": "Treasurer",
+    "description": "Ryan is a senior studying Electrical Engineering, and is especially interested in digital design. Outside of class and IEEE he enjoys hiking, camping, and photography.",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Sebastian Gruenwald",
+    "image": "/images/officers/2020_Gruenwald_Sebastian.jpg",
+    "position": "Secretary",
+    "description": "Sebastian is a sophmorem majoring in Civil Engineering with a minor in Engineering Public Policy. He joined IEEE in Fall 2019 as part of the ROV team. In his free time, Sebastian enjoys working out, reading transportation maps, and fashion.",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Duhan Eroglu",
+    "image": "/images/officers/2020_Duhan_Eroglu.png",
+    "position": "Industrial Relations Head",
+    "description": "Duhan is a junior in electrical engineering. He has been a part of MTT-S since 2018. He also enjoys watching and playing sports in his spare time.",
+    "committees":  "<a href=\"/mtts/\">MTT-S</a>, <a href=\"/IR/\">Industrial Relations</a>"
+  },
+  {
+    "name": "Hanna Hatfield",
+    "image": "/images/officers/2020_Hanna_Hatfield.jpg",
+    "position": "Growth & Engagement Head",
+    "description": "Hanna is a sophmore majoring in Mechanical Engineering Technology who joined Purdue IEEE in 2019. In her free time she enjoys sitting in her hammock, messing with her 3D printer, and playing video games.",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Angelo Guarnero",
+    "image": "/images/officers/2020_Angelo_Guarnero.png",
+    "position": "Learning Head",
+    "description": "Angelo is a Junior majoring in Mechanical Engineering. He has been a part of ROV since 2018, and he now serves as the head of the IEEE Learning Committee. Some of Angelo’s hobbies include running, tabletop games, and synthesizers.",
+    "committees": "<a href=\"/rov/\">ROV</a>, <a href=\"/learning/\">Learning</a>"
+  },
+  {
+    "name": "Jerome Schweitzer",
+    "image": "/images/officers/2019_Schweitzer_Jerome.jpg",
+    "position": "Social Head",
+    "description": "Jerome is an aspiring electrical engineer who is also interested in computer science and enjoys running, watching movies, and playing cards. He joined IEEE in the fall of 2019 as a part of the Computer Society and spent the spring semester as the Event Coordinator of the committee. Jerome attends Software Saturday sessions as an attendee and has recently participated in Code Cafe 2019 as a mentor.",
+    "committees": "<a href=\"/social/\">Social</a>, <a href=\"/csociety/\">Computer Society</a>"
+  },
+  {
+    "name": "Erik Wilson",
+    "image": "/images/officers/2019_Wilson_Erik.jpg",
+    "position": "Computer Society Chair",
+    "description": "Erik is a junior in Computer Engineering from Cleveland, Ohio. He is passionate about football, baseball, and all things computers.",
+    "committees": "<a href=\"/csociety/\">Computer Society</a>"
+  },
+  {
+    "name": "Ryan",
+    "image": "/studentwinners/images/Ryan_Donoghue_2019.jpg",
+    "position": "EMBS Chair",
+    "description": "He is a junior in electrical engineering, currently serving as the chair of IEEE EMBS. His hobbies include music, Computer Aided Design, Gaming, and 3D-printing.",
+    "committees": "<a href=\"/embs/\">EMBS</a>"
+  },
+  {
+    "name": "George Luo",
+    "image": "/studentwinners/images/2019_Jiayu_Luo.jpg",
+    "position": "MTT-S Chair",
+    "description": "Jiayu Luo, also known as George, is the chair of MTT-S. He is a senior in Robotics and Mechatronics. He comes from a city in the southwestern mountains of China, the Spring City of Kunming.",
+    "committees": "<a href=\"/mtts/\">MTT-S</a>"
+  },
+  {
+    "name": "Alex Zhang",
+    "image": "/images/officers/2019_Zhang_Alex.jpg",
+    "position": "Aerial Robotics Chair",
+    "description": "Alex is a senior double majoring in Finance and Supply Chain Information Analytics. He currently serves as the Aerial Robotics Team Captain and Purdue IEEE Treasurer. His goal for 2020 is to lead Aerial Robotics in developing a high performance UAS for strong competitive performance and maintain a strong financial standing for Purdue IEEE. In his free time, he enjoys boxing and tinkering with electronics.",
+    "committees": "<a href=\"/partieee/\">Aerial Robotics</a>, <a href=\"/IR/\">Industrial Relations</a>"
+  },
+  {
+    "name": "Dhruv Swarup",
+    "image": "/images/officers/2019_Swarup_Dhruv.jpg",
+    "position": "Racing Chair",
+    "description": "Dhruv is a senior in Computer Engineering and joined IEEE Racing in August 2018 as a part of the Controls sub-team. Even as the Racing Chair, he will continue to develop computer vision software for the kart. He loves working with micro-controllers and using them to build fun projects. In his free time, he enjoys playing table-tennis with friends, watching movies, and playing video games.",
+    "committees": "<a href=\"/racing/\">Racing</a>"
+  },
+  {
+    "name": "Grant Geyer",
+    "image": "/images/officers/2019_Geyer_Grant.jpg",
+    "position": "ROV Captain",
+    "description": "Grant Geyer is a senior majoring in Computer Engineering. He joined ROV in Fall 2017 as an electrical member. He is also a part of InterVarsity and Run Club and has ran the Purdue half marathon each of his years at Purdue. In his freetime, Grant enjoys playing dumb games with his friends and is willing to talk to anyone about movies.",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Hadi A Ahmed",
+    "image": "/images/officers/2020_Hadi_Ahmed.jpg",
+    "position": "Software Saturdays Chair",
+    "description": "Hadi is a sophomore studying Computer Engineering. He joined Software Saturdays in 2019, and is excited to help Purdue students practice and learn software development and different technologies they can use in their everyday lives. He is also involved with the Archery Club and the Muslim Student Association, and loves the outdoors.",
+    "committees": "<a href=\"/software/\">Software Saturdays</a>"
+  }
+]
