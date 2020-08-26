@@ -117,22 +117,28 @@ if (!@include_once('DirectoryServices/lists.php')) {
             <h1 class="text-center">IEEE Dues</h1>
 			<br/>
             <p>
-                Purdue IEEE Student Organization follows a simple dues basis for membership. Local membership dues are $15** for
-                two semesters, which allows each person to have access to IEEE resources, such as:
+                Purdue IEEE Student Organization requires payment of dues for membership<sup><b>1</b></sup>. Payment of annual dues gives access to IEEE resources, such as:
             <ul>
                 <li>Access to extras at Learning Events by Learning Committee</li>
                 <li>Trip expense coverage for committee competitions and social events</li>
-                <li>Free food at General Assemblies</li>
+                <li>Free food at General Assemblies (in the past... we provide masks and disinfectants right now)</li>
                 <li>Recognition for contributed work with final projects</li>
             </ul>
-            To pay dues, please contact the Treasurer at
-            <a href="mailto:IEEE-Treas@purdueieee.org">IEEE-Treas@purdueieee.org</a>, go to EE 014 and use leave your
-            email and dues with a Treasurer-authorized attendant or IEEE officer inside the office, or give it to the Treasurer at
-            General Assemblies.
+            Extraordinary circumstances necessitate complex procedures - please read carefully. Annual dues are <b>$15 for on-campus students<sup>2</sup></b> and <b>$7 for fully-online students<sup>3</sup></b>. 
+			</p>
+			<p>
+			This year, you can choose to either pay with physical cash or pay digitally. To pay with physical cash, please go to EE 014, and leave your email and dues with a Treasurer-authorized attendant or IEEE officer inside the office.
+			There are two options for paying digitally: venmo or paypal. For security reasons, we have pinned guidance on how to do this in the #IEEE channel in our <a href="http://purdueieee.slack.com">Slack</a>.
             </p>
+			<p>
+			Upon paying dues, you will receive a Google Forms link that leads to a 1-minute survey. Filling out the requested information in the survey will officially register you in our membership database. Please contact the Treasurer at
+            <a href="mailto:IEEE-Treas@purdueieee.org">IEEE-Treas@purdueieee.org</a> if you have any dues-related questions.
+			</p>
 			<hr/>
-			<p>**If you are a graduate student with an active International IEEE Membership and wish to join Purdue IEEE, you are excused from the local dues! However, please see a Purdue IEEE officer to register with the student branch.</p>
-        </div>
+			<p><sup><b>1</b></sup>If you are a graduate student with an active International IEEE Membership and wish to join the Purdue Student Branch, you are <b>exempt</b> from the local dues! Please contact a Purdue IEEE officer to complete registration.</p>
+			<p><sup><b>2</b></sup>If classes go online early, excess dues will be forwarded to the next academic year.</p>
+			<p><sup><b>3</b></sup>Must attend events/meetings virtually.</p>
+		</div>
     </div>
 </div>
 

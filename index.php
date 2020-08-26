@@ -107,77 +107,11 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
 
     <!-- Info Sessions -->
     <div class="well card-1 text-dark">
-        <h1 style="margin-top: 0; text-align: center">
-            <a href="https://docs.google.com/presentation/d/1guU6irVzhfY988nDsTyu7t7UCeGDDLV8ALkgMJcWzQc/edit?usp=sharing"
-               target="_blank">Spring 2020 Callout Slides Link</a></h1>
-        <?php //include 'info_sessions.php'; ?>
-        <!--<h2 style = "text-align: center;"> The General Callout is on Wed 1/22 from 6:30-8:00 PM at EE 170 </h2>
-        <h2 style = "text-align: center;"> Free Pizza and Drinks! </h2> -->
-		<!--<h3 style = "text-align: left;">Committee Information Sessions:</h3>
-
-		<table style="width:100%">
-		  <tr>
-			<th>Committee</th>
-			<th>Info Session Date/Time</th>
-			<th>Info Session Room</th>
-		  </tr>
-		  <tr>
-			<td>Remotely Operated underwater Vehicle (ROV)</td>
-			<td>1/23, 6:30 PM</td>
-			<td>POTR 234</td>
-		  </tr>
-		  <tr>
-			<td>Software Saturdays</td>
-			<td>1/25, 3:30 PM</td>
-			<td>ARMS B061</td>
-		  </tr>
-		  <tr>
-			<td>Engineering in Medicine & Biology Society (EMBS)</td>
-			<td>1/27, 6:00 PM</td>
-			<td>EE 226</td>
-		  </tr>
-		  <tr>
-			<td>Growth and Engagement (G&E)**</td>
-			<td>1/27, 7:30 PM</td>
-			<td>EE 115</td>
-		  </tr>
-		  <tr>
-			<td>Social**</td>
-			<td>1/27, 7:30 PM</td>
-			<td>EE 115</td>
-		  </tr>
-		  <tr>
-			<td>Microwave Theory & Techniques Society (MTT-S)</td>
-			<td>1/28, 6:00 PM</td>
-			<td>EE 224</td>
-		  </tr>
-		  <tr>
-			<td>Learning</td>
-			<td>1/28, 6:30 PM</td>
-			<td>EE 222</td>
-		  </tr>
-		  <tr>
-			<td>Racing</td>
-			<td>1/28, 7:00 PM</td>
-			<td>ME 1009</td>
-		  </tr>
-		  <tr>
-			<td>Computer Society</td>
-			<td>1/29, 6:00 PM</td>
-			<td>EE 115</td>
-		  </tr>
-			<td>Industrial Relations</td>
-			<td>1/29, 6:00 PM</td>
-			<td>EE 224</td>
-		  </tr>
-		  <tr>
-			<td>Aerial Robotics</td>
-			<td>1/30, 6:30 PM</td>
-			<td>ARMS 1028</td>
-		  </tr>
-		</table>
-		<hr/>
-		<h5 style = "text-align: left;">** Information Session Held Jointly</h5> -->
+		<h2 style = "text-align: center;"> Our General Callout is on Wed 9/2 and Thurs 9/3 from 6:30-8:00 PM over <a href="https://discord.gg/kZNkKXM" target="_blank">Discord.</a> If you couldn't attend, you can watch a YouTube prerecording (coming soon). </h2>
+        <h2 style="margin-top: 0; text-align: center">
+            <a href="https://docs.google.com/presentation/d/1qsCByNTLfFwjoCGVxDREy0kgfFliv3MGgO-E7ACN5Wc/edit?usp=sharing"
+               target="_blank">Fall 2020 Callout Slides</a></h2>
+        <?php include 'info_sessions.php'; ?>
     </div>
 
     <!-- Committee List -->
