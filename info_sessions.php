@@ -18,12 +18,12 @@ $info_sessions = array(
 	array($etime(9, 3, 19), $etime(9, 3, 20), 'https://discord.gg/TKdPrCG', RACING),
 	array($etime(9, 6, 17), $etime(9, 6, 18), 'https://discord.gg/ytqMgn', SOCIAL),
 //    array($etime(1, 16, 18, 30), $etime(1, 16, 20), 'POTR 234', ROV),
+    array($etime(9, 10, 18, 30), $etime(9, 10, 19, 30), 'EE 157', GROWTH),
     array($etime(9, 11, 18),     $etime(9, 11, 19), 'https://discord.gg/8uBbry', LEARNING),
+    array($etime(9, 12, 15, 30), $etime(9, 12, 16, 30), 'https://purdue-student.webex.com/purdue-student/j.php?MTID=mfcf4bd9ef43aa88f4d846d4707509d86', SOFTWARE_SATURDAYS),
 //    array($etime(1, 17, 18, 30), $etime(1, 17, 19, 30), 'ARMS 1010', PARTIEEE),
 //    array($etime(8, 30, 20), $etime(8, 30, 21), 'EE 115', INDUSTRIAL_RELATIONS),
 //    array($etime(1, 18, 18), $etime(1, 18, 19), 'ME 1006', EMBS),
-//    array($etime(1, 19, 15, 30), $etime(1, 19, 17, 30), 'ARMS B061', SOFTWARE_SATURDAYS),
-//    array($etime(1, 22, 18), $etime(1, 22, 19), 'EE 115', GROWTH),
 //    array($etime(1, 23, 18), $etime(1, 23, 19), 'EE 222', COMPUTER_SOCIETY),
 //    array($etime(1, 24, 18), $etime(1, 24, 19), 'EE 226', MTTS)
 );
@@ -53,7 +53,7 @@ foreach ($info_sessions as $session) {
         $previous_day = $day;
     }
     $info_session_text .= '<div class="row">
-<div class="col-sm-3">
+<div class="col-sm-4">
     <h4>' . $day . '</h4>
 </div>
 <div class="col-sm-9">
