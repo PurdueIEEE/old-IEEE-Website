@@ -114,6 +114,19 @@ if (!@include_once('DirectoryServices/lists.php')) {
 <div class="well card-1">
     <div class="row">
         <div class="col-md-8 col-md-offset-2 text-dark">
+            <h1 class="text-center">IEEE Discord</h1>
+            <h3 class="text-center"><a href="https://discordapp.com/invite/fFNnKPK">https://discordapp.com/invite/fFNnKPK</a></h3>
+            <p>
+                Purdue IEEE uses discord for many calls. Join the link above and register for an account. Discord
+                is available on Google Play and the Apple Store.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="well card-1">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2 text-dark">
             <h1 class="text-center">IEEE Dues</h1>
 			<br/>
             <p>
