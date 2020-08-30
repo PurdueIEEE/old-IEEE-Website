@@ -23,7 +23,7 @@
         <div class="col-md-9 text-dark">
             <h2 class="text-center">Join as an Attendee</h2>
             <div class="col-md-12 text-dark">
-                <iframe src="https://forms.gle/Ar9yr9MAfmVCMXMJ9" width="100%" height="700" frameborder="0">Loading...</iframe>
+                <iframe src="https://forms.gle/jL52hVHi6tsNxGqz7" width="100%" height="700" frameborder="0">Loading...</iframe>
             </div>
         </div>
     </div>
