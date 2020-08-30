@@ -17,7 +17,7 @@ $info_sessions = array(
 	array($etime(9, 3, 18, 30), $etime(9, 3, 20, 0), 'https://discord.gg/kZNkKXM', GENERAL),
 	array($etime(9, 3, 19), $etime(9, 3, 20), 'ME 1009 & https://discord.gg/TKdPrCG', RACING),
 	array($etime(9, 6, 17), $etime(9, 6, 18), 'https://discord.gg/ytqMgn', SOCIAL),
-//    array($etime(9, 9, 18, 30), $etime(9, 9, 20), 'ME 1130 & ', ROV),
+    array($etime(9, 9, 18, 30), $etime(9, 9, 20), 'ME 1130 & https://discord.gg/kZNkKXM', ROV),
     array($etime(9, 10, 18, 30), $etime(9, 10, 19, 30), 'EE 157', GROWTH),
     array($etime(9, 11, 18),     $etime(9, 11, 19), 'https://discord.gg/8uBbry', LEARNING),
     array($etime(9, 12, 15, 30), $etime(9, 12, 16, 30), 'https://purdue-student.webex.com/purdue-student/j.php?MTID=mfcf4bd9ef43aa88f4d846d4707509d86', SOFTWARE_SATURDAYS),
