@@ -232,8 +232,10 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                             <h4 class="media-heading"><a href="/rov/">ROV</a></h4>
                             <p>Remotely Operated underwater Vehicle (ROV) designs and constructs an ROV to compete in
                                 the Marine Advanced Technology Education (MATE) International ROV Competition each year.
-                                They are looking for members to model designs in 3D, populate circuit boards, and
-                                develop the control software.</p><br>
+                                They are looking for members to model designs in 3D, machine and 3D print them, design
+								circuit schematics and printed circuit boards, populate circuit boards, develop the control
+								software, create the pilot interface, interface with sensors, and create computer vision algorithms.
+                                </p><br>
                         </div>
                     </div>
                 </div>
