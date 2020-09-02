@@ -15,7 +15,7 @@ $etime = function ($month, $day, $hour, $minute = 0) use ($year, $tz) {
 $info_sessions = array(
     array($etime(9, 2, 18, 30), $etime(9, 2, 20, 0), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord</a>', GENERAL),
 	array($etime(9, 3, 18, 30), $etime(9, 3, 20, 0), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord</a>', GENERAL),
-	array($etime(9, 3, 19), $etime(9, 3, 20), 'ME 1009 & <a href="https://discord.gg/TKdPrCG">https://discord.gg/TKdPrCG</a>', RACING),
+	array($etime(9, 3, 19), $etime(9, 3, 20), '<a href="https://discord.gg/TKdPrCG">https://discord.gg/TKdPrCG</a>', RACING),
 	array($etime(9, 6, 17), $etime(9, 6, 18), '<a href="https://discord.gg/N7qwFN">https://discord.gg/N7qwFN</a>', SOCIAL),
     array($etime(9, 9, 18, 30), $etime(9, 9, 20), 'ME 1130 & <a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord</a>', ROV),
     array($etime(9, 10, 18, 30), $etime(9, 10, 19, 30), 'EE 157', GROWTH),
