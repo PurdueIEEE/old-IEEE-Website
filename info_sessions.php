@@ -15,17 +15,18 @@ $etime = function ($month, $day, $hour, $minute = 0) use ($year, $tz) {
 $info_sessions = array(
     array($etime(9, 2, 18, 30), $etime(9, 2, 20, 0), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord</a>', GENERAL),
 	array($etime(9, 3, 18, 30), $etime(9, 3, 20, 0), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord</a>', GENERAL),
-	array($etime(9, 3, 19), $etime(9, 3, 20), '<a href="https://discord.gg/TKdPrCG">https://discord.gg/TKdPrCG</a>', RACING),
-	array($etime(9, 6, 17), $etime(9, 6, 18), '<a href="https://discord.gg/N7qwFN">https://discord.gg/N7qwFN</a>', SOCIAL),
-    array($etime(9, 9, 18, 30), $etime(9, 9, 20), 'ME 1130 & <a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord</a>', ROV),
-    array($etime(9, 10, 18, 30), $etime(9, 10, 19, 30), 'EE 157', GROWTH),
-    array($etime(9, 11, 18),     $etime(9, 11, 19), '<a href="https://discord.gg/fy7GCa">https://discord.gg/fy7GCa</a>', LEARNING),
-    array($etime(9, 12, 15, 30), $etime(9, 12, 16, 30), '<a href="https://purdue-student.webex.com/purdue-student/j.php?MTID=mfcf4bd9ef43aa88f4d846d4707509d86">https://purdue-student.webex.com/purdue-student/j.php?MTID=mfcf4bd9ef43aa88f4d846d4707509d86</a>', SOFTWARE_SATURDAYS),
+	array($etime(9, 3, 19), $etime(9, 3, 20), '<a href="https://discord.gg/TKdPrCG">Racing Discord [https://discord.gg/TKdPrCG</a>]', RACING),
+	array($etime(9, 4, 18, 30), $etime(9, 4, 19, 30), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [Industrial Relations]</a>', INDUSTRIAL_RELATIONS),
+	array($etime(9, 6, 17), $etime(9, 6, 18), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [Social]</a>', SOCIAL),
+    array($etime(9, 9, 18, 30), $etime(9, 9, 20), 'ME 1130 & <a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [ROV]</a>', ROV),
+	array($etime(9, 10, 18), $etime(9, 10, 19), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [Computer Society]</a>', COMPUTER_SOCIETY),
+	array($etime(9, 10, 18), $etime(9, 10, 18), '<a href="https://zoom.us/j/5076657337?pwd=QUczWDBmdjZoUHA1RXZrZWQ0U3h0Zz09">https://zoom.us/j/5076657337?pwd=QUczWDBmdjZoUHA1RXZrZWQ0U3h0Zz09</a>', MTTS),
+    array($etime(9, 10, 18, 30), $etime(9, 10, 19, 30), 'EE 157 & <a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [G&E]</a>', GROWTH),
+	array($etime(9, 10, 18, 30), $etime(9, 10, 19, 30), '<a href="https://hangouts.google.com/group/RvwNitZ22K8rCy137">https://hangouts.google.com/group/RvwNitZ22K8rCy137</a>', EMBS),
+    array($etime(9, 11, 18),     $etime(9, 11, 19), '<a href="https://discord.gg/bh3ENZy">Learning Discord [https://discord.gg/bh3ENZy]</a>', LEARNING),
+    array($etime(9, 12, 15, 30), $etime(9, 12, 16, 30), '<a href="https://purdue-student.webex.com/purdue-student/j.php?MTID=mfcf4bd9ef43aa88f4d846d4707509d86">https://purdue-student.webex.com/purdue-student/j.php?MTID=mfcf4bd9ef43aa88f4d846d4707509d86</a>', SOFTWARE_SATURDAYS)
 //    array($etime(1, 17, 18, 30), $etime(1, 17, 19, 30), 'ARMS 1010', PARTIEEE),
-//    array($etime(8, 30, 20), $etime(8, 30, 21), 'EE 115', INDUSTRIAL_RELATIONS),
-    array($etime(9, 10, 18, 30), $etime(9, 10, 19, 30), '<a href="https://hangouts.google.com/group/RvwNitZ22K8rCy137">https://hangouts.google.com/group/RvwNitZ22K8rCy137 </a>', EMBS),
-//    array($etime(1, 23, 18), $etime(1, 23, 19), 'EE 222', COMPUTER_SOCIETY),
-//    array($etime(1, 24, 18), $etime(1, 24, 19), 'EE 226', MTT-S)
+//    
 );
 
 $info_session_text = '<h2><b>' . $year . ' Info Sessions</b></h2>';
