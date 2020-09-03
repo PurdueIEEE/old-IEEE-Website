@@ -22,8 +22,9 @@
         <!-- Content Column -->
         <div class="col-md-9 text-dark">
             <h2 class="text-center">Join as a Mentor</h2>
+            <h3 class="text-center">Direct link to form:<a href="https://forms.gle/BHxVaJGEBqdEYVSe8">https://forms.gle/BHxVaJGEBqdEYVSe8</a></h3>
             <div class="col-md-12 text-dark">
-                <p class="text-justified">Even if you are not very experienced with Web Development, please still apply to be a mentor!</p>
+                <p class="text-center">Even if you are not very experienced with Web Development, please still apply to be a mentor!</p>
                 <iframe src="https://forms.gle/BHxVaJGEBqdEYVSe8" width="100%" height="700" frameborder="0">Loading...</iframe>
             </div>
         </div>
