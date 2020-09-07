@@ -20,11 +20,11 @@ $info_sessions = array(
 	array($etime(9, 6, 17), $etime(9, 6, 18), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [Social]</a>', SOCIAL),
     array($etime(9, 9, 18, 30), $etime(9, 9, 20), 'ME 1130 & <a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [ROV]</a>', ROV),
 	array($etime(9, 10, 18), $etime(9, 10, 19), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [Computer Society]</a>', COMPUTER_SOCIETY),
-	array($etime(9, 10, 18), $etime(9, 10, 18), '<a href="https://zoom.us/j/5076657337?pwd=QUczWDBmdjZoUHA1RXZrZWQ0U3h0Zz09">https://zoom.us/j/5076657337?pwd=QUczWDBmdjZoUHA1RXZrZWQ0U3h0Zz09</a>', MTTS),
+	array($etime(9, 10, 18), $etime(9, 10, 19), 'EE 226 and <a href="https://zoom.us/j/5076657337?pwd=QUczWDBmdjZoUHA1RXZrZWQ0U3h0Zz09">https://zoom.us/j/5076657337?pwd=QUczWDBmdjZoUHA1RXZrZWQ0U3h0Zz09</a>', MTTS),
     array($etime(9, 10, 18, 30), $etime(9, 10, 19, 30), 'EE 157 & <a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [G&E]</a>', GROWTH),
 	array($etime(9, 10, 18, 30), $etime(9, 10, 19, 30), '<a href="https://hangouts.google.com/group/RvwNitZ22K8rCy137">https://hangouts.google.com/group/RvwNitZ22K8rCy137</a>', EMBS),
-    array($etime(9, 11, 18),     $etime(9, 11, 19), '<a href="https://discord.gg/bh3ENZy">Learning Discord [https://discord.gg/bh3ENZy]</a>', LEARNING),
-    array($etime(9, 12, 15, 30), $etime(9, 12, 16, 30), '<a href="https://purdue-student.webex.com/purdue-student/j.php?MTID=mfcf4bd9ef43aa88f4d846d4707509d86">https://purdue-student.webex.com/purdue-student/j.php?MTID=mfcf4bd9ef43aa88f4d846d4707509d86</a>', SOFTWARE_SATURDAYS)
+    array($etime(9, 12, 15, 30), $etime(9, 12, 16, 30), '<a href="https://purdue-student.webex.com/purdue-student/j.php?MTID=mfcf4bd9ef43aa88f4d846d4707509d86">https://purdue-student.webex.com/purdue-student/j.php?MTID=mfcf4bd9ef43aa88f4d846d4707509d86</a>', SOFTWARE_SATURDAYS),
+	array($etime(9, 14, 18),     $etime(9, 14, 18, 30), '<a href="https://discord.gg/bh3ENZy">Learning Discord [https://discord.gg/bh3ENZy]</a>', LEARNING)
 //    array($etime(1, 17, 18, 30), $etime(1, 17, 19, 30), 'ARMS 1010', PARTIEEE),
 //    
 );
