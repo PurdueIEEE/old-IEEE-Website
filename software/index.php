@@ -36,7 +36,7 @@
 
             <div class="border border-dark">
                 <h3 class="text-center text-primary bg-info">Learning Sessions will be on WebEx from 3:30pm-5:30pm, every Saturday!</h3>
-                <h3 class="text-center bg-info">WebEx Link <a href="https://purdue-student.webex.com/purdue-student/j.php?MTID=m68f0330821e4ab9106d526094dfce814">Here</a><h3>
+                <h3 class="text-center bg-info">WebEx <a href="https://purdue-student.webex.com/purdue-student/k2/j.php?MTID=t08773760038c908ac42df9fc2cb609c3">Link</a>, Session Id: 172 756 6945, Password: VKjmMJyT575<h3>
                 <h4 class="text-center bg-info">Please see the <b><i>Calendar</i></b> tab above for more details on sessions, review hours, and project days</h5>
 
                 <p class="text-justify">Software Saturdays aims to introduce progamming frameworks and software development, and give the attendees a rounded project-based learning experience.</p>
