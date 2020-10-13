@@ -7,6 +7,8 @@ include 'header.php';
 
 <!-- Content Row -->
 <div class="well card-1 text-dark">
+    <h2>How will Code Cafe be run in 2020??</h2>
+    <p>It will be fully virtual (so sorry, no coffee or donuts). We will try our best to replicate the peer-peer mentoring for which we have been known.</p>
     <h2>What do I need to bring?</h2>
     <p>A laptop, a charger, and yourself!</p>
     <h2>What type of computer do I need?</h2>

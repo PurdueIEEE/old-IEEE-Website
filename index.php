@@ -106,6 +106,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
     <br> -->
 
     <!-- Info Sessions -->
+	<!--
     <div class="well card-1 text-dark">
 		<h2 style = "text-align: center;"> Our General Callout is on Wed 9/2 and Thurs 9/3 from 6:30-8:00 PM over the <a href="https://discord.gg/kZNkKXM" target="_blank">IEEE Q&A Discord.</a> If you couldn't attend, you can watch a <a href="https://youtu.be/JfkkEKnyU5I" target="_blank">YouTube prerecording.</a></h2>
         <h2 style="margin-top: 0; text-align: center">
@@ -113,6 +114,13 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                target="_blank">Fall 2020 Callout Slides</a></h2>
         <?php include 'info_sessions.php'; ?>
     </div>
+	-->
+	<div class="well card-1 text-dark">
+		<h2 style = "text-align: center;"> If you couldn't attend our callout, you can watch a <a href="https://youtu.be/JfkkEKnyU5I" target="_blank">YouTube prerecording.</a> Please see our <a href="/calendar.php">calendar</a> for upcoming events, and <a href="/join.php">join IEEE!</a></h2>
+        <h2 style="margin-top: 0; text-align: center">
+            <a href="https://docs.google.com/presentation/d/1qsCByNTLfFwjoCGVxDREy0kgfFliv3MGgO-E7ACN5Wc/edit?usp=sharing"
+               target="_blank">Fall 2020 Callout Slides</a></h2>
+	</div>
 
     <!-- Committee List -->
     <div class="well card-1 text-dark">

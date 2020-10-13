@@ -10,8 +10,8 @@ include 'header.php';
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">IEEE Code Cafe</h1>
-            <h2 class="text-center">Saturday, November 9th, 2019</h2>
-            <h2 class="text-center">Location: WALC 1087/1121</h2>
+            <h2 class="text-center">Saturday, October 24th, 2020</h2>
+            <h2 class="text-center">Location: <a href="https://discord.com/invite/5MvZS3u"><b>Code Cafe Discord</b></a></h2>
             <h2 class="text-center">1 - 6 PM</h2>
         </div>
 
@@ -28,16 +28,16 @@ include 'header.php';
                 Click on the sign up link on the top right to RSVP, or <a href="/codecafe/signup.php"><b>click here.</b></a>
             </p>
             <p class="text-justified">
-                However, if you want to be a mentor (accepted mentors get a free T-shirt), fill out this
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGZnx8UVp9sJGRVRr7f0LnIYRESTyWsWxSYC77E9WhJOD0jg/viewform?usp=sf_link"><b>application.</b></a>
+                However, if you want to be a mentor, fill out this
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScQGvQvxQD3A9DixWUK6GNYHhqlTrLLUGL-dx6HKn7__EUAdw/viewform"><b>application.</b></a>
             </p>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
             <h2>What is Code Cafe?</h2>
             <p class="text-justified">Code Cafe is an open learning event made to help you get started with learning how
-                to code. At this event, we want you to be as relaxed as possible. There will be free beverages (it is a
-                cafe after all), and refreshments.
+                to code. At this event, we want you to be as relaxed as possible. There (used to) be free beverages (it is a
+                cafe after all), and refreshments. This will not be feasible this year, but please feel free to sit down with your own food and drinks!
             </p>
         </div>
     </div>
@@ -77,7 +77,7 @@ include 'header.php';
 
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">I have more questions</h1>
-            <p class="text-center">Feel free to shoot us an email at <a href="mailto:vanderwe@purdue.edu">vanderwe@purdue.edu</a>
+            <p class="text-center">Feel free to shoot us an email at <a href="mailto:aguarner@purdue.edu">aguarner@purdue.edu</a>
             </p>
         </div>
     </div>

@@ -1,5 +1,11 @@
 [
   {
+    "img": "../codecafe/logo.jpg",
+    "title": "Code Cafe",
+    "date": "2020-10-24",
+    "desc": "Code Cafe is back this fall on Saturday, October 24th from 1PM - 6PM (On the Code Cafe Discord)! Learn or teach the basics of programming using Python, one of the most intuitive and popular coding languages! Please RSVP stating wether you want to be a student or a mentor. Instructions for how to do so and other info can be found on  our website at <a href=\\\"https://codecafe.purdueieee.org\\\" style=\\\"text-decoration:underline\\\"  target=\\\"_blank\\\">Code Cafe</a>\""
+  },
+  {
     "img": "images/CodeCafe2019.png",
     "title": "Code Cafe",
     "date": "2019-11-09",
