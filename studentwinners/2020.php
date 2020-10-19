@@ -41,27 +41,26 @@
         </div>
     </div>
 	
-	<hr />
 	<!-- New Awardee -->
-      <div class="row">
-          <div class="col-md-3">
-              <div class="officer-cropped"
-                  style="background-image: url('/studentwinners/images/2020_Scott_Hotchkiss.jpg')">
-              </div>
-          </div>
-          <div class="col-md-9">
-              <h3>Scott "Block" Hotchkiss</h3>
-              <h4>Week of September 21</h4>
-              <p> Scott is the R&D Head. He has had a tremendous impact on the ROV committee and IEEE as a whole. He has acquired the laser cutter in the workspace and helped to manage the workspace. Scott has led the team in many new ventures including but not limited to: new underwater connectors, new solenoids, new cameras, resin set 3D prints, resin prints, quad ESCs, ESC firmware, and CAN configuration. Thanks for your hard work Scott! We can't wait to see what you will create next!</p>
-              <p><em>Committee Involvement</em>: <?php echo ROV?></p>
-          </div>
-      </div>
+    <div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/2020_Scott_Hotchkiss.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Scott "Block" Hotchkiss</h3>
+            <h4>Week of September 21</h4>
+            <p> Scott is the R&D Head. He has had a tremendous impact on the ROV committee and IEEE as a whole. He has acquired the laser cutter in the workspace and helped to manage the workspace. Scott has led the team in many new ventures including but not limited to: new underwater connectors, new solenoids, new cameras, resin set 3D prints, resin prints, quad ESCs, ESC firmware, and CAN configuration. Thanks for your hard work Scott! We can't wait to see what you will create next!</p>
+            <p><em>Committee Involvement</em>: <?php echo ROV?></p>
+        </div>
+    </div>
 	
 	
+    <hr/>
 	<div class="row">
 			<h2 style="text-align:center">Spring</h2>
 	</div>
-    <hr />
 
     <div class="row">
         <div class="col-md-3">
@@ -105,7 +104,7 @@
         </div>
     </div>
 
-	    <!-- New Awardee -->
+    <!-- New Awardee -->
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
