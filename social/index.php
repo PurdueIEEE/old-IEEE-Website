@@ -15,6 +15,11 @@
                     paintball and go karts.
                 </p>
 
+                <p>
+                    Interesting in a joint event or being a part of the social committee?
+					Contact the Social Head at <a href="mailto:social@purdueieee.org">social@purdueieee.org</a>
+                </p>
+
                 <h2>2018-2019 Events</h2>
                 <h3>Ice Skating</h3>
                 <img src="./images/2018_2019_ice_skating.jpg" alt="2017 2018 Ice Skating" style="width: 100%"/>

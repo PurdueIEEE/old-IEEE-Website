@@ -32,7 +32,13 @@ include '../header.php';
             </div>
 
             <p class="text-justify">
-                We are a group of highly curious people with quirks in the science of computation. We do cool stuff with computers and try to spread the enlightenment with who-so-ever matches the level of curiosity of the group. 3D printing, web developing, cyber security, high performance computing, machine learning, graphics and everything you've heard of as tech-y is discussed, talked and made here, feel free to drop by. Contact Erik Wilson at <a href="mailto:wilso969@purdue.edu">wilso969@purdue.edu</a> for more details.
+                We are a group of highly curious people with quirks in the science of computation.
+				We do cool stuff with computers and try to spread the enlightenment with who-so-ever
+				matches the level of curiosity of the group. 3D printing, web developing, cyber security,
+				high performance computing, machine learning, graphics and everything you've heard of
+				as tech-y is discussed, talked and made here, feel free to drop by. Contact Erik Wilson
+				at <a href="mailto:csociety-info@purdueieee.org">csociety-info@purdueieee.org</a> for
+				more details.
             </p>
 			<br>
 
