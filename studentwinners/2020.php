@@ -23,6 +23,28 @@
 			<h2 style="text-align:center">Fall</h2>
 	</div>
 
+	<div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/images/officers/2020_Kaitlyn_Yu.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Kaitlyn Yu</h3>
+            <h4>Week of October 19</h4>
+            <p>
+			Kaitlyn is a First Year Engineering student from Princeton, New Jersey
+			with plans to go into Electrical Engineering. She is currently a member
+			of the electrical team in ROV and was nominated for being a great with
+			during the Growth and Engagement committee's toy building workshop. Kaitlyn
+			showed up early and stayed late for the 6 hour event both days. Outside of IEEE,
+			she works as a graphic designer for a blog about New York based startups and
+			mentors high school girls with plans of pursuing education in STEM fields.
+            </p>
+            <p><em>Committee Involvement</em>: <?php echo ROV?>, <?php echo GROWTH?></p>
+        </div>
+    </div>
+
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
