@@ -9,8 +9,15 @@
   {
     "name": "Carrie Li",
     "image": "/images/officers/2019_Li_Carrie.jpg",
-    "position": "Vice President of Technical Committees (Fall)",
+    "position": "Vice President of Technical Committees (Fall to October)",
     "description": "Carrie is a junior majoring in Computer Engineering. She joined Purdue IEEE in Fall 2018 as part of ROV's software subteam. She is interested in embedded software. In her free time, she enjoys reading fiction and playing tennis.",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "David Ho",
+    "image": "/images/officers/2020_David_Ho.jpg",
+    "position": "Vice President of Technical Committees (Fall since October)",
+    "description": "David is a junior majoring in Materials Engineering and has been a part of the ROV team since Fall of 2018. Outside IEEE, he is a member of the Titus research group, Engineering Mentor Corp, and Navigators. In his free time he enjoys dominating his friends in smash bros and cooking new foods.",
     "committees": "<a href=\"/rov/\">ROV</a>"
   },
   {
@@ -63,6 +70,13 @@
     "committees": "<a href=\"/social/\">Social</a>, <a href=\"/csociety/\">Computer Society</a>"
   },
   {
+    "name": "Nathan Broman",
+    "image": "/images/officers/2020_Nathan_Broman.jpg",
+    "position": "Aerial Robotics Chair",
+    "description": "Nathan is a senior in aerospace engineering, with an interest in unmanned aircraft.  He has been a member of IEEE since his freshman year, serving on the Aerial Robotics Technical Committee, and is now the team captain.  Nathan enjoys building and flying model aircraft and is pursuing a career in the aerospace and defense industry.",
+    "committees": "<a href=\"/partieee/\">Aerial Robotics</a>"
+  },
+  {
     "name": "Erik Wilson",
     "image": "/images/officers/2019_Wilson_Erik.jpg",
     "position": "Computer Society Chair",
@@ -82,13 +96,6 @@
     "position": "MTT-S Chair",
     "description": "Jiayu Luo, also known as George, is the chair of MTT-S. He is a senior in Robotics and Mechatronics. He comes from a city in the southwestern mountains of China, the Spring City of Kunming.",
     "committees": "<a href=\"/mtts/\">MTT-S</a>"
-  },
-  {
-    "name": "Alex Zhang",
-    "image": "/images/officers/2019_Zhang_Alex.jpg",
-    "position": "Aerial Robotics Chair",
-    "description": "Alex is a senior double majoring in Finance and Supply Chain Information Analytics. He currently serves as the Aerial Robotics Team Captain and was the Purdue IEEE Treasurer before prematurely ending his term early 2020. His goal for 2020 is to lead Aerial Robotics in developing a high performance UAS for strong competitive performance and maintain a strong financial standing for Purdue IEEE. In his free time, he enjoys boxing and tinkering with electronics.",
-    "committees": "<a href=\"/partieee/\">Aerial Robotics</a>, <a href=\"/IR/\">Industrial Relations</a>"
   },
   {
     "name": "Dhruv Swarup",

@@ -22,59 +22,74 @@
 	<div class="row">
 			<h2 style="text-align:center">Fall</h2>
 	</div>
-    <hr />
+
+    <div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/images/officers/2018_Sibley_Eric.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Eric Sibley</h3>
+            <h4>Week of October 12</h4>
+            <p> Eric is a senior majoring in Computer Engineering. 
+                He is currently in his second year as one of the ROV software co leads, and was nominated for teaching the IEEE Github and ROS workshops.
+                Outside of his time in IEEE, Eric works as the software lead of a tech startup and enjoys building projects over breaks that teach him new languages or are marketable.
+                His hobbies also include working out and drinking.
+            </p>
+            <p><em>Committee Involvement</em>: <?php echo ROV?>, <?php echo LEARNING?></p>
+        </div>
+    </div>
+	
 	<!-- New Awardee -->
-      <div class="row">
-          <div class="col-md-3">
-              <div class="officer-cropped"
-                  style="background-image: url('/studentwinners/images/2020_Scott_Hotchkiss.jpg')">
-              </div>
-          </div>
-          <div class="col-md-9">
-              <h3>Scott "Block" Hotchkiss</h3>
-              <h4>Week of September 21</h4>
-              <p> Scott is the R&D Head. He has had a tremendous impact on the ROV committee and IEEE as a whole. He has acquired the laser cutter in the workspace and helped to manage the workspace. Scott has led the team in many new ventures including but not limited to: new underwater connectors, new solenoids, new cameras, resin set 3D prints, resin prints, quad ESCs, ESC firmware, and CAN configuration. Thanks for your hard work Scott! We can't wait to see what you will create next!</p>
-              <p><em>Committee Involvement</em>: <?php echo ROV?></p>
-          </div>
-      </div>
+    <div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/2020_Scott_Hotchkiss.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Scott "Block" Hotchkiss</h3>
+            <h4>Week of September 21</h4>
+            <p> Scott is the R&D Head. He has had a tremendous impact on the ROV committee and IEEE as a whole. He has acquired the laser cutter in the workspace and helped to manage the workspace. Scott has led the team in many new ventures including but not limited to: new underwater connectors, new solenoids, new cameras, resin set 3D prints, resin prints, quad ESCs, ESC firmware, and CAN configuration. Thanks for your hard work Scott! We can't wait to see what you will create next!</p>
+            <p><em>Committee Involvement</em>: <?php echo ROV?></p>
+        </div>
+    </div>
 	
 	
+    <hr/>
 	<div class="row">
 			<h2 style="text-align:center">Spring</h2>
 	</div>
-    <hr />
 
-    <!-- New Awardee -->
-      <div class="row">
-          <div class="col-md-3">
-              <div class="officer-cropped"
-                  style="background-image: url('/studentwinners/images/2020_Joe_Navarra.jpg')">
-              </div>
-          </div>
-          <div class="col-md-9">
-              <h3>Joseph Michael "Michael" Navarra</h3>
-              <h4>Week of March 6</h4>
-              <p> Joseph Navarra is the ROV Tools Lead. Joe is a Junior in Mechanical Engineering from the Dayton, Ohio area, and he's been with ROV for 2 years. Currently, he leads the Tools Team in the development of mission-necessary manipulators and other extravehicular devices. He also serves as a mentor for younger members, helping to acclimate the team to good engineering design practices, and practical applications of those designs. Thanks for your hard work Joe!</p>
-              <p><em>Committee Involvement</em>: <?php echo ROV?></p>
-          </div>
-      </div>
+    <div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/2020_Joe_Navarra.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Joseph Michael "Michael" Navarra</h3>
+            <h4>Week of March 6</h4>
+            <p> Joseph Navarra is the ROV Tools Lead. Joe is a Junior in Mechanical Engineering from the Dayton, Ohio area, and he's been with ROV for 2 years. Currently, he leads the Tools Team in the development of mission-necessary manipulators and other extravehicular devices. He also serves as a mentor for younger members, helping to acclimate the team to good engineering design practices, and practical applications of those designs. Thanks for your hard work Joe!</p>
+            <p><em>Committee Involvement</em>: <?php echo ROV?></p>
+        </div>
+    </div>
 
-    <!-- New Awardee -->
-      <div class="row">
-          <div class="col-md-3">
-              <div class="officer-cropped"
-                  style="background-image: url('/studentwinners/images/2019_Jiayu_Luo.jpg')">
-              </div>
-          </div>
-          <div class="col-md-9">
-              <h3>George Luo</h3>
-              <h4>Week of February 28</h4>
-              <p> Jiayu Luo, also known as George, is the vice chair of MTT-S. He is a junior in Robotics and Mechatronics. He comes from a city in the southwestern mountains of China, the Spring City of Kunming. His dedication to MTT-S has made him a standout role model for all of us. Thanks for your hard work George!</p>
-              <p><em>Committee Involvement</em>: <?php echo MTTS?></p>
-          </div>
-      </div>
+    <div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/2019_Jiayu_Luo.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>George Luo</h3>
+            <h4>Week of February 28</h4>
+            <p> Jiayu Luo, also known as George, is the vice chair of MTT-S. He is a junior in Robotics and Mechatronics. He comes from a city in the southwestern mountains of China, the Spring City of Kunming. His dedication to MTT-S has made him a standout role model for all of us. Thanks for your hard work George!</p>
+            <p><em>Committee Involvement</em>: <?php echo MTTS?></p>
+        </div>
+    </div>
 
-	<!-- New Awardee -->
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
@@ -89,7 +104,7 @@
         </div>
     </div>
 
-	    <!-- New Awardee -->
+    <!-- New Awardee -->
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
