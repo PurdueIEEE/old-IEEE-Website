@@ -23,6 +23,29 @@ include '../../header.php';
                 our previous seasons under the history tab to the left.</p>
             <hr>
 			
+			<h3>2020 Fall</h3>
+            <p><em>November, 2020</em></p>
+            <div>
+                <p class="text-justify">
+                    The 2020-2021 season marks a unique season for the team as they try to continue
+					operations during the COVID-19 pandemic. Heading into this season, the team
+					experienced change with several of the leads for technical teams assuming their
+					role for the first time. The team has taken the foundation of X12 that was
+					constructed the prior season before the suspension and is building upon that to
+					create the next iteration of the ROV, X13. Two of the main improvements planned
+					for X13 are a more accessible yet powerful electronics design utilizing Power
+					over Ethernet and a software system leveraging more powerful hardware for a
+					more capable ROV. This season we have two prominent R&D projects with the
+					development of custom thrusters, rather than relying on the narrow choice
+					presented by Blue Robotics and the development of welded enclosures aimed at
+					improving resource efficiency. While there are still restrictions in place at
+					Purdue that alter the progress of the ROV, the team is continuing to progress
+					while ensuring that they’re following all Protect Purdue guidelines to
+					maintain a safe working environment. The team is proud of its progress so
+					far and is excited to see its hard work take form.
+                </p>
+            </div>
+
 			<h3>2020 Suspension</h3>
             <p><em>March, 2020</em></p>
             <div>
