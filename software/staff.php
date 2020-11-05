@@ -9,5 +9,6 @@
                 <h4>Hadi Ahmed</h4>
                 <p>Chair<br></p>
             </div>
+        </div>
     </div>
 </div>

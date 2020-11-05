@@ -1,7 +1,7 @@
 <?php
     $site_title = 'IEEE Software Saturdays';
     $site_index = '/software/';
-    include '../header.php';
+    include '../../header.php';
 ?>
 <style>
     #centerside{
@@ -15,8 +15,8 @@
         <div class="col-md-3">
             <div class="list-group">
                 <a href="/software/" class="list-group-item">Software Saturdays</a>
-                <a href="attendee.php" class="list-group-item">Join as an Attendee</a>
-                <a href="mentor.php" class="list-group-item">Join as a Mentor</a>
+                <a href="/software/attendee" class="list-group-item">Join as an Attendee</a>
+                <a href="/software/mentor" class="list-group-item">Join as a Mentor</a>
             </div>
         </div>
         <!-- Content Column -->
@@ -30,6 +30,6 @@
     </div>
 </div>
 
-<?php include './staff.php';?>
+<?php include '../staff.php';?>
 
-<?php include '../footer.php';?>
+<?php include '../../footer.php';?>
