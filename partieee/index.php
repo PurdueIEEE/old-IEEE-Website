@@ -28,7 +28,7 @@
             </p>
             <hr />
             <h2 class="text-center">Join</h2>
-            Our team takes any student, reguardless of major, experience, or class. To join, sign up for our Slack at <a href="https://partieee.slack.com">https://partieee.slack.com</a>. 
+            Our team takes any student, regardless of major, experience, or class. To join, sign up for our Slack at <a href="https://partieee.slack.com">https://partieee.slack.com</a>. 
                 If you have any questions, please email us at <a href="mailto:partieee@purdueieee.org">partieee@purdueieee.org</a>.
             <hr />
             <h2 class="text-center">2020 Test Flight</h2>

@@ -12,22 +12,22 @@
         <!-- Sidebar Column -->
         <?php include 'navigation.php' ?>
         <script>
-            let currentLink = "part-sponsership-sidelink";
+            let currentLink = "part-sponsorship-sidelink";
             document.getElementsByClassName(currentLink)[0].classList.add("active");
         </script>
 
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1 text-center">
-        <h1>Sponserships</h2>
+        <h1>Sponsorships</h2>
         <p>
-        Without our generous sponsers, it would not be possible for our team to go to 
-            competition. We are very thankful to the support provided by our sponsers.
+        Without our generous sponsors, it would not be possible for our team to go to 
+            competition. We are very thankful to the support provided by our sponsors.
         </p>
 
         <hr />
-        <h2>Current Sponsers</h2>
+        <h2>Current Sponsors</h2>
         <p>
-        The sponsers for the 2020-21 competition year.
+        The sponsors for the 2020-21 competition year.
         </p>
         <div style="display:flex; flex-flow: row wrap; justify-content: space-evenly; align-items: center">
             <div style="margin: 20px;"><img style="width: 150px; height: auto; padding:5px;" src="images/sponsors/insgc.jpg"></div>
@@ -42,8 +42,8 @@
         </div>
 
         <hr />
-        <h2>Sponsership Levels</h2>
-        <p>We recognize corporate sponsers in the following ways: </p>
+        <h2>Sponsorship Levels</h2>
+        <p>We recognize corporate sponsors in the following ways: </p>
         <div class="text-left" style="padding-left:20%;">
         <h3><b>Black: $500</b></h3>
             <ul>
@@ -70,7 +70,7 @@
         </div>
 
         <hr />
-        <h2>Become a Sponser</h2>
+        <h2>Become a Sponsor</h2>
         <p>
         By supporting Purdue Aerial Robotics Team IEEE, your company will be helping 
             passionate and motivated students gain valuable experience that will enhance 
