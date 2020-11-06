@@ -31,6 +31,6 @@
     </div>
 </div>
 
-<?php include '.,/staff.php';?>
+<?php include '../staff.php';?>
 
 <?php include '../../footer.php';?>
