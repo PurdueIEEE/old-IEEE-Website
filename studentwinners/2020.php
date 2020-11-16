@@ -26,7 +26,7 @@
 	<div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
-                style="background-image: url('/images/officers/2020_Peter_Salisbury.png')">
+                style="background-image: url('/studentwinners/images/2020_Peter_Salisbury.png')">
             </div>
         </div>
         <div class="col-md-9">
@@ -44,16 +44,18 @@
     </div>
 
 	<div class="row">
-        <div class="col-md-3">
-            <div class="officer-cropped"
-                style="background-image: url('/images/officers/2020_Zachary_Breisch.jpg')">
-            </div>
-			<div class="officer-cropped"
-                style="background-image: url('/images/officers/2020_Nick_Sergeant.jpg')">
-            </div>
-			<div class="officer-cropped"
-                style="background-image: url('/images/officers/2020_Ethan_Welp.jpg')">
-            </div>
+        <div class="col-md-3" style="display: flex; justify-content: space-around;">
+            <span style="margin: 0 auto; background-position: center center; display: inline-block;">
+                <div class="officer-cropped"
+                    style="height: 150px; width: 112px; display: inline-block; background-image: url('/studentwinners/images/2020_Zachary_Breisch.jpg')">
+                </div>
+			    <div class="officer-cropped"
+                    style="height: 150px; width: 112px; display: inline-block; background-image: url('/studentwinners/images/2020_Nick_Sergeant.jpg')">
+                </div>
+			    <div class="officer-cropped"
+                    style="height: 150px; width: 112px; display: inline-block; background-image: url('/studentwinners/images/2020_Ethan_Welp.jpg')">
+                </div>
+            </span>
         </div>
         <div class="col-md-9">
             <h3>Zachary Breisch, Nick Sergeant, and Ethan Welp</h3>
@@ -78,14 +80,14 @@
 			Computer Society and the Learning Committee. Some of his interests include power systems
 			engineering, playing piano, and running!
             </p>
-            <p><em>Committee Involvement</em>: <?php echo LEARNING?>, <?php echo CSOCIETY?></p>
+            <p><em>Committee Involvement</em>: <?php echo LEARNING?>, <?php echo COMPUTER_SOCIETY?></p>
         </div>
     </div>
 
 	<div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
-                style="background-image: url('/images/officers/2020_Kaitlyn_Yu.jpg')">
+                style="background-image: url('/studentwinners/images/2020_Kaitlyn_Yu.jpg')">
             </div>
         </div>
         <div class="col-md-9">
