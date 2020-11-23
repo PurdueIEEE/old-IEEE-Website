@@ -91,6 +91,13 @@
     "committees": "<a href=\"/csociety/\">Computer Society</a>"
   },
   {
+    "name": "What 'is face",
+    "image": "/images/officers/2021_.EXTENSIon",
+    "position": "Computer Society Chair (Spring)",
+    "description": "",
+    "committees": "<a href=\"/csociety/\">Computer Society</a>"
+  },
+  {
     "name": "Ryan Donoghue",
     "image": "/studentwinners/images/Ryan_Donoghue_2019.jpg",
     "position": "EMBS Chair",
@@ -109,6 +116,13 @@
     "image": "/images/officers/2019_Swarup_Dhruv.jpg",
     "position": "Racing Chair (Fall)",
     "description": "Dhruv is a senior in Computer Engineering and joined IEEE Racing in August 2018 as a part of the Controls sub-team. Even as the Racing Chair, he will continue to develop computer vision software for the kart. He loves working with micro-controllers and using them to build fun projects. In his free time, he enjoys playing table-tennis with friends, watching movies, and playing video games.",
+    "committees": "<a href=\"/racing/\">Racing</a>"
+  },
+  {
+    "name": "Boyu Zhoi",
+    "image": "/images/officers/2021_Boyu_Zhou.EXTENSION",
+    "position": "Racing Chair (Spring)",
+    "description": "",
     "committees": "<a href=\"/racing/\">Racing</a>"
   },
   {
