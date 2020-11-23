@@ -115,12 +115,67 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
         <?php include 'info_sessions.php'; ?>
     </div>
 	-->
+	
+	<!--
 	<div class="well card-1 text-dark">
 		<h2 style = "text-align: center;"> If you couldn't attend our callout, you can watch a <a href="https://youtu.be/JfkkEKnyU5I" target="_blank">YouTube prerecording.</a> Please see our <a href="/calendar.php">calendar</a> for upcoming events, and <a href="/join.php">join IEEE!</a></h2>
         <h2 style="margin-top: 0; text-align: center">
             <a href="https://docs.google.com/presentation/d/1qsCByNTLfFwjoCGVxDREy0kgfFliv3MGgO-E7ACN5Wc/edit?usp=sharing"
                target="_blank">Fall 2020 Callout Slides</a></h2>
 	</div>
+	-->
+
+<!-- About Section -->
+    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
+    <div class="row">
+        <div class="col-md-4 col-sm-6">
+            <div class="well card-1 text-center text-dark">
+                <div class="panel-heading">
+                    <style>#event:before {
+                            content: "event";
+                        }</style>
+                    <i id="event" class="material-icons" style="color:#072a40; font-size: 96px;"></i>
+                </div>
+                <div class="panel-body">
+                    <h4>Events and Meetings</h4>
+                    <p><a href="/calendar.php">Check our calendar for upcoming events!</a></p>
+                    <br>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-6">
+            <div class="well card-1 text-center text-dark">
+                <div class="panel-heading">
+                    <style>#chat:before {
+                            content: "chat";
+                        }</style>
+                    <i id="chat" class="material-icons" style="color:#072a40; font-size: 96px;"></i>
+                </div>
+                <div class="panel-body">
+                    <h4>Want to chat or have questions?</h4>
+                    <p><a href="https://purdueieee.slack.com/signup">Join us on Slack!</a><br>Chat with us in the #ieee
+                        channel!</p>
+					<p><a href="/join.php">More Join Info</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-6">
+            <div class="well card-1 text-center text-dark">
+                <div class="panel-heading">
+                    <style>#email:before {
+                            content: "email";
+                        }</style>
+                    <i id="email" class="material-icons" style="color:#072a40; font-size: 96px;"></i>
+                </div>
+                <div class="panel-body">
+                    <h4>Contact Us</h4>
+                    <p>Contact us for more information at<br><a href="mailto:IEEE@purdue.edu">IEEE@purdue.edu</a>, or
+                        stop by EE 014</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.row -->
 
     <!-- Committee List -->
     <div class="well card-1 text-dark">
@@ -290,55 +345,5 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
         </div>
     </div>
 
-    <!-- About Section -->
-    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-    <div class="row">
-        <div class="col-md-4 col-sm-6">
-            <div class="well card-1 text-center text-dark">
-                <div class="panel-heading">
-                    <style>#event:before {
-                            content: "event";
-                        }</style>
-                    <i id="event" class="material-icons" style="color:#072a40; font-size: 96px;"></i>
-                </div>
-                <div class="panel-body">
-                    <h4>Events and Meetings</h4>
-                    <p><a href="/calendar.php">Check our calendar for upcoming events!</a></p>
-                    <br>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <div class="well card-1 text-center text-dark">
-                <div class="panel-heading">
-                    <style>#chat:before {
-                            content: "chat";
-                        }</style>
-                    <i id="chat" class="material-icons" style="color:#072a40; font-size: 96px;"></i>
-                </div>
-                <div class="panel-body">
-                    <h4>Want to chat or have questions?</h4>
-                    <p><a href="https://purdueieee.slack.com/signup">Join us on Slack!</a><br>Chat with us in the #ieee
-                        channel!</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <div class="well card-1 text-center text-dark">
-                <div class="panel-heading">
-                    <style>#email:before {
-                            content: "email";
-                        }</style>
-                    <i id="email" class="material-icons" style="color:#072a40; font-size: 96px;"></i>
-                </div>
-                <div class="panel-body">
-                    <h4>Contact Us</h4>
-                    <p>Contact us for more information at<br><a href="mailto:IEEE@purdue.edu">IEEE@purdue.edu</a>, or
-                        stop by EE 014</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /.row -->
 
 <?php include 'footer.php'; ?>

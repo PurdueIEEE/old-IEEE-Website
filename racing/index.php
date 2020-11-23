@@ -33,7 +33,7 @@ include '../header.php';
                 with the go-kart.
             </p>
             <p class="text-justify">
-                All majors are welcome!! Contact <a href="mailto:hou71@purdue.edu">Anthony Hou</a> for more details.
+                All majors are welcome!! Contact <a href="mailto:racing@purdueieee.org">Dhruv Swarup</a> for more details.
             </p>
             <h2 class="text-center">2018-2019 Team Picture</h2>
             <a href="/racing/images/2019_GoKart.JPG"
