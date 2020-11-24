@@ -164,7 +164,7 @@ include '../header.php';
             <hr />
             <p>
                 Please contact the current chair, Angelo Guarnero, at
-                <a href="learn@purdueieee.org">learn@purdueieee.org</a> or visit the IEEE office in EE 014 if you
+                <a href="mailto:learn@purdueieee.org">learn@purdueieee.org</a> or visit the IEEE office in EE 014 if you
                 have any questions or concerns.
             </p>
 			<p>
