@@ -22,7 +22,7 @@
                 </p>
 				<p>
 				    Interested in contacting us?
-					Email <a href="ir@purdueieee.org">ir@purdueieee.org</a> to promote job opportunities, hold a company
+					Email <a href="mailto:ir@purdueieee.org">ir@purdueieee.org</a> to promote job opportunities, hold a company
 					info session, or more.
 				</p>
             </div>

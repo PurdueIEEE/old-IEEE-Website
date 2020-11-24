@@ -67,7 +67,7 @@ include '../header.php';
 					-->
 					<p>
 					    Have an event for which you need volunteers? Looking to hold outreach?
-						Want to be involved in coordinating? Contact us at <a href="growth@purdueieee.org">growth@purdueieee.org</a>.
+						Want to be involved in coordinating? Contact us at <a href="mailto:growth@purdueieee.org">growth@purdueieee.org</a>.
 					</p>
                     <hr>
                     <div class="col-md-12">
