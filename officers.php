@@ -1,5 +1,5 @@
 <?php
-    $page_title = '2019 Officers';
+    $page_title = 'Officers';  // Should get overwritten later to include the year.
     $site_title = 'Purdue IEEE';
     $site_index = '/';
     include 'header.php';
@@ -57,6 +57,9 @@
                 let officers = document.getElementById("officers");
                 officers.innerHTML = "";
                 officers.appendChild(tmp);
+                if(!Number.isInteger(year)) {
+                    year = parseInt(year, 10)
+                }
                 let yearAndNext = year + "-" + (year + 1).toString().substring(2);
                 document.title = `${yearAndNext}` + " Officers";
             }
