@@ -20,6 +20,10 @@ include '../header.php';
             <h2 class="text-center">Remotely Operated underwater Vehicle (ROV) Team</h2>
             <br>
 
+            <a href="https://www.youtube.com/channel/UCulNgY7xUYSKOSEMDmpFFqA">
+                <h4>See our latest pool runs and more on our YouTube page!</h4>
+	        </a>
+
             <hr>
 
             <p><em>November, 2020 Update</em></p>
