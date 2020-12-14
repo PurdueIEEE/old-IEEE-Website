@@ -57,7 +57,8 @@
                 let officers = document.getElementById("officers");
                 officers.innerHTML = "";
                 officers.appendChild(tmp);
-                document.title = `${year}` + document.title.substring(4);
+                let yearAndNext = year + "-" + (year + 1).toString().substring(2);
+                document.title = `${yearAndNext}` + " Officers";
             }
         });
 
