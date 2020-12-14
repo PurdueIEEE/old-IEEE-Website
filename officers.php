@@ -1,5 +1,5 @@
 <?php
-    $page_title = '2019 Officers';
+    $page_title = 'Officers';  // Should get overwritten later to include the year.
     $site_title = 'Purdue IEEE';
     $site_index = '/';
     include 'header.php';
@@ -22,7 +22,8 @@
             li.id = `year${year}`;
             let a = document.createElement('a');
             a.href = `#${year}`;
-            a.innerHTML = `${year}`;
+            let yearAndNext = year + "-" + (year + 1).toString().substring(2);
+            a.innerHTML = `${yearAndNext}`;
             a.onclick = function () {displayYear(year)};
             li.appendChild(a);
             tmp.appendChild(li);
@@ -56,7 +57,11 @@
                 let officers = document.getElementById("officers");
                 officers.innerHTML = "";
                 officers.appendChild(tmp);
-                document.title = `${year}` + document.title.substring(4);
+                if(!Number.isInteger(year)) {
+                    year = parseInt(year, 10)
+                }
+                let yearAndNext = year + "-" + (year + 1).toString().substring(2);
+                document.title = `${yearAndNext}` + " Officers";
             }
         });
 
