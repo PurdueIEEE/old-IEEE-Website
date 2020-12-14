@@ -22,7 +22,8 @@
             li.id = `year${year}`;
             let a = document.createElement('a');
             a.href = `#${year}`;
-            a.innerHTML = `${year}`;
+            let yearAndNext = year + "-" + (year + 1).toString().substring(2);
+            a.innerHTML = `${yearAndNext}`;
             a.onclick = function () {displayYear(year)};
             li.appendChild(a);
             tmp.appendChild(li);
