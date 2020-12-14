@@ -20,6 +20,11 @@
                     Committee is also responsible for general Purdue IEEE fundraising activities, as well as assisting
                     technical committee fundraising (from first contact to sponsor follow-up).
                 </p>
+				<p>
+				    Interested in contacting us?
+					Email <a href="mailto:ir@purdueieee.org">ir@purdueieee.org</a> to promote job opportunities, hold a company
+					info session, or more.
+				</p>
             </div>
         </div>
     </div>

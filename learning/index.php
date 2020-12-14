@@ -164,11 +164,13 @@ include '../header.php';
             <hr />
             <p>
                 Please contact the current chair, Angelo Guarnero, at
-                <a href="aguarner@purdue.edu">aguarner@purdue.edu</a> or visit the IEEE office in EE 014 if you
+                <a href="mailto:learn@purdueieee.org">learn@purdueieee.org</a> or visit the IEEE office in EE 014 if you
                 have any questions or concerns.
             </p>
 			<p>
-                This year, learning events are usually being posted on our <a href="https://www.youtube.com/channel/UCJwFwlur0e2fgwf97eV7INw/videos">YouTube channel!</a>
+                This year, learning events are usually being posted on our
+				<a href="https://www.youtube.com/channel/UCJwFwlur0e2fgwf97eV7INw/videos">YouTube channel!</a>.
+				Check it out for Solidworks, Eagle, Git, and more!
             </p>
         </div>
         <div class="col-sm-4 text-dark">

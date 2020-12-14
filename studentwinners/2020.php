@@ -23,6 +23,89 @@
 			<h2 style="text-align:center">Fall</h2>
 	</div>
 
+	<div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/2020_Peter_Salisbury.png')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Peter Salisbury</h3>
+            <h4>Week of November 10</h4>
+            <p>
+			Peter Salisbury is a member of the ROV mechanical team. He is from Dayton, Ohio and
+			is majoring Mechanical Engineering with a minor in Physics. Last year, Peter worked
+			on the design and fabrication of the power enclosure. This year, he is working on
+			the development of the custom thruster project. Outside ROV, Peter plays trumpet in
+			the "All-American" Marching Band.
+            </p>
+            <p><em>Committee Involvement</em>: <?php echo ROV?></p>
+        </div>
+    </div>
+
+	<div class="row">
+        <div class="col-md-3" style="display: flex; justify-content: space-around;">
+            <span style="margin: 0 auto; background-position: center center; display: inline-block;">
+                <div class="officer-cropped"
+                    style="height: 150px; width: 112px; display: inline-block; background-image: url('/studentwinners/images/2020_Zachary_Breisch.jpg')">
+                </div>
+			    <div class="officer-cropped"
+                    style="height: 150px; width: 112px; display: inline-block; background-image: url('/studentwinners/images/2020_Nick_Sergeant.jpg')">
+                </div>
+			    <div class="officer-cropped"
+                    style="height: 150px; width: 112px; display: inline-block; background-image: url('/studentwinners/images/2020_Ethan_Welp.jpg')">
+                </div>
+            </span>
+        </div>
+        <div class="col-md-9">
+            <h3>Zachary Breisch, Nick Sergeant, and Ethan Welp</h3>
+            <h4>Week of November 3</h4>
+            <p>
+			Zack, Ethan, and Nick provided great support to the Learning Committee in the preparation
+			and execution of this semester's Code Cafe. Despite the numerous hurdles they faced given
+			the current conditions, they were all able to make Code Cafe a successful event this semester!
+			<br>
+			
+			Zachary is a sophomore from Zionsville, Indiana in Computer Engineering and minoring in Music
+			History and Theory. He is in his first year on the Learning Committee and worked to help organize
+			and mentor at Code Café. In his free time, he enjoys playing piano and playing in Super Smash
+			Brothers Melee tournaments.
+			<br>
+			
+			Nick is a Sophomore majoring in Electrical Engineering. On campus, he is involved with PSEF as
+			well as IEEE. When he isn't studying, Nick enjoys running, playing video games, and writing!
+			<br>
+			
+			Ethan is a Sophomore studying Electrical Engineering. Within IEEE, Ethan is involved with
+			Computer Society and the Learning Committee. Some of his interests include power systems
+			engineering, playing piano, and running!
+            </p>
+            <p><em>Committee Involvement</em>: <?php echo LEARNING?>, <?php echo COMPUTER_SOCIETY?></p>
+        </div>
+    </div>
+
+	<div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/2020_Kaitlyn_Yu.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Kaitlyn Yu</h3>
+            <h4>Week of October 19</h4>
+            <p>
+			Kaitlyn is a First Year Engineering student from Princeton, New Jersey
+			with plans to go into Electrical Engineering. She is currently a member
+			of the electrical team in ROV and was nominated for being a great with
+			during the Growth and Engagement committee's toy building workshop. Kaitlyn
+			showed up early and stayed late for the 6 hour event both days. Outside of IEEE,
+			she works as a graphic designer for a blog about New York based startups and
+			mentors high school girls with plans of pursuing education in STEM fields.
+            </p>
+            <p><em>Committee Involvement</em>: <?php echo ROV?>, <?php echo GROWTH?></p>
+        </div>
+    </div>
+
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"

@@ -291,12 +291,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #eee;
-  text-decoration: underline
+  color: #404040;
+  text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: #404040;
   text-decoration: underline;
 }
 a:focus {
@@ -4156,7 +4156,7 @@ a.badge:focus {
 }
 .list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-  color: #7b2424;
+  color: #3c4042;
   background-color: #fff;
 }
 .list-group-item > .badge {
@@ -4507,8 +4507,8 @@ button.list-group-item {
 .list-group-item.active:focus {
   z-index: 2;
   color: #fff;
-  background-color: #7b2424;
-  border-color: #7b2424;
+  background-color: #404040;
+  border-color: #404040;
 }
 .list-group-item.active .list-group-item-heading,
 .list-group-item.active:hover .list-group-item-heading,
@@ -5022,7 +5022,7 @@ button.list-group-item-danger.active:focus {
     min-height: 20px;
     padding: 19px;
     margin-bottom: 20px;
-    background-color: rgba(50,50,50,0.5);
+    background-color: #ffffff;
     border-radius: 2px;
 }
 .well blockquote {
@@ -5975,7 +5975,7 @@ button.close {
 html,
 body {
     height: 100%;
-    background-color: transparent;
+    background-color: #3c4042;
 }
 
 body {

@@ -3,21 +3,21 @@
     "name": "Swagat Bhattacharyya",
     "image": "/images/officers/2019_Bhattacharyya_Swagat.jpg",
     "position": "President",
-    "description": "Swagat is a junior majoring in Electrical Engineering. He joined Purdue IEEE in 2018 and also serves as electrical lead in EMBS. Bio-electrical signals fascinate him. Swagat strives to expand involvement in IEEE and to facilitate the professional development of all IEEE members. In his free time, Swagat enjoys working out with friends, practicing typing, and playing his bamboo flute.",
+    "description": "Swagat is a junior majoring in Electrical Engineering. He joined Purdue IEEE in 2018 and served as electrical lead in EMBS during 2019. Bio-electrical signals and mixed-signal processing fascinate him. Swagat strives to expand involvement in IEEE and to facilitate the professional development of all IEEE members. In his free time, Swagat enjoys working out with friends, practicing typing, and playing his bamboo flute.",
     "committees": "<a href=\"/embs/\">EMBS</a>"
-  },
-  {
-    "name": "Carrie Li",
-    "image": "/images/officers/2019_Li_Carrie.jpg",
-    "position": "Vice President of Technical Committees (Fall to October)",
-    "description": "Carrie is a junior majoring in Computer Engineering. She joined Purdue IEEE in Fall 2018 as part of ROV's software subteam. She is interested in embedded software. In her free time, she enjoys reading fiction and playing tennis.",
-    "committees": "<a href=\"/rov/\">ROV</a>"
   },
   {
     "name": "David Ho",
     "image": "/images/officers/2020_David_Ho.jpg",
     "position": "Vice President of Technical Committees (Fall since October)",
     "description": "David is a junior majoring in Materials Engineering and has been a part of the ROV team since Fall of 2018. Outside IEEE, he is a member of the Titus research group, Engineering Mentor Corp, and Navigators. In his free time he enjoys dominating his friends in smash bros and cooking new foods.",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Carrie Li",
+    "image": "/images/officers/2019_Li_Carrie.jpg",
+    "position": "Vice President of Technical Committees (Fall to October)",
+    "description": "Carrie is a junior majoring in Computer Engineering. She joined Purdue IEEE in Fall 2018 as part of ROV's software subteam. She is interested in embedded software. In her free time, she enjoys reading fiction and playing tennis.",
     "committees": "<a href=\"/rov/\">ROV</a>"
   },
   {
@@ -53,7 +53,7 @@
     "image": "/images/officers/2020_Duhan_Eroglu.png",
     "position": "Industrial Relations Head",
     "description": "Duhan is a junior in Electrical Engineering. He has been a part of MTT-S since 2018. He also enjoys watching and playing sports in his spare time.",
-    "committees":  "<a href=\"/mtts/\">MTT-S</a>, <a href=\"/IR/\">Industrial Relations</a>"
+    "committees": "<a href=\"/mtts/\">MTT-S</a>, <a href=\"/IR/\">Industrial Relations</a>"
   },
   {
     "name": "Hanna Hatfield",

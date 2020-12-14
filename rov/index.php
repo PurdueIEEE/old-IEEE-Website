@@ -22,16 +22,25 @@ include '../header.php';
 
             <hr>
 
-            <p><em>March, 2020 Update</em></p>
+            <p><em>November, 2020 Update</em></p>
             <div>
                 <p>
-					The 2019-2020 season marked an exciting and bustling new season for the team. The team experienced its fourth change in captaincy with Grant Geyer heading the team. 
-					Also new are many of the leads for the technical teams. The team pursued many new designs and approaches toward making X12, in addition to several refinements from ROV <i>Remora</i>. 
-					The R&D department found new ethernet cameras that were more reliable and PoE compatible for a nearly independent camera system. 
-					The major mechanical improvements include a faster and effective method of using a ring clamp to seal the logic electronics tube and 
-					the use of 3D prints to house thrusters and to provide buoyancy in conjuntion with expanding marine foam. 
-					With the suspension of all Purdue activities and the cancellation of the MATE competition, the team is now working at a very limited capacity to prepare ROV X12 for a pool test when available. 
-					The team is excited to see its hard work come to completion when normal activities resume. 
+					The 2020-2021 season marks a unique season for the team as they try to continue
+					operations during the COVID-19 pandemic. Heading into this season, the team
+					experienced change with several of the leads for technical teams assuming their
+					role for the first time. The team has taken the foundation of X12 that was
+					constructed the prior season before the suspension and is building upon that to
+					create the next iteration of the ROV, X13. Two of the main improvements planned
+					for X13 are a more accessible yet powerful electronics design utilizing Power
+					over Ethernet and a software system leveraging more powerful hardware for a
+					more capable ROV. This season we have two prominent R&D projects with the
+					development of custom thrusters, rather than relying on the narrow choice
+					presented by Blue Robotics and the development of welded enclosures aimed at
+					improving resource efficiency. While there are still restrictions in place at
+					Purdue that alter the progress of the ROV, the team is continuing to progress
+					while ensuring that they’re following all Protect Purdue guidelines to
+					maintain a safe working environment. The team is proud of its progress so
+					far and is excited to see its hard work take form.
                 </p>
             </div>
             <hr>

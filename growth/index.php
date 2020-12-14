@@ -59,10 +59,16 @@ include '../header.php';
                         In the past, G&E has put on educational STEM activities for PESC's Engineering Tomorrow event
                         and National Engineer Day at the Indianapolis Children's Museum.
                     </p>
+					<!--
                     <p>
                         If you're interested in learning more about Purdue IEEE's Growth & Engagement committee, please
                         come to the 2018 spring info session on Tuesday, 1/22 6:00pm - 7:00pm in EE 115.
                     </p>
+					-->
+					<p>
+					    Have an event for which you need volunteers? Looking to hold outreach?
+						Want to be involved in coordinating? Contact us at <a href="mailto:growth@purdueieee.org">growth@purdueieee.org</a>.
+					</p>
                     <hr>
                     <div class="col-md-12">
                         <div class="col-md-6" style="float: left;">
