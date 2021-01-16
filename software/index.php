@@ -26,14 +26,14 @@
 
                 <!-- Session Specific Information -->
                 <div class="alert alert-info text-center">
-                    <!-- <h4>Learning Sessions will be on WebEx from 3:30pm-5:30pm, every Saturday!</h4> -->
-                    <h4>Software Saturdays has ended for Fall 2020. Please join us next semester!</h4>
+                    <h4>Learning Sessions will be on Zoom from 3:30pm-5:30pm, every Saturday!</h4>
+                    <!-- <h4>Software Saturdays has ended for Fall 2020. Please join us next semester!</h4> -->
                     <h4>Please see the <b><i>Calendar</i></b> tab above for more details on sessions, review hours, and project days</h4>
                 </div>
 
                 <p class="text-justify">Software Saturdays aims to introduce progamming frameworks, software development, and give the attendees a project-based learning experience.</p>
                 <p class="text-justify">The goal is to introduce projects and concepts that are useful regardless of what major our attendees are pursuing. We aim to teach skills that will be applicable no matter what job or hobbies our attendees pursue in the future.</p>
-                <p class="text-justify">This semester we're teaching a Web Application Development curriculum, showing the basics of ReactJS and healthy application design practices, both in a functional application and project based curriculum building a PokeDex style Web App.</p>
+                <p class="text-justify">This semester we're teaching a Web Application Development curriculum, showing the basics of VueJS and healthy application design practices, both in a functional application and project based curriculum building a basic To-Do web app.</p>
                 <p class="text-justify">The program will be comprised of weekly Saturday sessions around 2 hours long, as well as review hours that attendees can attend for help.</p>
                 <p class="text-center">For further questions, feel free to email <b>software-saturdays@purdueieee.org</b> for more information.</p>
                 <p class="text-center">Join us on Slack as well at <a href="https://softwaresaturdays.slack.com">softwaresaturdays.slack.com</a> (requires a Purdue email address).</p>
