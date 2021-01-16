@@ -44,7 +44,7 @@
                             <ul>    
                                 <li>The topic during the Spring and Fall semesters was web app development</li>
                                 <li>Software used: HTML/CSS, JavaScript, ReactJS, NodeJS</li>
-                                <li>Fall 2020: <a href="https://hadiahmed098.github.io/pokedex">PokeDex</li>
+                                <li>Fall 2020: <a href="https://hadiahmed098.github.io/pokedex">PokeDex</a></li>
                             </ul>   
                         </li>
                     </ul>
