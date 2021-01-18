@@ -27,6 +27,7 @@
                 <!-- Session Specific Information -->
                 <div class="alert alert-info text-center">
                     <h4>Learning Sessions will be on Zoom from 3:30pm-5:30pm, every Saturday!</h4>
+                    <h4>Meeting <a href="https://purdue-edu.zoom.us/j/94050037139?pwd=SzNhY3hxWHZDNzNXSFdVdUdqTTFxUT09">Link</a> - Meeting ID: 940 5003 7139 - Meeting Passcode: SofSat</h4>
                     <!-- <h4>Software Saturdays has ended for Fall 2020. Please join us next semester!</h4> -->
                     <h4>Please see the <b><i>Calendar</i></b> tab above for more details on sessions, review hours, and project days</h4>
                 </div>
