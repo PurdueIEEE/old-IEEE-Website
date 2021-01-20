@@ -1,5 +1,5 @@
 <?php
-    $page_title = '2020 Purdue IEEE Student of the Week Winners';
+    $page_title = '2021 Purdue IEEE Student of the Week Winners';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
     include '../header.php';
@@ -35,12 +35,11 @@
             <h4>Week of January 18</h4>
             <p>Hadi has gone above and beyond as an IEEE officer and member -- his dedication to our student branch is outstanding.
 				This past semester, he increased the completion rate of Software Saturdays many-fold compared to previous semesters.
-				His clear and concise teaching style is something many of my past professors should aspire towards.
-				Hadi has led the Aerial Robotics electrical subteam.
+				His clear and concise teaching style is something many of our past professors should aspire towards.
+				Hadi has also led the Aerial Robotics electrical subteam and been an active member in CSociety.
 				To top it off, Hadi has helped significantly with the upkeep of our website and administrative interface.
-				Hadi has been very active in CSociety as well.
 			</p>
-            <p><em>Committee Involvement</em>: <?php echo SOFTWARE?>, <?php echo CSOCIETY?>, <?php echo PARTIEEE?></p>
+            <p><em>Committee Involvement</em>: <?php echo SOFTWARE_SATURDAYS?>,  <?php echo PARTIEEE?>, <?php echo COMPUTER_SOCIETY?></p>
         </div>
     </div>
 
