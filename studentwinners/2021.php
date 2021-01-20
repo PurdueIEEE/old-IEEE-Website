@@ -33,11 +33,11 @@
         <div class="col-md-9">
             <h3>Hadi Ahmed</h3>
             <h4>Week of January 18</h4>
-            <p>Hadi has gone above and beyond as an IEEE officer and member -- his dedication to our student branch is outstanding.
-				This past semester, he increased the completion rate of Software Saturdays many-fold compared to previous semesters.
-				His clear and concise teaching style is something many of our past professors should aspire towards.
-				Hadi has also led the Aerial Robotics electrical subteam and been an active member in CSociety.
-				To top it off, Hadi has helped significantly with the upkeep of our website and administrative interface.
+            <p>
+                Hadi is a sophomore in Computer Engineering from Naperville, IL. As the chair of Software Saturdays, 
+                he helped increase participation and completion rate. Hadi is also involved with Aerial Robotics, 
+                serving as the Electrical team lead, and Computer Society. When not in class, he enjoys all sorts of 
+                outdoor activities, but mainly hiking and photography.
 			</p>
             <p><em>Committee Involvement</em>: <?php echo SOFTWARE_SATURDAYS?>,  <?php echo PARTIEEE?>, <?php echo COMPUTER_SOCIETY?></p>
         </div>
