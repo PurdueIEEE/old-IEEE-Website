@@ -45,7 +45,7 @@
                 <div class="row text-center">
                     <!--Dakota Do-->
                     <div class= "col-md-4">
-                        <h4>Dakota Do</h4>
+                        <h4>Matthieu Opdyke</h4>
                         <em>Aerospace Engineering</em>
                         <p>Aeromechanical Lead</p>
                     </div>
