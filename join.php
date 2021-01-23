@@ -12,6 +12,37 @@ if (!@include_once('DirectoryServices/lists.php')) {
 
 <div class="well card-1">
     <div class="row">
+        <div class="col-md-8 col-md-offset-2 text-dark">
+            <h1 class="text-center">Join Information</h1>
+			<div class="col-sm-6 col-xs-12">
+				<img src="/images/join-spring-2021-committees.png" style="height: 100%; width: 100%; object-fit: contain;">
+				<strong>
+					Join one of our technical committees!
+				</strong>
+				<p>
+					We help our members enter their professional careers, learn engineering, software,
+					and hands-on skills, and socialze with other to form lasting connections.
+				</p>
+			</div>
+			<div class="col-sm-6 col-xs-12">
+				<img src="/images/join-spring-2021-top.png" style="height: 100%; width: 100%; object-fit: contain;">
+				<h3 class="text-center">
+					CALLOUT DATE: <br>
+					January 27th from 6:30 - 8:00 PM on <a href="https://discord.gg/kZNkKXM">Discord</a>
+				</h3>
+				<img src="/images/join-spring-2021-bottom.png" style="height: 100%; width: 100%; object-fit: contain;">
+				<p style="margin-top: 3em;">
+					<a href="https://www.facebook.com/purdueieee">Facebook</a>
+					<a href="https://twitter.com/purdueieee?lang=en">Twitter</a>
+				</p>
+			</div>
+			<h4><a href="https://drive.google.com/file/d/1Z2BgGBEYm9jj5fEWnLrKHJqSNJ6rTckB/view?usp=sharing">Announcement Video</a></h4>
+        </div>
+    </div>
+</div>
+
+<div class="well card-1">
+    <div class="row">
         <div class="col-lg-12 text-dark">
             <h1 class="text-center">Subscribe to our Mailing Lists</h1>
 
