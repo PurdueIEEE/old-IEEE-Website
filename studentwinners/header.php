@@ -1,6 +1,6 @@
 <?php
     $range_min = 2019;
-    $range_max = 2020;
+    $range_max = 2021;
     for ($y = $range_min; $y <= $range_max; $y++) {
         if ($y == $year) {
             echo "<li class='active'>";
