@@ -22,7 +22,7 @@ include '../header.php';
             <h2 class="text-center">Join ROV</h2>
 
 			<p>
-				The ROV Spring 2021 Info Session will be held on Wednesday, February 3rd at 5pm in PHYS 238.
+				The ROV Spring 2021 Info Session will be held on Wednesday, February 3rd at 5:30pm in PHYS 238.
 				Though not prefered, the info session can be joined virtually, in the
 				ROV channel of the <a href="https://discordapp.com/invite/fFNnKPK">IEEE Q&A discord</a>.
 			</p>
