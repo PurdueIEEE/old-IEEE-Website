@@ -24,6 +24,28 @@
 			<h2 style="text-align:center">Spring</h2>
 	</div>
 
+	<div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/images/studentwinners/2021_Sam_Kovnar.png')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Sam Kovnar</h3>
+            <h4>Week of January 25</h4>
+            <p>
+                Sam Kovnar is a member of the ROV committee's electrical team.
+				He is a sophomore majoring in Electrical Engineering from Milwaukee, Wisconsin.
+				Outside of ROV, he is a proud member of the Alpha Phi Omega service fraternity
+				and is serving on the Alpha Gamma chapter's executive board this semester.
+				Sam was chosen as student of the week for his excellend work on ROV on his PCB.
+				Sam put in lots of work over break routing his board and assisting with
+				electrical-mechanical integration.
+			</p>
+            <p><em>Committee Involvement</em>: <?php echo ROV?></p>
+        </div>
+    </div>
+
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
