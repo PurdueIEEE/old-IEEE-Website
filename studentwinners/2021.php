@@ -18,7 +18,7 @@
             </ul>
         </div>
     </div>
-	
+
     <hr/>
 	<div class="row">
 			<h2 style="text-align:center">Spring</h2>
@@ -27,7 +27,7 @@
 	<div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
-                style="background-image: url('/images/studentwinners/2021_Sam_Kovnar.png')">
+                style="background-image: url('/studentwinners/images/2021_Sam_Kovnar.png')">
             </div>
         </div>
         <div class="col-md-9">
