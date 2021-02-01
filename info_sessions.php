@@ -23,9 +23,8 @@ $info_sessions = array(
 	array($etime(2, 1, 19), $etime(2, 1, 20), '<a href="https://purdue-edu.zoom.us/j/3342060227">https://purdue-edu.zoom.us/j/3342060227</a>', MTTS),
 	array($etime(2, 1, 20), $etime(2, 1, 21), '<a href="https://discord.gg/ygcMjpYJQx">Computer Society Discord [https://discord.gg/ygcMjpYJQx]</a>', COMPUTER_SOCIETY),
     array($etime(2, 3, 17, 30), $etime(2, 3, 18, 30), 'PHYS 238 & <a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [ROV]</a>', ROV),
+	array($etime(2, 4, 18), $etime(2, 4, 19), '<a href="https://discord.gg/HhaXYS9s3G">EMBS Discord</a>', EMBS),
 	array($etime(2, 5, 18, 30), $etime(2, 5, 19, 30), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [G&E]</a>', GROWTH)
-// 	array($etime(1, 10, 18, 30), $etime(9, 10, 19, 30), '<a href="https://hangouts.google.com/group/RvwNitZ22K8rCy137">https://hangouts.google.com/group/RvwNitZ22K8rCy137</a>', EMBS),
-
 );
 
 $info_session_text = '<h2><b>' . $year . ' Info Sessions</b></h2>';
