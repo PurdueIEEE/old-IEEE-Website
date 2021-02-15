@@ -46,16 +46,16 @@ include '../header.php';
                     <hr/>
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="/racing/images/2020_Swarup.jpg" alt="Dhruv Swarup" class="img-circle" width=200px
+                            <img src="/racing/images/2021_Zhou.jpg" alt="Boyu Zhou" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Dhruv Swarup</h4>
-                            <p>Chair<br/>Computer Engineering<br/>Junior</p>
+                            <h4>Boyu Zhoup</h4>
+                            <p>Chair<br/>Computer Engineering<br/>Sophomore</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="/racing/images/2018_Watts.png" alt="Charlie Watts" class="img-circle" width=200px
+                            <img src="/racing/images/2020_Chui.png" alt="Alex Chui" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Charlie Watts</h4>
-                            <p>Vice Chair<br/>Electrical Engineering<br/>Senior</p>
+                            <h4>Alex Chui</h4>
+                            <p>Vice Chair<br/>Mechanical Engineering Technology<br/>Junior</p>
                         </div>
                         <div class="col-md-4">
                             <img src="/racing/images/2018_Vamos.png" alt="Chuck Vamos" class="img-circle" width=200px
@@ -69,19 +69,19 @@ include '../header.php';
                             <img src="/racing/images/2020_Chui.png" alt="Alex Chui" class="img-circle" width=200px
                                  height=200px/>
                             <h4>Alex Chui</h4>
-                            <p>Mechanical Lead (Autonomous Kart)<br/>Mechanical Engineering Technology<br/>Sophomore</p>
+                            <p>Mechanical Lead<br/>Mechanical Engineering Technology<br/>Sophomore</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="/racing/images/2020_Moon.jpg" alt="Daniel Moon" class="img-circle" width=200px
+                            <img src="/racing/images/2021_Pilaszewicz.png" alt="Artur Pilaszewicz" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Daniel Moon</h4>
-                            <p>Electrical Lead<br/>Electrical Engineering<br/>Sophomore</p>
+                            <h4>Artur Pilaszewicz</h4>
+                            <p>Electrical Lead<br/>Electrical Engineering<br/>Junior</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="/racing/images/2019_Cao.jpg" alt="Yupei Cao" class="img-circle" width=200px
+                            <img src="/racing/images/2021_Ibrahim.jpg" alt="Mohamed Ibrahim" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Yupei (Felix) Cao</h4>
-                            <p>Controls Lead<br/>Computer Engineering<br/>Junior</p>
+                            <h4>Mohamed Ibrahim/h4>
+                            <p>Controls Lead<br/>Electrical Engineering<br/>Junior</p>
                         </div>
                     </div>
                 </div>
