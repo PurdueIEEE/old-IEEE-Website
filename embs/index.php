@@ -46,17 +46,16 @@ include '../header.php';
         <div class="row">
             <!--Chair-->
             <div class="col-md-4">
-                <img src="/images/officers/2019_Obeng-Gyasi_Barnabas.JPG" alt="Barnabas Obeng-Gyasi" class="img-circle"
-                     width=250px height=250px/>
-                <h4>Barnabas Obeng-Gyasi</h4>
-                <p>Chair<br/>Neurology and Physiology<br/>Senior</p>
+                <img src="./images/2019_Donoghue_Ryan.jpg" alt="Ryan Donoghue" class="img-circle" width=250px height=250px/>
+                <h4>Ryan Donoghue</h4>
+                <p>Chair<br/>Electrical Engineering<br/>Junior</p>
             </div>
             <!--Vice-Chair-->
             <div class="col-md-4">
                 <img src="./images/2019_Yee_Allison.jpg" alt="Allison Yee" class="img-circle"
                      width=250px height=250px/>
                 <h4>Allison Yee</h4>
-                <p>Vice Chair<br/>Biological Engineering<br/>Sophomore</p>
+                <p>Vice Chair<br/>Biological Engineering<br/>Junior</p>
             </div>
             <!--Correspondence Liaison-->
             <div class="col-md-4">
@@ -68,24 +67,21 @@ include '../header.php';
         </div>
         <br/>
         <div class="row">
-            <!--Industrial Liaison-->
-            <div class="col-md-4">
-                <img src="./images/2019_Fillenwarth_Luke.png" alt="Luke Fillenwarth" class="img-circle"
-                     width=250px height=250px/>
-                <h4>Luke Fillenwarth</h4>
-                <p>Industrial Liaison<br/>Biomedical Engineering<br/>Junior</p>
-            </div>
             <!--Mechanical Lead-->
             <div class="col-md-4">
                 <img src="./images/2019_Donoghue_Ryan.jpg" alt="Ryan Donoghue" class="img-circle" width=250px height=250px/>
                 <h4>Ryan Donoghue</h4>
-                <p>Mechanical Design Lead<br/>Electrical Engineering<br/>Sophomore</p>
+                <p>Mechanical Design Lead<br/>Electrical Engineering<br/>Junior</p>
+            </div>
+			<!--Blank-->
+            <div class="col-md-4">
+                
             </div>
             <!--Electrical Lead-->
             <div class="col-md-4">
-                <img src="/images/officers/2019_Bhattacharyya_Swagat.jpg" alt="Swagat Bhattacharyya" class="img-circle" width=250px height=250px/>
-                <h4>Swagat Bhattacharyya</h4>
-                <p>Electrical Design Lead<br/>Electrical Engineering<br/>Sophomore</p>
+                <img src="./images/2021_Frohberg_Derek.jpg" alt="Derek Frohberg" class="img-circle" width=250px height=250px/>
+                <h4>Derek Frohberg</h4>
+                <p>Electrical/Software Design Lead<br/>Mechanical Engineering<br/>Sophomore</p>
             </div>
         </div>
         <br/><br/>

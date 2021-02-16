@@ -27,6 +27,43 @@
 	<div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/2021_Sarah_Mi.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Sarah Mi</h3>
+            <h4>Week of February 8</h4>
+            <p>
+                Sarah Mi is the sponsorship chair for MTT-S. She is currently a sophomore double majoring in computer science and data science. 
+				During her free time, she plays animal crossing and spends time with her dog.
+				Sarah has been chosen as student of the week her her dedication to MTT-S and her diligence in planning and running MTT-S events.
+			</p>
+            <p><em>Committee Involvement</em>: <?php echo MTTS?></p>
+        </div>
+    </div>
+
+	<div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/2021_Frohberg_Derek.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Derek Frohberg</h3>
+            <h4>Week of February 1</h4>
+            <p>
+                Derek Frohberg is a sophomore in Mechanical Engineering, and the Electrical/Software Lead for IEEE EMBS. 
+				In his role, he works on the EMBS Arm Project in planning the electronic components and training new members.
+				Outside of IEEE, he's the Director of Regional Development for Purdue FIRST Programs, where he plans events for local high school robotics teams.
+				Derek was chosen as student of the week due to his splendid effort in coordinating the electrical and software efforts for the EMBS exoskeletal elbow joint.
+			</p>
+            <p><em>Committee Involvement</em>: <?php echo EMBS?></p>
+        </div>
+    </div>
+
+	<div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
                 style="background-image: url('/studentwinners/images/2021_Sam_Kovnar.png')">
             </div>
         </div>
@@ -56,10 +93,10 @@
             <h3>Hadi Ahmed</h3>
             <h4>Week of January 18</h4>
             <p>
-                Hadi is a sophomore in Computer Engineering from Naperville, IL. As the chair of Software Saturdays, 
+                Hadi Ahmed is a sophomore in Computer Engineering from Naperville, IL. As the chair of Software Saturdays, 
                 he helped increase participation and completion rate. Hadi is also involved with Aerial Robotics, 
                 serving as the Electrical team lead, and Computer Society. When not in class, he enjoys all sorts of 
-                outdoor activities, but mainly hiking and photography.
+                outdoor activities, but mainly hiking and photography. Hadi is additionally involved in the upkeep of the IEEE website.
 			</p>
             <p><em>Committee Involvement</em>: <?php echo SOFTWARE_SATURDAYS?>,  <?php echo PARTIEEE?>, <?php echo COMPUTER_SOCIETY?></p>
         </div>

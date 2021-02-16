@@ -52,16 +52,14 @@ include '../header.php';
                             <p>Chair<br/>Computer Engineering<br/>Sophomore</p>
                         </div>
                         <div class="col-md-4">
+                            
+
+                        </div>
+                        <div class="col-md-4">
                             <img src="/racing/images/2020_Chui.png" alt="Alex Chui" class="img-circle" width=200px
                                  height=200px/>
                             <h4>Alex Chui</h4>
                             <p>Vice Chair<br/>Mechanical Engineering Technology<br/>Junior</p>
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/racing/images/2018_Vamos.png" alt="Chuck Vamos" class="img-circle" width=200px
-                                 height=200px/>
-                            <h4>Chuck Vamos</h4>
-                            <p>Mechanical Lead (Driver Kart)<br/>Electrical Engineering<br/>Senior</p>
                         </div>
                     </div>
                     <div class="row">
@@ -80,7 +78,7 @@ include '../header.php';
                         <div class="col-md-4">
                             <img src="/racing/images/2021_Ibrahim.jpg" alt="Mohamed Ibrahim" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Mohamed Ibrahim/h4>
+                            <h4>Mohamed Ibrahim</h4>
                             <p>Controls Lead<br/>Electrical Engineering<br/>Junior</p>
                         </div>
                     </div>
