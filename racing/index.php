@@ -33,7 +33,7 @@ include '../header.php';
                 with the go-kart.
             </p>
             <p class="text-justify">
-                All majors are welcome!! Contact <a href="mailto:racing@purdueieee.org">Dhruv Swarup</a> for more details.
+                All majors are welcome!! Contact <a href="mailto:racing@purdueieee.org">Boyu Zhou</a> for more details.
             </p>
             <h2 class="text-center">2018-2019 Team Picture</h2>
             <a href="/racing/images/2019_GoKart.JPG"
@@ -48,7 +48,7 @@ include '../header.php';
                         <div class="col-md-4">
                             <img src="/racing/images/2021_Zhou.jpg" alt="Boyu Zhou" class="img-circle" width=200px
                                  height=200px/>
-                            <h4>Boyu Zhoup</h4>
+                            <h4>Boyu Zhou</h4>
                             <p>Chair<br/>Computer Engineering<br/>Sophomore</p>
                         </div>
                         <div class="col-md-4">
@@ -67,7 +67,7 @@ include '../header.php';
                             <img src="/racing/images/2020_Chui.png" alt="Alex Chui" class="img-circle" width=200px
                                  height=200px/>
                             <h4>Alex Chui</h4>
-                            <p>Mechanical Lead<br/>Mechanical Engineering Technology<br/>Sophomore</p>
+                            <p>Mechanical Lead<br/>Mechanical Engineering Technology<br/>Junior</p>
                         </div>
                         <div class="col-md-4">
                             <img src="/racing/images/2021_Pilaszewicz.png" alt="Artur Pilaszewicz" class="img-circle" width=200px
