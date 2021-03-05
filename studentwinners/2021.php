@@ -23,6 +23,50 @@
 	<div class="row">
 			<h2 style="text-align:center">Spring</h2>
 	</div>
+	<div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/2021_Ivan_Kouzmine.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Ivan Kouzmine</h3>
+            <h4>Week of March 1</h4>
+            <p>
+                Ivan Kouzmine is a senior in Computer Engineering and the lead developer of the ROV pilot software.
+				Outside of that, he likes rebuilding PCs and learning lots of world languages with Japanese and German
+				being the latest.
+				Ivan has been a huge boost to the ROV team. He took over the front end this year and has done an
+				excellent job integrating it with ros so it's easy to use. Ivan had compiled extensive documentation
+				to create a tutorial for installing ROS. His work for the front end has also included a 3D model of
+				the ROV with orientation, thruster visualization, and more.
+			</p>
+            <p><em>Committee Involvement</em>: <?php echo ROV?></p>
+        </div>
+    </div>
+
+	<div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
+                style="background-image: url('/images/officers/2019_Schweitzer_Jerome.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Jerome Schweitzer</h3>
+            <h4>Week of February 15</h4>
+            <p>
+                Jerome is an aspiring Electrical Engineer who is also interested in computer science and enjoys running,
+				watching movies, and playing cards. He joined IEEE in the fall of 2019 as a part of the Computer Society
+				and spent the spring semester as the Event Coordinator of the committee. Jerome attends Software Saturday
+				sessions as an attendee and has recently participated in Code Cafe 2019 as a mentor.
+				Jerome has taken great initiative with the engineering social event and has done good work with virtual
+				social events such as Minecraft and Among Us. In a time where social interaction has been low, he has kept
+				morales up and participation in social activities high.
+			</p>
+            <p><em>Committee Involvement</em>: <?php echo SOCIAL?>, <?php echo COMPUTER_SOCIETY?>, <?php echo SOFTWARE_SATURDAYS?></p>
+        </div>
+    </div>
+
 
 	<div class="row">
         <div class="col-md-3">
@@ -98,7 +142,7 @@
                 serving as the Electrical team lead, and Computer Society. When not in class, he enjoys all sorts of 
                 outdoor activities, but mainly hiking and photography. Hadi is additionally involved in the upkeep of the IEEE website.
 			</p>
-            <p><em>Committee Involvement</em>: <?php echo SOFTWARE_SATURDAYS?>,  <?php echo PARTIEEE?>, <?php echo COMPUTER_SOCIETY?></p>
+            <p><em>Committee Involvement</em>: <?php echo SOFTWARE_SATURDAYS?>, <?php echo PARTIEEE?>, <?php echo COMPUTER_SOCIETY?></p>
         </div>
     </div>
 
