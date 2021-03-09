@@ -18,14 +18,16 @@
         
         <!-- Content Column -->
         <div class="col-md-7 text-dark col-md-offset-1 text-center">
-            <h2 class="text-center">2019-21 Competition UAV</h2>
-            <img src="images/2020_uav.jpg" alt="Competition UAV" style="width:75%" class="img-rounded">
+            <h2>2019-21 Competition Plane</h2>
+            <img style="width:80%; height:auto;" class="img-rounded" alt="2019-21 Competition Plane" src="images/2020_uav.jpg" />
+            <hr />
+            <h2 class="text-center">2021 Test Flight</h2>
+            <img style="width:80%; height:auto;" class="img-rounded" alt="2021 Test Flight 1" src="images/2021_testflight_1.jpg"/>
             <br /><br />
-            <h2 class="text-center">2019-21 CAD Model</h2>
-            <img src="images/2020_cad.jpg" alt="UAV CAD Model" style="width:75%" class="img-rounded">
-            <br /><br />
-            <h2 class="text-center">2020 First Test Flight</h2>
-            <img src="images/2020_team.png" alt="First Test Flight" style="width:75%" class="img-rounded">
+            <iframe class="img-rounded" width="80%" height="315" src="https://www.youtube.com/embed/Hn3Vr8AKFJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <hr />
+            <h2>2020 Test Flight</h2>
+            <img style="width:80%; height:auto;" class="img-rounded" alt="2020 Team Photo" src="images/2020_team.png" />
             <br /><br />
             <h2 class="text-center">Social Media</h2>
             Below is where you can find PART on social media.

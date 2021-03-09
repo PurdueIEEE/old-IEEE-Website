@@ -85,9 +85,9 @@
         </p>
         <div class="center-box">
             <h3 id="events"><b>Contact</b></h3>
-            <h4 id="events">Alex Zhang</h4>
+            <h4 id="events">Matthieu Opdyke</h4>
             <h4 id="events">Sponsorship Coordinator</h4>
-            <h4 id="events"><a href="mailto:zhan2926@purdue.edu">zhan2926@purdue.edu</a>
+            <h4 id="events"><a href="mailto:partieeee@purdueieee.org">partieeee@purdueieee.org</a>
         </div>
         </div>
     </div>

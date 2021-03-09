@@ -31,8 +31,8 @@
             Our team takes any student, regardless of major, experience, or class. To join, sign up for our Slack at <a href="https://partieee.slack.com">https://partieee.slack.com</a>. 
                 If you have any questions, please email us at <b><a href="mailto:partieee@purdueieee.org">partieee@purdueieee.org</a></b>.
             <hr />
-            <h2 class="text-center">2020 Test Flight</h2>
-            <img src="images/2020_team.png" alt="First 2020 Test Flight" style="width:100%" class="img-rounded">
+            <h2 class="text-center">2021 Test Flight</h2>
+            <img src="images/2021_testflight_1.jpg" alt="First 2021 Test Flight" style="width:100%" class="img-rounded">
 
             <br />
             <hr />
@@ -48,10 +48,16 @@
                 <a href="mailto:nbroman@purdue.edu">nbroman@purdue.edu</a>
             <hr />
                 <div class="row text-center">
-                    <!--Dakota Do-->
+                    <!--Matthieu Opdyke-->
                     <div class= "col-md-4">
                         <h4>Matthieu Opdyke</h4>
                         <em>Aerospace Engineering</em>
+                        <p>Aeromechanical Lead</p>
+                    </div>
+                    <!--Eric O'Keefe-->
+                    <div class= "col-md-4">
+                        <h4>Eric O'Keefe</h4>
+                        <em>Mechanical Engineering</em>
                         <p>Aeromechanical Lead</p>
                     </div>
                     <!--Alex Rodgers-->
@@ -72,17 +78,12 @@
                         <em>Computer Engineering</em>
                         <p>Autonomy Lead</p>
                     </div>
-                    <!--Alex Zhang-->
-                    <div class= "col-md-4">
-                        <h4>Alex Zhang</h4>
-                        <em>Finance, Supply Chain Business Analytics</em>
-                        <p>Sponsorship Coordinator</p>
-                    </div>
+                </div>
                 </div>
             </div>
             </div>
         </div>
     </div>
-</div>
+
 
 <?php include '../footer.php'; ?>
