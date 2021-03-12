@@ -32,8 +32,8 @@
 			<hr />
 			PARTIEEE prides itself on its student leadership, perseverance, and desire to excel in
                 all frontiers. Furthermore, team members are constantly striving to learn the technical skills necessary
-                to bring the design to fruition, including 3D-modeling in SolidWorks and CATIA V5, designing the PCB in
-                Eagle Pro, and programming in C, C++, Python, MATLAB, and JavaScript.
+                to bring the design to fruition, including 3D-modeling in SolidWorks, designing power delivery systems, 
+                and programming in Python and MATLAB.
             </p>
             
             <hr />
@@ -43,10 +43,16 @@
                 <em>Aerospace Engineering</em>
                 <p>Aerial Robotics Captain</p>
                 <div class="row text-center">
-                    <!--Dakota Do-->
+                    <!--Matthieu Opdyke-->
                     <div class= "col-md-4">
                         <h4>Matthieu Opdyke</h4>
                         <em>Aerospace Engineering</em>
+                        <p>Aeromechanical Lead</p>
+                    </div>
+                    <!--Eric O'Keefe-->
+                    <div class= "col-md-4">
+                        <h4>Eric O'Keefe</h4>
+                        <em>Mechanical Engineering</em>
                         <p>Aeromechanical Lead</p>
                     </div>
                     <!--Alex Rodgers-->
@@ -66,12 +72,6 @@
                         <h4>Tyler Fedrizzi</h4>
                         <em>Computer Engineering</em>
                         <p>Autonomy Lead</p>
-                    </div>
-                    <!--Alex Zhang-->
-                    <div class= "col-md-4">
-                        <h4>Alex Zhang</h4>
-                        <em>Finance, Supply Chain Business Analytics</em>
-                        <p>Sponsorship Coordinator</p>
                     </div>
                 </div>
             </div>
