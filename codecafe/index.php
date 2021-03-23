@@ -10,9 +10,9 @@ include 'header.php';
     <div class="row">
         <div class="col-md-5 text-dark col-md-offset-1">
             <h1 class="text-center">IEEE Code Cafe</h1>
-            <h2 class="text-center">Saturday, October 24th, 2020</h2>
+            <h2 class="text-center">Saturday, April 10th, 2021</h2>
             <h2 class="text-center">Location: <a href="https://discord.com/invite/5MvZS3u"><b>Code Cafe Discord</b></a></h2>
-            <h2 class="text-center">1 - 6 PM</h2>
+            <h2 class="text-center">10 AM - 3 PM</h2>
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
@@ -29,7 +29,7 @@ include 'header.php';
             </p>
             <p class="text-justified">
                 However, if you want to be a mentor, fill out this
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScQGvQvxQD3A9DixWUK6GNYHhqlTrLLUGL-dx6HKn7__EUAdw/viewform"><b>application.</b></a>
+                <a href="https://forms.gle/DBmbXQ1AEyQesht4A"><b>application.</b></a>
             </p>
         </div>
 
@@ -92,11 +92,11 @@ include 'header.php';
         </div>
 
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="csociety_emailheader.png" alt="Code Cafe Sponsor: CS" style="width:80%"
+            <p class="text-center"><img src="csociety_emailheader.png" alt="Code Cafe Sponsor: Computer Society" style="width:80%"
                                         style="display:block"></p>
         </div>
         <div class="col-md-5 text-dark col-md-offset-1">
-            <p class="text-center"><img src="ece_logo.jpg" alt="Code Cafe Sponsor: ECE" style="width:80%"
+            <p class="text-center"><img src="/rov/images/Engineering.png" alt="Code Cafe Sponsor: Purdue College of Engineering" style="width:80%"
                                         style="display:block"></p>
         </div>
     </div>
