@@ -106,14 +106,13 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
     <br> -->
 
     <!-- Info Sessions -->
-    <div class="well card-1 text-dark">
+    <!-- <div class="well card-1 text-dark">
 		<h2 style = "text-align: center;"> Our General Callout was on Wed 1/27 from 6:30-8:00 PM over the <a href="https://discord.gg/kZNkKXM" target="_blank">IEEE Q&A Discord.</a> If you couldn't attend, you can watch a <a href="https://youtu.be/ccfHtdQs2-I" target="_blank">YouTube prerecording</a>. Please see our <a href="/calendar.php">calendar</a> for upcoming events, and <a href="/join.php">join IEEE!</a></h2>
         <h2 style="margin-top: 0; text-align: center">
             <a href="https://docs.google.com/presentation/d/1qsCByNTLfFwjoCGVxDREy0kgfFliv3MGgO-E7ACN5Wc/edit?usp=sharing"
                target="_blank">Spring 2021 Callout Slides</a></h2>
-        <!-- <?php include 'info_sessions.php'; ?> -->
-    </div>
-
+        <?php //include 'info_sessions.php'; ?>
+    </div> -->
 
 <!-- About Section -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
@@ -143,8 +142,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                 </div>
                 <div class="panel-body">
                     <h4>Want to chat or have questions?</h4>
-                    <p><a href="https://purdueieee.slack.com/signup">Join us on Slack!</a><br>Chat with us in the #ieee
-                        channel!</p>
+                    <p>Join us on <a href="https://purdueieee.slack.com/signup">Slack</a> and on <a href="https://discord.gg/kZNkKXM">Discord</a>!</p>
 					<p><a href="/join.php">More Join Info</a></p>
                 </div>
             </div>
@@ -161,6 +159,35 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                     <h4>Contact Us</h4>
                     <p>Contact us for more information at<br><a href="mailto:IEEE@purdue.edu">IEEE@purdue.edu</a>, or
                         stop by EE 014</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4 col-sm-4">
+            <div class="well card-1 text-center text-dark">
+                
+                <div class="panel-body">
+                    <h4>Follow us on Twitter!</h4>
+                    <a href="https://twitter.com/purdueieee" style="padding:8px;" target="_blank"><i class="fa fa-twitter-square fa-5x"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-4">
+            <div class="well card-1 text-center text-dark">
+                
+                <div class="panel-body">
+                    <h4>Follow us on Facebook!</h4>
+                    <a href="https://www.facebook.com/groups/purdueieee/" style="padding:8px;" target="_blank"><i class="fa fa-facebook-square fa-5x"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-4">
+            <div class="well card-1 text-center text-dark">
+                
+                <div class="panel-body">
+                    <h4>Subscribe on YouTube!</h4>
+                    <a href="https://www.youtube.com/channel/UCJwFwlur0e2fgwf97eV7INw" style="padding:8px;" target="_blank"><i class="fa fa-youtube-square fa-5x"></i></a>
                 </div>
             </div>
         </div>

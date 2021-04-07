@@ -22,7 +22,8 @@
                 <p>
                     <a href="https://www.facebook.com/groups/purdueieee/"><i class="fa fa-facebook-square fa-2x"></i></a>
                     <a href="https://twitter.com/purdueieee"><i class="fa fa-twitter-square fa-2x"></i></a>
-                    <a href="https://www.linkedin.com/grp/home?gid=6648253"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                    <a href="https://www.linkedin.com/groups/6648253/"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                    <a href="https://www.youtube.com/channel/UCJwFwlur0e2fgwf97eV7INw"><i class="fa fa-youtube-square fa-2x"></i></a>
                 </p>
             </div>
         </div>
