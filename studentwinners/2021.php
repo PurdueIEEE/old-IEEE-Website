@@ -48,6 +48,22 @@
 	<div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
+                style="background-image: url('')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Matthieu Opdyke</h3>
+            <h4>Week of February 22</h4>
+            <p>
+                
+			</p>
+            <p><em>Committee Involvement</em>: <?php echo PARTIEEE?></p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
                 style="background-image: url('/images/officers/2019_Schweitzer_Jerome.jpg')">
             </div>
         </div>
@@ -66,7 +82,6 @@
             <p><em>Committee Involvement</em>: <?php echo SOCIAL?>, <?php echo COMPUTER_SOCIETY?>, <?php echo SOFTWARE_SATURDAYS?></p>
         </div>
     </div>
-
 
 	<div class="row">
         <div class="col-md-3">
