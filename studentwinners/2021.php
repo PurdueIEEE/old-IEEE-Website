@@ -48,6 +48,27 @@
 	<div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/2021_Matthieu_Opdyke.jpg')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Matthieu Opdyke</h3>
+            <h4>Week of February 22</h4>
+            <p>
+                Matthieu Opdyke is a sophomore in Aerospace Engineering and the AeroMechanical team lead for Aerial Robotics. 
+                His interest in composite materials and advanced manufacturing techniques has helped the team build complex 
+                yet lightweight aircraft components. He hopes to use these concepts in combination with improved workflow 
+                structures to build an advanced UAS for the 2022 AUVSI-SUAS competition and to lead the team to its most 
+                successful placement in the past few years. Outside of PART, Matt enjoys playing tennis and golf as well 
+                as watching Purdue sports with friends.
+			</p>
+            <p><em>Committee Involvement</em>: <?php echo PARTIEEE?></p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
                 style="background-image: url('/images/officers/2019_Schweitzer_Jerome.jpg')">
             </div>
         </div>
@@ -66,7 +87,6 @@
             <p><em>Committee Involvement</em>: <?php echo SOCIAL?>, <?php echo COMPUTER_SOCIETY?>, <?php echo SOFTWARE_SATURDAYS?></p>
         </div>
     </div>
-
 
 	<div class="row">
         <div class="col-md-3">
