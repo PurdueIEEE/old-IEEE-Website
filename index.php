@@ -105,6 +105,16 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
     </a>
     <br> -->
 
+	<!-- New Style of Election Banner -->
+    <div class="well card-1 text-dark">
+		<h2 style = "text-align: center;"> Voting for Purdue IEEE Executive Committee 2021-2022 is now available <a href="https://forms.gle/isokpkfLqpKnsk6P8" target="_blank">HERE.</a> This poll will close on at <b>11:59 PM ET on Friday, April 16, 2021</b>.</h2>
+		<h2 style = "text-align: center;"> When you've filled in a ballot, we'll send you a short form to verify your identity. The identity verification form is due by <b>11:59 PM ET on Saturday, April 17, 2021</b> for your vote to be counted.</h2>
+        <h2 style="margin-top: 0; text-align: center">
+            <a href="https://forms.gle/MuVEQQ9rWAKE9VG97"
+               target="_blank">File an Election Complaint</a></h2>
+        <!-- <?php include 'info_sessions.php'; ?> -->
+    </div>
+
     <!-- Info Sessions -->
     <!-- <div class="well card-1 text-dark">
 		<h2 style = "text-align: center;"> Our General Callout was on Wed 1/27 from 6:30-8:00 PM over the <a href="https://discord.gg/kZNkKXM" target="_blank">IEEE Q&A Discord.</a> If you couldn't attend, you can watch a <a href="https://youtu.be/ccfHtdQs2-I" target="_blank">YouTube prerecording</a>. Please see our <a href="/calendar.php">calendar</a> for upcoming events, and <a href="/join.php">join IEEE!</a></h2>
