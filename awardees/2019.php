@@ -57,7 +57,7 @@
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
-                style="background-image: url('/images/officers/.jpg')">
+                style="background-image: url('/studentwinners/images/Tyler_Stagge_2020.jpg')">
             </div>
         </div>
         <div class="col-md-9">
