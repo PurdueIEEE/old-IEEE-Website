@@ -26,6 +26,25 @@
 	<div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
+                style="background-image: url('/studentwinners/images/2021_Katherine_Sandys.png')">
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h3>Katherine Sandys</h3>
+            <h4>Week of April 12</h4>
+            <p>
+                Katherine is a sophomore majoring in Computer Engineering, who joined ROV in Fall 2019.
+				She is also a part of Women in Engineering. In her free time, she enjoys hanging out with friends, climbing and running.
+				Katherine was chosen for her great work during her time on the ROV team. This year, she headed the logic project group and started heading more of the embedded projects in the second half of this semester.
+				Katherine will be leading the ROV team starting Fall of 2021!
+			</p>
+            <p><em>Committee Involvement</em>: <?php echo ROV?></p>
+        </div>
+    </div>
+
+	<div class="row">
+        <div class="col-md-3">
+            <div class="officer-cropped"
                 style="background-image: url('/studentwinners/images/2021_Ivan_Kouzmine.jpg')">
             </div>
         </div>
