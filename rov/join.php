@@ -22,9 +22,7 @@ include '../header.php';
             <h2 class="text-center">Join ROV</h2>
 
 			<p>
-				The ROV Spring 2021 Info Session will be held on Wednesday, February 3rd at 5:30pm in PHYS 238.
-				Though not prefered, the info session can be joined virtually, in the
-				ROV channel of the <a href="https://discordapp.com/invite/fFNnKPK">IEEE Q&A discord</a>.
+				The ROV Spring 2021 Info Session will likely be held during the third week of school in a TBD location.
 			</p>
 
             <p>
@@ -35,10 +33,11 @@ include '../header.php';
             </p>
 
             <p>
-               Applications for the Spring 2021 semester are now open!
-               <u><a href="https://docs.google.com/forms/d/e/1FAIpQLSdFDiflTQeKjGG0JpwfAVqXdl2qhkndx7TQMvyab5-wsxBQ7Q/viewform">here</a></u>.
-               Applications must be filled out by 11:59 pm on Wednesday, February 3rd. If you have any questions please reach out to Grant Geyer at <a href="mailto:rov@purdueieee.org">rov@purdueieee.org</a>.
-			   <!-- The team will be accepting new members again at the start of the Spring 2021 semester. -->
+               Applications for the Fall 2021 semester will open in the first several weeks of school.
+               <!-- <u><a href="https://docs.google.com/forms/d/e/1FAIpQLSdFDiflTQeKjGG0JpwfAVqXdl2qhkndx7TQMvyab5-wsxBQ7Q/viewform">here</a></u>. --> 
+               Applications must be filled out by 11:59 pm on the day they are due. If you have any questions please reach out to Katherine Sandys at <a href="mailto:rov@purdueieee.org">rov@purdueieee.org</a>.
+
+			   <!-- The team will be accepting new members again at the start of the Spring 2022 semester. -->
                <hr>
                <!--
                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfH-CqASDCHd7Ufl6dEkFcpMXlWsgE0pazMNHB8NVjM82jhiA/viewform?usp=sf_link"

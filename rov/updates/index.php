@@ -23,6 +23,20 @@ include '../../header.php';
                 our previous seasons under the history tab to the left.</p>
             <hr>
 			
+			<h3>2021 Spring</h3>
+			<p><em>April, 2020 Update</em></p>
+            <div>
+                <p class="text-justify">
+					After a unique year of meetings with covid precautions and a half completed vehicle to be
+					finished, the team has qualified for the 2021 MATE World Competition! Grant Geyer guided
+					the team through the many shifts and sought to consolidate designs for reliability, technical
+					challenge, and feasbility. Several innovations were introduced such as a resin printed pneumatic
+					manifold, a USB borescope camera system, and continual improvements. The team looks forward to
+					continuing its frequent pool tests and practicing as much as possible before the competition.
+					Next year, Katherine Sandys will head the team and lead it to new innovations and achievements.
+                </p>
+            </div>
+			
 			<h3>2020 Fall</h3>
             <p><em>November, 2020</em></p>
             <div>

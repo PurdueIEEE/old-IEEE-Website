@@ -20,7 +20,7 @@
         <div class="col-md-7 text-dark col-md-offset-1">
         <h1 class="text-center">Sponsors</h1>
             <p>Without the help of our generous sponsors, the ROV team would be unable to compete. We are very thankful for their support. </p>
-            <p>If you are interested in supporting the team at various levels please contact <a href="mailto:rov@purdueieee.org">Grant Geyer</a>.</p><br>
+            <p>If you are interested in supporting the team at various levels please contact <a href="mailto:rov@purdueieee.org">Katherine Sandys</a>.</p><br>
 
             <h2 class="text-center">Platinum Partner</h2>
             <div class="row">
@@ -28,6 +28,7 @@
                     <a href="http://www.purdue.edu/provost" target="_blank"><img src="/rov/images/Provost.png" alt="Purdue Provost" style="width:100%"></a>
                 </div>
                 <div class="col-md-4 text-center">
+					<a href="http://www.solidworks.com/" target="_blank"><img src="/rov/images/Boeing.png" alt="Boeing" style="width:100%"></a>
                 </div>
                 <div class="col-md-4 text-center">
                     <a href="http://www.solidworks.com/" target="_blank"><img src="/rov/images/solidworks.png" alt="SolidWorks" style="width:100%"></a>

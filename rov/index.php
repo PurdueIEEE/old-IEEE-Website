@@ -20,31 +20,25 @@ include '../header.php';
             <h2 class="text-center">Remotely Operated underwater Vehicle (ROV) Team</h2>
             <br>
 
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/LLdWLpjvKGs?start=315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<h6>Watch our 2021 Qualification video!</h6>
+
             <a href="https://www.youtube.com/channel/UCulNgY7xUYSKOSEMDmpFFqA">
                 <h4>See our latest pool runs and more on our YouTube page!</h4>
 	        </a>
 
             <hr>
 
-            <p><em>November, 2020 Update</em></p>
+            <p><em>April, 2020 Update</em></p>
             <div>
                 <p>
-					The 2020-2021 season marks a unique season for the team as they try to continue
-					operations during the COVID-19 pandemic. Heading into this season, the team
-					experienced change with several of the leads for technical teams assuming their
-					role for the first time. The team has taken the foundation of X12 that was
-					constructed the prior season before the suspension and is building upon that to
-					create the next iteration of the ROV, X13. Two of the main improvements planned
-					for X13 are a more accessible yet powerful electronics design utilizing Power
-					over Ethernet and a software system leveraging more powerful hardware for a
-					more capable ROV. This season we have two prominent R&D projects with the
-					development of custom thrusters, rather than relying on the narrow choice
-					presented by Blue Robotics and the development of welded enclosures aimed at
-					improving resource efficiency. While there are still restrictions in place at
-					Purdue that alter the progress of the ROV, the team is continuing to progress
-					while ensuring that they’re following all Protect Purdue guidelines to
-					maintain a safe working environment. The team is proud of its progress so
-					far and is excited to see its hard work take form.
+					After a unique year of meetings with covid precautions and a half completed vehicle to be
+					finished, the team has qualified for the 2021 MATE World Competition! Grant Geyer guided
+					the team through the many shifts and sought to consolidate designs for reliability, technical
+					challenge, and feasbility. Several innovations were introduced such as a resin printed pneumatic
+					manifold, a USB borescope camera system, and continual improvements. The team looks forward to
+					continuing its frequent pool tests and practicing as much as possible before the competition.
+					Next year, Katherine Sandys will head the team and lead it to new innovations and achievements.
                 </p>
             </div>
             <hr>
@@ -83,8 +77,8 @@ include '../header.php';
             </p>
 
             <p class="text-justify">
-                For more current and past information view the links to the left or contact <a href="mailto:rov@purdueieee.org">Grant Geyer</a>. The ROV team will be accepting new
-                members at the beginning of each semester. The current team picture is below.
+                For more current and past information view the links to the left or contact <a href="mailto:rov@purdueieee.org">Katherine Sandys</a>.
+				The ROV team will be accepting new members at the beginning of each semester. The current team picture is below.
             </p>
 
             <h2 class="text-center">2018-2019 Team Picture</h2>
