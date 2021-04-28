@@ -12,17 +12,25 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                        <div class="fill" style="background-image:url('/images/ieee.jpg');"></div>
+                        <div class="fill" style="background-image:url('/images/ieee-2021.jpg');"></div>
                         <div class="carousel-caption">
                             <h2>IEEE</h2>
                         </div>
                     </div>
+					<div class="item">
+                        <div class="fill" style="background-image:url('/images/exec-2021-22.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>IEEE Exec 2021-22</h2>
+                        </div>
+                    </div>
+					<!--
                     <div class="item">
                         <div class="fill" style="background-image:url('/images/2019_fall_ieee_callout.jpg');"></div>
                         <div class="carousel-caption">
                             <h2>IEEE Callout: Fall 2019</h2>
                         </div>
                     </div>
+					-->
                     <div class="item">
                         <div class="fill" style="background-image:url('/images/aerial.jpg');"></div>
                         <div class="carousel-caption">
@@ -57,6 +65,12 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                         <div class="fill" style="background-image:url('/images/rov.jpg');"></div>
                         <div class="carousel-caption">
                             <h2>ROV</h2>
+                        </div>
+                    </div>
+					<div class="item">
+                        <div class="fill" style="background-image:url('/images/exec-2020-21.jpg');"></div>
+                        <div class="carousel-caption">
+                            <h2>IEEE Exec 2020-21</h2>
                         </div>
                     </div>
                 </div>
@@ -106,14 +120,16 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
     <br> -->
 
 	<!-- New Style of Election Banner -->
+	<!--
     <div class="well card-1 text-dark">
 		<h2 style = "text-align: center;"> Voting for Purdue IEEE Executive Committee 2021-2022 is now available <a href="https://forms.gle/isokpkfLqpKnsk6P8" target="_blank">HERE.</a> This poll will close on at <b>11:59 PM ET on Friday, April 16, 2021</b>.</h2>
 		<h2 style = "text-align: center;"> When you've filled in a ballot, we'll send you a short form to verify your identity. The identity verification form is due by <b>11:59 PM ET on Saturday, April 17, 2021</b> for your vote to be counted.</h2>
         <h2 style="margin-top: 0; text-align: center">
             <a href="https://forms.gle/MuVEQQ9rWAKE9VG97"
                target="_blank">File an Election Complaint</a></h2>
-        <!-- <?php include 'info_sessions.php'; ?> -->
+        <!-- <?php include 'info_sessions.php'; ?> COMMENT THIS LINE OUT
     </div>
+	-->
 
     <!-- Info Sessions -->
     <!-- <div class="well card-1 text-dark">
@@ -178,8 +194,10 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
             <div class="well card-1 text-center text-dark">
                 
                 <div class="panel-body">
-                    <h4>Follow us on Twitter!</h4>
-                    <a href="https://twitter.com/purdueieee" style="padding:8px;" target="_blank"><i class="fa fa-twitter-square fa-5x"></i></a>
+                    <a href="https://twitter.com/purdueieee" style="padding:8px;" target="_blank">
+                        <h4>Follow us on Twitter!</h4>
+                        <i class="fa fa-twitter-square fa-5x"></i>
+                    </a>
                 </div>
             </div>
         </div>
@@ -187,8 +205,10 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
             <div class="well card-1 text-center text-dark">
                 
                 <div class="panel-body">
-                    <h4>Follow us on Facebook!</h4>
-                    <a href="https://www.facebook.com/groups/purdueieee/" style="padding:8px;" target="_blank"><i class="fa fa-facebook-square fa-5x"></i></a>
+                    <a href="https://www.facebook.com/groups/purdueieee/" style="padding:8px;" target="_blank">
+                        <h4>Follow us on Facebook!</h4>
+                        <i class="fa fa-facebook-square fa-5x"></i>
+                    </a>
                 </div>
             </div>
         </div>
@@ -196,8 +216,10 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
             <div class="well card-1 text-center text-dark">
                 
                 <div class="panel-body">
-                    <h4>Subscribe on YouTube!</h4>
-                    <a href="https://www.youtube.com/channel/UCJwFwlur0e2fgwf97eV7INw" style="padding:8px;" target="_blank"><i class="fa fa-youtube-square fa-5x"></i></a>
+                    <a href="https://www.youtube.com/channel/UCJwFwlur0e2fgwf97eV7INw" style="padding:8px;" target="_blank">
+                        <h4>Subscribe on YouTube!</h4>
+                        <i class="fa fa-youtube-square fa-5x"></i>
+                    </a>
                 </div>
             </div>
         </div>
@@ -374,3 +396,4 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
 
 
 <?php include 'footer.php'; ?>
+
