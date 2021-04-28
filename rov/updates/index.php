@@ -36,7 +36,7 @@ include '../../header.php';
 					Next year, Katherine Sandys will head the team and lead it to new innovations and achievements.
                 </p>
             </div>
-			
+
 			<h3>2020 Fall</h3>
             <p><em>November, 2020</em></p>
             <div>
@@ -74,7 +74,7 @@ include '../../header.php';
                 </p>
             </div>
 
-			
+
 			<h3>2019 Competition</h3>
             <p><em>July, 2019</em></p>
             <div>
