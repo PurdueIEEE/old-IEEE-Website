@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Hanna Hatfield",
+    "image": "/images/officers/2021_Hanna_Hatfield.jpg",
+    "position": "President",
+    "description": "Hanna is a junior majoring in Mechanical Engineering Technology who joined Purdue IEEE in 2019. In her free time she enjoys sitting in her hammock, messing with her 3D printer, and playing video games.",
+    "committees": "<a href=\"/embs/\">ROV</a>, <a href=\"/growth/\">Growth & Engagement</a>"
+  },
+  {
+    "name": "David Ho",
+    "image": "/images/officers/2020_David_Ho.jpg",
+    "position": "Vice President of Technical Committees",
+    "description": "David is a senior majoring in Materials Engineering and has been a part of the ROV team since Fall of 2018. Outside IEEE, he is a member of the Titus research group, Engineering Mentor Corp, and Navigators. In his free time he enjoys dominating his friends in smash bros and cooking new foods.",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Joseph Choi",
+    "image": "/images/officers/2021_Joseph_Choi.jpg",
+    "position": "Vice President of Member Involvement",
+    "description": "Joseph is a senior who is majoring in Mechanical Engineering and is currently an RA at Owen. He joined IEEE in 2018 as part of EMBS and takes interest in bio-mechanics and 3D modelling. When he has free time he can be found playing piano, playing video games, and taking enthusiastic walks in the woods.",
+    "committees": "<a href=\"/embs/\">EMBS</a>"
+  },
+  {
+    "name": "Chris Laszlo",
+    "image": "/images/officers/2021_Chris_Laszlo_2.jpg",
+    "position": "Treasurer",
+    "description": "Chris is a senior in Mechanical Engineering and has been a part of the ROV team since Spring of 2019. In his free time he enjoys gaming, biking, and going to the gym.",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Varun Gannavarupa",
+    "image": "/images/officers/2021_Varun_Gannavarupa.jpg",
+    "position": "Secretary",
+    "description": "",
+    "committees": ""
+  },
+  {
+    "name": "Kaitlyn Yu",
+    "image": "/images/officers/2021_Kaitlyn_Yu.jpg",
+    "position": "Growth & Engagement Head",
+    "description": "",
+    "committees": "<a href=\"/rov/\">ROV</a>, <a href=\"/growth/\">Growth & Engagement</a>"
+  },
+  {
+    "name": "Ethan Welp",
+    "image": "/images/officers/2021_Ethan_Welp.png",
+    "position": "Learning Head",
+    "description": "",
+    "committees": "<a href=\"/learning/\">Learning</a>"
+  },
+  {
+    "name": "Siwen (Alice) Hu",
+    "image": "/images/officers/2021_Siwen_Hu.jpg",
+    "position": "Social Head",
+    "description": "",
+    "committees": "<a href=\"/social/\">Social</a>, <a href=\"/learning/\">Learning</a>"
+  },
+  {
+    "name": "Aaradhya Jajoo",
+    "image": "/images/officers/2021_Aaradhya_Jajoo.jpg",
+    "position": "Industrial Relations Head",
+    "description": "",
+    "committees": "<a href=\"/IR/\">Industrial Relations</a>, <a href=\"/mtts/\">ROV</a>"
+  },
+  {
+    "name": "Matthieu Opdyke",
+    "image": "/images/officers/2021_Matthieu_Opdyke.jpg",
+    "position": "Aerial Robotics Chair",
+    "description": "",
+    "committees": "<a href=\"/partieee/\">Aerial Robotics</a>"
+  },
+  {
+    "name": "Ryan Rask",
+    "image": "/images/officers/2021_Ryan_Rask_2.jpg",
+    "position": "Computer Society Chair",
+    "description": "Ryan is a Computer Engineering major from Elmhurst, Illinois. He joined Computer Society in Fall 2020. In addition to his interest in computer programming and circuitry, Ryan is also in the trumpet section of the Purdue All American Marching Band and enjoys running and video games.",
+    "committees": "<a href=\"/csociety/\">Computer Society</a>"
+  },
+  {
+    "name": "Ryan Donoghue",
+    "image": "/studentwinners/images/Ryan_Donoghue_2019.jpg",
+    "position": "EMBS Chair",
+    "description": "He is a junior in Electrical Engineering, currently serving as the chair of IEEE EMBS. His hobbies include music, Computer Aided Design, Gaming, and 3D-printing.",
+    "committees": "<a href=\"/embs/\">EMBS</a>"
+  },
+  {
+    "name": "Sabrina Chang",
+    "image": "/studentwinners/images/2021_Sabrina_Chang.jpg",
+    "position": "MTT-S Chair",
+    "description": "",
+    "committees": "<a href=\"/mtts/\">MTT-S</a>"
+  },
+  {
+    "name": "Boyu Zhou",
+    "image": "/images/officers/2021_Boyu_Zhou.jpg",
+    "position": "Racing Chair",
+    "description": "Boyu is a junior majoring in Computer Engineering. He joined IEEE Racing in September 2020 as part of the Electrical sub-team. He likes playing video games and watching movies in his free time.",
+    "committees": "<a href=\"/racing/\">Racing</a>"
+  },
+  {
+    "name": "Katherine Sandys",
+    "image": "/images/officers/2021_Katherine_Sandys.jpg",
+    "position": "ROV Captain",
+    "description": "",
+    "committees": "<a href=\"/rov/\">ROV</a>"
+  },
+  {
+    "name": "Hadi A Ahmed",
+    "image": "/images/officers/2021_Hadi_Ahmed.jpg",
+    "position": "Software Saturdays Chair",
+    "description": "Hadi is a sophomore studying Computer Engineering. He joined Software Saturdays in 2019, and is excited to help Purdue students practice and learn software development and different technologies they can use in their everyday lives. He is also involved with the Archery Club and the Muslim Student Association, and loves the outdoors.",
+    "committees": "<a href=\"/software/\">Software Saturdays</a>, <a href=\"/partieee/\">Aerial Robotics</a>, <a href=\"/csociety/\">Computer Society</a>"
+  }
+]
