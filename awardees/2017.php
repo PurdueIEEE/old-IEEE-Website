@@ -25,7 +25,7 @@
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
-                style="background-image: url('/images/awardees/Carolyn_Lewelling_P2017.jpg')">
+                style="background-image: url('/images/awardees/2017_Carolyn_Lewelling_P.jpg')">
             </div>
         </div>
         <div class="col-md-9">
@@ -41,7 +41,7 @@
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
-                style="background-image: url('/images/awardees/Brandon_Stewart_EC2017.jpg')">
+                style="background-image: url('/images/awardees/2017_Brandon_Stewart_EC.jpg')">
             </div>
         </div>
         <div class="col-md-9">
@@ -57,7 +57,7 @@
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
-                style="background-image: url('/images/awardees/Sophia_Duan_SB2017.jpg')">
+                style="background-image: url('/images/awardees/2017_Sophia_Duan_SB.jpg')">
             </div>
         </div>
         <div class="col-md-9">
