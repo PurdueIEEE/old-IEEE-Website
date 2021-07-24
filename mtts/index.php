@@ -35,38 +35,38 @@
                     <h1 id="leaders">Leadership</h1>
                     <hr />
                     <div class="row">
-                        <!--Insoo Hyun-->
+                        <!--Sabrina Chang-->
                         <div class= "col-md-4">
-                            <img src="../images/officers/2019_Hyun_Insoo.JPG" alt= "Insoo Hyun" class="img-circle" width=250px height=250px />
-                            <h4>Insoo Hyun</h4>
-                            <p>Chair<br />Computer Engineering<br />Junior</p>
+                            <img src="" alt= "Sabrina Chang" class="img-circle" width=250px height=250px />
+                            <h4>Sabrina Chang</h4>
+                            <p>Chair<br />Major<br />Year</p>
                         </div>
-                        <!--George Jiayu Luo-->
+                        <!--Name-->
                         <div class= "col-md-4">
-                            <img src="images/2019_Jiayu_Luo.jpg"" alt= "Jiayu Luo" class="img-circle" width=250px height=250px />
-                            <h4>George Jiayu Luo</h4>
-                            <p>Vice Chair<br />Robotics Engineering Technology<br />Junior</p>
+                            <img src="" alt= "Name" class="img-circle" width=250px height=250px />
+                            <h4>Name</h4>
+                            <p>Vice Chair<br />Major<br />Year</p>
                         </div>
                         <!--Sarah Mi-->
                         <div class= "col-md-4">
-                            <img src="images/2020_Sarah_Mi.jpg" alt= "Sarah Mi" class="img-circle" width=250px height=250px />
+                            <img src="images/2021_Sarah_Mi.png" alt= "Sarah Mi" class="img-circle" width=250px height=250px />
                             <h4>Sarah Mi</h4>
-                            <p>Sponsorship Coordinator<br />Computer Science<br />Freshman</p>
+                            <p>Sponsorship Coordinator<br />Computer Science and Data Science<br />Junior</p>
                         </div>
                     </div>
                     <br/>
                     <div class="row">
-                        <!--Duhan Eroglu-->
+                        <!--Ben Eilers-->
 						<div class= "col-md-4">
-							<img src="images/Duhan_Eroglu.png" alt= "Duhan Eroglu" class="img-circle" width=250px height=250px />
-							<h4>Duhan Eroglu</h4>
-							<p>Workshop Coordinator<br />Electrical Engineering<br />Sophomore</p>
+							<img src="images/2021_Ben_Eilers.png" alt= "Benjamin Eilers" class="img-circle" width=250px height=250px />
+							<h4>Benjamin Eilers</h4>
+							<p>Workshop Coordinator<br />Electrical Engineering<br />Junior</p>
                         </div>
                         <!--Thomas Gallagher-->
                         <div class= "col-md-4">
-                            <img src="images/2020_Thomas_Gallagher.jpg" alt= "Thomas Gallagher" class="img-circle" width=250px height=250px />
-                            <h4>Thomas Gallagher</h4>
-                            <p>Event Coordinator<br />Math and Computer Science<br />Freshman</p>
+                            <img src="images/2021_Mark_Lim.png" alt= "Mark Lim" class="img-circle" width=250px height=250px />
+                            <h4>Mark Lim</h4>
+                            <p>Event Coordinator<br />Computer Science and Data Science<br />Junior</p>
                 </div>
             </div>
 
