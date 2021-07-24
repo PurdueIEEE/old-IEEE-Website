@@ -1,5 +1,5 @@
 <?php
-    $page_title = '2019 Award Winners';
+    $page_title = '2021 Award Winners';
     $site_title = 'Purdue IEEE';
     $site_index = '/';
     include '../header.php';
@@ -12,7 +12,7 @@
         <div class="col-lg-12">
             <ul class="pagination">
                 <?php
-                    $year = 2019;
+                    $year = 2021;
                     include 'header.php';
                 ?>
             </ul>
@@ -25,7 +25,7 @@
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
-                style="background-image: url('/images/awardees/2021_Grant_Geyer.jpg')">
+                style="background-image: url('/images/awardees/2021_Grant_Geyer.png')">
             </div>
         </div>
         <div class="col-md-9">
@@ -41,7 +41,7 @@
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
-                style="background-image: url('/images/officers/2021_Siwen_Hu.jpg')">
+                style="background-image: url('/images/awardees/2021_Siwen_Hu.png')">
             </div>
         </div>
         <div class="col-md-9">
@@ -57,7 +57,7 @@
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
-                style="background-image: url('/studentwinners/awardees/2021_Scott_Hotchkiss.jpg')">
+                style="background-image: url('/images/awardees/2021_Scott_Hotchkiss.png')">
             </div>
         </div>
         <div class="col-md-9">
@@ -73,14 +73,14 @@
     <div class="row">
         <div class="col-md-3">
             <div class="officer-cropped"
-                style="background-image: url('/images/officers/2021_Hadi_Ahmed.jpg')">
+                style="background-image: url('/images/awardees/2021_Hadi_Ahmed.png')">
             </div>
         </div>
         <div class="col-md-9">
             <h3>Hadi Ahmed</h3>
             <h4>Impact Award</h4>
             <p>In recognition for his exceptional impact, leadership, and devotion to Purdue IEEE members as Chair of Software Saturdays and as Electrical Lead of Aerial Robotics.</p>
-            <p><em>Committee Involvement</em>: Committee Involvement</em>: <?php echo SOFTWARE_SATURDAYS?>, <?php echo PARTIEEE?>, <?php echo COMPUTER_SOCIETY?></p>
+            <p><em>Committee Involvement</em>: <?php echo SOFTWARE_SATURDAYS?>, <?php echo PARTIEEE?>, <?php echo COMPUTER_SOCIETY?></p>
         </div>
     </div>
 
