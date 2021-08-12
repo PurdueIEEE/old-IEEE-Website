@@ -62,7 +62,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
                         </div>
                     </div>
                     <div class="item">
-                        <div class="fill" style="background-image:url('/images/rov.jpg');"></div>
+                        <div class="fill" style="background-image:url('/rov/images/pool test 2021.jpg');"></div>
                         <div class="carousel-caption">
                             <h2>ROV</h2>
                         </div>
@@ -192,7 +192,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
     <div class="row">
         <div class="col-md-4 col-sm-4">
             <div class="well card-1 text-center text-dark">
-                
+
                 <div class="panel-body">
                     <a href="https://twitter.com/purdueieee" style="padding:8px;" target="_blank">
                         <h4>Follow us on Twitter!</h4>
@@ -203,7 +203,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
         </div>
         <div class="col-md-4 col-sm-4">
             <div class="well card-1 text-center text-dark">
-                
+
                 <div class="panel-body">
                     <a href="https://www.facebook.com/groups/purdueieee/" style="padding:8px;" target="_blank">
                         <h4>Follow us on Facebook!</h4>
@@ -214,7 +214,7 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
         </div>
         <div class="col-md-4 col-sm-4">
             <div class="well card-1 text-center text-dark">
-                
+
                 <div class="panel-body">
                     <a href="https://www.youtube.com/channel/UCJwFwlur0e2fgwf97eV7INw" style="padding:8px;" target="_blank">
                         <h4>Subscribe on YouTube!</h4>
