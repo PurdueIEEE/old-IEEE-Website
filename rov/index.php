@@ -33,9 +33,9 @@ include '../header.php';
             <div>
                 <p>
                     Purdue ROV competed in Johnson City, TN at the East Tennessee State University
-                    from August 5th to August 7th. The team is awaiting its place in the Explorer
+                    from August 5th to August 7th. The team achieved 4th place in the Explorer
                     category and won the Aloha Team Spirit Award. ROV Triton performed admirably
-                    at competition, piloting smoothly for both bonus runs and the mission. The team
+                    at competition, piloting smoothly for both mission runs and the bonus. The team
                     is very proud of its achievements and is excited to see what can be done in the
                     upcoming season as Katherine Sandys takes over as captain.
                 </p>

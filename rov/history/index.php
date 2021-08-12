@@ -39,15 +39,15 @@
                     <p class="text-center"><a href="https://drive.google.com/file/d/1ISZj2WIlEFxlzu3Yz12ZCJZeAroqausW/view?usp=sharing">Team Poster</a></p>
                 </div>
                 <div class="col-md-6 text-dark">
-                    <p class="text-center"><a href="https://www.youtube.com/embed/LLdWLpjvKGs?start=315">Qualifying Video</a></p>
+                    <p class="text-center"><a href="https://www.youtube.com/watch?v=LLdWLpjvKGs&t=329s">Qualifying Video</a></p>
                 </div>
             </div>
 
             <p class="text-justify">
                 Purdue ROV competed in Johnson City, TN at the East Tennessee State University
-                from August 5th to August 7th. The team is awaiting its place in the Explorer
+                from August 5th to August 7th. The team achieved 4th place in the Explorer
                 category and won the Aloha Team Spirit Award. ROV Triton performed admirably
-                at competition, piloting smoothly for both bonus runs and the mission. ROV Triton
+                at competition, piloting smoothly for both mission runs and the bonus. ROV Triton
                 introduced numerous improvements: the integrated thruster ducts; modular foam and
                 ballst system; a quick sealing logic tube; a resin printed solenoid manifold;
                 a single box for power electronics providing ultimate accessibility, sealing, and thermal properties,

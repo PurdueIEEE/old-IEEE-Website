@@ -32,6 +32,9 @@
                     <div class="calendar-box" style="background-color: #E8CB4F;">ROV</div>
                     <div class="calendar-box" style="background-color: #333333;">Software Saturdays</div>
                 </div>
+                <div style="margin: 10px auto; width: 600px; height: 20px; font-weight: 600; display: flex; justify-content: center; align-items: center;">
+                    <div class="calendar-box" style="background-color: #865A5A;">Workspace Reservations</div>
+                </div>
                 <?php
                     $calendar_sources = array(
                         array('color' => '2952A3', 'src' => 'd5lo1ojucvmelsk9a54kndq1g8@group.calendar.google.com'), # IEEE Calendar
@@ -48,7 +51,8 @@
                         array('color' => 'AB8B00', 'src' => 'f9a3kg942is76p8kaf90n643cc@group.calendar.google.com'), # ROV 2020-2021
                         array('color' => 'AB8B00', 'src' => 'bu5n2uj8dnmc46thuh0tvblkpc@group.calendar.google.com'), # ROV 2021-2022
                         array('color' => '333333', 'src' => 'd606i7l0ahpasvr7gl3abatfi0@group.calendar.google.com'), # Software Sat 2018
-                        array('color' => 'bc1010', 'src' => 'vuk1tocl97vaod7ej5de08e9dc@group.calendar.google.com')  # Workspace reservations
+                        array('color' => '865A5A', 'src' => 'vuk1tocl97vaod7ej5de08e9dc@group.calendar.google.com')  # Workspace reservations
+                        # Note to whoever fucks with this next, these hex codes are very specific and you must choose from the options google gives.
                     );
                     $list = "";
                     foreach ($calendar_sources as $cal) {
