@@ -22,9 +22,22 @@ include '../../header.php';
             <p>Here is a list of updates that have been posted on the ROV website! You can also find an overview about
                 our previous seasons under the history tab to the left.</p>
             <hr>
-			
-			<h3>2021 Spring</h3>
-			<p><em>April, 2020 Update</em></p>
+
+			<h3>2021 Summer</h3>
+			<p><em>August, 2021 Update</em></p>
+            <div>
+                <p class="text-justify">
+                Purdue ROV competed in Johnson City, TN at the East Tennessee State University
+                from August 5th to August 7th. The team achieved 4th place in the Explorer
+                category and won the Aloha Team Spirit Award. ROV Triton performed admirably
+                at competition, piloting smoothly for both mission runs and the bonus. The team
+                is very proud of its achievements and is excited to see what can be done in the
+                upcoming season as Katherine Sandys takes over as captain.
+                </p>
+            </div>
+
+            <h3>2021 Spring</h3>
+			<p><em>April, 2021 Update</em></p>
             <div>
                 <p class="text-justify">
 					After a unique year of meetings with covid precautions and a half completed vehicle to be
@@ -64,13 +77,13 @@ include '../../header.php';
             <p><em>March, 2020</em></p>
             <div>
                 <p class="text-justify">
-                    The 2019-2020 season marked an exciting and bustling new season for the team. The team experienced its fourth change in captaincy with Grant Geyer heading the team. 
-					Also new are many of the leads for technical teams. The team pursued many new designs and approaches toward making X12, in addition to several refinements from ROV <i>Remora</i>. 
-					The R&D department found new ethernet cameras that were more reliable and PoE compatible for an nearly independent camera system. 
-					The major mechanical improvements include a faster and effective method of using a ring clamp to seal the logic electronics tube and 
-					the use of 3D prints to house thrusters and to provide buoyancy in conjuntion with expanding marine foam. 
-					With the suspension of all Purdue activities and the cancellation of the MATE competition, the team is now working at a very limited capacity to prepare ROV X12 for a pool test when available. 
-					The team is excited to see its hard work come to completion when normal activities resume. 
+                    The 2019-2020 season marked an exciting and bustling new season for the team. The team experienced its fourth change in captaincy with Grant Geyer heading the team.
+					Also new are many of the leads for technical teams. The team pursued many new designs and approaches toward making X12, in addition to several refinements from ROV <i>Remora</i>.
+					The R&D department found new ethernet cameras that were more reliable and PoE compatible for an nearly independent camera system.
+					The major mechanical improvements include a faster and effective method of using a ring clamp to seal the logic electronics tube and
+					the use of 3D prints to house thrusters and to provide buoyancy in conjuntion with expanding marine foam.
+					With the suspension of all Purdue activities and the cancellation of the MATE competition, the team is now working at a very limited capacity to prepare ROV X12 for a pool test when available.
+					The team is excited to see its hard work come to completion when normal activities resume.
                 </p>
             </div>
 

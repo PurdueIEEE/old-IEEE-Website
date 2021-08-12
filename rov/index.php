@@ -29,16 +29,15 @@ include '../header.php';
 
             <hr>
 
-            <p><em>April, 2020 Update</em></p>
+            <p><em>August, 2021 Update</em></p>
             <div>
                 <p>
-					After a unique year of meetings with covid precautions and a half completed vehicle to be
-					finished, the team has qualified for the 2021 MATE World Competition! Grant Geyer guided
-					the team through the many shifts and sought to consolidate designs for reliability, technical
-					challenge, and feasbility. Several innovations were introduced such as a resin printed pneumatic
-					manifold, a USB borescope camera system, and continual improvements. The team looks forward to
-					continuing its frequent pool tests and practicing as much as possible before the competition.
-					Next year, Katherine Sandys will head the team and lead it to new innovations and achievements.
+                    Purdue ROV competed in Johnson City, TN at the East Tennessee State University
+                    from August 5th to August 7th. The team achieved 4th place in the Explorer
+                    category and won the Aloha Team Spirit Award. ROV Triton performed admirably
+                    at competition, piloting smoothly for both mission runs and the bonus. The team
+                    is very proud of its achievements and is excited to see what can be done in the
+                    upcoming season as Katherine Sandys takes over as captain.
                 </p>
             </div>
             <hr>
@@ -48,9 +47,9 @@ include '../header.php';
 
             <h2 class="text-center">About The ROV Team</h2>
             <div class="col-md-6">
-                <img src="/rov/images/ROV X12 transparent small.png" alt="ROV X12" style="width:100%"
+                <img src="/rov/images/ROV Triton Iso.png" alt="ROV Triton" style="width:100%"
                      style="float:left" style="display:block">
-                <p class="text-center">ROV <em>X12</em></p>
+                <p class="text-center">ROV <em>Triton</em></p>
             </div>
 
             <p class="text-justify">
@@ -81,9 +80,9 @@ include '../header.php';
 				The ROV team will be accepting new members at the beginning of each semester. The current team picture is below.
             </p>
 
-            <h2 class="text-center">2018-2019 Team Picture</h2>
-            <a href="/rov/images/2019_MATE_Competition_Team.jpg"
-            <p class="text-center"><img src="/rov/images/2019_MATE_Competition_Team.jpg" alt="2018 Team" style="width:100%"></p>
+            <h2 class="text-center">2021 Competition Team Picture</h2>
+            <a href="/rov/images/Team_at_competition_2021.jpg"
+            <p class="text-center"><img src="/rov/images/Team_at_competition_2021.jpg" alt="2018 Team" style="width:100%"></p>
             </a>
             <br>
 
