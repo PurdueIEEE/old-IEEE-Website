@@ -52,14 +52,12 @@
 
             <h2 class="text-center">Silver Partner</h2>
             <div class="row">
-				<!--
                 <div class="col-md-4 text-center">
                     <a href="https://engineering.purdue.edu" target="_blank"><img src="/rov/images/Engineering.png" alt="College of Engineering" style="width:100%"></a>
                 </div>
-				-->
                 <div class="col-md-4 text-center">
                     <img src="/rov/images/ME_Logo.png" alt="Purdue Mechanical Engineering" style="width:100%">
-                </div>				
+                </div>
                 <div class="col-md-4 text-center">
                     <a href="http://purdueesc.org/" target="_blank"><img src="/rov/images/PESC.png" alt="PESC" style="width:100%"></a>
                 </div>
@@ -89,7 +87,7 @@
                     </div>
 					<!--
                     <div class="col-md-4 text-center">
-                    <a href="https://www.bluerobotics.com/" target="_blank"><img src="/rov/images/bluerobotics.png" alt="Bechtel" style="width:100%"></a>                      
+                    <a href="https://www.bluerobotics.com/" target="_blank"><img src="/rov/images/bluerobotics.png" alt="Blue Robotics" style="width:100%"></a>
                     </div>
 					-->
                     <div class="col-md-4 text-center">
@@ -112,10 +110,10 @@
 
                 <div class="row" style="margin-top: 20px">
                     <div class="col-md-4 text-center">
-                        <a href="http://www.colorsinc.com/" target="_blank"><img src="/rov/images/colorsinc.JPG" alt="Colors Inc" style="width:100%"></a>
+                        <a href="http://www.colorsinc.com/" target="_blank"><img src="/rov/images/colorsinc.jpg" alt="Colors Inc" style="width:100%"></a>
                     </div>
                     <div class="col-md-4 text-center">
-                        
+                       <a href="http://www.bulgin.com/" target="_blank"><img src="/rov/images/Bulgin-logo.jpg" alt="Bulgin" style="width:80%"></a>
                     </div>
                     <div class="col-md-4 text-center">
                         <a href="http://www.advancedcircuits.com/" target="_blank"><img src="/rov/images/Advanced_Circuits.jpg" alt="Advanced Circuits" style="width:100%"></a>
@@ -126,7 +124,7 @@
                     <div class="col-md-4 text-center">
                     </div>
                     <div class="col-md-4 text-center">
-                       
+
                     </div>
                     <div class="col-md-4 text-center">
                     </div>
@@ -136,7 +134,7 @@
             </div>
 
         </div>
-		
+
     </div>
     <!-- /.well -->
 

@@ -16,85 +16,106 @@
         </script>
 
         <!-- Content Column -->
+
         <div class="col-md-7 text-dark col-md-offset-1">
             <h1 class="text-center">ROV Team History</h1><br>
-			
-			<h3 class="text-center">2019 - 2020: ROV X12</h3>
-						<!--
-                        <div class="row">
-                            <div class="col-md-4 text-dark">
-                                <p class="text-center"><a href="https://drive.google.com/drive/folders/19eC-axvuhQY5E2BVIHMtJZG3kDjlYuen?usp=sharing">Season Pictures</a></p>
-                            </div>
-                            <div class="col-md-4 text-dark">
-                                <p class="text-center"><a href="https://drive.google.com/file/d/1J8hZhf4wCF4xPYUjmq3qSzgsU9t233l2/view?usp=sharing">Spec Sheet</a></p>
-                            </div>
-                            <div class="col-md-4 text-dark">
-                                <p class="text-center"><a href="https://drive.google.com/file/d/1DEOIFj0Ps23MdPuZrdiOhDCPmdY_Ezox/view?usp=sharing">Tech Report</a></p>
-                            </div>
-                        </div>
 
-                        <div class="row">
-                            <div class="col-md-6 text-dark">
-                                <p class="text-center"><a href="https://drive.google.com/file/d/1Ol3hHDaJ5nhWz80sjZ7m5HAsWmo7faT6/view?usp=sharing">Team Poster</a></p>
-                            </div>
-                            <div class="col-md-6 text-dark">
-                                <p class="text-center"><a href="https://www.youtube.com/watch?v=v-kfQgZYeDQ&t=146s">Qualifying Video</a></p>
-                            </div>
-                        </div>
-						-->
 
-                        <p class="text-justify">
-        					The 2019-2020 season marked an exciting and bustling new season for the team. The team experienced its fourth change in captaincy with Grant Geyer heading the team. 
-							Also new are many of the leads for the technical teams. The team pursued many new designs and approaches toward making X12, in addition to several refinements from ROV <i>Remora</i>. 
-							The R&D department found new ethernet cameras that were more reliable and PoE compatible for a nearly independent camera system. 
-							The major mechanical improvements include a faster and effective method of using a ring clamp to seal the logic electronics tube and 
-							the use of 3D prints to house thrusters and to provide buoyancy in conjuntion with expanding marine foam. 
-							With the suspension of all Purdue activities and the cancellation of the MATE competition, the team is now working at a very limited capacity to prepare ROV X12 for a pool test when available. 
-							The team is excited to see its hard work come to completion when normal activities resume. 
-                        </p>
+        <h3 class="text-center">2020 - 2021: ROV <em>Triton</em></h3>
+            <div class="row">
+                <div class="col-md-4 text-dark">
+                    <p class="text-center"><a href="https://photos.app.goo.gl/PyHM6rtEUc1QjLhN8">Season Pictures</a></p>
+                </div>
+                <div class="col-md-4 text-dark">
+                    <p class="text-center"><a href="https://drive.google.com/file/d/1XC5ghfV__JapR24hWjhovUAa4492QnaR/view?usp=sharing">Spec Sheet</a></p>
+                </div>
+                <div class="col-md-4 text-dark">
+                    <p class="text-center"><a href="https://drive.google.com/file/d/1HchJLSgd0OV35maKEMb37sXn2caHfDAS/view?usp=sharing">Tech Report</a></p>
+                </div>
+            </div>
 
-						<a href="/rov/images/ROV X12 transparent small.png">
-							<p class="text-center">
-								<img src="/rov/images/ROV X12 transparent small.png" alt="ROV X12" style="width:70%">
-							</p><br> 
-						</a>
+            <div class="row">
+                <div class="col-md-6 text-dark">
+                    <p class="text-center"><a href="https://drive.google.com/file/d/1ISZj2WIlEFxlzu3Yz12ZCJZeAroqausW/view?usp=sharing">Team Poster</a></p>
+                </div>
+                <div class="col-md-6 text-dark">
+                    <p class="text-center"><a href="https://www.youtube.com/embed/LLdWLpjvKGs?start=315">Qualifying Video</a></p>
+                </div>
+            </div>
+
+            <p class="text-justify">
+                Purdue ROV competed in Johnson City, TN at the East Tennessee State University
+                from August 5th to August 7th. The team is awaiting its place in the Explorer
+                category and won the Aloha Team Spirit Award. ROV Triton performed admirably
+                at competition, piloting smoothly for both bonus runs and the mission. ROV Triton
+                introduced numerous improvements: the integrated thruster ducts; modular foam and
+                ballst system; a quick sealing logic tube; a resin printed solenoid manifold;
+                a single box for power electronics providing ultimate accessibility, sealing, and thermal properties,
+                hot swappable ESCs and controllers for them; ESC and power brick data; higher current output;
+                ultra low latency camera streams; a more robust ROS network; and a modular front end. The team
+                is very proud of its achievements and is excited to see what can be done in the
+                upcoming season as Katherine Sandys takes over as the sixth captain of the team.
+            </p>
+            <a href="/rov/images/ROV Triton Iso.png"><p class="text-center">
+                <img src="/rov/images/ROV Triton Iso.png" alt="ROV X11" style="width:70%"></p><br>
+            </a>
+			<hr>
+            <br>
+
+            <h3 class="text-center">2019 - 2020: ROV X12</h3>
+
+            <p class="text-justify">
+                The 2019-2020 season marked an exciting and bustling new season for the team. The team experienced its fourth change in captaincy with Grant Geyer heading the team.
+                Also new are many of the leads for the technical teams. The team pursued many new designs and approaches toward making X12, in addition to several refinements from ROV <i>Remora</i>.
+                The R&D department found new ethernet cameras that were more reliable and PoE compatible for a nearly independent camera system.
+                The major mechanical improvements include a faster and effective method of using a ring clamp to seal the logic electronics tube and
+                the use of 3D prints to house thrusters and to provide buoyancy in conjuntion with expanding marine foam.
+                With the suspension of all Purdue activities and the cancellation of the MATE competition, the team is now working at a very limited capacity to prepare ROV X12 for a pool test when available.
+                The team is excited to see its hard work come to completion when normal activities resume.
+            </p>
+
+            <a href="/rov/images/ROV X12 transparent small.png">
+                <p class="text-center">
+                    <img src="/rov/images/ROV X12 transparent small.png" alt="ROV X12" style="width:70%">
+                </p><br>
+            </a>
 
 			<hr>
             <br>
-			
+
 
             <h3 class="text-center">2018 - 2019: ROV <em>Remora</em></h3>
-                        <div class="row">
-                            <div class="col-md-4 text-dark">
-                                <p class="text-center"><a href="https://drive.google.com/drive/folders/19eC-axvuhQY5E2BVIHMtJZG3kDjlYuen?usp=sharing">Season Pictures</a></p>
-                            </div>
-                            <div class="col-md-4 text-dark">
-                                <p class="text-center"><a href="https://drive.google.com/file/d/1J8hZhf4wCF4xPYUjmq3qSzgsU9t233l2/view?usp=sharing">Spec Sheet</a></p>
-                            </div>
-                            <div class="col-md-4 text-dark">
-                                <p class="text-center"><a href="https://drive.google.com/file/d/1DEOIFj0Ps23MdPuZrdiOhDCPmdY_Ezox/view?usp=sharing">Tech Report</a></p>
-                            </div>
-                        </div>
+            <div class="row">
+                <div class="col-md-4 text-dark">
+                    <p class="text-center"><a href="https://drive.google.com/drive/folders/19eC-axvuhQY5E2BVIHMtJZG3kDjlYuen?usp=sharing">Season Pictures</a></p>
+                </div>
+                <div class="col-md-4 text-dark">
+                    <p class="text-center"><a href="https://drive.google.com/file/d/1J8hZhf4wCF4xPYUjmq3qSzgsU9t233l2/view?usp=sharing">Spec Sheet</a></p>
+                </div>
+                <div class="col-md-4 text-dark">
+                    <p class="text-center"><a href="https://drive.google.com/file/d/1DEOIFj0Ps23MdPuZrdiOhDCPmdY_Ezox/view?usp=sharing">Tech Report</a></p>
+                </div>
+            </div>
 
-                        <div class="row">
-                            <div class="col-md-6 text-dark">
-                                <p class="text-center"><a href="https://drive.google.com/file/d/1Ol3hHDaJ5nhWz80sjZ7m5HAsWmo7faT6/view?usp=sharing">Team Poster</a></p>
-                            </div>
-                            <div class="col-md-6 text-dark">
-                                <p class="text-center"><a href="https://www.youtube.com/watch?v=v-kfQgZYeDQ&t=146s">Qualifying Video</a></p>
-                            </div>
-                        </div>
+            <div class="row">
+                <div class="col-md-6 text-dark">
+                    <p class="text-center"><a href="https://drive.google.com/file/d/1Ol3hHDaJ5nhWz80sjZ7m5HAsWmo7faT6/view?usp=sharing">Team Poster</a></p>
+                </div>
+                <div class="col-md-6 text-dark">
+                    <p class="text-center"><a href="https://www.youtube.com/watch?v=v-kfQgZYeDQ&t=146s">Qualifying Video</a></p>
+                </div>
+            </div>
 
-                        <p class="text-justify">
-                            The year 2019 marked an improvement for the team, with many leaders returning to their positions.
-                            The team improved 5 places to finish 13th at the competition and had the second best technical report.
-                            The team maintained a similar size of students. In 2019, the competition was hosted in Kingsport, TN by Eastman.
-                            The team aimed for an ambitious design, changing the tools system to use pneumatics, the electrical system to CAN and ethernet cameras,
-                            and the software system to Robot Operating System. These switches made ROV Remora more robust, but delayed testing and made integration more difficult.
-                            The team is very proud of its achievements and excited to see where the upcoming season goes under the new leadership.
-                        </p>
-                        <a href="/rov/images/X11.png"><p class="text-center">
-                                            <img src="/rov/images/X11.png" alt="ROV X11" style="width:70%"></p><br>
+            <p class="text-justify">
+                The year 2019 marked an improvement for the team, with many leaders returning to their positions.
+                The team improved 5 places to finish 13th at the competition and had the second best technical report.
+                The team maintained a similar size of students. In 2019, the competition was hosted in Kingsport, TN by Eastman.
+                The team aimed for an ambitious design, changing the tools system to use pneumatics, the electrical system to CAN and ethernet cameras,
+                and the software system to Robot Operating System. These switches made ROV Remora more robust, but delayed testing and made integration more difficult.
+                The team is very proud of its achievements and excited to see where the upcoming season goes under the new leadership.
+            </p>
+            <a href="/rov/images/X11.png"><p class="text-center">
+                                <img src="/rov/images/X11.png" alt="ROV X11" style="width:70%"></p><br>
             </a>
 			<hr>
             <br>

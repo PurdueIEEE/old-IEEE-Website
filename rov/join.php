@@ -33,9 +33,9 @@ include '../header.php';
             </p>
 
             <p>
-               Applications for the Fall 2021 semester will open in the first several weeks of school.
-               <!-- <u><a href="https://docs.google.com/forms/d/e/1FAIpQLSdFDiflTQeKjGG0JpwfAVqXdl2qhkndx7TQMvyab5-wsxBQ7Q/viewform">here</a></u>. -->
-               Applications must be filled out by 11:59 pm on the day they are due. If you have any questions please reach out to Katherine Sandys at <a href="mailto:rov@purdueieee.org">rov@purdueieee.org</a>.
+            Applications for the Fall 2021 semester are open. Applications must be filled out by 11:59 pm on September 10th.
+               <u><a href="https://docs.google.com/forms/d/e/1FAIpQLSeHTzK96ZjXl_XZN23u8v8So9GWsLoonXExf_j3SFtM51gZBg/viewform?usp=sf_link">here</a></u>.
+               If you have any questions please reach out to Katherine Sandys at <a href="mailto:rov@purdueieee.org">rov@purdueieee.org</a>.
 
 			   <!-- The team will be accepting new members again at the start of the Spring 2022 semester. -->
                <hr>
