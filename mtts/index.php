@@ -25,7 +25,7 @@
 
             <!-- Content Column -->
             <h2>Microwave Theory &amp; Techniques Society</h2>
-            <p>The mission of Purdue IEEE MTT-S is to explore microwave technology through events that highlight the background and applications of high-frequency technology. The events that Purdue IEEE MTT-S holds cater to the needs of both undergraduate and graduate students. The members of this committee host outreach activities to educate others about the opportunities and benefits of microwaves in communication and radar. The large range of experience levels present give a variety of perspectives in this field and allow for mentorship relations to form for the professional development of all members. Between seminars, roundtable discussions, and demonstrations, the members of MTT-S eagerly support the community that came out of Purdue University’s groundbreaking research in radio frequency and microwave engineering.</p>
+            <p>The mission of Purdue IEEE MTT-S is to explore microwave technology through events that highlight the background and applications of high-frequency technology. The events that Purdue IEEE MTT-S holds cater to the needs of both undergraduate and graduate students. The members of this committee host outreach activities to educate others about the opportunities and benefits of microwaves in communication and radar. The large range of experience levels present give a variety of perspectives in this field and allow for mentorship relations to form for the professional development of all members. Between seminars, roundtable discussions, and demonstrations, the members of MTT-S eagerly support the community that came out of Purdue University’s groundbreaking research in radio frequency and microwave engineering. The chapter is recruiting to add freshmen on through Ph.D. candidates into the ranks in an effort to expand relevance.</p>
             <p>Send email to <a href="mailto:mtt-s-info@purdueieee.org">mtt-s-info@purdueieee.org</a> for more information.</p>
 
 
@@ -37,15 +37,15 @@
                     <div class="row">
                         <!--Sabrina Chang-->
                         <div class= "col-md-4">
-                            <img src="" alt= "Sabrina Chang" class="img-circle" width=250px height=250px />
+                            <img src="images/2021_Sabrina_Chang.jpg" alt= "Sabrina Chang" class="img-circle" width=250px height=250px />
                             <h4>Sabrina Chang</h4>
-                            <p>Chair<br />Major<br />Year</p>
+                            <p>Chair<br />Computer Engineering<br />Junior</p>
                         </div>
-                        <!--Name-->
+                        <!--Arni Bhunia-->
                         <div class= "col-md-4">
-                            <img src="" alt= "Name" class="img-circle" width=250px height=250px />
-                            <h4>Name</h4>
-                            <p>Vice Chair<br />Major<br />Year</p>
+                            <img src="images/2021_Arni_Bhunia.jpg" alt= "Arni Bhunia" class="img-circle" width=250px height=250px />
+                            <h4>Arni Bhunia</h4>
+                            <p>Vice Chair<br />Computer Engineering<br />Junior</p>
                         </div>
                         <!--Sarah Mi-->
                         <div class= "col-md-4">
