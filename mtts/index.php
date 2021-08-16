@@ -25,7 +25,7 @@
 
             <!-- Content Column -->
             <h2>Microwave Theory &amp; Techniques Society</h2>
-            <p>The mission of Purdue IEEE MTT-S is to explore microwave technology through events that highlight the background and applications of high-frequency technology. The events that Purdue IEEE MTT-S holds cater to the needs of both undergraduate and graduate students. The members of this committee host outreach activities to educate others about the opportunities and benefits of microwaves in communication and radar. The large range of experience levels present give a variety of perspectives in this field and allow for mentorship relations to form for the professional development of all members. Between seminars, roundtable discussions, and demonstrations, the members of MTT-S eagerly support the community that came out of Purdue University’s groundbreaking research in radio frequency and microwave engineering.</p>
+            <p>The mission of Purdue IEEE MTT-S is to explore microwave technology through events that highlight the background and applications of high-frequency technology. The events that Purdue IEEE MTT-S holds cater to the needs of both undergraduate and graduate students. The members of this committee host outreach activities to educate others about the opportunities and benefits of microwaves in communication and radar. The large range of experience levels present give a variety of perspectives in this field and allow for mentorship relations to form for the professional development of all members. Between seminars, roundtable discussions, and demonstrations, the members of MTT-S eagerly support the community that came out of Purdue University’s groundbreaking research in radio frequency and microwave engineering. The chapter is recruiting to add freshmen on through Ph.D. candidates into the ranks in an effort to expand relevance.</p>
             <p>Send email to <a href="mailto:mtt-s-info@purdueieee.org">mtt-s-info@purdueieee.org</a> for more information.</p>
 
 
@@ -35,38 +35,38 @@
                     <h1 id="leaders">Leadership</h1>
                     <hr />
                     <div class="row">
-                        <!--Insoo Hyun-->
+                        <!--Sabrina Chang-->
                         <div class= "col-md-4">
-                            <img src="../images/officers/2019_Hyun_Insoo.JPG" alt= "Insoo Hyun" class="img-circle" width=250px height=250px />
-                            <h4>Insoo Hyun</h4>
+                            <img src="images/2021_Sabrina_Chang.jpg" alt= "Sabrina Chang" class="img-circle" width=250px height=250px />
+                            <h4>Sabrina Chang</h4>
                             <p>Chair<br />Computer Engineering<br />Junior</p>
                         </div>
-                        <!--George Jiayu Luo-->
+                        <!--Arni Bhunia-->
                         <div class= "col-md-4">
-                            <img src="images/2019_Jiayu_Luo.jpg"" alt= "Jiayu Luo" class="img-circle" width=250px height=250px />
-                            <h4>George Jiayu Luo</h4>
-                            <p>Vice Chair<br />Robotics Engineering Technology<br />Junior</p>
+                            <img src="images/2021_Arni_Bhunia.jpg" alt= "Arni Bhunia" class="img-circle" width=250px height=250px />
+                            <h4>Arni Bhunia</h4>
+                            <p>Vice Chair<br />Computer Engineering<br />Junior</p>
                         </div>
                         <!--Sarah Mi-->
                         <div class= "col-md-4">
-                            <img src="images/2020_Sarah_Mi.jpg" alt= "Sarah Mi" class="img-circle" width=250px height=250px />
+                            <img src="images/2021_Sarah_Mi.png" alt= "Sarah Mi" class="img-circle" width=250px height=250px />
                             <h4>Sarah Mi</h4>
-                            <p>Sponsorship Coordinator<br />Computer Science<br />Freshman</p>
+                            <p>Sponsorship Coordinator<br />Computer Science and Data Science<br />Junior</p>
                         </div>
                     </div>
                     <br/>
                     <div class="row">
-                        <!--Duhan Eroglu-->
+                        <!--Ben Eilers-->
 						<div class= "col-md-4">
-							<img src="images/Duhan_Eroglu.png" alt= "Duhan Eroglu" class="img-circle" width=250px height=250px />
-							<h4>Duhan Eroglu</h4>
-							<p>Workshop Coordinator<br />Electrical Engineering<br />Sophomore</p>
+							<img src="images/2021_Ben_Eilers.png" alt= "Benjamin Eilers" class="img-circle" width=250px height=250px />
+							<h4>Benjamin Eilers</h4>
+							<p>Workshop Coordinator<br />Electrical Engineering<br />Junior</p>
                         </div>
                         <!--Thomas Gallagher-->
                         <div class= "col-md-4">
-                            <img src="images/2020_Thomas_Gallagher.jpg" alt= "Thomas Gallagher" class="img-circle" width=250px height=250px />
-                            <h4>Thomas Gallagher</h4>
-                            <p>Event Coordinator<br />Math and Computer Science<br />Freshman</p>
+                            <img src="images/2021_Mark_Lim.png" alt= "Mark Lim" class="img-circle" width=250px height=250px />
+                            <h4>Mark Lim</h4>
+                            <p>Event Coordinator<br />Computer Science and Data Science<br />Junior</p>
                 </div>
             </div>
 
