@@ -30,7 +30,7 @@
                     <p class="text-center"><a href="https://drive.google.com/file/d/1XC5ghfV__JapR24hWjhovUAa4492QnaR/view?usp=sharing">Spec Sheet</a></p>
                 </div>
                 <div class="col-md-4 text-dark">
-                    <p class="text-center"><a href="https://drive.google.com/file/d/1HchJLSgd0OV35maKEMb37sXn2caHfDAS/view?usp=sharing">Tech Report</a></p>
+                    <p class="text-center"><a href="https://drive.google.com/file/d/1W_FMn_n1tF9T05M31V_EoTsM1ZK9Sfes/view?usp=sharing">Tech Report</a></p>
                 </div>
             </div>
 
