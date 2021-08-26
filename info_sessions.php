@@ -13,18 +13,19 @@ $etime = function ($month, $day, $hour, $minute = 0) use ($year, $tz) {
 };
 
 $info_sessions = array(
-    array($etime(1, 27, 18, 30), $etime(1, 27, 20, 0), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord</a>', GENERAL),
-	array($etime(1, 28, 19), $etime(1, 28, 20), '<a href="https://discord.gg/cVsCYVma">Racing Discord [https://discord.gg/cVsCYVma]</a>', RACING),
-	array($etime(1, 28, 20), $etime(1, 28, 21), '<a href="https://discord.gg/uTmbRQEKBf">PART Discord [https://discord.gg/uTmbRQEKBf]</a>', PARTIEEE),
-	array($etime(1, 30, 15, 30), $etime(1, 30, 16, 30), '<a href="https://purdue-edu.zoom.us/j/94328817467?pwd=blA3Wk1BMW51QTlqNzltcjgwajJ2dz09">https://purdue-edu.zoom.us/j/94328817467?pwd=blA3Wk1BMW51QTlqNzltcjgwajJ2dz09</a>', SOFTWARE_SATURDAYS),
+    array($etime(9, 1, 18, 30), $etime(9, 1, 20, 0), 'PHYS 112', GENERAL),
+    array($etime(9, 2, 18, 30), $etime(9, 2, 20, 0), 'PHYS 112', GENERAL),
+    array($etime(9, 8, 18, 0), $etime(9, 8, 20, 0), 'POTR 234', ROV),
+    array($etime(9, 8, 18, 30), $etime(9, 8, 19, 30), 'ARMS 1010', PARTIEEE),
+    array($etime(9, 9, 0, 0), $etime(9, 9, 0, 1), '', EMBS),
+    array($etime(9, 9, 19, 0), $etime(9, 9, 20, 0), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [MTT-S]</a>', MTTS),
+    array($etime(9, 11, 15, 30), $etime(9, 11, 16, 30), '<a href="https://purdue-edu.zoom.us/j/99675779158?pwd=Vklib29nS1BCYVpXaG5wMkRlUnpTQT09">WALC 1087 and Zoom</a>', SOFTWARE_SATURDAYS),
+	/*array($etime(1, 28, 19), $etime(1, 28, 20), '<a href="https://discord.gg/cVsCYVma">Racing Discord [https://discord.gg/cVsCYVma]</a>', RACING),
 	array($etime(1, 31, 13),     $etime(1, 31, 14), '<a href="https://discord.gg/bh3ENZy">Learning Discord [https://discord.gg/bh3ENZy]</a>', LEARNING),
 	array($etime(1, 31, 16, 30), $etime(1, 31, 17, 30), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [Social]</a>', SOCIAL),
 	array($etime(2, 1, 18), $etime(2, 1, 19), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [Industrial Relations]</a>', INDUSTRIAL_RELATIONS),
-	array($etime(2, 1, 19), $etime(2, 1, 20), '<a href="https://purdue-edu.zoom.us/j/3342060227">https://purdue-edu.zoom.us/j/3342060227</a>', MTTS),
 	array($etime(2, 1, 20), $etime(2, 1, 21), '<a href="https://discord.gg/ygcMjpYJQx">Computer Society Discord [https://discord.gg/ygcMjpYJQx]</a>', COMPUTER_SOCIETY),
-    array($etime(2, 3, 17, 30), $etime(2, 3, 18, 30), 'PHYS 238 & <a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [ROV]</a>', ROV),
-	array($etime(2, 4, 18), $etime(2, 4, 19), '<a href="https://discord.gg/HhaXYS9s3G">EMBS Discord</a>', EMBS),
-	array($etime(2, 5, 18, 30), $etime(2, 5, 19, 30), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [G&E]</a>', GROWTH)
+	array($etime(2, 5, 18, 30), $etime(2, 5, 19, 30), '<a href="https://discord.gg/kZNkKXM">IEEE Q&A Discord [G&E]</a>', GROWTH)*/
 );
 
 $info_session_text = '<h2><b>' . $year . ' Info Sessions</b></h2>';

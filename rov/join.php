@@ -22,7 +22,7 @@ include '../header.php';
             <h2 class="text-center">Join ROV</h2>
 
 			<p>
-				The ROV Spring 2021 Info Session will likely be held during the third week of school in a TBD location.
+				The ROV Fall 2020 Info Session will be held September 9th from 6:00pm to 8:00pm in POTR 234.
 			</p>
 
             <p>

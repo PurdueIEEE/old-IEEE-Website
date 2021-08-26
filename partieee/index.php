@@ -41,18 +41,12 @@
             <h2 id="officers">Leadership</h2>
             <hr />
                 <!--Nathan Broman-->
-                <img src="../images/officers/2020_Nathan_Broman.jpg" alt= "2020_Nathan_Broman" class="img-circle" width=150px height=150px />
-                <h4>Nathan Broman</h4>
+                <img src="/images/officers/2021_Matthieu_Opdyke.jpg" alt= "2021_Matthieu_Opdkye" class="img-circle" width=150px height=150px />
+                <h4>Matthieu Opdyke</h4>
                 <em>Aerospace Engineering</em>
                 <p>Aerial Robotics Captain</p>
-                <a href="mailto:nbroman@purdue.edu">nbroman@purdue.edu</a>
             <hr />
                 <div class="row text-center">
-                    <!--Matthieu Opdyke-->
-                    <div class= "col-md-4">
-                        <h4>Matthieu Opdyke</h4>
-                        <em>Aerospace Engineering</em>
-                        <p>Aeromechanical Lead</p>
                     </div>
                     <!--Eric O'Keefe-->
                     <div class= "col-md-4">

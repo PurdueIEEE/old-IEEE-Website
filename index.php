@@ -127,18 +127,18 @@ include 'header.php'; //Include keyword, preprocesses the header.php file
         <h2 style="margin-top: 0; text-align: center">
             <a href="https://forms.gle/MuVEQQ9rWAKE9VG97"
                target="_blank">File an Election Complaint</a></h2>
-        <!-- <?php include 'info_sessions.php'; ?> COMMENT THIS LINE OUT
+        <?php //include 'info_sessions.php'; ?> COMMENT THIS LINE OUT
     </div>
 	-->
 
     <!-- Info Sessions -->
-    <!-- <div class="well card-1 text-dark">
-		<h2 style = "text-align: center;"> Our General Callout was on Wed 1/27 from 6:30-8:00 PM over the <a href="https://discord.gg/kZNkKXM" target="_blank">IEEE Q&A Discord.</a> If you couldn't attend, you can watch a <a href="https://youtu.be/ccfHtdQs2-I" target="_blank">YouTube prerecording</a>. Please see our <a href="/calendar.php">calendar</a> for upcoming events, and <a href="/join.php">join IEEE!</a></h2>
-        <h2 style="margin-top: 0; text-align: center">
+    <div class="well card-1 text-dark">
+		<h2 style = "text-align: center;"> Our General Callout Is on Wed and Thurs 09/01 and 09/02 from 6:30-8:00 PM in PHYS 112. <!--If you couldn't attend, you can watch a <a href="https://youtu.be/ccfHtdQs2-I" target="_blank">YouTube prerecording</a>.--> Please see our <a href="/calendar.php">calendar</a> for upcoming events, and <a href="/join.php">join IEEE!</a></h2>
+        <!-- <h2 style="margin-top: 0; text-align: center">
             <a href="https://docs.google.com/presentation/d/1qsCByNTLfFwjoCGVxDREy0kgfFliv3MGgO-E7ACN5Wc/edit?usp=sharing"
-               target="_blank">Spring 2021 Callout Slides</a></h2>
-        <?php //include 'info_sessions.php'; ?>
-    </div> -->
+               target="_blank">Spring 2021 Callout Slides</a></h2> -->
+        <?php include 'info_sessions.php'; ?>
+    </div>
 
 <!-- About Section -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->

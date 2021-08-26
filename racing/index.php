@@ -36,7 +36,7 @@ include '../header.php';
                 All majors are welcome!! Contact <a href="mailto:racing@purdueieee.org">Boyu Zhou</a> for more details.
             </p>
             <h2 class="text-center">2018-2019 Team Picture</h2>
-            <a href="/racing/images/2019_GoKart.JPG"
+            <a href="/racing/images/2019_GoKart.JPG">
             <p class="text-center"><img src="/racing/images/2019_GoKart.JPG" alt="2018 Team" style="width:100%"></p>
             </a>
             <br/>
@@ -49,7 +49,7 @@ include '../header.php';
                             <img src="/racing/images/2021_Zhou.jpg" alt="Boyu Zhou" class="img-circle" width=200px
                                  height=200px/>
                             <h4>Boyu Zhou</h4>
-                            <p>Chair<br/>Computer Engineering<br/>Sophomore</p>
+                            <p>Chair<br/>Computer Engineering<br/>Junior</p>
                         </div>
                         <div class="col-md-4">
                             
