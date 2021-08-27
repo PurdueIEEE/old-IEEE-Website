@@ -22,9 +22,9 @@
             </div>
             <div class="col-md-8 col-md-offset-1">
                 <h2 class="text-center">Join as an Attendee</h2>
-                <h3 class="text-center">Direct link to form:<a href="https://forms.gle/Cdrm8doNotDht8W66">https://forms.gle/Cdrm8doNotDht8W66</a></h3>
+                <h3 class="text-center">Direct link to form:<a href="https://forms.gle/1he9dMm611rwL1pF6">https://forms.gle/1he9dMm611rwL1pF6</a></h3>
                 <div class="col-md-12 text-dark">
-                    <iframe src="https://forms.gle/Cdrm8doNotDht8W66" width="100%" height="700" frameborder="0">Loading...</iframe>
+                    <iframe src="https://forms.gle/1he9dMm611rwL1pF6" width="100%" height="700" frameborder="0">Loading...</iframe>
                 </div>
             </div>
         </div>
